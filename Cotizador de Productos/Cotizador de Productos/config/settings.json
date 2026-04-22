@@ -1,0 +1,12 @@
+{
+  "markup_1": 0.28,
+  "markup_2": 0.36,
+  "sheet_name": "Cotizador Carel SRL",
+  "upload_to_sheets": false,
+  "providers": {
+    "borroni": "data/borroni.pdf",
+    "fleb": "data/fleb.pdf",
+    "efepe": "data/efepe.pdf",
+    "bm": "data/bm.pdf"
+  }
+}

@@ -4,7 +4,7 @@
   "sheet_name": "Cotizador Carel SRL",
   "upload_to_sheets": false,
   "providers": {
-    "borroni": "data/borroni.pdf",
+    "borroni": "Cotizador de Productos/data/borroni.pdf",
     "fleb": "data/fleb.pdf",
     "efepe": "data/efepe.pdf",
     "bm": "data/bm.pdf"

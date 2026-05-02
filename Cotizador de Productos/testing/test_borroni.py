@@ -1,19 +1,31 @@
 import sys
-import os
 from pathlib import Path
 import pdfplumber
 import csv
 
-# Path del proyecto
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+# ---------------------------
+# Base del proyecto
+# ---------------------------
+BASE_DIR = Path(__file__).resolve().parent.parent
 
+# Agregar raíz al path
+sys.path.insert(0, str(BASE_DIR))
+
+# Imports del proyecto
 from services.readers.borroni_reader import BorroniReader
+
+# ---------------------------
+# Paths
+# ---------------------------
+pdf_path = BASE_DIR / "data" / "borroni.pdf"
+output_path = BASE_DIR / "ddbb" / "borroni.csv"
+
+# Crear carpeta si no existe
+output_path.parent.mkdir(parents=True, exist_ok=True)
 
 
 def test_borroni_parser():
-    pdf_path = "Cotizador de Productos/data/borroni.pdf"
-
-    if not Path(pdf_path).exists():
+    if not pdf_path.exists():
         print(f"❌ Archivo no encontrado: {pdf_path}")
         return
 
@@ -38,10 +50,11 @@ def test_borroni_parser():
     print(f"TOTAL PRODUCTOS: {len(all_products)}")
 
     # Guardar CSV
-    output_path = "borroni_debug.csv"
-
     with open(output_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["description", "measure", "unit_price"])
+        writer = csv.DictWriter(
+            f,
+            fieldnames=["description", "measure", "unit_price"]
+        )
         writer.writeheader()
         writer.writerows(all_products)
 

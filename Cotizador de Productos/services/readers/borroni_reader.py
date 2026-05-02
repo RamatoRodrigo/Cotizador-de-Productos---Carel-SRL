@@ -10,7 +10,8 @@ class BorroniReader(BaseReader):
     KEYWORDS = [
         "bulon", "tuercas", "arandelas", "tornillos",
         "varillas", "tirafondos", "remaches", "clavos",
-        "alemites", "ganchos", "precintos", "tarugos"
+        "alemites", "ganchos", "precintos", "tarugos",
+        "rosca", "tuerca"
     ]
 
     def __init__(self):

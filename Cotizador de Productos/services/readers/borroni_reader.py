@@ -17,73 +17,105 @@ class BorroniReader(BaseReader):
     def __init__(self):
         super().__init__(provider_name="Borroni")
 
+    # =========================
+    # PUBLIC
+    # =========================
     def parse_page(self, page, page_num: int) -> list:
         products = []
-
         tables = page.extract_tables()
 
         if not tables:
             return products
 
-
         for table in tables:
-            product_type = self._detect_product_type_for_table(page, table)
+            product_type = self._detect_product_type_for_table(page)
 
             if self._is_thread_table(table):
-                products.extend(self._parse_borroni_thread_table(table, page_num, product_type))
+                products.extend(
+                    self._parse_borroni_thread_table(table, page_num, product_type)
+                )
             else:
-                products.extend(self._parse_generic_table(table, page_num, product_type))
+                products.extend(
+                    self._parse_generic_table(table, page_num, product_type)
+                )
 
         return products
 
-    def _is_thread_table(self, table):
-        if not table or len(table) < 2:
-            return False
-
-        header = " ".join([str(cell) for cell in table[0] if cell])
-        return "Diámetro" in header and "hilos" in header
-
-    def _detect_product_type_for_table(self, page, table):
+    # =========================
+    # TYPE DETECTION
+    # =========================
+    def _detect_product_type_for_table(self, page):
         text = page.extract_text()
-
         if not text:
             return "PRODUCTO"
 
         lines = text.split("\n")
 
-        # Buscar TODAS las líneas que contienen keywords
-        matches = []
+        candidates = []
 
-        for i, line in enumerate(lines):
+        for line in lines:
             line_clean = line.strip()
+
+            if len(line_clean) > 80:
+                continue
 
             for word in self.KEYWORDS:
                 if word.lower() in line_clean.lower():
-                    matches.append((i, line_clean.upper()))
+                    candidates.append(line_clean.upper())
 
-        if not matches:
+        if not candidates:
             return "PRODUCTO NO IDENTIFICADO"
 
-        return matches[-1][1]
+        return max(candidates, key=len)
 
-    def _parse_borroni_thread_table(self, table, page_num, product_type="PRODUCTO"):
+    # =========================
+    # TABLE TYPE DETECTION
+    # =========================
+    def _is_thread_table(self, table):
+        if not table or len(table) < 2:
+            return False
+
+        header = " ".join(
+            [str(cell).lower() for cell in table[0] if cell]
+        )
+
+        return ("diam" in header or "pulg") and "hilo" in header
+
+    # =========================
+    # THREAD TABLE PARSER
+    # =========================
+    def _parse_borroni_thread_table(self, table, page_num, product_type):
         products = []
 
+        if not table or len(table) < 2:
+            return products
+
+        header = [str(c).lower() for c in table[0]]
+
+        def find_col(keys):
+            for i, col in enumerate(header):
+                if any(k in col for k in keys):
+                    return i
+            return None
+
+        col_pulg = find_col(["pulg", "diam"])
+        col_hilos = find_col(["hilo"])
+        col_nat = find_col(["nat"])
+        col_za = find_col(["za"])
+        col_cant = find_col(["cant"])
+
+        if col_pulg is None or col_hilos is None:
+            return products
+
         for i, row in enumerate(table):
-            if i < 4:
+            if i == 0:
                 continue
 
             try:
                 row = [str(c).strip() if c else "" for c in row]
 
-                if len(row) < 8:
-                    continue
-
-                pulgadas = row[0]
-                hilos = row[2]
-                precio_rd_nat = row[3]
-                precio_rd_za = row[4]
-                cantidad = row[7]
+                pulgadas = row[col_pulg] if col_pulg < len(row) else ""
+                hilos = row[col_hilos] if col_hilos < len(row) else ""
 
                 if not re.match(r'\d+/\d+', pulgadas):
                     continue
@@ -92,38 +124,50 @@ class BorroniReader(BaseReader):
                     continue
 
                 def to_float(val):
-                    if not val or "REF" in val:
+                    if not val or "REF" in val.upper():
                         return None
-                    return float(val.replace(",", "."))
+                    try:
+                        return float(val.replace(",", "."))
+                    except:
+                        return None
 
-                precio_nat = to_float(precio_rd_nat)
-                precio_za = to_float(precio_rd_za)
+                precio_nat = to_float(row[col_nat]) if col_nat is not None else None
+                precio_za = to_float(row[col_za]) if col_za is not None else None
 
-                cantidad = int(cantidad) if cantidad.isdigit() else 1
+                cantidad = 1
+                if col_cant is not None and col_cant < len(row):
+                    cantidad = int(row[col_cant]) if row[col_cant].isdigit() else 1
 
                 medida = f"{pulgadas}-UNC-{hilos}"
 
+                base_desc = self._normalize_description(product_type)
+
                 if precio_nat:
                     products.append({
-                        "description": f"{product_type} SAE1010 RD NAT {medida}",
+                        "description": f"{base_desc} RD NAT",
                         "measure": medida,
-                        "unit_price": round(precio_nat / cantidad, 4)
+                        "unit_price": round(precio_nat / cantidad, 4),
+                        "normalized_description": base_desc
                     })
 
                 if precio_za:
                     products.append({
-                        "description": f"{product_type} SAE1010 RD ZA {medida}",
+                        "description": f"{base_desc} RD ZA",
                         "measure": medida,
-                        "unit_price": round(precio_za / cantidad, 4)
+                        "unit_price": round(precio_za / cantidad, 4),
+                        "normalized_description": base_desc
                     })
 
             except Exception as e:
-                logger.debug(f"Error fila: {e}")
+                logger.debug(f"Error fila thread: {e}")
                 continue
 
         return products
 
-    def _parse_generic_table(self, table, page_num, product_type="PRODUCTO"):
+    # =========================
+    # GENERIC TABLE PARSER
+    # =========================
+    def _parse_generic_table(self, table, page_num, product_type):
         products = []
 
         for row in table:
@@ -131,41 +175,97 @@ class BorroniReader(BaseReader):
                 continue
 
             try:
-                cleaned_row = [self._clean_text(str(c)) for c in row if c]
+                cleaned_row = [
+                    self._clean_text(str(c)) for c in row if c
+                ]
 
                 if len(cleaned_row) < 2:
                     continue
 
                 description = cleaned_row[0]
 
-                if any(x in description.lower() for x in ["medida", "mm", "codigo", "precio"]):
+                if any(x in description.lower() for x in [
+                    "medida", "mm", "codigo", "precio"
+                ]):
                     continue
 
                 price = None
                 quantity = 1
 
                 for cell in cleaned_row[1:]:
-                    price_match = re.search(r'\d+[.,]\d+', cell)
+
+                    price_match = re.search(
+                        r'^\$?\s*\d+[.,]\d{2,}$',
+                        cell
+                    )
                     if price_match:
-                        price = float(price_match.group().replace(",", "."))
+                        price = float(
+                            price_match.group().replace("$", "").replace(",", ".")
+                        )
 
                     qty_match = re.fullmatch(r'\d+', cell.strip())
                     if qty_match:
                         quantity = int(qty_match.group())
 
                 if price and price > 0:
+                    base_desc = self._normalize_description(
+                        f"{product_type} {description}"
+                    )
+
                     products.append({
-                        "description": f"{product_type} {description}",
+                        "description": base_desc,
                         "measure": self._extract_measure(description),
-                        "unit_price": price / quantity
+                        "unit_price": round(price / quantity, 4),
+                        "normalized_description": base_desc
                     })
 
             except Exception as e:
-                logger.debug(f"Error parseando fila: {e}")
+                logger.debug(f"Error parse generic: {e}")
                 continue
 
         return products
 
+    # =========================
+    # HELPERS
+    # =========================
     def _extract_measure(self, text):
-        match = re.search(r'\d+/\d+(?:-\w+(?:\(?\d*\)?))?', text)
-        return match.group() if match else None
+        text = text.upper()
+
+        # -------------------------
+        # 1. Casos estándar
+        # -------------------------
+        patterns = [
+            r'\d+/\d+\s*X\s*\d+',   # 1/4 x 2
+            r'\d+/\d+',             # 1/4
+            r'M\d+',                # M6
+            r'\d+\s*MM',            # 10 mm
+        ]
+
+        for p in patterns:
+            match = re.search(p, text)
+            if match:
+                return match.group().replace(" ", "")
+
+        # -------------------------
+        # 2. 🔥 MÉTRICOS SIN M NI MM (EL FIX IMPORTANTE)
+        # -------------------------
+        if "METRIC" in text or "METRICA" in text:
+
+            # agarramos números de 1 a 3 dígitos
+            numbers = re.findall(r'\b\d{1,3}\b', text)
+
+            if numbers:
+                # tomamos el PRIMERO (en tu caso es correcto)
+                return f"M{numbers[0]}"
+
+        return None
+
+    def _normalize_description(self, text):
+        text = text.upper()
+        text = re.sub(r'\s+', ' ', text)
+
+        # eliminamos puntuación que molesta al matching
+        text = text.replace(",", "")
+        text = text.replace(".", "")
+
+        return text.strip()

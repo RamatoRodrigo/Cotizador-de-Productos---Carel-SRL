@@ -19,7 +19,4 @@ print(buscar_por_codigo(">TUAAG2NC031Z", path_mapeo))
 print("BUSQUEDA DE DESCRIPCIÓN: tuerca 1/4")
 # Buscar por descripción
 print(buscar_por_descripcion("tuerca 1/4", path_mapeo))
-
-# General
-print("BUSQUEDA GENERAL DE: tuerca 1/4")
-print(buscar_general("tuerca 1/4", path_mapeo))
+print(buscar_por_descripcion("tuerca 1/8", path_mapeo))

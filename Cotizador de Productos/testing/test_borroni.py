@@ -53,8 +53,14 @@ def test_borroni_parser():
     with open(output_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["description", "measure", "unit_price"]
+            fieldnames=[
+                "description",
+                "measure",
+                "unit_price",
+                "normalized_description"
+            ]
         )
+
         writer.writeheader()
         writer.writerows(all_products)
 

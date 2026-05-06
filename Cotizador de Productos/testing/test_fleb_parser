@@ -1,0 +1,19 @@
+import os
+import sys
+
+# 🔥 primero configurar path
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, BASE_DIR)
+
+# ahora sí importar
+from services.matchers.parser_fleb import parse_fleb
+
+# paths
+input_path = os.path.join(BASE_DIR, "ddbb", "flebSinParsear.csv")
+output_path = os.path.join(BASE_DIR, "ddbb", "fleb.csv")
+
+# debug (opcional pero útil)
+print("INPUT:", input_path, os.path.exists(input_path))
+print("OUTPUT:", output_path)
+
+parse_fleb(input_path, output_path)

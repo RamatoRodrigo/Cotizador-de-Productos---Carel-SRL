@@ -1,9 +1,8 @@
 import pandas as pd
 import re
-import os
 import logging
+from pathlib import Path
 
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
@@ -23,11 +22,6 @@ def normalizar(texto):
     )
 
 
-def limpiar_codigo(codigo):
-    """Limpia caracteres especiales del código"""
-    return str(codigo).replace(">", "").strip()
-
-
 def detectar_tipo(desc):
     """Detecta el tipo de producto basado en la descripción"""
     desc = desc.lower()
@@ -36,8 +30,6 @@ def detectar_tipo(desc):
         return "tuerca"
     if "bulón" in desc or "bulon" in desc:
         return "bulón"
-    if "tirafondo" in desc:
-        return "tirafondo"
     if "tornillo" in desc:
         return "tornillo"
     if "arandela" in desc:
@@ -90,13 +82,15 @@ def detectar_acabado(desc):
     desc = desc.lower()
     
     acabados = {
-        'zinc': ['zinc', 'zincado', 'zincada'],
-        'natural': ['nat', 'natural'],
-        'bronce': ['bronce'],
-        'niquelado': ['niquelado', 'niquel'],
-        'cromado': ['cromado', 'cromo'],
-        'dicro': ['dicro', 'dicromado'],
-        'acero_inox': ['inox', 'acero inoxidable', 'stainless'],
+        'zinc': ['zinc', 'zincado', 'zincada', 'za', 'zn'],
+        'natural': ['nat', 'natural', 'natural', 'na'],
+        'bronce': ['bronce', 'br'],
+        'niquelado': ['niquelado', 'niquel', 'ni'],
+        'cromado': ['cromado', 'cromo', 'cr'],
+        'dicro': ['dicro', 'dicromado', 'dc'],
+        'acero_inox': ['inox', 'acero inoxidable', 'stainless', 'a4', 'a2'],
+        'galvanizado': ['galvanizado', 'galv', 'gv'],
+        'pavonado': ['pavonado', 'pav'],
     }
     
     for acabado, keywords in acabados.items():
@@ -128,7 +122,7 @@ def detectar_sistema(desc):
     if "unc" in desc or "unf" in desc or "bsw" in desc or "whitworth" in desc or "wh" in desc or re.search(r"\d+/\d+", desc):
         return "imperial"
 
-    # Sistema métrico: M8, M10, M12, etc. o números simples como "4 x 30"
+    # Sistema métrico: M8, M10, M12, etc.
     if re.search(r"\bm\d+", desc):
         return "métrico"
     
@@ -182,13 +176,13 @@ def parse_metrico(desc):
     if match:
         diametro = f"M{match.group(1)}"
         paso = match.group(2)
-        return diametro, paso
+        return diametro, paso, largo
     
     # Solo M8 (sin paso)
     match = re.search(r"m\s*(\d+)(?:\s|$|[^\d])", desc_norm)
     if match:
         diametro = f"M{match.group(1)}"
-        return diametro, None
+        return diametro, paso, largo
     
     # Números sin M: 4x30, 8x1.25x50mm
     match = re.search(r"(\d+)\s*x\s*(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
@@ -234,13 +228,11 @@ def parse_imperial(desc):
     largo = None
     
     # Buscar diámetro: 1/4, 5/16, 1.1/2 (con punto), etc.
-    # Nota: "1,1/2" se convierte a "1.1/2" en normalizar
     diametro_match = re.search(r"(\d+(?:\.\d+)?/\d+)", desc_norm)
     if diametro_match:
         diametro = diametro_match.group(1)
     
-    # Paso: búsqueda de UNC(20), (20), -20, UNC20, WH-12, etc.
-    # Busca patrones como "UNC(11)", "(12)", "-20", "WH-2", etc.
+    # Paso: búsqueda de UNC(20), (20), -20, UNC20, WH-2, etc.
     paso_match = re.search(r"(?:unc|unf|bsw|wh)?\s*[-\.]?\s*\(?(\d+)\)?", desc_norm)
     if paso_match:
         paso = paso_match.group(1)
@@ -254,42 +246,16 @@ def parse_imperial(desc):
 
 
 # -------------------------
-# Validaciones
+# Parser de Borroni
 # -------------------------
 
-def es_registro_valido(desc, codigo):
+def parse_borroni_csv(input_path, output_path=None):
     """
-    Valida si un registro es válido (no es basura)
-    """
-    # Convertir a string por seguridad
-    desc = str(desc).strip() if pd.notna(desc) else ""
-    codigo = str(codigo).strip() if pd.notna(codigo) else ""
-    
-    # Si el código está vacío o es solo ">"
-    if not codigo or codigo == ">" or codigo == "nan":
-        return False
-    
-    # Si la descripción está vacía
-    if not desc or desc == "" or desc == "nan":
-        return False
-    
-    # Si es un registro con muchos ceros (basura)
-    if desc.count("0") > 20 and len(desc.split(",")) > 10:
-        return False
-    
-    return True
-
-# -------------------------
-# Parser principal
-# -------------------------
-
-def parse_carel_listado(input_path, output_path=None):
-    """
-    Parsea el archivo listadoProductos.csv de Carel
+    Parsea el archivo borroniSinParsear.csv
     
     Args:
-        input_path: Ruta del archivo CSV
-        output_path: Ruta para guardar el CSV procesado (opcional)
+        input_path: Ruta del archivo CSV sin parsear
+        output_path: Ruta para guardar el CSV parseado (opcional)
     
     Returns:
         DataFrame con productos parseados
@@ -313,23 +279,27 @@ def parse_carel_listado(input_path, output_path=None):
         df.columns = df.columns.str.strip().str.lower()
         
         # Validar que existan las columnas necesarias
-        if "codigo" not in df.columns or "descripcion" not in df.columns:
-            logger.error("❌ El archivo debe contener columnas 'Codigo' y 'Descripcion'")
+        cols_requeridas = ['codigo_de_producto', 'descripcion', 'precio']
+        if not all(col in df.columns for col in cols_requeridas):
+            logger.error(f"❌ El archivo debe contener columnas: {cols_requeridas}")
+            logger.info(f"   Columnas encontradas: {df.columns.tolist()}")
             return pd.DataFrame()
         
-        # Quedarse solo con las columnas importantes
-        df = df[["codigo", "descripcion"]].copy()
-                
         # Convertir TODO a string PRIMERO
-        df["codigo"] = df["codigo"].astype(str).fillna("").str.strip()
-        df["descripcion"] = df["descripcion"].astype(str).fillna("").str.strip()
-
-        # Limpiar datos
-        df["codigo"] = df["codigo"].apply(limpiar_codigo)        
+        df['codigo_de_producto'] = df['codigo_de_producto'].astype(str).fillna("").str.strip()
+        df['descripcion'] = df['descripcion'].astype(str).fillna("").str.strip()
+        df['precio'] = pd.to_numeric(df['precio'], errors='coerce')
+        
         logger.info("🔍 Validando registros...")
         
-        # Filtrar registros válidos
-        df = df[df.apply(lambda row: es_registro_valido(row["descripcion"], row["codigo"]), axis=1)]
+        # Filtrar registros válidos (con código, descripción y precio)
+        df = df[
+            (df['codigo_de_producto'] != "") & 
+            (df['codigo_de_producto'] != "nan") &
+            (df['descripcion'] != "") & 
+            (df['descripcion'] != "nan") &
+            (df['precio'].notna())
+        ]
         
         logger.info(f"✅ Registros válidos: {len(df)}")
         logger.info("🔍 Parseando descripciones...")
@@ -342,8 +312,9 @@ def parse_carel_listado(input_path, output_path=None):
         
         for idx, row in df.iterrows():
             try:
-                desc = str(row["descripcion"]).strip()
-                codigo = str(row["codigo"]).strip()
+                desc = str(row['descripcion']).strip()
+                codigo = str(row['codigo_de_producto']).strip()
+                precio = row['precio']
                 
                 desc_norm = normalizar(desc)
                 
@@ -375,6 +346,8 @@ def parse_carel_listado(input_path, output_path=None):
                     "sistema": sistema,
                     "sistema_rosca": sistema_rosca,
                     "acabado": acabado,
+                    "precio_unitario": precio,
+                    "proveedor": "borroni",
                     "descripcion": desc
                 })
                 
@@ -419,13 +392,9 @@ def parse_carel_listado(input_path, output_path=None):
         for sistema, count in df_resultado['sistema'].value_counts().items():
             logger.info(f"      - {sistema}: {count}")
         
-        logger.info(f"\n   Grados detectados:")
-        grados_count = df_resultado[df_resultado['grado'].notna()]['grado'].value_counts()
-        if len(grados_count) > 0:
-            for grado, count in grados_count.head(10).items():
-                logger.info(f"      - {grado}: {count}")
-        else:
-            logger.info(f"      - (ninguno detectado)")
+        logger.info(f"\n   Precio mínimo: ${df_resultado['precio_unitario'].min():.2f}")
+        logger.info(f"   Precio máximo: ${df_resultado['precio_unitario'].max():.2f}")
+        logger.info(f"   Precio promedio: ${df_resultado['precio_unitario'].mean():.2f}")
         
         # Mostrar ejemplos de productos que no se parsearon bien
         sin_parsear = df_resultado[df_resultado['diametro'].isna()]
@@ -450,3 +419,23 @@ def parse_carel_listado(input_path, output_path=None):
         logger.error(traceback.format_exc())
         return pd.DataFrame()
 
+
+# -------------------------
+# Ejemplo de uso
+# -------------------------
+
+if __name__ == "__main__":
+    input_file = "ddbb/borroniSinParsear.csv"
+    output_file = "ddbb/borroniParseado.csv"
+    
+    if Path(input_file).exists():
+        df = parse_borroni_csv(input_file, output_file)
+        
+        if not df.empty:
+            print("\n" + "="*150)
+            print("PRIMERAS 15 FILAS PARSEADAS:")
+            print("="*150)
+            print(df.head(15).to_string())
+    else:
+        logger.error(f"Archivo no encontrado: {input_file}")
+        logger.info("Coloca el archivo 'borroniSinParsear.csv' en la carpeta 'ddbb/'")

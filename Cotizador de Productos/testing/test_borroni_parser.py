@@ -1,15 +1,14 @@
 # =============================
-# TEST: Carel Parser
+# TEST: Borroni Parser
 # =============================
 
 import sys
 import os
 from pathlib import Path
 
-# Agregar la carpeta raíz del proyecto al path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from services.matchers.parser_carel import parse_carel_listado
+from services.matchers.parser_borroni import parse_borroni_csv
 import logging
 
 logging.basicConfig(
@@ -19,32 +18,32 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def test_carel_parser():
-    """Prueba el parsing del CSV de Carel"""
+def test_borroni_parser():
+    """Prueba el parsing del CSV de Borroni"""
     
-    input_csv = "ddbb/listadoProductos.csv"
-    output_csv = "ddbb/carelParseado.csv"
+    input_csv = "ddbb/borroniSinParsear.csv"
+    output_csv = "ddbb/borroniParseado.csv"
     
     # Validar que exista el archivo
     if not Path(input_csv).exists():
         logger.error(f"❌ Archivo no encontrado: {input_csv}")
-        logger.info("   Por favor, coloca el archivo en ddbb/listadoProductos.csv")
+        logger.info("   Por favor, ejecuta primero: python testing/test_borroni_excel.py")
         return
     
     # Crear directorio de salida si no existe
     os.makedirs(os.path.dirname(output_csv), exist_ok=True)
     
-    logger.info("\n🚀 Iniciando Carel Parser...\n")
+    logger.info("\n🚀 Iniciando Borroni Parser...\n")
     
     # Ejecutar parsing
-    df = parse_carel_listado(input_csv, output_csv)
+    df = parse_borroni_csv(input_csv, output_csv)
     
     if not df.empty:
         logger.info(f"\n{'='*150}")
         logger.info("📋 PRIMEROS 20 PRODUCTOS PARSEADOS:")
         logger.info(f"{'='*150}\n")
         
-        # Mostrar primeros 20 con todas las columnas
+        # Mostrar primeros 20
         pd_options = __import__('pandas').set_option
         pd_options('display.max_columns', None)
         pd_options('display.max_colwidth', None)
@@ -58,13 +57,6 @@ def test_carel_parser():
         logger.info(f"Total de filas: {len(df)}")
         logger.info(f"Columnas: {df.columns.tolist()}")
         
-        logger.info(f"\n📈 DETALLES POR COLUMNA:")
-        logger.info(f"   Tipos únicos: {df['tipo'].nunique()}")
-        logger.info(f"   Formas únicas: {df['forma'].nunique()}")
-        logger.info(f"   Acabados únicos: {df['acabado'].nunique()}")
-        logger.info(f"   Sistemas únicos: {df['sistema'].nunique()}")
-        logger.info(f"   Sistemas de rosca únicos: {df['sistema_rosca'].nunique()}")
-        
         logger.info(f"\n✅ Test completado exitosamente!")
         logger.info(f"✅ Archivo guardado en: {output_csv}")
     else:
@@ -72,4 +64,4 @@ def test_carel_parser():
 
 
 if __name__ == '__main__':
-    test_carel_parser()
+    test_borroni_parser()

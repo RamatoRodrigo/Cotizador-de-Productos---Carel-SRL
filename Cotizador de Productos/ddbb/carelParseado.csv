@@ -1,0 +1,1812 @@
+codigo,tipo,forma,diametro,paso,largo,grado,sistema,sistema_rosca,acabado,descripcion
+1,otro,,,,,,otro,,,.
+2,otro,,,,,,otro,,,Articulos varios
+3,otro,,,,,,otro,,,"Articulos varios al 10,5%"
+4,otro,,,,,,otro,,,Servicios
+5,otro,,,,,,otro,,,Honorarios
+1000,otro,,,,,,otro,,,Saldo inicial
+1001,otro,,,,,,otro,,,Comision por cheque rechazado
+1002,otro,,,,,,otro,,,Viaticos
+1003,otro,,,,,,otro,,,Descuentos
+1004,otro,,,,,,otro,,,Generacion automatica de N/D por Rechazo de Cheque
+BHG2NC079025Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-1/ ZINC
+TUAAG2NC031Z,tuerca,autofrenante,1/8,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 1/8-UNC(40) ZINC
+TUAAG2NC039Z,tuerca,autofrenante,5/32,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 5/32-UNC(32) ZINC
+TUAAG2NC047Z,tuerca,autofrenante,3/16,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 3/16-UNC(24) ZINC
+TUAAG2NC065Z,tuerca,autofrenante,1/4,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 1/4-UNC(20) ZINC
+TUAAG2NC079Z,tuerca,autofrenante,5/16,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 5/16-UNC(18) ZINC
+TUAAG2NC095Z,tuerca,autofrenante,3/8,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 3/8-UNC(16) ZINC
+TUAAG2NC110Z,tuerca,autofrenante,7/16,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 7/16-UNC(14) ZINC
+TUAAG2NC125Z,tuerca,autofrenante,1/2,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 1/2-UNC(13) ZINC
+TUAAG2WH125Z,tuerca,autofrenante,1/2,2,,G2,imperial,WH,zinc,TUERCA AUTOFR. ALTA G2 1/2-WHT(12) ZINC
+TUAAG2NC140Z,tuerca,autofrenante,9/16,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 9/16-UNC(12) ZINC
+TUAAG2NC160Z,tuerca,autofrenante,5/8,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 5/8-UNC(11) ZINC
+TUAAG2NC190Z,tuerca,autofrenante,3/4,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 3/4-UNC(10) ZINC
+TUAAG2NC220Z,tuerca,autofrenante,7/8,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 7/8-UNC(9) ZINC
+TUAAG2NC250Z,tuerca,autofrenante,,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 1-UNC(8) ZINC
+TUAAG2NC285Z,tuerca,autofrenante,1.1/8,2,,G2,imperial,UNC,zinc,"TUERCA AUTOFR. ALTA G2 1,1/8-UNC(7) ZINC"
+TUAAG2NC317Z,tuerca,autofrenante,1.1/4,2,,G2,imperial,UNC,zinc,"TUERCA AUTOFR. ALTA G2 1,1/4-UNC(7) ZINC"
+TUAAG2NC381Z,tuerca,autofrenante,1.1/2,2,,G2,imperial,UNC,zinc,"TUERCA AUTOFR. ALTA G2 1,1/2-UNC(6) ZINC"
+TUAAG2NF065Z,tuerca,autofrenante,1/4,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 1/4-UNF(28) ZINC
+TUAAG2NF079Z,tuerca,autofrenante,5/16,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 5/16-UNF(24) ZINC
+TUAAG2NF095Z,tuerca,autofrenante,3/8,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 3/8-UNF(24) ZINC
+TUAAG2NF110Z,tuerca,autofrenante,7/16,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 7/16-UNF(20) ZINC
+TUAAG2NF125Z,tuerca,autofrenante,1/2,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 1/2-UNF(20) ZINC
+TUAAG2NF140Z,tuerca,autofrenante,9/16,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 9/16-UNF(18) ZINC
+TUAAG2NF160Z,tuerca,autofrenante,5/8,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 5/8-UNF(18) ZINC
+TUAAG2NF190Z,tuerca,autofrenante,3/4,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 3/4-UNF(16) ZINC
+TUAAG2NF220Z,tuerca,autofrenante,7/8,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 7/8-UNF(14) ZINC
+TUAAG2NF250Z,tuerca,autofrenante,,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 1-UNF(14) ZINC
+TUAAG2NF285Z,tuerca,autofrenante,1.1/8,2,,G2,imperial,UNF,zinc,"TUERCA AUTOFR. ALTA G2 1,1/8-UNF(12) ZINC"
+TUAAG2NF317Z,tuerca,autofrenante,1.1/4,2,,G2,imperial,UNF,zinc,"TUERCA AUTOFR. ALTA G2 1,1/4-UNF(12) ZINC"
+TUAAG2NF381Z,tuerca,autofrenante,1.1/2,2,,G2,imperial,UNF,zinc,"TUERCA AUTOFR. ALTA G2 1,1/2-UNF(12) ZINC"
+TUHG2NC047N,tuerca,hexagonal,3/16,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 3/16-UNC (24) NAT
+TUHG2NC065N,tuerca,hexagonal,1/4,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 1/4-UNC (20) NAT
+TUHG2NC079N,tuerca,hexagonal,5/16,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 5/16-UNC (18) NAT
+TUHG2NC095N,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 3/8-UNC (16) NAT
+TUHG2NC110N,tuerca,hexagonal,7/16,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 7/16-UNC (14) NAT
+TUHG2NC125N,tuerca,hexagonal,1/2,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 1/2-UNC (13) NAT
+TUHG2WH125N,tuerca,hexagonal,1/2,2,,G2,imperial,WH,natural,TUERCA HEXAGONAL G2 1/2-WHT (12) NAT
+TUHG2NC140N,tuerca,hexagonal,9/16,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 9/16-UNC (12) NAT
+TUHG2NC160N,tuerca,hexagonal,5/8,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 5/8-UNC (11) NAT
+TUHG2NC190N,tuerca,hexagonal,3/4,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 3/4-UNC (10) NAT
+TUHG2NC220N,tuerca,hexagonal,7/8,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 7/8-UNC (9) NAT
+TUHG2NC250N,tuerca,hexagonal,,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL G2 1-UNC (8) NAT
+TUHG2NC285N,tuerca,hexagonal,1.1/8,2,,G2,imperial,UNC,natural,"TUERCA HEXAGONAL G2 1,1/8-UNC (7) NAT"
+TUHG2NC317N,tuerca,hexagonal,1.1/4,2,,G2,imperial,UNC,natural,"TUERCA HEXAGONAL G2 1,1/4-UNC (7) NAT"
+TUHG2NC381N,tuerca,hexagonal,1.1/2,2,,G2,imperial,UNC,natural,"TUERCA HEXAGONAL G2 1,1/2-UNC (6) NAT"
+TUHG2NC039Z,tuerca,hexagonal,5/32,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 5/32-UNC (32) ZINC
+TUHG2NC047Z,tuerca,hexagonal,3/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 3/16-UNC (24) ZINC
+TUHG2NC065Z,tuerca,hexagonal,1/4,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 1/4-UNC (20) ZINC
+TUHG2NC079Z,tuerca,hexagonal,5/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 5/16-UNC (18) ZINC
+TUHG2NC095Z,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 3/8-UNC (16) ZINC
+TUHG2NC110Z,tuerca,hexagonal,7/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 7/16-UNC (14) ZINC
+TUHG2WH125Z,tuerca,hexagonal,1/2,2,,G2,imperial,WH,zinc,TUERCA HEXAGONAL G2 1/2-12-WHT (12) ZINC
+TUHG2NC125Z,tuerca,hexagonal,1/2,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 1/2-13-UNC (13) ZINC
+TUHG2NC140Z,tuerca,hexagonal,9/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 9/16-UNC (12) ZINC
+TUHG2NC160Z,tuerca,hexagonal,5/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 5/8-UNC (11) ZINC
+TUHG2NC190Z,tuerca,hexagonal,3/4,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 3/4-UNC (10) ZINC
+TUHG2NC220Z,tuerca,hexagonal,7/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 7/8-UNC (9) ZINC
+TUHG2NC250Z,tuerca,hexagonal,,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 1-UNC (8) ZINC
+TUHG2NC285Z,tuerca,hexagonal,1.1/8,2,,G2,imperial,UNC,zinc,"TUERCA HEXAGONAL G2 1,1/8-UNC (7) ZINC"
+TUHG2NC317Z,tuerca,hexagonal,1.1/4,2,,G2,imperial,UNC,zinc,"TUERCA HEXAGONAL G2 1,1/4-UNC (7) ZINC"
+TUHG2NC381Z,tuerca,hexagonal,1.1/2,2,,G2,imperial,UNC,zinc,"TUERCA HEXAGONAL G2 1,1/2-UNC (6) ZINC"
+TUHG2NF065Z,tuerca,hexagonal,1/4,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 1/4-UNF (28) ZINC
+TUHG2NF079Z,tuerca,hexagonal,5/16,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 5/16-UNF (24) ZINC
+TUHG2NF095Z,tuerca,hexagonal,3/8,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 3/8-UNF (24) ZINC
+TUHG2NF110Z,tuerca,hexagonal,7/16,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 7/16-UNF (20) ZINC
+TUHG2NF125Z,tuerca,hexagonal,1/2,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 1/2-UNF (20) ZINC
+TUHG2NF140Z,tuerca,hexagonal,9/16,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 9/16-UNF (18) ZINC
+TUHG2NF160Z,tuerca,hexagonal,5/8,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 5/8-UNF (18) ZINC
+TUHG2NF190Z,tuerca,hexagonal,3/4,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 3/4-UNF (16) ZINC
+TUHG2NF220Z,tuerca,hexagonal,7/8,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 7/8-UNF (14) ZINC
+TUHG2NF250Z,tuerca,hexagonal,,2,,G2,imperial,UNF,zinc,TUERCA HEXAGONAL G2 1-UNF (14) ZINC
+TUHG2NF285Z,tuerca,hexagonal,1.1/8,2,,G2,imperial,UNF,zinc,"TUERCA HEXAGONAL G2 1,1/8-UNF (12) ZINC"
+TUHG2NF317Z,tuerca,hexagonal,1.1/4,2,,G2,imperial,UNF,zinc,"TUERCA HEXAGONAL G2 1,1/4-UNF (12) ZINC"
+TUHG2NF381Z,tuerca,hexagonal,1.1/2,2,,G2,imperial,UNF,zinc,"TUERCA HEXAGONAL G2 1,1/2-UNF (12) ZINC"
+BHG2NC047012Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/16-UNC-1/2 ZINC
+BHG2NC047016Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/16-UNC-5/8 ZINC
+BHG2NC047019Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/16-UNC-3/4 ZINC
+BHG2NC047022Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/16-UNC-7/8 ZINC
+BHG2NC047025Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/16-UNC-1 ZINC
+BHG2NC047032Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/16-UNC-1,1/4 ZINC"
+BHG2NC047038Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/16-UNC-1,1/2 ZINC"
+BHG2NC047044Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/16-UNC-1,3/4 ZINC"
+BHG2NC047050Z,bulón,hexagonal,3/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/16-UNC-2 ZINC
+BHG2NC065009Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-3/8 ZINC
+BHG2NC065012Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-1/2 ZINC
+BHG2NC065016Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-5/8 ZINC
+BHG2NC065019Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-3/4 ZINC
+BHG2NC065022Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-7/8 ZINC
+BHG2NC065025Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-1 ZINC
+BHG2NC065032Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-1,1/4 ZINC"
+BHG2NC065038Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-1,1/2 ZINC"
+BHG2NC065044Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-1,3/4 ZINC"
+BHG2NC065050Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-2 ZINC
+BHG2NC065056Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-2,1/4 ZINC"
+BHG2NC065063Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-2,1/2 ZINC"
+BHG2NC065070Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-2,3/4 ZINC"
+BHG2NC065076Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-3 ZINC
+BHG2NC065082Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-3,1/4 ZINC"
+BHG2NC065090Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-3,1/2 ZINC"
+BHG2NC065100Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-4 ZINC
+BHG2NC065110Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-4,1/2 ZINC"
+BHG2NC065125Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-5 ZINC
+BHG2NC065140Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/4-UNC-5,1/2 ZINC"
+BHG2NC065155Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-6 ZINC
+BHG2NC065175Z,bulón,hexagonal,1/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/4-UNC-7 ZINC
+BHG2NC079012Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-1/2 ZINC
+BHG2NC079016Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-5/8 ZINC
+BHG2NC079019Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-3/4 ZINC
+BHG2NC079022Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-7/8 ZINC
+BHG2NC079032Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-1,1/4 ZINC"
+BHG2NC079038Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-1,1/2 ZINC"
+BHG2NC079044Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-1,3/4 ZINC"
+BHG2NC079050Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-2 ZINC
+BHG2NC079056Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-2,1/4 ZINC"
+BHG2NC079063Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-2,1/2 ZINC"
+BHG2NC079070Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-2,3/4 ZINC"
+BHG2NC079076Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-3 ZINC
+BHG2NC079082Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-3,1/4 ZINC"
+BHG2NC079090Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-3,1/2 ZINC"
+BHG2NC079096Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-3,3/4 ZINC"
+BHG2NC079100Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-4 ZINC
+BHG2NC079110Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-4,1/2 ZINC"
+BHG2NC079125Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-5 ZINC
+BHG2NC079140Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/16-UNC-5,1/2 ZINC"
+BHG2NC079155Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-6 ZINC
+BHG2NC079175Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-7 ZINC
+BHG2NC079200Z,bulón,hexagonal,5/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/16-UNC-8 ZINC
+BHG2NC095012Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-1/2 ZINC
+BHG2NC095016Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-5/8 ZINC
+BHG2NC095019Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-3/4 ZINC
+BHG2NC095022Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-7/8 ZINC
+BHG2NC095025Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-1/ ZINC
+BHG2NC095032Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-1,1/4 ZINC"
+BHG2NC095038Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-1,1/2 ZINC"
+BHG2NC095044Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-1,3/4 ZINC"
+BHG2NC095050Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-2 ZINC
+BHG2NC095056Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-2,1/4 ZINC"
+BHG2NC095063Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-2,1/2 ZINC"
+BHG2NC095070Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-2,3/4 ZINC"
+BHG2NC095076Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-3 ZINC
+BHG2NC095082Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-3,1/4 ZINC"
+BHG2NC095090Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-3,1/2 ZINC"
+BHG2NC095100Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-4 ZINC
+BHG2NC095110Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-4,1/2 ZINC"
+BHG2NC095125Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-5 ZINC
+BHG2NC095140Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-5,1/2 ZINC"
+BHG2NC095155Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-6 ZINC
+BHG2NC095159Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/8-UNC-6,1/4 ZINC"
+BHG2NC095175Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-7 ZINC
+BHG2NC095200Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-8 ZINC
+BHG2NC095228Z,bulón,hexagonal,3/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/8-UNC-9 ZINC
+BHG2NC110250Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-10 ZINC
+BHG2NC110019Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-3/4 ZINC
+BHG2NC110022Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-7/8 ZINC
+BHG2NC110025Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-1 ZINC
+BHG2NC110032Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-1,1/4 ZINC"
+BHG2NC110038Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-1,1/2 ZINC"
+BHG2NC110044Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-1,3/4 ZINC"
+BHG2NC110050Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-2 ZINC
+BHG2NC110056Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-2,1/4 ZINC"
+BHG2NC110063Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-2,1/2 ZINC"
+BHG2NC110070Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-2,3/4 ZINC"
+BHG2NC110076Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-3 ZINC
+BHG2NC110082Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-3,1/4 ZINC"
+BHG2NC110090Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-3,1/2 ZINC"
+BHG2NC110100Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-4 ZINC
+BHG2NC110110Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-4,1/2 ZINC"
+BHG2NC110125Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-5 ZINC
+BHG2NC110140Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/16-UNC-5,1/2 ZINC"
+BHG2NC110155Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-6 ZINC
+BHG2NC110175Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-7 ZINC
+BHG2NC110200Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-8 ZINC
+BHG2NC110228Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-9 ZINC
+BHG2NC110254Z,bulón,hexagonal,7/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/16-UNC-10 ZINC
+BHG2NC125019Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-3/4 ZINC
+BHG2NC125022Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-7/8 ZINC
+BHG2NC125025Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-1 ZINC
+BHG2NC125032Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-1,1/4 ZINC"
+BHG2NC125038Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-1,1/2 ZINC"
+BHG2NC125044Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-1,3/4 ZINC"
+BHG2NC125050Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-2 ZINC
+BHG2NC125056Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-2,1/4 ZINC"
+BHG2NC125063Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-2,1/2 ZINC"
+BHG2NC125070Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-2,3/4 ZINC"
+BHG2NC125076Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-3 ZINC
+BHG2NC125082Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-3,1/4 ZINC"
+BHG2NC125090Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-3,1/2 ZINC"
+BHG2NC125100Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-4 ZINC
+BHG2NC125110Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-4,1/2 ZINC"
+BHG2NC125125Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-5 ZINC
+BHG2NC125140Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1/2-UNC-5,1/2 ZINC"
+BHG2NC125155Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-6 ZINC
+BHG2NC125175Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-7 ZINC
+BHG2NC125200Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-8 ZINC
+BHG2NC125228Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-9 ZINC
+BHG2NC125254Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-10 ZINC
+BHG2WH125019Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-3/4 ZINC
+BHG2WH125022Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-7/8 ZINC
+BHG2WH125025Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-1 ZINC
+BHG2WH125032Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-1,1/4 ZINC"
+BHG2WH125038Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-1,1/2 ZINC"
+BHG2WH125044Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-1,3/4 ZINC"
+BHG2WH125050Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-2 ZINC
+BHG2WH125056Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-2,1/4 ZINC"
+BHG2WH125063Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-2,1/2 ZINC"
+BHG2WH125070Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-2,3/4 ZINC"
+BHG2WH125076Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-3 ZINC
+BHG2WH125082Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-3,1/4 ZINC"
+BHG2WH125090Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-3,1/2 ZINC"
+BHG2WH125100Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-4 ZINC
+BHG2WH125110Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-4,1/2 ZINC"
+BHG2WH125125Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-5 ZINC
+BHG2WH125140Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-5,1/2 ZINC"
+BHG2WH125155Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-6 ZINC
+BHG2WH125175Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-7 ZINC
+BHG2WH125200Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-8 ZINC
+BHG2WH125210Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,"BULON HEXAGONAL G2 1/2-WHT-8,1/4 ZINC"
+BHG2WH125228Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-9 ZINC
+BHG2WH125254Z,bulón,hexagonal,1/2,2,,G2,imperial,WH,zinc,BULON HEXAGONAL G2 1/2-WHT-10 ZINC
+BHG2NC140025Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-1 ZINC
+BHG2NC140032Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-1,1/4 ZINC"
+BHG2NC140038Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-1,1/2 ZINC"
+BHG2NC140044Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-1,3/4 ZINC"
+BHG2NC140050Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-2 ZINC
+BHG2NC140056Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-2,1/4 ZINC"
+BHG2NC140063Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-2,1/2 ZINC"
+BHG2NC140070Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-2,3/4 ZINC"
+BHG2NC140076Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-3 ZINC
+BHG2NC140082Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-3,1/4 ZINC"
+BHG2NC140090Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-3,1/2 ZINC"
+BHG2NC140100Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-4 ZINC
+BHG2NC140110Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-4,1/2 ZINC"
+BHG2NC140125Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-5 ZINC
+BHG2NC140140Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 9/16-UNC-5,1/2 ZINC"
+BHG2NC140155Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-6 ZINC
+BHG2NC140175Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-7 ZINC
+BHG2NC140200Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-8 ZINC
+BHG2NC140228Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-9 ZINC
+BHG2NC140254Z,bulón,hexagonal,9/16,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 9/16-UNC-10 ZINC
+BHG2NC160025Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-1 ZINC
+BHG2NC160032Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-1,1/4 ZINC"
+BHG2NC160038Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-1,1/2 ZINC"
+BHG2NC160044Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-1,3/4 ZINC"
+BHG2NC160050Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-2 ZINC
+BHG2NC160056Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-2,1/4 ZINC"
+BHG2NC160063Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-2,1/2 ZINC"
+BHG2NC160070Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-2,3/4 ZINC"
+BHG2NC160076Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-3 ZINC
+BHG2NC160082Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-3,1/4 ZINC"
+BHG2NC160090Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-3,1/2 ZINC"
+BHG2NC160100Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-4 ZINC
+BHG2NC160110Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-4,1/2 ZINC"
+BHG2NC160125Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-5 ZINC
+BHG2NC160140Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 5/8-UNC-5,1/2 ZINC"
+BHG2NC160155Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-6 ZINC
+BHG2NC160175Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-7 ZINC
+BHG2NC160200Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-8 ZINC
+BHG2NC160228Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-9 ZINC
+BHG2NC160254Z,bulón,hexagonal,5/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 5/8-UNC-10 ZINC
+BHG2NC190025Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-1 ZINC
+BHG2NC190032Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-1,1/4 ZINC"
+BHG2NC190038Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-1,1/2 ZINC"
+BHG2NC190044Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-1,3/4 ZINC"
+BHG2NC190050Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-2 ZINC
+BHG2NC190056Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-2,1/4 ZINC"
+BHG2NC190063Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-2,1/2 ZINC"
+BHG2NC190070Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-2,3/4 ZINC"
+BHG2NC190076Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-3 ZINC
+BHG2NC190082Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-3,1/4 ZINC"
+BHG2NC190090Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-3,1/2 ZINC"
+BHG2NC190096Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-3,3/4 ZINC"
+BHG2NC190100Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-4 ZINC
+BHG2NC190110Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-4,1/2 ZINC"
+BHG2NC190125Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-5 ZINC
+BHG2NC190140Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 3/4-UNC-5,1/2 ZINC"
+BHG2NC190155Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-6 ZINC
+BHG2NC190175Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-7 ZINC
+BHG2NC190200Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-8 ZINC
+BHG2NC190228Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-9 ZINC
+BHG2NC190254Z,bulón,hexagonal,3/4,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 3/4-UNC-10 ZINC
+BHG2NC220044Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-1,3/4 ZINC"
+BHG2NC220050Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-2 ZINC
+BHG2NC220056Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-2,1/4 ZINC"
+BHG2NC220063Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-2,1/2 ZINC"
+BHG2NC220070Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-2,3/4 ZINC"
+BHG2NC220076Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-3 ZINC
+BHG2NC220082Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-3,1/4 ZINC"
+BHG2NC220090Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-3,1/2 ZINC"
+BHG2NC220096Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-3,3/4 ZINC"
+BHG2NC220100Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-4 ZINC
+BHG2NC220110Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-4,1/2 ZINC"
+BHG2NC220125Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-5 ZINC
+BHG2NC220140Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 7/8-UNC-5,1/2 ZINC"
+BHG2NC220155Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-6 ZINC
+BHG2NC220175Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-7 ZINC
+BHG2NC220200Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-8 ZINC
+BHG2NC220228Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-9 ZINC
+BHG2NC220254Z,bulón,hexagonal,7/8,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 7/8-UNC-10 ZINC
+BHG2NC250050Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-2 ZINC
+BHG2NC250056Z,bulón,hexagonal,2.1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-2,1/4 ZINC"
+BHG2NC250063Z,bulón,hexagonal,2.1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-2,1/2 ZINC"
+BHG2NC250070Z,bulón,hexagonal,2.3/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-2,3/4 ZINC"
+BHG2NC250076Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-3 ZINC
+BHG2NC250082Z,bulón,hexagonal,3.1/4,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-3,1/4 ZINC"
+BHG2NC250090Z,bulón,hexagonal,3.1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-3,1/2 ZINC"
+BHG2NC250100Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-4 ZINC
+BHG2NC250110Z,bulón,hexagonal,4.1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-4,1/2 ZINC"
+BHG2NC250125Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-5 ZINC
+BHG2NC250140Z,bulón,hexagonal,5.1/2,2,,G2,imperial,UNC,zinc,"BULON HEXAGONAL G2 1-UNC-5,1/2 ZINC"
+BHG2NC250155Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-6 ZINC
+BHG2NC250175Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-7 ZINC
+BHG2NC250200Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-8 ZINC
+BHG2NC250228Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-9 ZINC
+BHG2NC250254Z,bulón,hexagonal,,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1-UNC-10 ZINC
+BHG5NC065012D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-1/2 DICRO
+BHG5NC065016D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-5/8 DICRO
+BHG5NC065019D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-3/4 DICRO
+BHG5NC065022D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-7/8 DICRO
+BHG5NC065025D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-1 DICRO
+BHG5NC065032D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-1,1/4 DICRO"
+BHG5NC065038D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-1,1/2 DICRO"
+BHG5NC065044D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-1,3/4 DICRO"
+BHG5NC065050D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-2 DICRO
+BHG5NC065056D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-2,1/4 DICRO"
+BHG5NC065063D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-2,1/2 DICRO"
+BHG5NC065070D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-2,3/4 DICRO"
+BHG5NC065076D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-3 DICRO
+BHG5NC065082D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-3,1/4 DICRO"
+BHG5NC065090D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-3,1/2 DICRO"
+BHG5NC065100D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-4 DICRO
+BHG5NC065110D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/4-UNC-4,1/2 DICRO"
+BHG5NC065125D,bulón,hexagonal,1/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/4-UNC-5 DICRO
+BHG5NC079012D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-1/2 DICRO
+BHG5NC079016D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-5/8 DICRO
+BHG5NC079019D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-3/4 DICRO
+BHG5NC079022D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-7/8 DICRO
+BHG5NC079025D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-1/ DICRO
+BHG5NC079032D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-1,1/4 DICRO"
+BHG5NC079038D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-1,1/2 DICRO"
+BHG5NC079044D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-1,3/4 DICRO"
+BHG5NC079050D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-2 DICRO
+BHG5NC079056D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-2,1/4 DICRO"
+BHG5NC079063D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-2,1/2 DICRO"
+BHG5NC079070D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-2,3/4 DICRO"
+BHG5NC079076D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-3 DICRO
+BHG5NC079082D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-3,1/4 DICRO"
+BHG5NC079090D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-3,1/2 DICRO"
+BHG5NC079100D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-4 DICRO
+BHG5NC079110D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-4,1/2 DICRO"
+BHG5NC079125D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-5 DICRO
+BHG5NC079140D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/16-UNC-5,1/2 DICRO"
+BHG5NC079155D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-6 DICRO
+BHG5NC079175D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-7 DICRO
+BHG5NC079200D,bulón,hexagonal,5/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/16-UNC-8 DICRO
+BHG5NC095012D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-1/2 DICRO
+BHG5NC095016D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-5/8 DICRO
+BHG5NC095019D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-3/4 DICRO
+BHG5NC095022D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-7/8 DICRO
+BHG5NC095025D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-1 DICRO
+BHG5NC095032D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-1,1/4 DICRO"
+BHG5NC095038D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-1,1/2 DICRO"
+BHG5NC095044D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-1,3/4 DICRO"
+BHG5NC095050D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-2 DICRO
+BHG5NC095056D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-2,1/4 DICRO"
+BHG5NC095063D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-2,1/2 DICRO"
+BHG5NC095070D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-2,3/4 DICRO"
+BHG5NC095076D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-3 DICRO
+BHG5NC095082D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-3,1/4 DICRO"
+BHG5NC095090D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-3,1/2 DICRO"
+BHG5NC095100D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-4 DICRO
+BHG5NC095110D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-4,1/2 DICRO"
+BHG5NC095125D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-5 DICRO
+BHG5NC095140D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/8-UNC-5,1/2 DICRO"
+BHG5NC095155D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-6 DICRO
+BHG5NC095175D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-7 DICRO
+BHG5NC095200D,bulón,hexagonal,3/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/8-UNC-8 DICRO
+BHG5NC110019D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-3/4 DICRO
+BHG5NC110022D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-7/8 DICRO
+BHG5NC110025D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-1 DICRO
+BHG5NC110032D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-1,1/4 DICRO"
+BHG5NC110038D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-1,1/2 DICRO"
+BHG5NC110044D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-1,3/4 DICRO"
+BHG5NC110050D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-2 DICRO
+BHG5NC110056D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-2,1/4 DICRO"
+BHG5NC110063D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-2,1/2 DICRO"
+BHG5NC110070D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-2,3/4 DICRO"
+BHG5NC110076D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-3 DICRO
+BHG5NC110082D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-3,1/4 DICRO"
+BHG5NC110090D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-3,1/2 DICRO"
+BHG5NC110096D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-3,3/4 DICRO"
+BHG5NC110100D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-4 DICRO
+BHG5NC110110D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-4,1/2 DICRO"
+BHG5NC110125D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-5 DICRO
+BHG5NC110140D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/16-UNC-5,1/2 DICRO"
+BHG5NC110155D,bulón,hexagonal,7/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/16-UNC-6 DICRO
+BHG5NC125019D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-3/4 DICRO
+BHG5NC125022D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-7/8 DICRO
+BHG5NC125025D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-1 DICRO
+BHG5NC125032D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-1,1/4 DICRO"
+BHG5NC125038D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-1,1/2 DICRO"
+BHG5NC125044D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-1,3/4 DICRO"
+BHG5NC125050D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-2 DICRO
+BHG5NC125056D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-2,1/4 DICRO"
+BHG5NC125063D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-2,1/2 DICRO"
+BHG5NC125070D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-2,3/4 DICRO"
+BHG5NC125076D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-3 DICRO
+BHG5NC125082D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-3,1/4 DICRO"
+BHG5NC125090D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-3,1/2 DICRO"
+BHG5NC125100D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-4 DICRO
+BHG5NC125110D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-4,1/2 DICRO"
+BHG5NC125125D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-5 DICRO
+BHG5NC125140D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1/2-UNC-5,1/2 DICRO"
+BHG5NC125155D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-6 DICRO
+BHG5NC125175D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-7 DICRO
+BHG5NC125200D,bulón,hexagonal,1/2,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1/2-UNC-8 DICRO
+BHG5NC140025D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 9/16-UNC-1 DICRO
+BHG5NC140032D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-1,1/4 DICRO"
+BHG5NC140038D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-1,1/2 DICRO"
+BHG5NC140044D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-1,3/4 DICRO"
+BHG5NC140050D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 9/16-UNC-2 DICRO
+BHG5NC140056D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-2,1/4 DICRO"
+BHG5NC140063D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-2,1/2 DICRO"
+BHG5NC140070D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-2,3/4 DICRO"
+BHG5NC140076D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 9/16-UNC-3 DICRO
+BHG5NC140082D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-3,1/4 DICRO"
+BHG5NC140090D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-3,1/2 DICRO"
+BHG5NC140100D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 9/16-UNC-4 DICRO
+BHG5NC140110D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-4,1/2 DICRO"
+BHG5NC140125D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 9/16-UNC-5 DICRO
+BHG5NC140140D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 9/16-UNC-5,1/2 DICRO"
+BHG5NC140155D,bulón,hexagonal,9/16,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 9/16-UNC-6 DICRO
+BHG5NC160025D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-1 DICRO
+BHG5NC160032D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-1,1/4 DICRO"
+BHG5NC160038D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-1,1/2 DICRO"
+BHG5NC160044D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-1,3/4 DICRO"
+BHG5NC160050D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-2 DICRO
+BHG5NC160056D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-2,1/4 DICRO"
+BHG5NC160063D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-2,1/2 DICRO"
+BHG5NC160070D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-2,3/4 DICRO"
+BHG5NC160076D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-3 DICRO
+BHG5NC160082D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-3,1/4 DICRO"
+BHG5NC160090D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-3,1/2 DICRO"
+BHG5NC160100D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-4 DICRO
+BHG5NC160110D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-4,1/2 DICRO"
+BHG5NC160125D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-5 DICRO
+BHG5NC160140D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 5/8-UNC-5,1/2 DICRO"
+BHG5NC160155D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-6 DICRO
+BHG5NC160175D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-7 DICRO
+BHG5NC160200D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-8 DICRO
+BHG5NC160228D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-9 DICRO
+BHG5NC160254D,bulón,hexagonal,5/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 5/8-UNC-10 DICRO
+BHG5NC190025D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-1 DICRO
+BHG5NC190032D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-1,1/4 DICRO"
+BHG5NC190038D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-1,1/2 DICRO"
+BHG5NC190044D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-1,3/4 DICRO"
+BHG5NC190050D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-2 DICRO
+BHG5NC190056D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-2,1/4 DICRO"
+BHG5NC190063D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-2,1/2 DICRO"
+BHG5NC190070D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-2,3/4 DICRO"
+BHG5NC190076D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-3 DICRO
+BHG5NC190082D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-3,1/4 DICRO"
+BHG5NC190090D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-3,1/2 DICRO"
+BHG5NC190100D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-4 DICRO
+BHG5NC190110D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-4,1/2 DICRO"
+BHG5NC190125D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-5 DICRO
+BHG5NC190140D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 3/4-UNC-5,1/2 DICRO"
+BHG5NC190155D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-6 DICRO
+BHG5NC190175D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-7 DICRO
+BHG5NC190200D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-8 DICRO
+BHG5NC190228D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-9 DICRO
+BHG5NC190254D,bulón,hexagonal,3/4,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 3/4-UNC-10 DICRO
+BHG5NC220044D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-1,3/4 DICRO"
+BHG5NC220050D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-2 DICRO
+BHG5NC220056D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-2,1/4 DICRO"
+BHG5NC220063D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-2,1/2 DICRO"
+BHG5NC220070D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-2,3/4 DICRO"
+BHG5NC220076D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-3 DICRO
+BHG5NC220082D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-3,1/4 DICRO"
+BHG5NC220090D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-3,1/2 DICRO"
+BHG5NC220100D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-4 DICRO
+BHG5NC220110D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-4,1/2 DICRO"
+BHG5NC220125D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-5 DICRO
+BHG5NC220140D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-5,1/2 DICRO"
+BHG5NC220155D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-6 DICRO
+BHG5NC220188D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-7,1/2 DICRO"
+BHG5NC220175D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-7 DICRO
+BHG5NC220200D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-8 DICRO
+BHG5NC220254D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 7/8-UNC-10 DICRO
+BHG5NC250050D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-2 DICRO
+BHG5NC250056D,bulón,hexagonal,2.1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-2,1/4 DICRO"
+BHG5NC250063D,bulón,hexagonal,2.1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-2,1/2 DICRO"
+BHG5NC250070D,bulón,hexagonal,2.3/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-2,3/4 DICRO"
+BHG5NC250076D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-3 DICRO
+BHG5NC250082D,bulón,hexagonal,3.1/4,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-3,1/4 DICRO"
+BHG5NC250090D,bulón,hexagonal,3.1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-3,1/2 DICRO"
+BHG5NC250100D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-4 DICRO
+BHG5NC250110D,bulón,hexagonal,4.1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-4,1/2 DICRO"
+BHG5NC250125D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-5 DICRO
+BHG5NC250140D,bulón,hexagonal,5.1/2,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 1-UNC-5,1/2 DICRO"
+BHG5NC250155D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-6 DICRO
+BHG5NC250175D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-7 DICRO
+BHG5NC250200D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-8 DICRO
+BHG5NC250228D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-9 DICRO
+BHG5NF065012D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-1/2 DICRO
+BHG5NF065016D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-5/8 DICRO
+BHG5NF065019D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-3/4 DICRO
+BHG5NF065022D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-7/8 DICRO
+BHG5NF065025D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-1 DICRO
+BHG5NF065032D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-1,1/4 DICRO"
+BHG5NF065038D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-1,1/2 DICRO"
+BHG5NF065044D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-1,3/4 DICRO"
+BHG5NF065050D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-2 DICRO
+BHG5NF065056D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-2,1/4 DICRO"
+BHG5NF065063D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-2,1/2 DICRO"
+BHG5NF065070D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-2,3/4 DICRO"
+BHG5NF065076D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-3 DICRO
+BHG5NF065082D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-3,1/4 DICRO"
+BHG5NF065090D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-3,1/2 DICRO"
+BHG5NF065100D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-4 DICRO
+BHG5NF065110D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-4,1/2 DICRO"
+BHG5NF065125D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-5 DICRO
+BHG5NF065140D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/4-UNF-5,1/2 DICRO"
+BHG5NF065155D,bulón,hexagonal,1/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/4-UNF-6 DICRO
+BHG5NF079012D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-1/2 DICRO
+BHG5NF079016D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-5/8 DICRO
+BHG5NF079019D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-3/4 DICRO
+BHG5NF079022D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-7/8 DICRO
+BHG5NF079025D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-1 DICRO
+BHG5NF079032D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-1,1/4 DICRO"
+BHG5NF079038D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-1,1/2 DICRO"
+BHG5NF079044D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-1,3/4 DICRO"
+BHG5NF079050D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-2 DICRO
+BHG5NF079056D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-2,1/4 DICRO"
+BHG5NF079063D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-2,1/2 DICRO"
+BHG5NF079070D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-2,3/4 DICRO"
+BHG5NF079076D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-3 DICRO
+BHG5NF079082D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-3,1/4 DICRO"
+BHG5NF079090D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-3,1/2 DICRO"
+BHG5NF079100D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-4 DICRO
+BHG5NF079110D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/16-UNF-4,1/2 DICRO"
+BHG5NF079125D,bulón,hexagonal,5/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/16-UNF-5 DICRO
+BHG5NF095016D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-5/8 DICRO
+BHG5NF095019D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-3/4 DICRO
+BHG5NF095022D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-7/8 DICRO
+BHG5NF095025D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-1/ DICRO
+BHG5NF095032D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-1,1/4 DICRO"
+BHG5NF095038D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-1,1/2 DICRO"
+BHG5NF095044D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-1,3/4 DICRO"
+BHG5NF095050D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-2 DICRO
+BHG5NF095056D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-2,1/4 DICRO"
+BHG5NF095063D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-2,1/2 DICRO"
+BHG5NF095070D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-2,3/4 DICRO"
+BHG5NF095076D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-3 DICRO
+BHG5NF095082D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-3,1/4 DICRO"
+BHG5NF095090D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-3,1/2 DICRO"
+BHG5NF095100D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-4 DICRO
+BHG5NF095110D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/8-UNF-4,1/2 DICRO"
+BHG5NF095125D,bulón,hexagonal,3/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/8-UNF-5 DICRO
+BHG5NF110019D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-3/4 DICRO
+BHG5NF110022D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-7/8 DICRO
+BHG5NF110025D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-1 DICRO
+BHG5NF110032D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-1,1/4 DICRO"
+BHG5NF110038D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-1,1/2 DICRO"
+BHG5NF110044D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-1,3/4 DICRO"
+BHG5NF110050D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-2 DICRO
+BHG5NF110056D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-2,1/4 DICRO"
+BHG5NF110063D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-2,1/2 DICRO"
+BHG5NF110070D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-2,3/4 DICRO"
+BHG5NF110076D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-3 DICRO
+BHG5NF110082D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-3,1/4 DICRO"
+BHG5NF110090D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-3,1/2 DICRO"
+BHG5NF110100D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-4 DICRO
+BHG5NF110110D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-4,1/2 DICRO"
+BHG5NF110125D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/16-UNF-5 DICRO
+BHG5NF110140D,bulón,hexagonal,7/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/16-UNF-5,1/2 DICRO"
+BHG5NF125019D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-3/4 DICRO
+BHG5NF125022D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-7/8 DICRO
+BHG5NF125025D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-1 DICRO
+BHG5NF125032D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-1,1/4 DICRO"
+BHG5NF125038D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-1,1/2 DICRO"
+BHG5NF125044D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-1,3/4 DICRO"
+BHG5NF125050D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-2 DICRO
+BHG5NF125056D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-2,1/4 DICRO"
+BHG5NF125063D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-2,1/2 DICRO"
+BHG5NF125070D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-2,3/4 DICRO"
+BHG5NF125076D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-3 DICRO
+BHG5NF125082D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-3,1/4 DICRO"
+BHG5NF125090D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-3,1/2 DICRO"
+BHG5NF125100D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-4 DICRO
+BHG5NF125110D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-4,1/2 DICRO"
+BHG5NF125125D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-5 DICRO
+BHG5NF125140D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1/2-UNF-5,1/2 DICRO"
+BHG5NF125155D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-6 DICRO
+BHG5NF125175D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-7 DICRO
+BHG5NF125200D,bulón,hexagonal,1/2,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1/2-UNF-8 DICRO
+BHG5NF140025D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 9/16-UNF-1 DICRO
+BHG5NF140032D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-1,1/4 DICRO"
+BHG5NF140038D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-1,1/2 DICRO"
+BHG5NF140044D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-1,3/4 DICRO"
+BHG5NF140050D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 9/16-UNF-2 DICRO
+BHG5NF140056D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-2,1/4 DICRO"
+BHG5NF140063D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-2,1/2 DICRO"
+BHG5NF140070D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-2,3/4 DICRO"
+BHG5NF140076D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 9/16-UNF-3 DICRO
+BHG5NF140082D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-3,1/4 DICRO"
+BHG5NF140090D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-3,1/2 DICRO"
+BHG5NF140100D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 9/16-UNF-4 DICRO
+BHG5NF140110D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-4,1/2 DICRO"
+BHG5NF140125D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 9/16-UNF-5 DICRO
+BHG5NF140140D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 9/16-UNF-5,1/2 DICRO"
+BHG5NF140155D,bulón,hexagonal,9/16,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 9/16-UNF-6 DICRO
+BHG5NF160025D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-1 DICRO
+BHG5NF160032D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-1,1/4 DICRO"
+BHG5NF160038D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-1,1/2 DICRO"
+BHG5NF160044D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-1,3/4 DICRO"
+BHG5NF160050D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-2 DICRO
+BHG5NF160056D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-2,1/4 DICRO"
+BHG5NF160063D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-2,1/2 DICRO"
+BHG5NF160070D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-2,3/4 DICRO"
+BHG5NF160076D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-3 DICRO
+BHG5NF160082D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-3,1/4 DICRO"
+BHG5NF160090D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-3,1/2 DICRO"
+BHG5NF160100D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-4 DICRO
+BHG5NF160110D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-4,1/2 DICRO"
+BHG5NF160125D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-5 DICRO
+BHG5NF160140D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 5/8-UNF-5,1/2 DICRO"
+BHG5NF160155D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-6 DICRO
+BHG5NF160175D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-7 DICRO
+BHG5NF160200D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-8 DICRO
+BHG5NF160228D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-9 DICRO
+BHG5NF160254D,bulón,hexagonal,5/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 5/8-UNF-10 DICRO
+BHG5NF190032D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-1,1/4 DICRO"
+BHG5NF190038D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-1,1/2 DICRO"
+BHG5NF190044D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-1,3/4 DICRO"
+BHG5NF190050D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-2 DICRO
+BHG5NF190056D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-2,1/4 DICRO"
+BHG5NF190063D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-2,1/2 DICRO"
+BHG5NF190070D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-2,3/4 DICRO"
+BHG5NF190076D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-3 DICRO
+BHG5NF190082D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-3,1/4 DICRO"
+BHG5NF190090D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-3,1/2 DICRO"
+BHG5NF190100D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-4 DICRO
+BHG5NF190110D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-4,1/2 DICRO"
+BHG5NF190125D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-5 DICRO
+BHG5NF190140D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 3/4-UNF-5,1/2 DICRO"
+BHG5NF190155D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-6 DICRO
+BHG5NF190175D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-7 DICRO
+BHG5NF190200D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-8 DICRO
+BHG5NF190228D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-9 DICRO
+BHG5NF190254D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-10 DICRO
+BHG5NF220044D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-1,3/4 DICRO"
+BHG5NF220050D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-2 DICRO
+BHG5NF220056D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-2,1/4 DICRO"
+BHG5NF220063D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-2,1/2 DICRO"
+BHG5NF220070D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-2,3/4 DICRO"
+BHG5NF220076D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-3 DICRO
+BHG5NF220082D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-3,1/4 DICRO"
+BHG5NF220090D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-3,1/2 DICRO"
+BHG5NF220100D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-4 DICRO
+BHG5NF220110D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-4,1/2 DICRO"
+BHG5NF220125D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-5 DICRO
+BHG5NF220140D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 7/8-UNF-5,1/2 DICRO"
+BHG5NF220155D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-6 DICRO
+BHG5NF220175D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-7 DICRO
+BHG5NF220200D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-8 DICRO
+BHG5NF220228D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-9 DICRO
+BHG5NF220254D,bulón,hexagonal,7/8,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 7/8-UNF-10 DICRO
+BHG5NF250044D,bulón,hexagonal,1.3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-1,3/4 DICRO"
+BHG5NF250050D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-2 DICRO
+BHG5NF250056D,bulón,hexagonal,2.1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-2,1/4 DICRO"
+BHG5NF250063D,bulón,hexagonal,2.1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-2,1/2 DICRO"
+BHG5NF250070D,bulón,hexagonal,2.3/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-2,3/4 DICRO"
+BHG5NF250076D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-3 DICRO
+BHG5NF250082D,bulón,hexagonal,3.1/4,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-3,1/4 DICRO"
+BHG5NF250090D,bulón,hexagonal,3.1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-3,1/2 DICRO"
+BHG5NF250100D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-4 DICRO
+BHG5NF250110D,bulón,hexagonal,4.1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-4,1/2 DICRO"
+BHG5NF250125D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-5 DICRO
+BHG5NF250140D,bulón,hexagonal,5.1/2,5,,G5,imperial,UNF,dicro,"BULON HEXAGONAL G5 1-UNF-5,1/2 DICRO"
+BHG5NF250155D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-6 DICRO
+BHG5NF250175D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-7 DICRO
+BHG5NF250200D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-8 DICRO
+BHG5NF250228D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-9 DICRO
+BHG5NF250254D,bulón,hexagonal,,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 1-UNF-10 DICRO
+AG031N,arandela,grower,1/8,1,,,imperial,,natural,ARANDELA GROWER 1/8 NAT
+AG039N,arandela,grower,5/32,5,,,imperial,,natural,ARANDELA GROWER 5/32 NAT
+AG047N,arandela,grower,3/16,3,,,imperial,,natural,ARANDELA GROWER 3/16 NAT
+AG065N,arandela,grower,1/4,1,,,imperial,,natural,ARANDELA GROWER 1/4 NAT
+AG079N,arandela,grower,5/16,5,,,imperial,,natural,ARANDELA GROWER 5/16 NAT
+AG095N,arandela,grower,3/8,3,,,imperial,,natural,ARANDELA GROWER 3/8 NAT
+AG110N,arandela,grower,7/16,7,,,imperial,,natural,ARANDELA GROWER 7/16 NAT
+AG125N,arandela,grower,1/2,1,,,imperial,,natural,ARANDELA GROWER 1/2 NAT
+AG140N,arandela,grower,9/16,9,,,imperial,,natural,ARANDELA GROWER 9/16 NAT
+AG160N,arandela,grower,5/8,5,,,imperial,,natural,ARANDELA GROWER 5/8 NAT
+AG190N,arandela,grower,3/4,3,,,imperial,,natural,ARANDELA GROWER 3/4 NAT
+AG220N,arandela,grower,7/8,7,,,imperial,,natural,ARANDELA GROWER 7/8 NAT
+AG250N,arandela,grower,,,,,otro,,natural,ARANDELA GROWER 1 NAT
+AG281N,arandela,grower,1/8,1,,,imperial,,natural,ARANDELA GROWER 1 1/8 NAT
+AG315N,arandela,grower,1/4,1,,,imperial,,natural,ARANDELA GROWER 1 1/4 NAT
+AG345N,arandela,grower,3/8,1,,,imperial,,natural,ARANDELA GROWER 1 3/8 NAT
+AG375N,arandela,grower,1/2,1,,,imperial,,natural,ARANDELA GROWER 1 1/2 NAT
+VR1010NC031N,varilla,,1/8,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1/8-UNC(40) NAT
+VR1010NC039N,varilla,,5/32,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 5/32-UNC(32) NAT
+VR1010NC047N,varilla,,3/16,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 3/16-UNC(24) NAT
+VR1010NC065N,varilla,,1/4,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1/4-UNC(20) NAT
+VR1010NC079N,varilla,,5/16,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 5/16-UNC(18) NAT
+VR1010NC095N,varilla,,3/8,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 3/8-UNC(16) NAT
+VR1010NC110N,varilla,,7/16,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 7/16-UNC(14) NAT
+VR1010NC125N,varilla,,1/2,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1/2-UNC(12) NAT
+VR1010NC140N,varilla,,9/16,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 9/16-UNC(12) NAT
+VR1010NC160N,varilla,,5/8,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 5/8-UNC(11) NAT
+VR1010NC190N,varilla,,3/4,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 3/4-UNC(10) NAT
+VR1010NC220N,varilla,,7/8,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 7/8-UNC(9) NAT
+VR1010NC250N,varilla,,,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1-UNC(8) NAT
+VR1010NC281N,varilla,,1/8,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1 1/8-UNC(7) NAT
+VR1010NC315N,varilla,,1/4,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1 1/4-UNC(7) NAT
+VR1010NC375N,varilla,,1/2,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1 1/2-UNC(6) NAT
+VR1010NC440N,varilla,,3/4,1010,,,imperial,UNC,natural,VARILLA ROSCADA 1010 1 3/4-UNC(5) NAT
+VR1010NC500N,varilla,,,1010,,,imperial,UNC,natural,"VARILLA ROSCADA 1010 2-UNC(4,50) NAT"
+VR1010NC031Z,varilla,,1/8,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1/8-UNC(40) ZINC
+VR1010NC039Z,varilla,,5/32,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 5/32-UNC(32) ZINC
+VR1010NC047Z,varilla,,3/16,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 3/16-UNC(24) ZINC
+VR1010NC065Z,varilla,,1/4,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1/4-UNC(20) ZINC
+VR1010NC079Z,varilla,,5/16,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 5/16-UNC(18) ZINC
+VR1010NC095Z,varilla,,3/8,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 3/8-UNC(16) ZINC
+VR1010NC110Z,varilla,,7/16,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 7/16-UNC(14) ZINC
+VR1010NC125Z,varilla,,1/2,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1/2-UNC(13) ZINC
+VR1010NC140Z,varilla,,9/16,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 9/16-UNC(12) ZINC
+VR1010NC160Z,varilla,,5/8,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 5/8-UNC(11) ZINC
+VR1010NC190Z,varilla,,3/4,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 3/4-UNC(10) ZINC
+VR1010NC220Z,varilla,,7/8,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 7/8-UNC(9) ZINC
+VR1010NC250Z,varilla,,,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1-UNC(8) ZINC
+VR1010NC281Z,varilla,,1/8,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1 1/8-UNC(7) ZINC
+VR1010NC315Z,varilla,,1/4,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1 1/4-UNC(7) ZINC
+VR1010NC375Z,varilla,,1/2,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1 1/2-UNC(6) ZINC
+VR1010NC440Z,varilla,,3/4,1010,,,imperial,UNC,zinc,VARILLA ROSCADA 1010 1 3/4-UNC(5) ZINC
+VR1010NC500Z,varilla,,,1010,,,imperial,UNC,zinc,"VARILLA ROSCADA 1010 2-UNC(4,50) ZINC"
+VR1010NF047N,varilla,,3/16,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 3/16-UNF(32) NAT
+VR1010NF065N,varilla,,1/4,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 1/4-UNF(28) NAT
+VR1010NF079N,varilla,,5/16,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 5/16-UNF(24) NAT
+VR1010NF095N,varilla,,3/8,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 3/8-UNF(24) NAT
+VR1010NF110N,varilla,,7/16,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 7/16-UNF(20) NAT
+VR1010NF125N,varilla,,1/2,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 1/2-UNF(20) NAT
+VR1010NF140N,varilla,,9/16,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 9/16-UNF(18) NAT
+VR1010NF160N,varilla,,5/8,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 5/8-UNF(16) NAT
+VR1010NF190N,varilla,,3/4,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 3/4-UNF(16) NAT
+VR1010NF220N,varilla,,7/8,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 7/8-UNF(14) NAT
+VR1010NF250N,varilla,,,1010,,,imperial,UNF,natural,VARILLA ROSCADA 1010 1-UNF(14) NAT
+TIHG2NC047025Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/16-UNC-1 ZINC
+TIHG2NC047032Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-1,1/4 ZINC"
+TIHG2NC047038Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-1,1/2 ZINC"
+TIHG2NC047044Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-1,3/4 ZINC"
+TIHG2NC047050Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/16-UNC-2 ZINC
+TIHG2NC047056Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-2,1/4 ZINC"
+TIHG2NC047060Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-2,3/8 ZINC"
+TIHG2NC047063Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-2,1/2 ZINC"
+TIHG2NC047070Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/16-UNC-2,3/4 ZINC"
+TIHG2NC047076Z,tirafondo,,3/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/16-UNC-3 ZINC
+TIHG2NC065025Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 1/4-UNC-1 ZINC
+TIHG2NC065032Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-1,1/4 ZINC"
+TIHG2NC065038Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-1,1/2 ZINC"
+TIHG2NC065044Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-1,3/4 ZINC"
+TIHG2NC065050Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 1/4-UNC-2 ZINC
+TIHG2NC065056Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-2,1/4 ZINC"
+TIHG2NC065060Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-2,3/8 ZINC"
+TIHG2NC065063Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-2,1/2 ZINC"
+TIHG2NC065070Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-2,3/4 ZINC"
+TIHG2NC065076Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 1/4-UNC-3 ZINC
+TIHG2NC065082Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-3,1/4 ZINC"
+TIHG2NC065090Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-3,1/2 ZINC"
+TIHG2NC065100Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 1/4-UNC-4 ZINC
+TIHG2NC065110Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-4,1/2 ZINC"
+TIHG2NC065125Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 1/4-UNC-5 ZINC
+TIHG2NC065140Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 1/4-UNC-5,1/2 ZINC"
+TIHG2NC065155Z,tirafondo,,1/4,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 1/4-UNC-6 ZINC
+TIHG2NC079025Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 5/16-UNC-1 ZINC
+TIHG2NC079032Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-1,1/4 ZINC"
+TIHG2NC079038Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-1,1/2 ZINC"
+TIHG2NC079044Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-1,3/4 ZINC"
+TIHG2NC079050Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 5/16-UNC-2 ZINC
+TIHG2NC079056Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-2,1/4 ZINC"
+TIHG2NC079063Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-2,1/2 ZINC"
+TIHG2NC079070Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-2,3/4 ZINC"
+TIHG2NC079076Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 5/16-UNC-3 ZINC
+TIHG2NC079082Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-3,1/4 ZINC"
+TIHG2NC079090Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-3,1/2 ZINC"
+TIHG2NC079100Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 5/16-UNC-4 ZINC
+TIHG2NC079110Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-4,1/2 ZINC"
+TIHG2NC079125Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 5/16-UNC-5 ZINC
+TIHG2NC079140Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 5/16-UNC-5,1/2 ZINC"
+TIHG2NC079155Z,tirafondo,,5/16,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 5/16-UNC-6 ZINC
+TIHG2NC095032Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/8-UNC-1 1/4 ZINC
+TIHG2NC095038Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-1,1/2 ZINC"
+TIHG2NC095044Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-1,3/4 ZINC"
+TIHG2NC095050Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/8-UNC-2 ZINC
+TIHG2NC095056Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-2,1/4 ZINC"
+TIHG2NC095063Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-2,1/2 ZINC"
+TIHG2NC095070Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-2,3/4 ZINC"
+TIHG2NC095076Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/8-UNC-3 ZINC
+TIHG2NC095082Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-3,1/4 ZINC"
+TIHG2NC095090Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-3,1/2 ZINC"
+TIHG2NC095100Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/8-UNC-4 ZINC
+TIHG2NC095110Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-4,1/2 ZINC"
+TIHG2NC095125Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/8-UNC-5 ZINC
+TIHG2NC095140Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,"TIRAFONDO G2 3/8-UNC-5,1/2 ZINC"
+TIHG2NC095155Z,tirafondo,,3/8,2,,G2,imperial,UNC,zinc,TIRAFONDO G2 3/8-UNC-6 ZINC
+APC079N,arandela,plana,5/16,5,,,imperial,,natural,ARANDELA PLANA COMUN 5/16 NAT
+APC095N,arandela,plana,3/8,3,,,imperial,,natural,ARANDELA PLANA COMUN 3/8 NAT
+APC110N,arandela,plana,7/16,7,,,imperial,,natural,ARANDELA PLANA COMUN 7/16 NAT
+APC031Z,arandela,plana,1/8,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1/8 ZINC
+APC039Z,arandela,plana,5/32,5,,,imperial,,zinc,ARANDELA PLANA COMUN 5/32 ZINC
+APC047Z,arandela,plana,3/16,3,,,imperial,,zinc,ARANDELA PLANA COMUN 3/16 ZINC
+APC065Z,arandela,plana,1/4,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1/4 ZINC
+APC079Z,arandela,plana,5/16,5,,,imperial,,zinc,ARANDELA PLANA COMUN 5/16 ZINC
+APC095Z,arandela,plana,3/8,3,,,imperial,,zinc,ARANDELA PLANA COMUN 3/8 ZINC
+APC110Z,arandela,plana,7/16,7,,,imperial,,zinc,ARANDELA PLANA COMUN 7/16 ZINC
+APC125Z,arandela,plana,1/2,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1/2 ZINC
+APC140Z,arandela,plana,9/16,9,,,imperial,,zinc,ARANDELA PLANA COMUN 9/16 ZINC
+APC160Z,arandela,plana,5/8,5,,,imperial,,zinc,ARANDELA PLANA COMUN 5/8 ZINC
+APC190Z,arandela,plana,3/4,3,,,imperial,,zinc,ARANDELA PLANA COMUN 3/4 ZINC
+APC220Z,arandela,plana,7/8,7,,,imperial,,zinc,ARANDELA PLANA COMUN 7/8 ZINC
+APC250Z,arandela,plana,,,,,otro,,zinc,ARANDELA PLANA COMUN 1 ZINC
+APC281Z,arandela,plana,1/8,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1 1/8 ZINC
+APC315Z,arandela,plana,1/4,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1 1/4 ZINC
+APC345Z,arandela,plana,3/8,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1 3/8 ZINC
+APC375Z,arandela,plana,1/2,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1 1/2 ZINC
+APC440Z,arandela,plana,3/4,1,,,imperial,,zinc,ARANDELA PLANA COMUN 1 3/4 ZINC
+APC500Z,arandela,plana,,,,,otro,,zinc,ARANDELA PLANA COMUN 2 ZINC
+CONJ-P306,otro,,,,,,otro,,,CONJ-PEUGEOT 306
+CONJ-R12INF,otro,,,,,,otro,,,CONJ-R-12 INFERIOR
+CONJ-R12SUP,otro,,,,,,otro,,,CONJ-R-12 SUPERIOR
+CONJ-R18IMF,otro,,,,,,otro,,,CONJ-R-18 INFERIOR
+CONJ-R18SUP,otro,,,,,,otro,,,CONJ-R-18 SUPERIOR
+CONJ-GOL,otro,,,,,,otro,,,CONJ-GOL MB
+CONJ-R9,otro,,,,,,otro,,,CONJ-R-9
+CONJ-R21,otro,,,,,,otro,,,CONJ-CONJUNTO RENAULT 21
+CONJ-R11,otro,,,,,,otro,,,CONJ-R-11
+CONJ-FIEST,otro,,,,,,otro,,,CONJ-FIESTA
+CONJ-KA,otro,,,,,,otro,,,CONJ-FORD  KA
+CONJ-MOND,otro,,,,,,otro,,,CONJ-FORD MONDEO
+CONJ-PART,otro,,,,,,otro,,,CONJ-PEUGEOT PARTNER
+CONJ-PALIO,otro,,,,,,otro,,,CONJ-PALIO
+CONJ-SIERR,otro,,,,,,otro,,,CONJ-SIERRA
+CONJ-GOLF,otro,,,,,,otro,,,CONJ-GOLF
+CONJ-ORION,otro,,,,,,otro,,,CONJ-ORION
+CONJ-R19,otro,,,,,,otro,,,CONJ-R19
+CONJ-GACEL,otro,,,,,,otro,,,CONJ-GACEL
+CONJ-TRAF,otro,,,,,,otro,,,CONJ-TRAFIC
+CONJ-CHEV63/78,otro,,,,,,otro,,,CONJ-CHEVROLET 63-78
+CONJ-FALCINF,otro,,,,,,otro,,,CONJ-FORD FALCON INFERIOR
+CONJ-FALCSUP,otro,,,,,,otro,,,CONJ-FORD FALCON SUPERIOR
+CONJ-COR+98,otro,,,,,,otro,,,CONJ-CORSA DSP. AÑO 98
+CONJ-DUCMV,otro,,,,,,otro,,,CONJ-CONJUNTO DUCATO MOD VIEJO
+CONJ-DUCMN,otro,,,,,,otro,,,CONJ-CONJUNTO DUCATO MOD NUEVO
+CONJ-BOXER,otro,,,,,,otro,,,CONJ-CONJUNTO BOXER
+CONJ-GMC10,otro,,,,,,otro,,,CONJ-CONJUNTO CHEVRLET - GMC10
+CONJ-ISUZU,otro,,,,,,otro,,,CONJ-CONJUNTO ISUZU
+CONJ-TAUNSUP,otro,,,,,,otro,,,CONJ-CONJUNTO TAUNUS SUPERIOR
+CONJ-TAUNINF,otro,,,,,,otro,,,CONJ-CONJUNTO TAUNUS INFERIOR
+CONJ-CLIOHEM,otro,,,,,,otro,,,CONJ-CONJUNTO ESTREMO CLIO HEMBRA
+CONJ-ACF100,otro,,,,,,otro,,,CONJ-CONJUNTO ACOPLE F100
+CONJ-R6INF,otro,,,,,,otro,,,CONJ-CONJUNTO R6 INFERIOR
+CONJ-R6SUP,otro,,,,,,otro,,,CONJ-CONJUNTO R6 SUPERIOR
+CONJ-TRANS,otro,,,,,,otro,,,CONJ-CONJUNTO TRANSIT
+CONJ-06020X2,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 6x20 (x2)
+CONJ-06020X4,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 6x20 (x4)
+CONJ-07020X2,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 7x20 (x2)
+CONJ-07020X4,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 7x20 (x4)
+CONJ-07025X2,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 7x25 (x2)
+CONJ-07025X4,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 7x25 (x4)
+CONJ-08025X2,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 8x25 (x2)
+CONJ-08025X3,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 8x25 (x3)
+CONJ-08025X4,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 8x25 (x4)
+CONJ-08030X4,otro,,,,,,otro,,,CONJ-EMPAQUETADO M 8x30 (x4)
+BCRG2WH065025Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 1 ZINC
+BCRG2WH065032Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 1,1/4 ZINC"
+BCRG2WH065038Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 1,1/2 ZINC"
+BCRG2WH065044Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 1,3/4 ZINC"
+BCRG2WH065056Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 2,1/4 ZINC"
+BCRG2WH079044Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 1,3/4 ZINC"
+BCRG2WH079050Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 2 ZINC
+BCRG2WH079056Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 2,1/4 ZINC"
+BCRG2WH079063Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 2,1/2 ZINC"
+BCRG2WH079070Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 2,3/4 ZINC"
+BCRG2WH079076Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 3 ZINC
+BCRG2WH079082Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 3,1/4 ZINC"
+BCRG2WH079090Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 3,1/2 ZINC"
+BCRG2WH095050Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 2 ZINC
+BCRG2WH095056Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 2,1/4 ZINC"
+BCRG2WH095063Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 2,1/2 ZINC"
+BCRG2WH095070Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 2,3/4 ZINC"
+BCRG2WH095076Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 3 ZINC
+BCRG2WH095082Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 3,1/4 ZINC"
+BCRG2WH095090Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 3,1/2 ZINC"
+BCRG2WH095110Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 4,1/2 ZINC"
+BCRG2WH095125Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 5 ZINC
+BCRG2WH125076Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 3 ZINC
+BCRG2WH125090Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 3,1/2 ZINC"
+BCRG2WH125125Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 5 ZINC
+BCRG2WH125155Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 6 ZINC
+BCRG2WH125175Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 7 ZINC
+FM04012D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 3 x 12 DICRO
+FM04016D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 3 x 16 DICRO
+FM04020D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 3 x 20 DICRO
+FM04025D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 3 x 25 DICRO
+FM04030D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 3 x 30 DICRO
+FM05012D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 12 DICRO"
+FM05016D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 16 DICRO"
+FM05020D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 20 DICRO"
+FM05025D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 25 DICRO"
+FM05030D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 30 DICRO"
+FM05035D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 35 DICRO"
+FM05040D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 40 DICRO"
+FM06012D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 12 DICRO
+FM06016D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 16 DICRO
+FM06020D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 20 DICRO
+FM06025D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 25 DICRO
+FM06030D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 30 DICRO
+FM06035D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 35 DICRO
+FM06040D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 40 DICRO
+FM06045D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 45 DICRO
+FM06050D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 50 DICRO
+FM08020D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 20 DICRO"
+FM08025D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 25 DICRO"
+FM08030D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 30 DICRO"
+FM08035D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 35 DICRO"
+FM08040D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 40 DICRO"
+FM08045D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 45 DICRO"
+FM08050D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 50 DICRO"
+FM08060D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 60 DICRO"
+FM10025D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 25 DICRO
+FM10030D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 30 DICRO
+FM10035D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 35 DICRO
+FM10040D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 40 DICRO
+FM10045D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 45 DICRO
+FM10050D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 50 DICRO
+FM10060D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 60 DICRO
+FM10070D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 70 DICRO
+FM10080D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 80 DICRO
+FM10090D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 90 DICRO
+FM12040D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 40 DICRO
+FM12050D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 50 DICRO
+FM12060D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 60 DICRO
+FM12070D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 70 DICRO
+FM12080D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 80 DICRO
+FM12090D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 90 DICRO
+FM12100D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 100 DICRO
+EMBO,otro,,,,,,otro,,,EMBOLSADO
+AP125B10D,arandela,plana,,,,,otro,,dicro,ARANDELA PLANA DIN125B10DICRO
+PCCG2NC065019N,otro,cuadrada,1/4,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 1/4-UNC-3/4
+PCCG2NC065025N,otro,cuadrada,1/4,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 1/4XUNC-1
+PCCG2NC795019N,otro,cuadrada,5/16,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 5/16-UNC-3/4
+PCCG2NC095019N,otro,cuadrada,3/8,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 3/8-UNC-3/4
+PCCG2NC095022N,otro,cuadrada,3/8,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 3/8-UNC-7/8
+PCCG2NC095025N,otro,cuadrada,3/8,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 3/8-UNC-1
+PCCG2NC095032N,otro,cuadrada,3/8,2,,G2,imperial,UNC,,"PRIS.C/CUADRADA G2 3/8-UNC-1,1/4"
+PCCG2NC125050N,otro,cuadrada,1/2,2,,G2,imperial,WH,,PRIS.C/CUADRADA G2 1/2-WHT-2
+PCCG2NC0160038N,otro,cuadrada,5/8,2,,G2,imperial,UNC,,"PRIS.C/CUADRADA G2 5/8-UNC-1,1/2"
+RHT047042Z,remache,,3/16,3,42,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X42 ZINC
+RHT047028Z,remache,,3/16,3,28,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X28 ZINC
+RHT047048Z,remache,,3/16,3,48,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X48 ZINC
+RHT047039Z,remache,,3/16,3,39,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X39 ZINC
+RHT046068Z,remache,,,,,4.6,otro,,zinc,"REMACHE HO.TUBULAR 4,65X68ZINC"
+RHT063050Z,remache,,,,,,otro,,zinc,"REMACHE HO.TUBULAR 6,35X50,8ZINC"
+XJAN08014Z,otro,,9/16,8,9/16,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA AGUJA Nª 8 x 9/16 ZINC
+AS07015,arandela,,,,,,otro,,,"ARANDELA  SEGURIDAD 7( 6,5X15)"
+BHG5NC220165D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-6,1/2 DICRO"
+BCRG2WH065050Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 2 ZINC
+BCRG2WH065063Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 2,1/2 ZINC"
+BCRG2WH065070Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 2,3/4 ZINC"
+BCRG2WH065076Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 3 ZINC
+BCRG2WH065082Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 3,1/4 ZINC"
+BCRG2WH065090Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 3,1/2 ZINC"
+BCRG2WH079025Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 1 ZINC
+BCRG2WH079032Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 1,1/4 ZINC"
+BCRG2WH079038Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 1,1/2 ZINC"
+BCRG2WH079100Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 4 ZINC
+BCRG2WH079110Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 4,1/2 ZINC"
+BCRG2WH079125Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 5 ZINC
+BCRG2WH079140Z,otro,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 5,1/2 ZINC"
+BCRG2WH079155Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 6 ZINC
+BCRG2WH079175Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 7 ZINC
+BCRG2WH079200Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 8 ZINC
+BCRG2WH095032Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 1,1/4 ZINC"
+BCRG2WH095038Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 1,1/2 ZINC"
+BCRG2WH095044Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 1,3/4 ZINC"
+BCRG2WH095100Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 4 ZINC
+BCRG2WH095140Z,otro,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 5,1/2 ZINC"
+BCRG2WH095155Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 6 ZINC
+BCRG2WH095175Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 7 ZINC
+BCRG2WH095200Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 8 ZINC
+BCRG2WH125025Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 1 ZINC
+BCRG2WH125032Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 1,1/4 ZINC"
+BCRG2WH125038Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 1,1/2 ZINC"
+BCRG2WH125044Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 1,3/4 ZINC"
+BCRG2WH125050Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 2 ZINC
+BCRG2WH125056Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 2,1/4 ZINC"
+BCRG2WH125063Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 2,1/2 ZINC"
+BCRG2WH125070Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 2,3/4 ZINC"
+BCRG2WH125082Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 3,1/4 ZINC"
+BCRG2WH125100Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 4 ZINC
+BCRG2WH125110Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 4,1/2 ZINC"
+BCRG2WH125140Z,otro,,1/2,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/2-WH- 5,1/2 ZINC"
+BCRG2WH125200Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 8 ZINC
+BCRG2WH047012Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 1/2 ZINC
+BCRG2WH047016Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 5/8 ZINC
+BCRG2WH047019Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 3/4 ZINC
+BCRG2WH047022Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 7/8 ZINC
+BCRG2WH047025Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 1 ZINC
+BCRG2WH047032Z,otro,,3/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/16-WH- 1,1/4 ZINC"
+BCRG2WH047038Z,otro,,3/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/16-WH- 1,1/2 ZINC"
+BCRG2WH047044Z,otro,,3/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/16-WH- 1,3/4 ZINC"
+BCRG2WH047050Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 2 ZINC
+BCRG2WH047056Z,otro,,3/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/16-WH- 2,1/4 ZINC"
+BCRG2WH047063Z,otro,,3/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/16-WH- 2,1/2 ZINC"
+BCRG2WH047070Z,otro,,3/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/16-WH- 2,3/4 ZINC"
+BCRG2WH047076Z,otro,,3/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/16-WH- 3 ZINC
+BCRG2WH065012Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 1/2 ZINC
+BCRG2WH065016Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 5/8 ZINC
+BCRG2WH065019Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 3/4 ZINC
+BCRG2WH065022Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 7/8 ZINC
+BCRG2WH065100Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 4 ZINC
+BCRG2WH065110Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 4,1/2 ZINC"
+BCRG2WH065125Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 5 ZINC
+BCRG2WH065140Z,otro,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 5,1/2 ZINC"
+BCRG2WH065155Z,otro,,1/4,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/4-WH- 6 ZINC
+BCRG2WH079019Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 3/4 ZINC
+BCRG2WH079022Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 7/8 ZINC
+BCRG2WH079228Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 9 ZINC
+BCRG2WH079254Z,otro,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 10 ZINC
+BCRG2WH095025Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 1 ZINC
+BCRG2WH095228Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 9 ZINC
+BCRG2WH095254Z,otro,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 10 ZINC
+BCRG2WH110025Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 1 ZINC
+BCRG2WH110032Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 1,1/4 ZINC"
+BCRG2WH110038Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 1,1/2 ZINC"
+BCRG2WH110044Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 1,3/4 ZINC"
+BCRG2WH110050Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 2 ZINC
+BCRG2WH110056Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 2,1/4 ZINC"
+BCRG2WH110063Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 2,1/2 ZINC"
+BCRG2WH110070Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 2,3/4 ZINC"
+BCRG2WH110076Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 3 ZINC
+BCRG2WH110082Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 3,1/4 ZINC"
+BCRG2WH110090Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 3,1/2 ZINC"
+BCRG2WH110100Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 4 ZINC
+BCRG2WH110110Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 4,1/2 ZINC"
+BCRG2WH110125Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 5 ZINC
+BCRG2WH110140Z,otro,,7/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 7/16-WH- 5,1/2 ZINC"
+BCRG2WH110155Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 6 ZINC
+BCRG2WH110175Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 7 ZINC
+BCRG2WH110200Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 8 ZINC
+BCRG2WH110228Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 9 ZINC
+BCRG2WH110254Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 10 ZINC
+BCRG2WH110280Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 11 ZINC
+BCRG2WH110305Z,otro,,7/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 7/16-WH- 12 ZINC
+BCRG2WH125228Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 9 ZINC
+BCRG2WH125254Z,otro,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 10 ZINC
+BCRG2WH140056Z,otro,,9/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 9/16-WH- 2,1/4 ZINC"
+BCRG2WH140110Z,otro,,9/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 9/16-WH- 4,1/2 ZINC"
+BCRG2WH140125Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 5 ZINC
+BCRG2WH140155Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 6 ZINC
+BCRG2WH140175Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 7 ZINC
+BCRG2WH140228Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 9 ZINC
+BCRG2WH140254Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 10 ZINC
+BCRG2WH140280Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 11 ZINC
+BCRG2WH140305Z,otro,,9/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 9/16-WH- 12 ZINC
+BCRG2WH160050Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 2 ZINC
+BCRG2WH160056Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 2,1/4 ZINC"
+BCRG2WH160063Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 2,1/2 ZINC"
+BCRG2WH160070Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 2,3/4 ZINC"
+BCRG2WH160076Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 3 ZINC
+BCRG2WH160082Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 3,1/4 ZINC"
+BCRG2WH160090Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 3,1/2 ZINC"
+BCRG2WH160100Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 4 ZINC
+BCRG2WH160110Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 4,1/2 ZINC"
+BCRG2WH160125Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 5 ZINC
+BCRG2WH160140Z,otro,,5/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/8-WH- 5,1/2 ZINC"
+BCRG2WH160155Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 6 ZINC
+BCRG2WH160175Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 7 ZINC
+BCRG2WH160200Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 8 ZINC
+BCRG2WH160228Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 9 ZINC
+BCRG2WH160254Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 10 ZINC
+BCRG2WH160305Z,otro,,5/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/8-WH- 12 ZINC
+FM03010D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 2,5 x 10 DICRO"
+FM03012D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 2,5 x 12 DICRO"
+FM03016D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 2,5 x 16 DICRO"
+FM03020D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 2,5 x 20 DICRO"
+FM04010D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 3 x 10 DICRO
+FM05045D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 45 DICRO"
+FM05050D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 3,5 x 50 DICRO"
+FM06060D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 60 DICRO
+FM06070D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 4 x 70 DICRO
+FM08016D,otro,,,,,,otro,,dicro,"TOR. FIX. P/MAD.F 4,5 x 16 DICRO"
+FM10100D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 100 DICRO
+FM10110D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 110 DICRO
+FM10120D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 120 DICRO
+FM12025D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 25 DICRO
+FM12030D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 30 DICRO
+FM12035D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 35 DICRO
+FM12045D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 45 DICRO
+FM12110D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 110 DICRO
+FM12120D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 120 DICRO
+FM12130D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 6 x 130 DICRO
+BHG5WH125019D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-3/4 DICRO
+BHG5WH125022D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-7/8 DICRO
+BHG5WH125025D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-1 DICRO
+BHG5WH125032D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-1,1/4 DICRO"
+BHG5WH125038D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-1,1/2 DICRO"
+BHG5WH125044D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-1,3/4 DICRO"
+BHG5WH125050D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-2 DICRO
+BHG5WH125056D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-2,1/4 DICRO"
+BHG5WH125063D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-2,1/2 DICRO"
+BHG5WH125070D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-2,3/4 DICRO"
+BHG5WH125076D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-3 DICRO
+BHG5WH125082D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-3,1/4 DICRO"
+BHG5WH125090D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-3,1/2 DICRO"
+BHG5WH125100D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-4 DICRO
+BHG5WH125110D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-4,1/2 DICRO"
+BHG5WH125125D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-5 DICRO
+BHG5WH125140D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,"BULON HEXAGONAL G5 1/2-WHT-5,1/2 DICRO"
+BHG5WH125155D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-6 DICRO
+BHG5WH125175D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-7 DICRO
+BHG5WH125200D,bulón,hexagonal,1/2,5,,G5,imperial,WH,dicro,BULON HEXAGONAL G5 1/2-WHT-8 DICRO
+VR1010WH125N,varilla,,1/2,1010,,,imperial,WH,natural,VARILLA ROSCADA 1010 1/2-WHT(13) NAT
+VR1010WH125Z,varilla,,1/2,1010,,,imperial,WH,zinc,VARILLA ROSCADA 1010 1/2-WHT(12) ZINC
+FM10020D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 20 DICRO
+FM10065D,otro,,,,,,otro,,dicro,TOR. FIX. P/MAD.F 5 x 65 DICRO
+6,otro,,,,,,otro,,,MARTILLO
+7,otro,,,,,,otro,,,METRO
+8,otro,,,,,,otro,,,DESARMADOR
+CONJ-GOL-MB,otro,,,,,,otro,,,CONJ-GOL (MB)
+CONJ-TRANSMA,otro,,,,,,otro,,,CONJ-CONJUNTO TRANSIT MA
+CONJ-TRANSMB,otro,,,,,,otro,,,CONJ-CONJUNTO TRANSIT MB
+CONJ-ACF100MA,otro,,,,,,otro,,,CONJ-CONJUNTO ACOPLE F100 MA
+CONJ-ACF100MB,otro,,,,,,otro,,,CONJ-CONJUNTO ACOPLE F100 MB
+CONJ-ACF100MC,otro,,,,,,otro,,,CONJ-CONJUNTO ACOPLE F100 MC
+CONJ-DUCMN-MB,otro,,,,,,otro,,,CONJ-CONJUNTO DUCATO MOD NUEVO MB
+CONJ-DUCMN-MC,otro,,,,,,otro,,,CONJ-CONJUNTO DUCATO MOD NUEVO MC
+CONJ-BOXER-MB,otro,,,,,,otro,,,CONJ-CONJUNTO BOXER MB
+CONJ-BOXER-MC,otro,,,,,,otro,,,CONJ-CONJUNTO BOXER MC
+CONJ-COR+98-MB,otro,,,,,,otro,,,CONJ-CORSA DSP. AÑO 98 MB
+CONJ-GOL-MC,otro,,,,,,otro,,,CONJ-GOL (MC)
+CONJ-R9-MB,otro,,,,,,otro,,,CONJ-R-9 (MB)
+CONJ-R9-MC,otro,,,,,,otro,,,CONJ-R-9 (MC)
+CONJ-R11-MB,otro,,,,,,otro,,,CONJ-R-11 (MB)
+CONJ-R11-MC,otro,,,,,,otro,,,CONJ-R-11 (MC)
+CONJ-COR+98-MC,otro,,,,,,otro,,,CONJ-CORSA DSP. AÑO 98 MC
+TUHG2-UNF285Z,tuerca,hexagonal,1.1/8,2,,G2,imperial,UNF,zinc,"TUERCA HEXAGONAL G2 1,1/8-UNF (12) ZINC"
+TUHG2-UNF317Z,tuerca,hexagonal,1.1/4,2,,G2,imperial,UNF,zinc,"TUERCA HEXAGONAL G2 1,1/4-UNF (12) ZINC"
+TUHG2-UNF381Z,tuerca,hexagonal,1.1/2,2,,G2,imperial,UNF,zinc,"TUERCA HEXAGONAL G2 1,1/2-UNF (12) ZINC"
+AE6797A04,arandela,,,,,,otro,,,ARANDELA ESTRELLA 6797A 04
+AE6797A08,arandela,,,,,,otro,,,ARANDELA ESTRELLA 6797A 08
+XJFPMN08012F,otro,,1/2,8,1/2,,imperial,,,AUTOPERF.C/FIJ.FLANGE PTA MECHA N°8X1/2 FOSF
+XJFPMN08025Z,otro,,,,,,otro,,zinc,AUTOPERF.C/FIJ.FLANGE PTA MECHA N°8X1 ZINC
+PACG10NC110025F,otro,allen,7/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 7/16-NC-1 FOSF
+X17AN14038Z,otro,hexagonal,1.1/2,17,1.1/2,,imperial,,,"AUTOPERF.C/HEX.T17 PTA AGUJ. CALAD.C/ARAN.N°14X1,1/2"
+XTAWN06019F,otro,,3/4,6,3/4,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°6X3/4
+XTAWN06016F,otro,,5/8,6,5/8,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°6X5/8
+XTAWN06025F,otro,,,,,,otro,,,AUTOPERF TROMP.P/AGUJA MADERA N°6X1
+TPJCG2G10160Z,otro,,5/8,2,5/8,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°10X5/8Z
+TUCBRNC079,tuerca,,5/16,5,,,imperial,UNC,bronce,TUERCA CIEGA BRONCE 5/16-UNC(18)
+TUHG2-UNC039Z,tuerca,hexagonal,5/32,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 5/32-UNC (32) ZINC
+TPJCG2G10190Z,otro,,3/4,2,3/4,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°10x3/4Z
+TUHG2NC031Z,tuerca,hexagonal,1/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 1/8-UNC (40) ZINC
+TUHG2NC250D,tuerca,hexagonal,,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 1-UNC (8) DICRO
+TUHG2NC285D,tuerca,hexagonal,1.1/8,2,,G2,imperial,UNC,dicro,"TUERCA HEXAGONAL G2 1,1/8-UNC (7) DICRO"
+TUHG2NC125D,tuerca,hexagonal,1/2,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 1/2-13-UNC (13) DICRO
+TUHG2NF190N,tuerca,hexagonal,3/4,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL G2 3/4-UNF (16) NAT
+TUHG2NF190D,tuerca,hexagonal,3/4,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 3/4-UNF (16) DICRO
+TUHG2NF095N,tuerca,hexagonal,3/8,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL G2 3/8-UNF (24) NAT
+TUHG2NF079N,tuerca,hexagonal,5/16,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL G2 5/16-UNF (24) NAT
+TUHG2NF160N,tuerca,hexagonal,5/8,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL G2 5/8-UNF (18) NAT
+TUHG2NF160D,tuerca,hexagonal,5/8,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 5/8-UNF (18) DICRO
+TUHG2NC220D,tuerca,hexagonal,7/8,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 7/8-UNC (9) DICRO
+TUHG2WH125D,tuerca,hexagonal,1/2,2,,G2,imperial,WH,dicro,TUERCA HEXAGONAL G2 1/2-12-WHT (12) DICRO
+TUHG2NC065D,tuerca,hexagonal,1/4,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 1/4-UNC (20) DICRO
+TUHG2NC110D,tuerca,hexagonal,7/16,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 7/16-UNC (14) DICRO
+TUHG2NC140D,tuerca,hexagonal,9/16,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 9/16-UNC (12) DICRO
+TTHCG2NC175N,otro,hexagonal,11/16,2,,G2,imperial,UNC,natural,TCA .HEX.TORN CONTRAT. G2 11/16-UNC (18) NAT
+TTHCG2NC175D,otro,hexagonal,11/16,2,,G2,imperial,UNC,dicro,TCA .HEX.TORN CONTRAT. G2 11/16-UNC (18) DICRO
+BHG2WH125063N,bulón,hexagonal,1/2,2,,G2,imperial,WH,natural,"BULON HEXAGONAL G2 1/2-WHT-2,1/2 NAT"
+X17AN14025Z,otro,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX.T17 PTA AGUJ. CALAD. C/ ARAND. N°14X1 ZINC
+XHMN14025ZINC,otro,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA N°14X1 ZINC
+XJAN08012Z,otro,,1/2,8,1/2,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA AGUJA Nª 8 x 1/2 ZINC
+TUAAG2NS250Z,tuerca,autofrenante,,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 1-UNF(12) ZINC
+BRG5NF125038F,bulón,,1/2,5,,G5,imperial,UNF,,"BULON DE RUEDA G5 1/2-UNF-1,1/2 FOSF"
+TUHPG2NC095Z,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 3/8-UNC (16) ZINC
+TUHPG2NC095D,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL PESADA G2 3/8-UNC (16) DICRO
+TUHPG2NC095N,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL PESADA G2 3/8-UNC (16) NAT
+PASG10NC065010F,otro,allen,1/4,10,,G10,imperial,UNC,,PRIS.ALLEN S/CABEZA G10 1/4-UNC-3/8 FOSF
+TO52.55.16.CA,tornillo,allen,,,,,otro,,,TO52.55.16.CA - TORNILLO CABEZA FRESADA P/ALLEN 12-24X16MM
+TO52.55.16.E,tornillo,hexagonal,,,,,otro,,,TO52.55.16.E - TORNILLO CABEZA HEXAGONAL 12-24X16MM
+TO52.55.20.R,tornillo,redonda,,,,,otro,,,TO52.55.20.R - TORNILLO CABEZA REDONDA 12-24X20MM
+TO52.55.32,tornillo,redonda,,,,,otro,,,TO52.55.32 - TORNILLO CABEZA REDONDA 12-24X32
+TO52.55.32.E,tornillo,hexagonal,,,,,otro,,,TO52.55.32.E - TORNILLO CABEZA HEXAGONAL 12-24X32MM E
+PACIMA08035,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 8-1.25-35
+TUHPG2NC079Z,tuerca,hexagonal,5/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 5/16-UNC (18) ZINC
+TUHPG2WH125Z,tuerca,hexagonal,1/2,2,,G2,imperial,WH,zinc,TUERCA HEXAGONAL PESADA G2 1/2-WHT (12) ZINC
+TUHPG2WH125N,tuerca,hexagonal,1/2,2,,G2,imperial,WH,natural,TUERCA HEXAGONAL PESADA G2 1/2-WHT (12) NAT
+TUHPG2NC110N,tuerca,hexagonal,7/16,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL PESADA G2 7/16-UNC (14) NAT
+TUHPG2NC079N,tuerca,hexagonal,5/16,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL PESADA G2 5/16-UNC (18) NAT
+TUFDG2NC065Z,tuerca,hexagonal,1/4,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL  FLANGE DENTADA G2 1/4-UNC (20) ZINC
+TUFDG2NC079Z,tuerca,hexagonal,5/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL  FLANGE DENTADA G2 5/16-UNC (18) ZINC
+TUFDG2NC095Z,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL  FLANGE DENTADA G2 3/8-UNC (16) ZINC
+TUFDG2WH125Z,tuerca,hexagonal,1/2,2,,G2,imperial,WH,zinc,TUERCA HEXAGONAL  FLANGE DENTADA G2 1/2-WHT (12) ZINC
+TUHG2NF065D,tuerca,hexagonal,1/4,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 1/4-UNF (28) DICRO
+TUHG2NF079D,tuerca,hexagonal,5/16,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 5/16-UNF (24) DICRO
+TUHG2NF095D,tuerca,hexagonal,3/8,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 3/8-UNF (24) DICRO
+TUHG2NF110D,tuerca,hexagonal,7/16,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 7/16-UNF (20) DICRO
+TUHG2NF125D,tuerca,hexagonal,1/2,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 1/2-UNF (20) DICRO
+TUHG2NF140D,tuerca,hexagonal,9/16,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 9/16-UNF (18) DICRO
+TUHG2NF220D,tuerca,hexagonal,7/8,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 7/8-UNF (14) DICRO
+TUHG2NF250D,tuerca,hexagonal,,2,,G2,imperial,UNF,dicro,TUERCA HEXAGONAL G2 1-UNF (14) DICRO
+TUHG2NF285D,tuerca,hexagonal,1.1/8,2,,G2,imperial,UNF,dicro,"TUERCA HEXAGONAL G2 1,1/8-UNF (12) DICRO"
+TUHG2NF317D,tuerca,hexagonal,1.1/4,2,,G2,imperial,UNF,dicro,"TUERCA HEXAGONAL G2 1,1/4-UNF (12) DICRO"
+TUHG2NF381D,tuerca,hexagonal,1.1/2,2,,G2,imperial,UNF,dicro,"TUERCA HEXAGONAL G2 1,1/2-UNF (12) DICRO"
+TUAAG2NC158Z,tuerca,autofrenante,5/8,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 5/8-UNC(11) ZINC
+TUAAG2NF158Z,tuerca,autofrenante,5/8,2,,G2,imperial,UNF,zinc,TUERCA AUTOFR. ALTA G2 5/8-UNF(18) ZINC
+TUHG2-UNC047Z,tuerca,hexagonal,3/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 3/16-UNC (24) ZINC
+TUHG2UN125Z,tuerca,hexagonal,1/2,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL G2 1/2-13-UNC (13) ZINC
+ALEMITE25,otro,,,,,4.6,otro,,,ALEMITE M 8-1.25-14.6 modelo 25
+TUHG2NC190D,tuerca,hexagonal,3/4,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 3/4-UNC (10) DICRO
+AP2B160Z,arandela,,5/8,5,,,imperial,,zinc,ARANDELA DOBLE BISELADO 5/8 ZINC
+AP2B190Z,arandela,,3/4,3,,,imperial,,zinc,ARANDELA DOBLE BISELADO 3/4 ZINC
+AE6797A06,arandela,,,,,,otro,,,ARANDELA ESTRELLA 6797A 06
+3235,otro,,,,,,otro,,,Tarugos ESPYGA 8 Bolsa x 500 unid.
+TUHG2NC160D,tuerca,hexagonal,5/8,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 5/8-UNC (11) DICRO
+HXPMV14019Z,arandela,hexagonal,3/4,14,3/4,,imperial,,zinc,AUTOPERF.C/HEX. PTA MECHA C/ARANDELA VULCANIZADA N°14X3/4 ZINC
+3535,otro,,,,,,otro,,,Tarugos PY 8 Caja x 2000 (20 Bolsitas x 100 unid.)
+0758890928040,otro,,,,,500,otro,,,YERBA MATE TRADICIONAL DON BASILIO X 500 GR
+0790757863439,otro,,,,,500,otro,,,YERBA MATE SELECCION ESPECIAL DON BASILIO X 500 GR
+TUHG2NC079D,tuerca,hexagonal,5/16,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 5/16-UNC (18) DICRO
+HXPMV14038Z,arandela,hexagonal,1/2,14,1,,imperial,,zinc,AUTOPERF.C/HEX. PTA MECHA C/ARANDELA VULCANIZADA N°14 X 1 1/2 ZINC
+CHEQUE,otro,,,,,,otro,,,CHEQUE RECHAZADO
+9,otro,,,,,,otro,,,GASTOS BANCARIOS
+PACG10NC079019F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-3/4 FOSF
+10,otro,,,,,,otro,,,COMISION X FC
+ALEMITE15,otro,,,,,,otro,,,ALEMITE M 8-1.25-15.4 modelo 15
+11,otro,,,,,,otro,,,DIFERENCIA DE PRECIO
+12,otro,,,,,,otro,,zinc,ZINCADO
+13,otro,,,,,,otro,,,producto prueba
+BONIF10%,otro,,,,,,otro,,,BONIFICAICON 10 %
+TUHG2NC095D,tuerca,hexagonal,3/8,2,,G2,imperial,UNC,dicro,TUERCA HEXAGONAL G2 3/8-UNC (16) DICRO
+XJFPMN08019Z,otro,,3/4,8,3/4,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA MECHA N°8X3/4 ZINC
+HXPMV14025Z,arandela,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA C/ARANDELA VULCANIZADA N°14 X 1 ZINC
+TFFG2NC039007Z,otro,phillips,5/32,2,5/16,G2,imperial,,zinc,TOR. C/FRES. PHIL. G2 5/32 X 5/16 ZINC
+TFFG2NC039009Z,otro,phillips,5/32,2,3/8,G2,imperial,,zinc,TOR. C/FRES. PHIL. G2 5/32 X 3/8 ZINC
+TFFG2NC039044Z,otro,phillips,5/32,2,1,G2,imperial,,zinc,TOR. C/FRES. PHIL. G2 5/32 X 1 3/4 ZINC
+TTRG2NC047007Z,otro,,3/16,2,5/16,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 5/16 ZINC
+PACG10NC079025F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-1 FOSF
+PACG10NC079032F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-1 1/4 FOSF
+PACG10NC065012F,otro,allen,1/4,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 1/4-NC-1/2 FOSF
+PACG10NC065019F,otro,allen,1/4,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 1/4-NC-3/4 FOSF
+XJFPMN08012Z,otro,,1/2,8,1/2,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA MECHA Nª 8 x 1/2 ZINC
+ALAMBRE,otro,,,,,,otro,,,alambre negro recocido 1.63 mm
+BHG5NF190240D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-240 DICRO
+BHG5NF190280D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-280 DICRO
+BHG5NF190300D,bulón,hexagonal,3/4,5,,G5,imperial,UNF,dicro,BULON HEXAGONAL G5 3/4-UNF-300 DICRO
+TPJI007019W,otro,,3/4,07,3/4,,imperial,,acero_inox,TOR.PARKER C/FIJ.INOXIDABLE N° 07 X 3/4 W
+TPFI007025W,otro,,,,,,otro,,acero_inox,TOR.PARKER C/FRES.INOXIDABLE N° 07 X 1 W
+PAFINC065012,otro,allen,1/4,1,1/2,,imperial,UNC,acero_inox,PRIS ALLEN C/FRES.INOXIDABLE 1/4 X UNC X 1/2
+TPJCG2G08032Z,otro,,1/4,2,1,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°8X1 1/4Z
+TPJCG2G10025Z,otro,,,,,G2,otro,,,TOR.PARKER C/FIJ.COMB.G2 N°10 X 1 Z
+TPJCG2G12025Z,otro,,,,,G2,otro,,,TOR.PARKER C/FIJ.COMB.G2 N°12 X 1 Z
+TPJCG2G08012Z,otro,,1/2,2,1/2,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°8 X 1/2 Z
+TTRG2NC047019Z,otro,,3/16,2,3/4,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 3/4 ZINC
+14,otro,,,,,,otro,,,DIFERENCIA EN PRECIO CON IVA
+TPJCG2G06032Z,otro,,1/4,2,1,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°6 X 1 1/4Z
+3320,otro,,,,,,otro,,,Tarugos PY 6  C/T Bolsa x 1000 unid.
+PACG10NC095110F,otro,allen,3/8,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 3/8-NC-4 1/2 FOSF
+INTERES,otro,,,,,,otro,,,INTERESES POR MORA
+PACIMA08016,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 8-1.25-16
+ABRAZ32,otro,,,,,,otro,,,ABRAZADERA CAÑO DE ESCAPE TIPO U 32
+ABRAZ44,otro,,,,,,otro,,,ABRAZADERA CAÑO DE ESCAPE TIPO U 44
+CPP050,otro,,,,,,otro,,,"CLAVOS PUNTA PARIS 2"""
+CPP063,otro,,1/2,2,,,imperial,,,"CLAVOS PUNTA PARIS 2 1/2"""
+CPP076,otro,,,,,,otro,,,"CLAVOS PUNTA PARIS 3"""
+15,otro,,,,,,otro,,,cajas de carton corrugado
+PASG10NC065016F,otro,allen,1/4,10,,G10,imperial,UNC,,PRIS.ALLEN S/CABEZA G10 1/4-UNC-5/8 FOSF
+ADUANA,otro,,,,,,otro,,,GASTOS DE IMPORTACION
+GTONOGRAV,otro,,,,,,otro,,,GASTOS NO GRAVADOS
+AP125A095Z,arandela,plana,3/8,125,,,imperial,,zinc,ARANDELA PLANA DIN125A 3/8 ZINC
+PITON8ABS/TZ,otro,,,,,,otro,,zinc,PITON ABIERTO SIN TOPE #8 ZINCADO
+BCRTG2WH095140,tuerca,,3/8,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 3/8-WH- 5,1/2 ZINC CON TUERCA"
+BCRTG2WH079090,tuerca,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 3,1/2 ZINC CON TUERCA"
+3313,otro,,,,,,otro,,,Tarugos PY 4 Bolsa x 1000 unid.
+3314,otro,,,,,,otro,,,Tarugos PY 5 Bolsa x 1000 unid.
+3315,otro,,,,,,otro,,,Tarugos PY 6 Bolsa x 1000 unid.
+3326,otro,,,,,,otro,,,Tarugos PY 7 Bolsa x 1000 unid.
+3316,otro,,,,,,otro,,,Tarugos PY 8 Bolsa x 1000 unid.
+3317,otro,,,,,,otro,,,Tarugos PY 10 Bolsa x 500 unid.
+3318,otro,,,,,,otro,,,Tarugos PY 12 Bolsa x 100 unid.
+3319,otro,,,,,,otro,,,Tarugos PY 14 Bolsa x 100 unid.
+3427,otro,,,,,,otro,,,Tarugos PY 4 Caja x 4000 (10 cajas de cartulina x 400 )
+3428,otro,,,,,,otro,,,Tarugos PY 5 Caja x 4000 (20 cajas de cartulina x 200 )
+3429,otro,,,,,,otro,,,Tarugos PY 6 Caja x 4000 (20 cajas de cartulina x 200 )
+3435,otro,,,,,,otro,,,Tarugos PY 7 Caja x 2000 (10 cajas de cartulina x 200 )
+3430,otro,,,,,,otro,,,Tarugos PY 8 Caja x 2000 (20 cajas de cartulina x 100 )
+3431,otro,,,,,,otro,,,Tarugos PY 10 Caja x 1000 (20 cajas de cartulina x 50 )
+3432,otro,,,,,,otro,,,Tarugos PY 12 Caja x 250   (10 cajas de cartulina x 25 )
+3433,otro,,,,,,otro,,,Tarugos PY 14 Caja x 200   (10 cajas de cartulina x 20 )
+3532,otro,,,,,,otro,,,Tarugos PY 5 Caja x 7000 (35 Bolsitas x 200 unid.)
+3533,otro,,,,,,otro,,,Tarugos PY 6 Caja x 5000 (25 Bolsitas x 200 unid.)
+3536,otro,,,,,,otro,,,Tarugos PY 10 Caja x 1000 (20 Bolsitas x 50 unid.)
+3537,otro,,,,,,otro,,,Tarugos PY 12 Caja x 500   (20 Bolsitas x 25 unid.)
+8314,otro,,,,,,otro,,,Tarugos PY 5 MAXI - POTE x 2000
+8315,otro,,,,,,otro,,,Tarugos PY 6 MAXI - POTE x 1000
+8316,otro,,,,,,otro,,,Tarugos PY 8 MAXI - POTE x 500
+8317,otro,,,,,,otro,,,Tarugos PY 10 MAXI - POTE x 250
+3387,otro,,,,,,otro,,,Tarugos Hyperfix 10x85 mm
+3388,otro,,,,,,otro,,,Tarugos Hyperfix 10x105 mm
+3389,otro,,,,,,otro,,,Tarugos Hyperfix 10x125 mm
+3487,tirafondo,,,,,,otro,,,Tarugos Hyperfix con Tornillo Tirafondo  10x85 mm Caja x 200 (10 cajas de cartulina x 20+20 )
+3488,tirafondo,,,,,,otro,,,Tarugos Hyperfix con Tornillo Tirafondo  10x105 mm Caja x 200 (10 cajas de cartulina x 20+20 )
+3489,tirafondo,,,,,,otro,,,Tarugos Hyperfix con Tornillo Tirafondo  10x125 mm Caja x 100 (10 cajas de cartulina x 10+10 )
+3201,otro,,,,,,otro,,,PROPER - Colector de Polvo para Taladro  en cajas de 25 unidades
+3233,otro,,,,,,otro,,,Tarugos ESPYGA 5 Bolsa x 1000 unid.
+3234,otro,,,,,,otro,,,Tarugos ESPYGA 6 Bolsa x 1000 unid.
+3236,otro,,,,,,otro,,,Tarugos ESPYGA 10 Bolsa x 250 unid.
+3237,otro,,,,,,otro,,,Tarugos ESPYGA 12 Bolsa x 100 unid.
+3238,otro,,,,,,otro,,,Tarugos ESPYGA 14 Bolsa x 50 unid.
+3240,otro,,,,,,otro,,,Tarugos ESPYGA 5 Caja x 2000 (10 cajas de cartulina x 200 )
+3241,otro,,,,,,otro,,,Tarugos ESPYGA 6 Caja x 2000 (20 cajas de cartulina x 100 )
+3242,otro,,,,,,otro,,,Tarugos ESPYGA 8 Caja x 1000 (20 cajas de cartulina x 50 )
+3243,otro,,,,,,otro,,,Tarugos ESPYGA 10 Caja x 500   (20 cajas de cartulina x 25 )
+3244,otro,,,,,,otro,,,Tarugos ESPYGA 12 Caja x 200   (10 cajas de cartulina x 20 )
+3245,otro,,,,,,otro,,,Tarugos ESPYGA 14 Caja x 100   (10 cajas de cartulina x 10 )
+3540,otro,,,,,,otro,,,Tarugos ESPYGA 5 Caja x 3000 (15 Bolsitas x 200 unid.)
+3541,otro,,,,,,otro,,,Tarugos ESPYGA 6 Caja x 3000 (30 Bolsitas x 100 unid.)
+3542,otro,,,,,,otro,,,Tarugos ESPYGA 8 Caja x 1500 (30 Bolsitas x 50 unid.)
+3543,otro,,,,,,otro,,,Tarugos ESPYGA 10 Caja x 750   (30 Bolsitas x 25 unid.)
+3544,otro,,,,,,otro,,,Tarugos ESPYGA 12 Caja x 600   (30 Bolsitas x 20 unid.)
+3545,otro,,,,,,otro,,,Tarugos ESPYGA 14 Caja x 300   (30 Bolsitas x 10 unid.)
+3328,otro,,,,,,otro,,,Tarugos PY 4  C/T Bolsa x 1000 unid.
+3325,otro,,,,,,otro,,,Tarugos PY 5  C/T Bolsa x 1000 unid.
+3321,otro,,,,,,otro,,,Tarugos PY 8  C/T Bolsa x 500 unid.
+3322,otro,,,,,,otro,,,Tarugos PY 10 C/T Bolsa x 500 unid.
+3323,otro,,,,,,otro,,,Tarugos PY 12 C/T Bolsa x 100 unid.
+3438,otro,,,,,,otro,,,Tarugos PY 4  C/T Caja x 2000 (10 cajas de cartulina x 200 )
+3439,otro,,,,,,otro,,,Tarugos PY 5  C/T Caja x 3000 (20 cajas de cartulina x 150 )
+3440,otro,,,,,,otro,,,Tarugos PY 6  C/T Caja x 2000 (20 cajas de cartulina x 100 )
+3441,otro,,,,,,otro,,,Tarugos PY 8  C/T Caja x 1000 (20 cajas de cartulina x 50 )
+3442,otro,,,,,,otro,,,Tarugos PY 10 C/T Caja x 800   (20 cajas de cartulina x 40 )
+3443,otro,,,,,,otro,,,Tarugos PY 12 C/T Caja x 250   (10 cajas de cartulina x 25 )
+3550,otro,,,,,,otro,,,Tarugos PY 6  C/T Caja x 3000 (30 Bolsitas x 100 unid.)
+3551,otro,,,,,,otro,,,Tarugos PY 8  C/T Caja x 1000 (20 Bolsitas x 50 unid.)
+3131,tornillo,,,,,,otro,,,Tarugos PY 5  C/T C/CLAVO-TORNILLO Caja x 2000 (20 cajas de cartulina x 100+100 )
+3132,tornillo,,,,,,otro,,,Tarugos PY 6  C/T C/CLAVO-TORNILLO Caja x 1000 (20 cajas de cartulina x 50+50 )
+3133,tornillo,,,,,,otro,,,Tarugos PY 8  C/T C/CLAVO-TORNILLO Caja x 500 (20 cajas de cartulina x 25+25 )
+3134,tornillo,,,,,,otro,,,Tarugos PY 10 C/T C/CLAVO-TORNILLO Caja x 400   (20 cajas de cartulina x 20+20)
+3370,otro,,,,,,otro,,,Tarugos PY PLUS 6 x 40 mm Bolsa x 100 unidades
+3371,otro,,,,,,otro,,,Tarugos PY PLUS 6 x 60 mm Bolsa x 100 unidades
+3372,otro,,,,,,otro,,,Tarugos PY PLUS 6 x 80 mm Bolsa x 100 unidades
+3374,otro,,,,,,otro,,,Tarugos PY PLUS 8 x 60 mm Bolsa x 100 unidades
+3375,otro,,,,,,otro,,,Tarugos PY PLUS 8 x 80 mm Bolsa x 100 unidades
+3376,otro,,,,,,otro,,,Tarugos PY PLUS 8 x 100 mm Bolsa x 100 unidades
+3471,tornillo,,,,,,otro,,,Tarugos PY PLUS 6 x 60 mm C/ CLAVO-TORNILLO Caja x 250 (10 cajas de cartulina x 25 )
+3472,tornillo,,,,,,otro,,,Tarugos PY PLUS 6 x 80 mm C/ CLAVO-TORNILLO Caja x 250 (10 cajas de cartulina x 25 )
+3474,tornillo,,,,,,otro,,,Tarugos PY PLUS 8 x 60 mm C/ CLAVO-TORNILLO Caja x 250 (10 cajas de cartulina x 25 )
+3385,otro,,,,,,otro,,,Tarugos PY Espyral para Placa de Yeso Bolsa de 250 unidades
+3585,otro,,,,,,otro,,,Tarugos PY Espyral para Placa de Yeso Caja x 1500 (30 Bolsitas x 50 unid.)
+3151,tornillo,,,,,,otro,,,Tarugos PY Espyral con TORNILLO p/ Placa de Yeso Caja x 500 (10 cajas de cartulina x 50 )
+3161,otro,,,,,,otro,,,Tarugos PYCK 8 S-10 Bolsa x 250 unidades
+3162,otro,,,,,,otro,,,Tarugos PYCK 8 M-20 Bolsa x 250 unidades
+3163,otro,,,,,,otro,,,Tarugos PYCK 8 L-30 Bolsa x 250 unidades
+3171,tornillo,,,,,,otro,,,Tarugos PYCK 8 S-10 CON TORNILLO Caja x 500 (10 cajas de cartulina x 50 )
+3172,tornillo,,,,,,otro,,,Tarugos PYCK 8 M-20 CON TORNILLO Caja x 250 (10 cajas de cartulina x 25 )
+3173,tornillo,,,,,,otro,,,Tarugos PYCK 8 L-30 CON TORNILLO Caja x 250 (10 cajas de cartulina x 25 )
+3380,otro,,,,,,otro,,,Tarugos Colpy 6  Bolsa x 250 unidades
+3381,otro,,,,,,otro,,,"Tarugos Colpy 8 ""corto"" Bolsa x 250 unidades"
+3382,otro,,,,,,otro,,,"Tarugos Colpy 8 ""largo"" Bolsa x 250 unidades"
+3383,otro,,,,,,otro,,,Tarugos Colpy 8 S Bolsa x 250 unidades
+3386,otro,,,,,,otro,,,Tarugos Colpy 8 Cerrado Bolsa x 250 unidades
+3280,tornillo,,,,,,otro,,,Tarugos Colpy 6 para paredes macizas con Clavo-Tornillo Caja x 250 (10 cajas de cartulina x 25 )
+3281,tornillo,,,,,,otro,,,"Tarugos Colpy 8 ""corto"" para paredes macizas  con Clavo-Tornillo Caja x 250 (10 cajas de cartulina x 25 )"
+3282,tornillo,,,,,,otro,,,"Tarugos Colpy 8 ""largo"" para paredes macizas  con Clavo-Tornillo Caja x 250 (10 cajas de cartulina x 25 )"
+3286,tornillo,,,,,,otro,,,Tarugos Colpy 8 Cerrado para paredes macizas  con Clavo-Tornillo Caja x 250 (10 cajas de cartulina x 25 )
+3283,tornillo,,,,,,otro,,,Tarugos Colpy 8 S para paredes huecas CON TORNILLOS Caja x 250 (10 cajas de cartulina x 25 )
+3294,otro,,,,,,otro,,,Grampa CLAMPY 19-25 Bolsa x 25 unidades
+3295,otro,,,,,,otro,,,Grampa CLAMPY 25-32 Bolsa x 25 unidades
+3296,otro,,,,,,otro,,,Grampa CLAMPY 32-40 Bolsa x 25 unidades
+3556,otro,,,,,,otro,,,Grampa CLAMPY 19-25 Bolsa x 25 unidades Anti UV
+3557,otro,,,,,,otro,,,Grampa CLAMPY 25-32 Bolsa x 25 unidades Anti UV
+3558,otro,,,,,,otro,,,Grampa CLAMPY 32-40 Bolsa x 25 unidades Anti UV
+3844,otro,,,,,,otro,,,Tarugos Syntor FIT PY 8 Bolsa x 100 unidades
+3831,otro,,,,,,otro,,,Tarugos Syntor Clavo PY 6 Bolsa x 100 unidades
+3832,otro,,,,,,otro,,,Tarugos Syntor Clavo PY 8 Bolsa x 100 unidades
+3837,otro,,,,,,otro,,,Tarugos Syntor Precinto PY 6 Bolsa x 100 unidades
+3838,otro,,,,,,otro,,,Tarugos Syntor Precinto PY 8 Bolsa x 100 unidades
+3839,otro,,,,,,otro,,,Tarugos Syntor Precinto PY 6 Bolsa x 100 unidades Negro Anti UV
+3840,otro,,,,,,otro,,,Tarugos Syntor Precinto PY 8 Bolsa x 100 unidades Negro Anti UV
+3841,otro,,,,,,otro,,,Tarugos Syntor Gancho PY 6 Bolsa x 100 unidades
+3842,otro,,,,,,otro,,,Tarugos Syntor Gancho PY 8 Bolsa x 100 unidades
+3847,otro,,1/2,1,100,,imperial,,,"Tarugos Syntor Grampa Ø 1/2""  PY 6 Bolsa x 100 unidades"
+3848,otro,,1/2,1,100,,imperial,,,"Tarugos Syntor Grampa Ø 1/2""  PY 8 Bolsa x 100 unidades"
+3849,otro,,5/8,5,100,,imperial,,,"Tarugos Syntor Grampa Ø 5/8""  PY 8 Bolsa x 100 unidades"
+3850,otro,,3/4,3,100,,imperial,,,"Tarugos Syntor Grampa Ø 3/4""  PY 8 Bolsa x 100 unidades"
+3855,otro,,1/2,1,100,,imperial,,,"Tarugos Syntor Grampa Ø 1/2""  PY 6 Bolsa x 100 unidades Anti UV"
+3856,otro,,1/2,1,100,,imperial,,,"Tarugos Syntor Grampa Ø 1/2""  PY 8 Bolsa x 100 unidades Anti UV"
+3857,otro,,5/8,5,100,,imperial,,,"Tarugos Syntor Grampa Ø 5/8""  PY 8 Bolsa x 100 unidades Anti UV"
+3858,otro,,3/4,3,100,,imperial,,,"Tarugos Syntor Grampa Ø 3/4""  PY 8 Bolsa x 100 unidades Anti UV"
+3111,otro,,,,,,otro,,,Tarugos PY 6 Univ. Bolsa de polietileno x 1000
+3112,otro,,,,,,otro,,,Tarugos PY 8 Univ. Bolsa de polietileno x 500
+3113,otro,,,,,,otro,,,Tarugos PY 10 Univ. Bolsa de polietileno x 250
+3121,otro,,,,,,otro,,,Tarugos PY 6 Univ. Caja x 2000 (20 cajas de cartulina x 100 )
+3122,otro,,,,,,otro,,,Tarugos PY 8 Univ. Caja x 1000 (20 cajas de cartulina x 50 )
+3123,otro,,,,,,otro,,,Tarugos PY 10 Univ. Caja x 250   (10 cajas de cartulina x 25 )
+3141,otro,,,,,,otro,,,Tarugos PY 6 Univ. Caja x 1000 (20 cajas de cartulina x 50 )
+3142,otro,,,,,,otro,,,Tarugos PY 8 Univ. Caja x 500   (20 cajas de cartulina x 25 )
+3143,otro,,,,,,otro,,,Tarugos PY 10 Univ. Caja x 200   (10 cajas de cartulina x 20 )
+3330,otro,,,,,,otro,,,Tarugos PY 5 P/Pre. Bolsa de polietileno x 1000
+3331,otro,,,,,,otro,,,Tarugos PY 6 P/Pre. Bolsa de polietileno x 1000
+3332,otro,,,,,,otro,,,Tarugos PY 8 P/Pre. Bolsa de polietileno x 500
+3334,otro,,,,,,otro,,,Tarugos PY 10 P/Pr. Bolsa de polietileno x 200
+3333,otro,,,,,,otro,,,Tarugos PY 14 P/Pr. Bolsa de polietileno x 50
+3450,otro,,,,,,otro,,,Tarugos PY 5 P/Pre. Caja x 2000 (20 cajas de cartulina x 100 )
+3451,otro,,,,,,otro,,,Tarugos PY 6 P/Pre. Caja x 2000 (20 cajas de cartulina x 100 )
+3452,otro,,,,,,otro,,,Tarugos PY 8 P/Pre. Caja x 1000 (20 cajas de cartulina x 50 )
+3453,otro,,,,,,otro,,,Tarugos PY 10 P/Pr. Caja x 500   (20 cajas de cartulina x 25 )
+4314,otro,,,,,,otro,,,"Precintos de Nylon 3,6 x 140 mm Bolsa X 100 unid."
+4320,otro,,,,,,otro,,,"Precintos de Nylon 3,6 x 200 mm Bolsa X 100 unid."
+4420,otro,,,,,4.8,otro,,,"Precintos de Nylon 4,8 x 200 mm Bolsa X 100 unid."
+4430,otro,,,,,4.8,otro,,,"Precintos de Nylon 4,8 x 300 mm Bolsa X 100 unid."
+4736,otro,,,,,,otro,,,"Precintos de Nylon 7,6 x 365 mm Bolsa X 100 unid."
+6410,arandela,,,,,,otro,,,Arandela PYSOLANT para Sistema EIFS Bolsa x 100 unidades
+4010,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 9-11 Bolsa x 100 unid.
+4011,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 11-13 Bolsa x 100 unid.
+4012,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 13-15 Bolsa x 100 unid.
+4013,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 15-17 Bolsa x 100 unid.
+4014,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 17-19 Bolsa x 100 unid.
+4015,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 19-21 Bolsa x 100 unid.
+4016,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 21-23 Bolsa x 100 unid.
+4017,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 23-25 Bolsa x 100 unid.
+4018,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 25-27 Bolsa x 100 unid.
+4019,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 27-29 Bolsa x 100 unid.
+4020,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 29-31 Bolsa x 100 unid.
+4021,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 31-33 Bolsa x 100 unid.
+4022,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 33-35 Bolsa x 100 unid.
+4023,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 35-38 Bolsa x 100 unid.
+4024,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 38-41 Bolsa x 50 unid.
+4025,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 41-44 Bolsa x 50 unid.
+4026,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 44-47 Bolsa x 50 unid.
+4027,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 47-50 Bolsa x 50 unid.
+4028,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 50-54 Bolsa x 50 unid.
+4029,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 54-58 Bolsa x 50 unid.
+4030,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 58-62 Bolsa x 50 unid.
+4031,otro,,,,,,otro,,,Abrazadera de Encastre Regulable 62-66 Bolsa x 50 unid.
+4032,otro,,,,,,otro,,,Pinza Profesional para cierre y apertura
+3931,tornillo,,,,,,otro,,,Tarugos PY 5 con Tornillos Caja x 1000 (10 Bolsitas x 100+100 unid.)
+3932,tornillo,,,,,,otro,,,Tarugos PY 6 con Tornillos Caja x 1000 (10 Bolsitas x 100+100 unid.)
+3934,tornillo,,,,,,otro,,,Tarugos PY 8 con Tornillos Caja x 500 (10 Bolsitas x 50+50 unid.)
+3935,tornillo,,,,,,otro,,,Tarugos PY 10 con Tornillos Caja x 250 (10 Bolsitas x 25+25 unid.)
+3940,tornillo,,,,,,otro,,,Tarugos ESPYGA 5 con Tornillos Caja x 1000 (10 Bolsitas x 100+100 unid.)
+3941,tornillo,,,,,,otro,,,Tarugos ESPYGA 6 con Tornillos Caja x 1000 (10 Bolsitas x 100+100 unid.)
+3942,tornillo,,,,,,otro,,,Tarugos ESPYGA 8 con Tornillos Caja x 500 (10 Bolsitas x 50+50 unid.)
+3943,tornillo,,,,,,otro,,,Tarugos ESPYGA 10 con Tornillos Caja x 250 (10 Bolsitas x 25+25 unid.)
+3950,tornillo,,,,,,otro,,,Tarugos PY 6  C/T con Tornillos Caja x 1000 (10 Bolsitas x 100+100 unid.)
+3951,tornillo,,,,,,otro,,,Tarugos PY 8  C/T con Tornillos Caja x 500 (10 Bolsitas x 50+50 unid.)
+3960,tornillo,,,,,,otro,,,Tarugos PY Espyral con Tornillos Caja x 500 (10 Bolsitas x 50+50 unid.)
+3961,tornillo,,,,,,otro,,,Tarugos PYCK 8 S-10 con Tornillos Caja x 500 (10 Bolsitas x 50+50 unid.)
+7031,tornillo,,,,,,otro,,,"Caja con 6 APYLABLES de 4 Módulos con Tornillos  (75 Tarugos PY 5,  50 Tarugos PY 6,  25 Tarugos PY 8,  15 Tarugos PY 10)"
+7032,tornillo,,,,,,otro,,,"Caja con 6 APYLABLES de 4 Módulos con Tornillos (30 Tarugos PY 5 + Tornillos, 20 Tarugos PY 6 + Tornillos, 12 Tarugos PY 8 + Tornillos, 10 Tarugos PY 10 + Tornillos)"
+7036,tornillo,,,,,,otro,,,"Caja con 6 APYLABLES de 4 Módulos con Tornillos (50 Tarugos ESPYGA 5, 30 Tarugos ESPYGA 6, 20 Tarugos ESPYGA 8, 10 Tarugos ESPYGA 10)"
+7034,tornillo,,,,,,otro,,,"Caja con 6 APYLABLES de 3 Módulos (10 Tarugos Espyga PY 8 + Tornillos, 5 Tarugos Espyga PY 10 + Tornillos, 10 Espyral + Tornillos)"
+7033,tornillo,,,,,,otro,,,"Caja con 6 APYLABLES de 3 Módulos (20 Tarugos PY 6 U + Tornillos, 10 Tarugos PY 8 U + Tornillos, 10 Espyral + Tornillos)"
+7035,otro,,,,,75,otro,,,"Caja con 6 APYLABLES de 3 Módulos (75 Grampyta PY 8, 50 Grampyta PY 6 Coaxil, 50 Grampyta PY 8 Coaxil)"
+3100,otro,,,,,,otro,,,Envase EXPENDEDOR Transparente Nº 1  Contiene: 1000 PY 5 - 1000 PY 6 - 500 PY 8
+3101,otro,,,,,,otro,,,Envase EXPENDEDOR Transparente Nº 2  Contiene: 1000 PY 6 - 500 PY 8 - 250 PY 10
+6427,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTES PY 4 Caja x 3000 (12 Potes Transp. X 250)
+6428,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTES PY 5 Caja x 3600 (18 Potes Transp. X 200)
+6429,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTES PY 6 Caja x 1800 (18 Potes Transp. X 100)
+6430,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTES PY 8 Caja x 900   (18 Potes Transp. X 50)
+6431,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTES PY 10 Caja x 450   (18 Potes Transp. X 25)
+6300,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 4 c/Tornillo Caja x 1200 (12 Potes Transp. X 100)
+6301,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 5 c/Tornillo Caja x 1800 (18 Potes Transp. X 100)
+6302,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 6 c/Tornillo Caja x 1350 (18 Potes Transp. X 75)
+6303,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 8 c/Tornillo Caja x 720   (18 Potes Transp. X 40)
+6040,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE ESPYGA 5 c/Tornillo Caja x 540 (18 Potes Transp. X 30)
+6041,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE ESPYGA 6 c/Tornillo Caja x 450 (18 Potes Transp. X 25)
+6042,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE ESPYGA 8 c/Tornillo Caja x 450 (18 Potes Transp. X 25)
+6043,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE ESPYGA 10 c/Tornillo Caja x 270 (18 Potes Transp. X 15)
+6439,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 5  C/T Caja x 2700 (18 Potes Transp. X 150)
+6440,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 6  C/T Caja x 1800 (18 Potes Transp. X 100)
+6441,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 8  C/T Caja x 900   (18 Potes Transp. X 50)
+6442,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 10 C/T Caja x 450   (18 Potes Transp. X 25)
+6450,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 5 P/PRECINTOS  Caja x 450 (18 Potes Transp. X 25)
+6451,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 6 P/PRECINTOS  Caja x 450 (18 Potes Transp. X 25)
+6452,otro,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 8 P/PRECINTOS  Caja x 450 (18 Potes Transp. X 25)
+6141,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 6 Universal con Tornillo Caja x 900 (18 Potes Transp. X 50)
+6142,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 8 Universal con Tornillo Caja x 450 (18 Potes Transp. X 25)
+6143,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY 10 Universal con Tornillo Caja x 270 (18 Potes Transp. X 15)
+3805,tornillo,,,,,,otro,,,Tarugos en POTES TRANSPARENTE PY  Espyral con Tornillo Caja x 240 (12 Potes Transp. X 20)
+678,otro,,,,,,otro,,,Grampyta PY 5  Bolsa x 750 (15 bolsitas x 50 unid) BLANCA
+680,otro,,,,,,otro,,,Grampyta PY 8  Bolsa x 750 (15 bolsitas x 50 unid) BLANCA
+682,otro,,,,,,otro,,,Grampyta PY 10 Bolsa x 750 (15 bolsitas x 50 unid) BLANCA
+684,otro,,,,,,otro,,,Grampyta Coaxil PY6 Bolsa x 750 (15 bolsitas x 50 unid) BLANCA
+686,otro,,,,,,otro,,,Grampyta Coaxil PY8 Bolsa x 750 (15 bolsitas x 50 unid) BLANCA
+688,otro,,,,,,otro,,,Grampyta PY Ø 10 Bolsa x 300 (15 bolsitas x 20 unid) BLANCA
+679,otro,,,,,,otro,,,Grampyta PY 5  Bolsa x 750 (15 bolsitas x 50 unid) GRIS
+681,otro,,,,,,otro,,,Grampyta PY 8  Bolsa x 750 (15 bolsitas x 50 unid) GRIS
+683,otro,,,,,,otro,,,Grampyta PY 10 Bolsa x 750 (15 bolsitas x 50 unid) GRIS
+685,otro,,,,,,otro,,,Grampyta Coaxil PY6 Bolsa x 750 (15 bolsitas x 50 unid) NEGRA
+687,otro,,,,,,otro,,,Grampyta Coaxil PY8 Bolsa x 750 (15 bolsitas x 50 unid) NEGRA
+689,otro,,,,,,otro,,,Grampyta PY Ø 10 Bolsa x 300 (15 bolsitas x 20 unid) NEGRA
+2215,otro,,,,,,otro,,,Grampyta PY 5  Caja x 3000 (12 Potes x 250 unid) BLANCA
+2216,otro,,,,,,otro,,,Grampyta PY 8  Caja x 3000 (12 Potes x 250 unid) BLANCA
+2217,otro,,,,,,otro,,,Grampyta PY 10 Caja x 2400 (12 Potes x 200 unid) BLANCA
+2218,otro,,,,,,otro,,,Grampyta Coaxil PY6 Caja x 1800 (12 Potes x 150 unid) BLANCA
+2219,otro,,,,,,otro,,,Grampyta Coaxil PY8 Caja x 1800 (12 Potes x 150 unid) BLANCA
+2220,otro,,,,,,otro,,,Grampyta PY Ø 10 Caja x   960 (12 Potes x  80 unid) BLANCA
+2315,otro,,,,,,otro,,,Grampyta PY 5 Caja x 3000 (12 Potes x 250 unid) GRIS
+2316,otro,,,,,,otro,,,Grampyta PY 8  Caja x 3000 (12 Potes x 250 unid) GRIS
+2317,otro,,,,,,otro,,,Grampyta PY 10 Caja x 2400 (12 Potes x 200 unid) GRIS
+2318,otro,,,,,,otro,,,Grampyta Coaxil PY6 Caja x 1800 (12 Potes x 150 unid) NEGRA
+2319,otro,,,,,,otro,,,Grampyta Coaxil PY8 Caja x 1800 (12 Potes x 150 unid) NEGRA
+2320,otro,,,,,,otro,,,Grampyta PY Ø 10 Caja x   960 (12 Potes x  80 unid) NEGRA
+4056,tuerca,,1/4,50,100,,imperial,,,"Gancho para Techo ""J"" 50 con Tuerca de 1/4"" + arandela casquete + arandela de PVC Bolsa x 100 Un."
+4057,tuerca,,1/4,60,100,,imperial,,,"Gancho para Techo ""J"" 60  con Tuerca de 1/4"" + arandela casquete + arandela de PVC Bolsa x 100 Un."
+4058,tuerca,,1/4,70,100,,imperial,,,"Gancho para Techo ""J"" 70  con Tuerca de 1/4"" + arandela casquete + arandela de PVC Bolsa x 100 Un."
+4059,tuerca,,1/4,80,100,,imperial,,,"Gancho para Techo ""J"" 80  con Tuerca de 1/4"" + arandela casquete + arandela de PVC Bolsa x 100 Un."
+4060,tuerca,,1/4,90,100,,imperial,,,"Gancho para Techo ""J"" 90  con Tuerca de 1/4"" + arandela casquete + arandela de PVC Bolsa x 100 Un."
+4061,tuerca,,1/4,100,100,,imperial,,,"Gancho para Techo ""J"" 100  con Tuerca de 1/4"" + arandela casquete + arandela de PVC Bolsa x 100 Un."
+3342,otro,,,,,,otro,,,PYTONES ABIERTOS PY 5 S/TOPE Caja x 100 Un.
+3343,otro,,,,,,otro,,,PYTONES ABIERTOS PY 6 S/TOPE Caja x 100 Un.
+3344,otro,,,,,,otro,,,PYTONES ABIERTOS PY 8 S/TOPE Caja x 100 Un.
+3360,otro,,,,,,otro,,,PYTONES ABIERTOS PY 10 S/TOPE Caja x 25 Un.
+3390,otro,,,,,,otro,,,PYTONES ABIERTOS PY 12 S/TOPE Caja x 15 Un.
+3351,otro,,,,,,otro,,,PYTONES ABIERTOS PY 5 C/TOPE Caja x 50 Un.
+3352,otro,,,,,,otro,,,PYTONES ABIERTOS PY 6 C/TOPE Caja x 50 Un.
+3353,otro,,,,,,otro,,,PYTONES ABIERTOS PY 8 C/TOPE Caja x 50 Un.
+3363,otro,,,,,,otro,,,PYTONES ABIERTOS PY 10 C/TOPE Caja x 25 Un.
+3393,otro,,,,,,otro,,,PYTONES ABIERTOS PY 12 C/TOPE Caja x 15 Un.
+3345,otro,,,,,,otro,,,PYTONES CERRADO PY 5 S/TOPE Caja x 100 Un.
+3346,otro,,,,,,otro,,,PYTONES CERRADO PY 6 S/TOPE Caja x 100 Un.
+3347,otro,,,,,,otro,,,PYTONES CERRADO PY 8 S/TOPE Caja x 100 Un.
+3361,otro,,,,,,otro,,,PYTONES CERRADO PY 10 S/TOPE Caja x 25 Un.
+3391,otro,,,,,,otro,,,PYTONES CERRADO PY 12 S/TOPE Caja x 15 Un.
+3354,otro,,,,,,otro,,,PYTONES CERRADO PY 5 C/TOPE Caja x 50 Un.
+3355,otro,,,,,,otro,,,PYTONES CERRADO PY 6 C/TOPE Caja x 50 Un.
+3356,otro,,,,,,otro,,,PYTONES CERRADO PY 8 C/TOPE Caja x 50 Un.
+3364,otro,,,,,,otro,,,PYTONES CERRADO PY 10 C/TOPE Caja x 25 Un.
+3394,otro,,,,,,otro,,,PYTONES CERRADO PY 12 C/TOPE Caja x 15 Un.
+3348,otro,,,,,,otro,,,PYTONES ESCUADRA PY 5 S/TOPE Caja x 100 Un.
+3349,otro,,,,,,otro,,,PYTONES ESCUADRA PY 6 S/TOPE Caja x 100 Un.
+3350,otro,,,,,,otro,,,PYTONES ESCUADRA PY 8 S/TOPE Caja x 100 Un.
+3362,otro,,,,,,otro,,,PYTONES ESCUADRA PY 10 S/TOPE Caja x 25 Un.
+3392,otro,,,,,,otro,,,PYTONES ESCUADRA PY 12 S/TOPE Caja x 15 Un.
+3357,otro,,,,,,otro,,,PYTONES ESCUADRA PY 5 C/TOPE Caja x 50 Un.
+3358,otro,,,,,,otro,,,PYTONES ESCUADRA PY 6 C/TOPE Caja x 50 Un.
+3359,otro,,,,,,otro,,,PYTONES ESCUADRA PY 8 C/TOPE Caja x 50 Un.
+3365,otro,,,,,,otro,,,PYTONES ESCUADRA PY 10 C/TOPE Caja x 25 Un.
+3395,otro,,,,,,otro,,,PYTONES ESCUADRA PY 12 C/TOPE Caja x 15 Un.
+13342,otro,,,,,,otro,,,Abiertos PY 5 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13343,otro,,,,,,otro,,,Abiertos PY 6 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13344,otro,,,,,,otro,,,Abiertos PY 8 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13360,otro,,,,,,otro,,,Abiertos PY 10 S/TOPE BOX x 500 u.  (20 cajas x 25 u.)
+13390,otro,,,,,,otro,,,Abiertos PY 12 S/TOPE BOX x 300 u.  (20 cajas x 15 u.)
+13351,otro,,,,,,otro,,,Abiertos PY 5 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13352,otro,,,,,,otro,,,Abiertos PY 6 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13353,otro,,,,,,otro,,,Abiertos PY 8 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13363,otro,,,,,,otro,,,Abiertos PY 10 C/TOPE BOX x 500 u.  (20 cajas x 25 u.)
+13393,otro,,,,,,otro,,,Abiertos PY 12 C/TOPE BOX x 300 u.  (20 cajas x 15 u.)
+13345,otro,,,,,,otro,,,Cerrados PY 5 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13346,otro,,,,,,otro,,,Cerrados PY 6 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13347,otro,,,,,,otro,,,Cerrados PY 8 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13361,otro,,,,,,otro,,,Cerrados PY 10 S/TOPE BOX x 500 u.  (20 cajas x 25 u.)
+13391,otro,,,,,,otro,,,Cerrados PY 12 S/TOPE BOX x 300 u.  (20 cajas x 15 u.)
+13354,otro,,,,,,otro,,,Cerrados PY 5 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13355,otro,,,,,,otro,,,Cerrados PY 6 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13356,otro,,,,,,otro,,,Cerrados PY 8 C/TOPE BOX x 1000 u.  (20 cajas x 50 u.)
+13364,otro,,,,,,otro,,,Cerrados PY 10 C/TOPE BOX x 500 u.  (20 cajas x 25 u.)
+13394,otro,,,,,,otro,,,Cerrados PY 12 C/TOPE BOX x 300 u.  (20 cajas x 15 u.)
+13348,otro,,,,,,otro,,,Escuadras PY 5 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13349,otro,,,,,,otro,,,Escuadras PY 6 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13350,otro,,,,,,otro,,,Escuadras PY 8 S/TOPE BOX x 2000 u.(20 cajas x 100 u.)
+13362,otro,,,,,,otro,,,Escuadras PY 10 S/TOPE BOX x 500 u.  (20 cajas x 25 u.)
+13392,otro,,,,,,otro,,,Escuadras PY 12 S/TOPE BOX x 300 u.  (20 cajas x 15 u.)
+13357,otro,,,,,,otro,,,Escuadras PY 5 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13358,otro,,,,,,otro,,,Escuadras PY 6 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13359,otro,,,,,,otro,,,Escuadras PY 8 C/TOPE BOX x 1000 u.(20 cajas x 50 u.)
+13365,otro,,,,,,otro,,,Escuadras PY 10 C/TOPE BOX x 500 u.  (20 cajas x 25 u.)
+13395,otro,,,,,,otro,,,Escuadras PY 12 C/TOPE BOX x 300 u.  (20 cajas x 15 u.)
+790757863441,otro,,,,,,otro,,,FIN
+16,otro,,,,,,otro,,,A CUENTA DE IMPORTACION DE INSUMOS INDUSTRIALES
+5000-U-2.1/2,otro,,1/2,2,,,imperial,,,"GRAMPA U BOLT 2 1/2"""
+17,otro,,,,,,otro,,,PRUEBA
+TTRG2NC047016Z,otro,,3/16,2,5/8,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 5/8 ZINC
+APB140Z,arandela,plana,9/16,9,,,imperial,,zinc,ARANDELA PLANA BISELADA 9/16 ZINC
+APB079Z,arandela,plana,5/16,5,,,imperial,,zinc,ARANDELA PLANA BISELADA 5/16 ZINC
+TUHPG2NC110Z,tuerca,hexagonal,7/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 7/16-UNC (14) ZINC
+REVISTA,bulón,,,,,,otro,,,REVISTA MAGAZINE BULONERO
+AP125B14Z,arandela,plana,,,,,otro,,zinc,ARANDELA PLANA DIN125B14 ZINC
+XHMN14050ZINC,otro,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA N°14X2 ZINC
+AG125Z,arandela,grower,1/2,1,,,imperial,,zinc,ARANDELA GROWER 1/2 ZINC
+AG095Z,arandela,grower,3/8,3,,,imperial,,zinc,ARANDELA GROWER 3/8 ZINC
+TO52.55.16,tornillo,redonda,,,,,otro,,,TO52.55.16 - TORNILLO CABEZA REDONDA 12-24X16
+TO52.55.20.E,tornillo,hexagonal,,,,,otro,,,TO52.55.20.E - TORNILLO CABEZA HEXAGONAL 12-24X20MM E
+XTADN06025F,otro,,,,,,otro,,,AUTOPERF TROMP.P/AGUJA DURLOCK N°6X1
+TTRG2NC047012Z,otro,,3/16,2,1/2,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 1/2 ZINC
+PACG10NC047019F,otro,allen,3/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 3/16-NC-3/4 FOSF
+PACG10NC047009F,otro,allen,3/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 3/16-NC-3/8 FOSF
+G5/16X250,otro,,5/16,250,,,imperial,,,GANCHOS PARA TEJIDO DE 250 MM (5/16)
+G5/16X300,otro,,5/16,300,,,imperial,,,GANCHOS PARA TEJIDO DE 300 MM (5/16)
+BCRTG2WH079063,tuerca,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 2,1/2 ZINC CON TUERCA"
+BCRGT2WH095155Z,tuerca,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 6 ZINC CON TUERCA
+BCRTG2WH065063Z,tuerca,,1/4,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 1/4-WH- 2,1/2 ZINC CON TUERCA"
+BCRTG2WH079056Z,tuerca,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 2,1/4 ZINC CON TUERCA"
+BCRGT2WH079140Z,tuerca,,5/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 5/16-WH- 5,1/2 ZINC CON TUERCA"
+BCRGT2WH079175Z,tuerca,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 7 ZINC CON TUERCA
+BCRTG2WH079200Z,tuerca,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 8 ZINC CON TUERCA
+PACG10NC065032F,otro,allen,1/4,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 1/4-NC-1 1/4 FOSF
+TUHG5NC160D,tuerca,hexagonal,5/8,5,,G5,imperial,UNC,dicro,TUERCA HEXAGONAL G5 5/8-UNC (11) DICRO
+TUHG8NF160D,tuerca,hexagonal,5/8,8,,G8,imperial,UNF,dicro,TUERCA HEXAGONAL G8 5/8-UNF (11) DICRO
+TUHG5NC190D,tuerca,hexagonal,3/4,5,,G5,imperial,UNC,dicro,TUERCA HEXAGONAL G5 3/4-UNC (10) DICRO
+010113,remache,,,,,,otro,,,REMACHE POP ALUMINIO 4 X 16
+010120,remache,,,,,,otro,,,REMACHE POP ALUMINIO 5 X 16
+010121,remache,,,,,,otro,,,REMACHE POP ALUMINIO 5 X 20
+G5/16X200,otro,,5/16,200,,,imperial,,,GANCHOS PARA TEJIDO DE 200 MM (5/16)
+TUHPG2NC250Z,tuerca,hexagonal,,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 1-UNC (8) ZINC
+PACG10NC065025F,otro,allen,1/4,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 1/4-NC-1 FOSF
+AGI079,arandela,grower,5/16,5,,,imperial,,acero_inox,ARANDELA GROWER INOXIDABLE 5/16
+PACINC065032,otro,allen,1/4,1,,,imperial,UNC,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE 1/4-UNC-1 1/4
+TUHPG2NC140Z,tuerca,hexagonal,9/16,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 9/16-UNC (12) ZINC
+TUHPG2NC160Z,tuerca,hexagonal,5/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 5/8-UNC (11) ZINC
+HXPMV14050Z,arandela,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA C/ARANDELA VULCANIZADA N°14 X 2 ZINC
+GRAMPA264X25P,otro,,,,,,otro,,,GRAMPA PARA CERCO  264 X 25 PULIDA
+PCCG2NC065010N,otro,cuadrada,1/4,2,,G2,imperial,UNC,,PRIS.C/CUADRADA G2 1/4-UNC-3/8
+PACIMA08025,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 8-1.25-25
+010124,remache,,,,,,otro,,,REMACHE POP ALUMINIO 5 X 30
+PAFIMA06035,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/FREZADA INOXIDABLE AISI 304 M 6-1-35
+TTHCIG2NC175N,otro,hexagonal,11/16,2,,G2,imperial,UNC,natural,TCA .HEX.TORN CONTRAT. IZQ. G2 11/16-UNC (18) NAT ALT 7
+TTHCDG2NC175N,otro,hexagonal,11/16,2,,G2,imperial,UNC,natural,TCA .HEX.TORN CONTRAT. DER. G2 11/16-UNC (18) NAT ALT 7
+BCRTG2WH125100Z,tuerca,,1/2,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 1/2-WH- 4 ZINC CON TUERCA
+BCRTG2WH095100Z,tuerca,,3/8,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 3/8-WH- 4 ZINC CON TUERCA
+TUHG8NC160BO,tuerca,hexagonal,5/8,8,,G8,imperial,UNC,,TUERCA HEXAGONAL G8 5/8-UNC (11) BLACK OXID
+BHG8NC160050N,bulón,hexagonal,5/8,8,,G8,imperial,UNC,,BULON HEXAGONAL G8 5/8-UNC-2 BLACK OXID
+RHT047056Z,remache,,3/16,3,56,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X56 ZINC
+RHT047030Z,remache,,3/16,3,30,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X30 ZINC
+RHT047022Z,remache,,3/16,3,22,,imperial,,zinc,REMACHE HO.TUBULAR 3/16X22 ZINC
+PACG10NC079038F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-1 1/2 FOSF
+PACG10NC079050F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-2 FOSF
+PACG10NC095019F,otro,allen,3/8,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 3/8-NC-3/4 FOSF
+PACG10NC095032F,otro,allen,3/8,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 3/8-NC-1 1/4 FOSF
+PACG10NC095050F,otro,allen,3/8,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 3/8-NC-2 FOSF
+PACG10NC125038F,otro,allen,1/2,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 1/2-NC-1 1/2 FOSF
+PASG10NC065012F,otro,allen,1/4,10,,G10,imperial,UNC,,PRIS.ALLEN S/CABEZA G10 1/4-UNC-1/2 FOSF
+TTRG2NC047044Z,otro,,3/16,2,1,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 1 3/4 ZINC
+TTRG2NC031019Z,otro,,1/8,2,3/4,G2,imperial,,zinc,TOR. TANQ. RAN. G2 1/8 X 3/4 ZINC
+TUIMA039,tuerca,hexagonal,5/16,5,,,imperial,UNC,acero_inox,TUERCA HEXAGONAL INOXIDABLE 5/16-UNC (18)
+PAFINC065032,otro,allen,1/4,1,1,,imperial,UNC,acero_inox,PRIS ALLEN C/FRES.INOXIDABLE 1/4 X UNC X 1 1/4
+APC095D,arandela,plana,3/8,3,,,imperial,,dicro,ARANDELA PLANA COMUN 3/8 DICRO
+APC079D,arandela,plana,5/16,5,,,imperial,,dicro,ARANDELA PLANA COMUN 5/16 DICRO
+IM100360,tuerca,plana,,,,,otro,,zinc,TUERCA REMACHE M 5 CAB. PLANA ZINC
+IM100253,tuerca,plana,,,,,otro,,zinc,TUERCA REMACHE M 6 CAB. PLANA ZINC
+TPJI001025W,otro,,,,,,otro,,acero_inox,TOR.PARKER C/FIJ.INOXIDABLE N° 06 X 1 W
+PASG10NC047012F,otro,allen,3/16,10,,G10,imperial,UNC,,PRIS.ALLEN S/CABEZA G10 3/16-UNC-1/2 FOSF
+PABG10NC047019F,otro,allen,3/16,10,,G10,imperial,UNC,,PRIS. ALLEN C/BOT.G10 3/16-UNC-3/4 FOSF
+PABG10NC047012F,otro,allen,3/16,10,,G10,imperial,UNC,,PRIS. ALLEN C/BOT.G10 3/16-UNC-1/2 FOSF
+BECS12X95,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 12X95
+BECS16X90,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 16X90
+TPJCG2G04012Z,otro,,1/2,2,1/2,G2,imperial,,zinc,TOR.PARKER C/FIJ.COMB.G2 4 X 1/2 ZINC
+TFFG2NC047006Z,otro,phillips,3/16,2,1/4,G2,imperial,,zinc,TOR. C/FRES. PHIL. G2 3/16 X 1/4 ZINC
+TPJI006009W,otro,,3/8,06,3/8,,imperial,,acero_inox,TOR.PARKER C/FIJ.INOXIDABLE N° 06 X 3/8 W
+XTMDN06041Z,otro,,5/8,6,1,,imperial,,,AUTOPERF TROMP.P/MECHA DURLOCK N°6 X 1 5/8
+XHMN12050ZINC,otro,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA N°12X2 ZINC
+APB065Z,arandela,plana,1/4,1,,,imperial,,zinc,ARANDELA PLANA BISELADA 1/4 ZINC
+APB095Z,arandela,plana,3/8,3,,,imperial,,zinc,ARANDELA PLANA BISELADA 3/8 ZINC
+APB125Z,arandela,plana,1/2,1,,,imperial,,zinc,ARANDELA PLANA BISELADA 1/2 ZINC
+APB160Z,arandela,plana,5/8,5,,,imperial,,zinc,ARANDELA PLANA BISELADA 5/8 ZINC
+0415840901,varilla,,,,,,otro,,acero_inox,"VARILLA ROSCADA INOXIDABLE , AISI 304 A4 80, M 12 MA"
+0410160907,tornillo,hexagonal,,,,,otro,,acero_inox,"TORNILLO CAB. HEXAG. INOXIDABLE , AISI 304 A2 70, M 12-25 MA"
+TUHPG2NC190Z,tuerca,hexagonal,3/4,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 3/4-UNC (10) ZINC
+TUHPG2NC220Z,tuerca,hexagonal,7/8,2,,G2,imperial,UNC,zinc,TUERCA HEXAGONAL PESADA G2 7/8-UNC (9) ZINC
+BCRTG2WH079125Z,tuerca,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 5 ZINC CON TUERCA
+MAEZ01.00,otro,,,,,,otro,,,MECHA A/R EZETA 1.00 MM
+MAEZ02.00,otro,,,,,,otro,,,MECHA A/R EZETA 2.00 MM
+MAEZ01.50,otro,,,,,,otro,,,MECHA A/R EZETA 1.50 MM
+MAEZ03.00,otro,,,,,,otro,,,MECHA A/R EZETA 3.00 MM
+MAEZ04.00,otro,,,,,,otro,,,MECHA A/R EZETA 4.00 MM
+MAEZ05.00,otro,,,,,,otro,,,MECHA A/R EZETA 5.00 MM
+MAEZ06.00,otro,,,,,,otro,,,MECHA A/R EZETA 6.00 MM
+BCRGT2WH079100Z,tuerca,,5/16,2,,G2,imperial,WH,zinc,BUL. C/RED. C/ CUAD. G2 5/16-WH- 4 ZINC CON TUERCA
+PAFG5NC079019F,otro,allen,5/16,5,,G5,imperial,UNC,,PRIS ALLEN C/FRES.G5 5/16-UNC-3/4 FOSF
+ARPI,otro,,,,,,otro,,,BOLSAS ARPILLERAS
+TTRG2NC031025Z,otro,,1/8,2,1,G2,imperial,,zinc,TOR. TANQ. RAN. G2 1/8 X 1 ZINC
+PACG10NC079016F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-5/8 FOSF
+XTMDN06028Z,otro,,1/8,6,1,,imperial,,,AUTOPERF TROMP.P/MECHA DURLOCK N°6 X 1 1/8
+APC125D,arandela,plana,1/2,1,,,imperial,,dicro,ARANDELA PLANA COMUN 1/2 DICRO
+APC065D,arandela,plana,1/4,1,,,imperial,,dicro,ARANDELA PLANA COMUN 1/4 DICRO
+OMEGA5/8,otro,,5/8,5,,,imperial,,,GRAMPA OMEGA 5/8
+XJFPMN08038Z,otro,,1/2,8,1,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA MECHA Nª 8 x 1 1/2 ZINC
+BECS12X120,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 12X120
+BECS16X125,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 16X125
+18,otro,,,,,,otro,,,Prueba22
+TPJCG2G12038Z,otro,,1/2,2,1,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°12 X 1 1/2 Z
+TTI065038,tornillo,,1/4,304,,,imperial,UNC,acero_inox,TORNILLO CAB/TANQUE INOXIDABLE 304 1/4 - UNC - 1 1/2
+TTI065032,tornillo,,1/4,304,,,imperial,UNC,acero_inox,TORNILLO CAB/TANQUE INOXIDABLE 304 1/4 - UNC - 1 1/4
+TPJCG2G12032Z,otro,,1/4,2,1,G2,imperial,,,TOR.PARKER C/FIJ.COMB.G2 N°12 X 1 1/4 Z
+TUHG2NC381L21/N,tuerca,hexagonal,1.1/2,2,,G2,imperial,UNC,natural,"TUERCA HEXAGONAL G2 1,1/2-UNC (6) NAT LLAVE 2 1/4"
+PACIMA04050,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 4-0.7-50
+PACIMA05010,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 5-0.8-10
+PACIMA06016,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 6-1-16
+PACIMA06025,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 6-1-25
+PACIMA06035,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 6-1-35
+PACIMA10030,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 10-1.50-30
+PACIMA10035,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 10-1.50-35
+APB250Z,arandela,plana,,,,,otro,,zinc,ARANDELA PLANA BISELADA 1 ZINC
+PCCG2NC095038N,otro,cuadrada,3/8,2,,G2,imperial,UNC,,"PRIS.C/CUADRADA G2 3/8-UNC-1,1/2"
+PCCG2NC095044N,otro,cuadrada,3/8,2,,G2,imperial,UNC,,"PRIS.C/CUADRADA G2 3/8-UNC-1,3/4"
+CHPH3.5X50,chaveta,,,,,,otro,,,"CHAVETA PARTIDA DE HIERRO 3,5 X 50"
+BHG109NF250076N,bulón,hexagonal,,10,,10.9,imperial,UNF,,BULON HEXAGONAL (10.9) 1 - UNF - 3 BLACK OXID
+XAEN14076Z,otro,,,,,,otro,,zinc,AUTOPERF. ALAS C/ESTRIAS N°14X3 ZINC
+CEPELEC001,otro,,,,,,otro,,,CEPILLO ELECTRICO 001
+BCRG2WH140070Z,otro,,9/16,2,,G2,imperial,WH,zinc,"BUL. C/RED. C/ CUAD. G2 9/16-WH- 2,3/4 ZINC"
+BHG5NC220D,bulón,hexagonal,7/8,5,,G5,imperial,UNC,dicro,"BULON HEXAGONAL G5 7/8-UNC-7,1/2 DICRO"
+PACG10NC079012F,otro,allen,5/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 5/16-NC-1/2 FOSF
+TUCINOX047,tuerca,,3/16,304,,,imperial,,acero_inox,TUERCA CIEGA INOXIDABLE 304 3/16- 7.5 - 3/8
+010114,remache,,,,,,otro,,,REMACHE POP ALUMINIO 4 X 19
+BHG2NC125210Z,bulón,hexagonal,1/2,2,,G2,imperial,UNC,zinc,BULON HEXAGONAL G2 1/2-UNC-8 1/4 ZINC
+TPJI008009W,otro,,3/8,08,3/8,,imperial,,acero_inox,TOR.PARKER C/FIJ.INOXIDABLE N° 08 X 3/8 W
+XTAWN10050F,otro,,,,,,otro,,,AUTOPERF TROMP.P/AGUJA MADERA N°10X2
+PACIMA06030,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 6-1-30
+PACIMA08020,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 8-1.25-20
+PACIMA08045,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 8-1.25-45
+PACIMA10020,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 10-1.50-20
+PACIMA10025,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 10-1.50-25
+PACIMA10060,otro,allen,,,,,otro,,acero_inox,PRISIONERO ALLEN C/CIL. INOXIDABLE M 10-1.50-60
+TFFG2NC039012Z,otro,phillips,5/32,2,1/2,G2,imperial,,zinc,TOR. C/FRES. PHIL. G2 5/32 X 1/2 ZINC
+XJAN06009Z,otro,,3/8,6,3/8,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA AGUJA Nª 6 x 3/8 ZINC
+TUHG2NF125N,tuerca,hexagonal,1/2,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL G2 1/2-UNF (20) NAT
+XTAWN08063F,otro,,1/2,8,2,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°8X2 1/2 NEGRO
+XTAWN06044F,otro,,3/4,6,1,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°6X1 3/4 NEGRO
+XTAWN06041F,otro,,5/8,6,1,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°6X1 5/8 NEGRO
+X17AN14050Z,otro,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX.T17 PTA AGUJ. CALAD. C/ ARAND. N°14X2 ZINC
+XJAN08019Z,otro,,3/4,8,3/4,,imperial,,zinc,AUTOPERF.C/FIJ.FLANGE PTA AGUJA Nª 8 x 3/4 ZINC
+GANCJOJ50,otro,,,,,,otro,,,GANCHO J PARA TECHO 50 MM
+THAZG2NF110N,tuerca,hexagonal,7/16,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL ABRAZADERA G2 7/16-UNF (20) NAT
+THAZG2NF125N,tuerca,hexagonal,1/2,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL ABRAZADERA G2 1/2-UNF (20) NAT
+THAZG2NF140N,tuerca,hexagonal,9/16,2,,G2,imperial,UNF,natural,TUERCA HEXAGONAL ABRAZADERA G2 9/16-UNF (18) NAT
+BHG8NF250063N,bulón,hexagonal,1/2,8,,G8,imperial,UNF,,BULON HEXAGONAL G8 1-UNF-2 1/2 BLACK OXID
+BHG8NF250090N,bulón,hexagonal,1/2,8,,G8,imperial,UNF,,BULON HEXAGONAL G8 1-UNF-3 1/2 BLACK OXID
+PABG10NC125038F,otro,allen,1/2,10,,G10,imperial,WH,,PRIS. ALLEN C/BOT.G10 1/2-WHT-1 1/2 FOSF
+PACG10NC110019F,otro,allen,7/16,10,,G10,imperial,,,PRIS ALLEN C/CIL.G10 7/16-NC-3/4 FOSF
+PAFG10NC095019F,otro,allen,3/8,10,,G10,imperial,,,PRIS ALLEN C/FRES.G10 3/8-NC-3/4 FOSF
+APB190Z,arandela,plana,3/4,3,,,imperial,,zinc,ARANDELA PLANA BISELADA 3/4 ZINC
+TTRG2NC047032Z,otro,,3/16,2,1,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 1 1/4 ZINC
+CHPH5.5X55,chaveta,,,,,,otro,,,"CHAVETA PARTIDA DE HIERRO 5,5 X 55"
+128.275.4813,remache,,,,,4.8,otro,,,REMACHE POP ALUMINIO 4.8 X 12
+TUHPG2NC375N,tuerca,hexagonal,1/2,2,,G2,imperial,UNC,natural,TUERCA HEXAGONAL PESADA G2 1 1/2 -UNC (6) NAT
+XJFPMN08025F,otro,,,,,,otro,,,AUTOPERF.C/FIJ.FLANGE PTA MECHA N°8X1 FOSF
+XJFPMN08019F,otro,,3/4,8,3/4,,imperial,,,AUTOPERF.C/FIJ.FLANGE PTA MECHA N°8X3/4 FOSF
+XHMN10025ZINC,otro,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA N°10X1 ZINC
+BECS08X100,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 8X100
+PAFINC065025,otro,allen,1/4,1,1,,imperial,UNC,acero_inox,PRIS ALLEN C/FRES.INOXIDABLE 1/4 X UNC X 1
+APB110Z,arandela,plana,7/16,7,,,imperial,,zinc,ARANDELA PLANA BISELADA 7/16 ZINC
+XTAWN08050F,otro,,,,,,otro,,,AUTOPERF TROMP.P/AGUJA MADERA N°8X2
+XTAWN10032F,otro,,1/4,10,1,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°10 X 1 1/4
+XTAWN10038F,otro,,1/2,10,1,,imperial,,,AUTOPERF TROMP.P/AGUJA MADERA N°10 X 1 1/2
+XTAWN10025F,otro,,,,,,otro,,,AUTOPERF TROMP.P/AGUJA MADERA N°10 X 1
+PITON6ABS/TZ,otro,,,,,,otro,,zinc,PITON ABIERTO SIN TOPE #6 ZINCADO
+ABOMBE,arandela,,,,,,otro,,,ARANDELA BOMBE CHAPA V28
+APLANAV26,arandela,plana,,,,,otro,,,ARANDELA PLANA  V26
+REMP3.5X16,remache,,,,,,otro,,,REMACHE POP ALUMINIO 3.5 X 16
+MERCAD,otro,,,,,,otro,,,ADELANTO MERCADERIA
+REP4816A,remache,,,,,4.8,otro,,,REMACHE POP ALUMINIO 4.8 X 16
+REP4810A,remache,,,,,4.8,otro,,,REMACHE POP ALUMINIO 4.8 X 10
+REP4820A,remache,,,,,4.8,otro,,,REMACHE POP ALUMINIO 4.8 X 20
+TTRG2NC047025Z,otro,,3/16,2,1,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 1 ZINC
+TTRG2NC047050Z,otro,,3/16,2,2,G2,imperial,,zinc,TOR. TANQ. RAN. G2 3/16 X 2 ZINC
+PABG10NC047032F,otro,allen,3/16,10,,G10,imperial,UNC,,PRIS. ALLEN C/BOT.G10 3/16-UNC-1 1/4 FOSF
+BECS12X100,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 12X100
+TTRG2NC065009Z,otro,,1/4,2,3/8,G2,imperial,,zinc,TOR. TANQ. RAN. G2 1/4 X 3/8 ZINC
+TTRG2NC065019Z,otro,,1/4,2,3/4,G2,imperial,,zinc,TOR. TANQ. RAN. G2 1/4 X 3/4 ZINC
+TUAAG2NC079D,tuerca,autofrenante,5/16,2,,G2,imperial,UNC,dicro,TUERCA AUTOFR. ALTA G2 5/16-UNC(18) DICRO
+APB079D,arandela,plana,5/16,5,,,imperial,,dicro,ARANDELA PLANA BISELADA 5/16 DICRO
+APB095D,arandela,plana,3/8,3,,,imperial,,dicro,ARANDELA PLANA BISELADA 3/8 DICRO
+APB125D,arandela,plana,1/2,1,,,imperial,,dicro,ARANDELA PLANA BISELADA 1/2 DICRO
+ACH047Z,arandela,,3/16,3,,,imperial,,zinc,ARANDELA CHAPISTA 3/16 ZINC
+CONJ-ESNC065012,tuerca,,1/4,2,,G2,imperial,UNC,,CONJUNTO ESTANTERIAS BUL G2 1/4-UNC-1/2 CON TUERCA
+APB220Z,arandela,plana,7/8,7,,,imperial,,zinc,ARANDELA PLANA BISELADA 7/8 ZINC
+TUAAG2NC065N,tuerca,autofrenante,1/4,2,,G2,imperial,UNC,zinc,TUERCA AUTOFR. ALTA G2 1/4-UNC(20) ZINC. NEGRA
+HXPMV14075Z,arandela,hexagonal,,,,,otro,,zinc,AUTOPERF.C/HEX. PTA MECHA C/ARANDELA VULCANIZADA N°14 X 3 ZINC
+GANCJOJ60,otro,,,,,,otro,,,GANCHO J PARA TECHO 60 MM
+BECS16X150,bulón,,,,,,otro,,,BULON DE EXPANSION BECS 16X150
+EAWS-6013-0250,otro,,,,,,otro,,,ELECTRODO AWS 6013 2.50 MM
+EAWS-6013-0325,otro,,,,,,otro,,,ELECTRODO AWS 6013 3.25 MM
+TTCG2NC047090Z,otro,,3/16,2,3,G2,imperial,,zinc,TOR. TANQ. COMB. G2 3/16 X 3 1/2 ZINC
+TTCG2NC065012Z,otro,,1/4,2,1/2,G2,imperial,,zinc,TOR. TANQ. COMB. G2 1/4 X 1/2 ZINC
+BAPF16X140FWA,otro,,,,,,otro,,,BROCA PERSON FISCHER 16 X 140 FWA
+BHIWHT125038,bulón,hexagonal,1/2,1,,,imperial,WH,acero_inox,BULON HEXAGONAL INOXIDABLE 1/2-WHT-1 1/2 (12)
+BCCP23065032,bulón,plana,1/4,23,1,,imperial,,,BULON P/CORREA  CAB. PLANA CAB 23 1/4 X 1 1/4
+BCCP23065038,bulón,plana,1/4,23,1,,imperial,,,BULON P/CORREA  CAB. PLANA CAB 23 1/4 X 1 1/2
+BHG5NC250300D,bulón,hexagonal,,5,,G5,imperial,UNC,dicro,BULON HEXAGONAL G5 1-UNC-12 DICRO
+BCCP28079032,bulón,plana,5/16,28,1,,imperial,,,BULON P/CORREA  CAB. PLANA CAB 28 5/16 X 1 1/4
+BCCP28079038,bulón,plana,5/16,28,1,,imperial,,,BULON P/CORREA  CAB. PLANA CAB 28 5/16 X 1 1/2
+TUIMA065,tuerca,hexagonal,1/4,1,,,imperial,UNC,acero_inox,TUERCA HEXAGONAL INOXIDABLE 1/4-UNC (20)
+TTRG2NC079025Z,otro,,5/16,2,1,G2,imperial,,zinc,TOR. TANQ. RAN. G2 5/16 X 1 ZINC
+TPJCG2G04015Z,otro,,,,,G2,otro,,zinc,TOR.PARKER C/FIJ.COMB.G2 4 X 15 ZINC
+AF04010,arandela,,,,,,otro,,,ARANDELA DE FIBRA 4 X 10
+TMHNC110Z,tuerca,mariposa,7/16,7,,,imperial,UNC,zinc,TUERCA MARIPOSA HEMBRA 7/16-UNC ZINC

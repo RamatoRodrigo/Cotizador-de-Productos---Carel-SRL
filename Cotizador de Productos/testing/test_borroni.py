@@ -1,71 +1,64 @@
+# =============================
+# TEST: Borroni Excel Reader
+# =============================
+
 import sys
+import os
 from pathlib import Path
-import pdfplumber
-import csv
 
-# ---------------------------
-# Base del proyecto
-# ---------------------------
-BASE_DIR = Path(__file__).resolve().parent.parent
+# Agregar la carpeta raíz del proyecto al path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-# Agregar raíz al path
-sys.path.insert(0, str(BASE_DIR))
-
-# Imports del proyecto
 from services.readers.borroni_reader import BorroniReader
+import logging
 
-# ---------------------------
-# Paths
-# ---------------------------
-pdf_path = BASE_DIR / "data" / "borroni.pdf"
-output_path = BASE_DIR / "ddbb" / "borroni.csv"
-
-# Crear carpeta si no existe
-output_path.parent.mkdir(parents=True, exist_ok=True)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(message)s'
+)
+logger = logging.getLogger(__name__)
 
 
-def test_borroni_parser():
-    if not pdf_path.exists():
-        print(f"❌ Archivo no encontrado: {pdf_path}")
+def test_borroni_excel():
+    """Prueba la lectura del Excel de Borroni"""
+    
+    excel_path = "data/borroni.xlsx"
+    output_csv = "ddbb/borroniSinParsear.csv"
+    
+    # Validar que exista el Excel
+    if not Path(excel_path).exists():
+        logger.error(f"❌ Archivo no encontrado: {excel_path}")
+        logger.info("   Por favor, coloca el archivo en data/borroni.xlsx")
         return
-
+    
+    # Crear directorio de salida si no existe
+    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+    
+    logger.info("\n🚀 Iniciando BorroniReader...\n")
+    
+    # Crear reader y ejecutar
     reader = BorroniReader()
-    all_products = []
-
-    with pdfplumber.open(pdf_path) as pdf:
-        print(f"\n📄 Total páginas: {len(pdf.pages)}")
-
-        for page_num, page in enumerate(pdf.pages, start=1):
-            products = reader.parse_page(page, page_num)
-
-            print(f"Página {page_num}: {len(products)} productos")
-
-            # Mostrar algunos ejemplos
-            for p in products[:2]:
-                print(p)
-
-            all_products.extend(products)
-
-    print("\n======================")
-    print(f"TOTAL PRODUCTOS: {len(all_products)}")
-
-    # Guardar CSV
-    with open(output_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(
-            f,
-            fieldnames=[
-                "description",
-                "measure",
-                "unit_price",
-                "normalized_description"
-            ]
-        )
-
-        writer.writeheader()
-        writer.writerows(all_products)
-
-    print(f"\n✅ CSV generado: {output_path}")
+    df = reader.read_and_save(excel_path, output_csv)
+    
+    if not df.empty:
+        logger.info(f"\n{'='*100}")
+        logger.info("📋 PRIMEROS 10 PRODUCTOS:")
+        logger.info(f"{'='*100}\n")
+        
+        # Mostrar primeros 10
+        print(df.head(10).to_string())
+        
+        logger.info(f"\n{'='*100}")
+        logger.info("📊 INFORMACIÓN DEL DATASET:")
+        logger.info(f"{'='*100}")
+        logger.info(f"Total de filas: {len(df)}")
+        logger.info(f"Columnas: {df.columns.tolist()}")
+        logger.info(f"Tipos de datos:\n{df.dtypes}")
+        
+        logger.info(f"\n✅ Test completado exitosamente!")
+    else:
+        logger.error("❌ No se extrajeron datos")
 
 
-if __name__ == "__main__":
-    test_borroni_parser()
+if __name__ == '__main__':
+    test_borroni_excel()

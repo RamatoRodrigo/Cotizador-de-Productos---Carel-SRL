@@ -10,7 +10,7 @@ from services.matchers.parser_trusoni import parse_trusoni
 
 # paths
 input_path = os.path.join(BASE_DIR, "ddbb", "trusoniSinParsear.csv")
-output_path = os.path.join(BASE_DIR, "ddbb", "trusoni.csv")
+output_path = os.path.join(BASE_DIR, "ddbb", "trusoniParseado.csv")
 
 # debug (opcional pero útil)
 print("INPUT:", input_path, os.path.exists(input_path))

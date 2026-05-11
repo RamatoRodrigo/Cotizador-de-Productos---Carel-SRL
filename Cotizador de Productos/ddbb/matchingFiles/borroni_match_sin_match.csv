@@ -1,0 +1,222 @@
+id_proveedor,descripcion_proveedor,tipo_proveedor,score_final,proveedor
+HEX-G2--1--104--100--RT--1--1,BU HEX G2 UNC - 1/4 x 1 RT ZA,bulón,69.36,Borroni
+HEX-G2--1--104--100--RT--3--1,BU HEX G2 UNC - 1/4 x 1 RT NAT,bulón,69.05,Borroni
+HEX-G2--1--104--114--RT--1--1,BU HEX G2 UNC - 1/4 x 1 1/4 RT ZA,bulón,69.36,Borroni
+HEX-G2--1--104--114--RT--3--1,BU HEX G2 UNC - 1/4 x 1 1/4 RT NAT,bulón,69.05,Borroni
+HEX-G2--1--516--100--RT--1--1,BU HEX G2 UNC - 5/16 x 1 RT ZA,bulón,68.75,Borroni
+HEX-G2--1--516--100--RT--3--1,BU HEX G2 UNC - 5/16 x 1 RT NAT,bulón,68.48,Borroni
+HEX-G5--1--104--100--RT--2--2,BU HEX G5 UNC - 1/4 x 1 RT ZD,bulón,68.14,Borroni
+HEX-G5--1--104--114--RT--2--2,BU HEX G5 UNC - 1/4 x 1 1/4 RT ZD,bulón,68.14,Borroni
+HEX-G5--1--104--134--RT--2--2,BU HEX G5 UNC - 1/4 x 1 3/4 RT ZD,bulón,69.32,Borroni
+HEX-G5--1--516--100--RT--2--2,BU HEX G5 UNC - 5/16 x 1 RT ZD,bulón,67.64,Borroni
+HEX-G5--1--516--134--RT--2--2,BU HEX G5 UNC - 5/16 x 1 3/4 RT ZD,bulón,69.8,Borroni
+FPM-39--111,"PAN FRAMING PUNTA MECHA 7 X 7/16 (3,9 X 11,1)",otro,42.63,Borroni
+HAM-48--190,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 10 x 3/4 (4,8 x 19)",cabezal,58.96,Borroni
+HAM-55--190,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 12 x 3/4 (5,5 x 19)",cabezal,58.96,Borroni
+HAM-55--250,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 12 x 1 (5,5 X 25)",cabezal,42.11,Borroni
+HAM-55--380,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 12 X 1 1/2 (5,5 X 38)",cabezal,59.55,Borroni
+HAM-55--500,"CAB HEX ARA  AC C/NEOPRENE VULC PUNTA MECHA 12 X 2 (5,5 X 50)",cabezal,41.29,Borroni
+HAM-55--625,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 12 X 2 1/2 (5,5 X 62,5)",cabezal,49.84,Borroni
+HAM-63--190,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 14 X 3/4 (6,3 X 19)",cabezal,58.96,Borroni
+HAM-63--250,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 14 X 1 (6,3 X 25)",cabezal,42.11,Borroni
+HAM-63--380,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 14 X 1 1/2 (6,3 X 38)",cabezal,59.55,Borroni
+HAM-63--500,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 14 X 2 (6,3 X 50)",cabezal,41.46,Borroni
+HAM-63--625,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 14 X 2 1/2 (6,3 X 62,5)",cabezal,49.84,Borroni
+HFM-42--130,"CAB HEX SIMPLE ARA FIJA PUNTA MECHA 8 x 1/2 (4,2 x 13)",cabezal,55.16,Borroni
+HFM-42--190,"CAB HEX SIMPLE ARA FIJA PUNTA MECHA 8 x 3/4 (4,2 x 19)",cabezal,56.98,Borroni
+HFM-42--250,"CAB HEX SIMPLE ARA FIJA PUNTA MECHA 8 x 1 (4,2 x 25)",cabezal,41.1,Borroni
+HFM-48--190,"CAB HEX SIMPLE ARA FIJA PUNTA MECHA 10 x 3/4 (4,8 x 19)",cabezal,56.81,Borroni
+HRM-14--112,CAB HEX RM PTA AGUJA C/ARA EPDM  PTA 17 -14 X 1 1/2,punta,54.38,Borroni
+HRM-14--200,CAB HEX RM PTA AGUJA C/ARA EPDM PTA 17 - 14 X 2,punta,41.54,Borroni
+HRM-14--212,CAB HEX RM PTA AGUJA C/ARA EPDM PTA 17 . 14 X 2 1/2,punta,54.78,Borroni
+HRM-14--300,CAB HEX RM PTA AGUJA C/ARA EPDM  PTA 17 -14 X 3,punta,41.54,Borroni
+TDP-35--250,DRYWALL PHILLIPS 3.5 x 25.0,tornillo_drywall,36.47,Borroni
+TDP-35--320,DRYWALL PHILLIPS 3.5 x 32.0,tornillo_drywall,38.82,Borroni
+TDP-35--350,DRYWALL PHILLIPS 3.5 x 35.0,tornillo_drywall,37.65,Borroni
+TDP-35--380,DRYWALL PHILLIPS 3.5 x 38.0,tornillo_drywall,37.65,Borroni
+TDP-35--420,DRYWALL PHILLIPS 3.5 x 42.0,tornillo_drywall,38.82,Borroni
+TDP-35--450,DRYWALL PHILLIPS 3.5 x 45.0,tornillo_drywall,37.65,Borroni
+TDP-35--500,DRYWALL PHILLIPS 3.5 x 50.0,tornillo_drywall,37.65,Borroni
+TFC-30--120,FIX PHILLIPS 3.0 x 12.0 CHI,tornillo_fix,20.32,Borroni
+TFC-30--160,FIX PHILLIPS 3.0 x 16.0 CHI,tornillo_fix,20.32,Borroni
+TFC-30--200,FIX PHILLIPS 3.0 x 20.0 CHI,tornillo_fix,19.31,Borroni
+TFC-30--250,FIX PHILLIPS 3.0 x 25.0 CHI,tornillo_fix,19.35,Borroni
+TFC-30--300,FIX PHILLIPS 3.0 x 30.0 CHI,tornillo_fix,19.31,Borroni
+TFC-35--120,FIX PHILLIPS 3.5 x 12.0 CHI,tornillo_fix,20.69,Borroni
+TFC-35--160,FIX PHILLIPS 3.5 x 16.0 CHI,tornillo_fix,20.69,Borroni
+TFC-35--200,FIX PHILLIPS 3.5 x 20.0 CHI,tornillo_fix,20.69,Borroni
+TFC-35--250,FIX PHILLIPS 3.5 x 25.0 CHI,tornillo_fix,20.69,Borroni
+TFC-35--300,FIX PHILLIPS 3.5 x 30.0 CHI,tornillo_fix,20.69,Borroni
+TFC-35--350,FIX PHILLIPS 3.5 x 35.0 CHI,tornillo_fix,21.33,Borroni
+TFC-35--400,FIX PHILLIPS 3.5 x 40.0 CHI,tornillo_fix,20.69,Borroni
+TFC-40--120,FIX PHILLIPS 4.0 x 12.0 CHI,tornillo_fix,20.32,Borroni
+TFC-40--160,FIX PHILLIPS 4.0 x 16.0 CHI,tornillo_fix,20.32,Borroni
+TFC-40--200,FIX PHILLIPS 4.0 x 20.0 CHI,tornillo_fix,19.67,Borroni
+TFC-40--250,FIX PHILLIPS 4.0 x 25.0 CHI,tornillo_fix,19.35,Borroni
+TFC-40--300,FIX PHILLIPS 4.0 x 30.0 CHI,tornillo_fix,19.67,Borroni
+TFC-40--350,FIX PHILLIPS 4.0 x 35.0 CHI,tornillo_fix,19.31,Borroni
+TFC-40--400,FIX PHILLIPS 4.0 x 40.0 CHI,tornillo_fix,19.31,Borroni
+TFC-40--450,FIX PHILLIPS 4.0 x 45.0 CHI,tornillo_fix,20.0,Borroni
+TFC-45--200,FIX PHILLIPS 4.5 x 20.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--250,FIX PHILLIPS 4.5 x 25.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--300,FIX PHILLIPS 4.5 x 30.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--350,FIX PHILLIPS 4.5 x 35.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--400,FIX PHILLIPS 4.5 x 40.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--450,FIX PHILLIPS 4.5 x 45.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--500,FIX PHILLIPS 4.5 x 50.0 CHI,tornillo_fix,20.69,Borroni
+TFC-45--600,FIX PHILLIPS 4.5 x 60.0 CHI,tornillo_fix,20.69,Borroni
+TFC-50--250,FIX PHILLIPS 5.0 x 25.0 CHI,tornillo_fix,19.35,Borroni
+TFC-50--300,FIX PHILLIPS 5.0 x 30.0 CHI,tornillo_fix,20.0,Borroni
+TFC-50--350,FIX PHILLIPS 5.0 x 35.0 CHI,tornillo_fix,20.0,Borroni
+TFC-50--400,FIX PHILLIPS 5.0 x 40.0 CHI,tornillo_fix,19.31,Borroni
+TFC-50--450,FIX PHILLIPS 5.0 x 45.0 CHI,tornillo_fix,19.31,Borroni
+TFC-50--500,FIX PHILLIPS 5.0 x 50.0 CHI,tornillo_fix,18.91,Borroni
+TFC-50--600,FIX PHILLIPS 5.0 x 60.0 CHI,tornillo_fix,18.57,Borroni
+TFC-50--700,FIX PHILLIPS 5.0 x 70.0 CHI,tornillo_fix,18.57,Borroni
+TFC-50--800,FIX PHILLIPS 5.0 x 80.0 CHI,tornillo_fix,19.26,Borroni
+TFC-50--900,FIX PHILLIPS 5.0 x 90.0 CHI,tornillo_fix,18.57,Borroni
+TFC-60--100,FIX PHILLIPS 6.0 x 100.0 CHI,tornillo_fix,21.43,Borroni
+TFC-60--400,FIX PHILLIPS 6.0 x 40.0 CHI,tornillo_fix,19.31,Borroni
+TFC-60--500,FIX PHILLIPS 6.0 x 50.0 HI,tornillo_fix,38.18,Borroni
+TFC-60--600,FIX PHILLIPS 6.0 x 60.0 CHI,tornillo_fix,18.57,Borroni
+TFC-60--700,FIX PHILLIPS 6.0 x 70.0 CHI,tornillo_fix,18.57,Borroni
+TFC-60--800,FIX PHILLIPS 6.0 x 80.0 CHI,tornillo_fix,18.57,Borroni
+TFC-60--900,FIX PHILLIPS 6.0 x 90.0 CHI,tornillo_fix,18.57,Borroni
+TFP-30--120,FIX PHILLIPS 3.0 x 12.0,tornillo_fix,38.98,Borroni
+TFP-30--160,FIX PHILLIPS 3.0 x 16.0,tornillo_fix,38.67,Borroni
+TFP-30--200,FIX PHILLIPS 3.0 x 20.0,tornillo_fix,37.78,Borroni
+TFP-30--250,FIX PHILLIPS 3.0 x 25.0,tornillo_fix,19.26,Borroni
+TFP-30--300,FIX PHILLIPS 3.0 x 30.0,tornillo_fix,19.26,Borroni
+TFP-35--120,FIX PHILLIPS 3.5 x 12.0,tornillo_fix,38.98,Borroni
+TFP-35--160,FIX PHILLIPS 3.5 x 16.0,tornillo_fix,38.67,Borroni
+TFP-35--200,FIX PHILLIPS 3.5 x 20.0,tornillo_fix,21.33,Borroni
+TFP-35--250,FIX PHILLIPS 3.5 x 25.0,tornillo_fix,21.33,Borroni
+TFP-35--300,FIX PHILLIPS 3.5 x 30.0,tornillo_fix,37.78,Borroni
+TFP-35--350,FIX PHILLIPS 3.5 x 35.0,tornillo_fix,37.78,Borroni
+TFP-35--400,FIX PHILLIPS 3.5 x 40.0,tornillo_fix,37.78,Borroni
+TFP-40--120,FIX PHILLIPS 4.0 x 12.0,tornillo_fix,19.26,Borroni
+TFP-40--160,FIX PHILLIPS 4.0 x 16.0,tornillo_fix,19.26,Borroni
+TFP-40--200,FIX PHILLIPS 4.0 x 20.0,tornillo_fix,37.78,Borroni
+TFP-40--250,FIX PHILLIPS 4.0 x 25.0,tornillo_fix,19.26,Borroni
+TFP-40--300,FIX PHILLIPS 4.0 x 30.0,tornillo_fix,37.78,Borroni
+TFP-40--350,FIX PHILLIPS 4.0 x 35.0,tornillo_fix,19.26,Borroni
+TFP-40--400,FIX PHILLIPS 4.0 x 40.0,tornillo_fix,19.26,Borroni
+TFP-40--450,FIX PHILLIPS 4.0 x 45.0,tornillo_fix,20.0,Borroni
+TFP-40--500,FIX PHILLIPS 4.0 x 50.0,tornillo_fix,19.26,Borroni
+TFP-45--200,FIX PHILLIPS 4.5 x 20.0,tornillo_fix,21.33,Borroni
+TFP-45--250,FIX PHILLIPS 4.5 x 25.0,tornillo_fix,21.33,Borroni
+TFP-45--300,FIX PHILLIPS 4.5 x 30.0,tornillo_fix,21.33,Borroni
+TFP-45--350,FIX PHILLIPS 4.5 x 35.0,tornillo_fix,21.33,Borroni
+TFP-45--400,FIX PHILLIPS 4.5 x 40.0,tornillo_fix,37.78,Borroni
+TFP-45--450,FIX PHILLIPS 4.5 x 45.0,tornillo_fix,37.78,Borroni
+TFP-45--500,FIX PHILLIPS 4.5 x 50.0,tornillo_fix,37.78,Borroni
+TFP-45--600,FIX PHILLIPS 4.5 x 60.0,tornillo_fix,37.78,Borroni
+TFP-50--250,FIX PHILLIPS 5.0 x 25.0,tornillo_fix,18.82,Borroni
+TFP-50--300,FIX PHILLIPS 5.0 x 30.0,tornillo_fix,37.78,Borroni
+TFP-50--350,FIX PHILLIPS 5.0 x 35.0,tornillo_fix,19.26,Borroni
+TFP-50--400,FIX PHILLIPS 5.0 x 40.0,tornillo_fix,37.78,Borroni
+TFP-50--450,FIX PHILLIPS 5.0 x 45.0,tornillo_fix,19.26,Borroni
+TFP-50--500,FIX PHILLIPS 5.0 x 50.0,tornillo_fix,18.82,Borroni
+TFP-50--600,FIX PHILLIPS 5.0 x 60.0,tornillo_fix,18.46,Borroni
+TFP-50--700,FIX PHILLIPS 5.0 x 70.0,tornillo_fix,18.46,Borroni
+TFP-50--800,FIX PHILLIPS 5.0 x 80.0,tornillo_fix,19.2,Borroni
+TFP-50--900,FIX PHILLIPS 5.0 x 90.0,tornillo_fix,18.46,Borroni
+TFP-60--100,FIX PHILLIPS 6.0 x 100.0,tornillo_fix,21.54,Borroni
+TFP-60--400,FIX PHILLIPS 6.0 x 40.0,tornillo_fix,37.78,Borroni
+TFP-60--500,FIX PHILLIPS 6.0 x 50.0,tornillo_fix,37.78,Borroni
+TFP-60--600,FIX PHILLIPS 6.0 x 60.0,tornillo_fix,18.46,Borroni
+TFP-60--700,FIX PHILLIPS 6.0 x 70.0,tornillo_fix,18.46,Borroni
+TFP-60--800,FIX PHILLIPS 6.0 x 80.0,tornillo_fix,18.46,Borroni
+TFP-60--900,FIX PHILLIPS 6.0 x 90.0,tornillo_fix,18.46,Borroni
+TPA-42--130,"CAB TANQUE PUNTA AGUJA 8 X 1/2 (4,2 X 13)",punta,45.82,Borroni
+TPA-42--190,"CAB  TANQUE PUNTA AGUJA 8 X 3/4 (4,2 X 19)",punta,53.46,Borroni
+TPM-42--130,"CAB TANQUE  PUNTA MECHA 8 x 1/2 (4,2 x 13)",cabezal,53.46,Borroni
+TPM-42--190,"CAB TANQUE PUNTA MECHA 8 x 3/4 (4,2 x 19)",cabezal,39.24,Borroni
+TPM-42--250,"CAB TANQUE PUNTA MECHA 8 x 1 (4,2 x 25)",cabezal,21.82,Borroni
+TPM-48--190,"CAB TANQUE PUNTA MECHA 10 x 3/4 (4,8 x 19)",cabezal,37.54,Borroni
+TPM-48--250,"CAB TANQUE PUNTA MECHA 10 x 1 (4,8 x 25)",cabezal,21.49,Borroni
+TPM-48--320,"CAB TANQUE PUNTA MECHA 10 x 1 1/4 (4,8 x 32)",cabezal,54.63,Borroni
+TRG-35--160,DRYWALL PHILLIPS 6 X 5/8 RG,tornillo_drywall,49.28,Borroni
+TRG-35--190,DRYWALL PHILLIPS 6 X 3/4 RG,tornillo_drywall,37.51,Borroni
+TRG-35--250,DRYWALL PHILLIPS 6 X 1  RG,tornillo_drywall,38.06,Borroni
+TRG-35--320,DRYWALL PHILLIPS 6 X 1 1/4 RG,tornillo_drywall,50.34,Borroni
+TRG-35--380,DRYWALL PHILLIPS 6 x 1 1/2 RG,tornillo_drywall,50.34,Borroni
+TRG-35--420,DRYWALL PHILLIPS 6 X 1 5/8 RG,tornillo_drywall,36.92,Borroni
+TRG-35--450,DRYWALL PHILLIPS 6 X 1 3/4 RG,tornillo_drywall,42.5,Borroni
+TRG-35--500,DRYWALL PHILLIPS 6 X 2 RG,tornillo_drywall,19.43,Borroni
+TRG-35--550,DRYWALL PHILLIPS 6 X 2 1/4 RG,tornillo_drywall,36.92,Borroni
+TRG-39--650,DRYWALL PHILLIPS 7 X 2 1/2 RG,tornillo_drywall,41.96,Borroni
+TRG-42--250,DRYWALL PHILLIPS 8 X 1 RG,tornillo_drywall,19.26,Borroni
+TRG-42--320,DRYWALL PHILLIPS 8 X 1 1/4 RG,tornillo_drywall,50.34,Borroni
+TRG-42--380,DRYWALL PHILLIPS 8 X 1 1/2 RG,tornillo_drywall,50.34,Borroni
+TRG-42--420,DRYWALL PHILLIPS 8 X 1 5/8 RG,tornillo_drywall,40.15,Borroni
+TRG-42--450,DRYWALL PHILLIPS 8 X 1 3/4 RG,tornillo_drywall,42.5,Borroni
+TRG-42--500,DRYWALL PHILLIPS 8 X 2 RG,tornillo_drywall,19.26,Borroni
+TRG-42--650,DRYWALL PHILLIPS 8 X 2 1/2 RG,tornillo_drywall,41.96,Borroni
+TRG-42--750,DRYWALL PHILLIPS 8 X 3 RG,tornillo_drywall,36.77,Borroni
+TRG-48--100,DRYWALL PHILLIPS 10 X 4 RG,tornillo_drywall,20.8,Borroni
+TRG-48--250,DRYWALL PHILLIPS 10 X 1 RG,tornillo_drywall,37.91,Borroni
+TRG-48--380,DRYWALL PHILLIPS 10 X 1 1/2 RG,tornillo_drywall,43.1,Borroni
+TRG-48--450,DRYWALL PHILLIPS 10 X 1 3/4 RG,tornillo_drywall,42.82,Borroni
+TRG-48--500,DRYWALL PHILLIPS 10 X 2 RG,tornillo_drywall,37.91,Borroni
+TRG-48--650,DRYWALL PHILLIPS 10 X 2 1/4 RG,tornillo_drywall,37.41,Borroni
+TRG-48--750,DRYWALL PHILLIPS 10 X 3 RG,tornillo_drywall,37.78,Borroni
+MET-00-0-M05-0080-1-1,"TU MET M5 - 0,80 ZA",tuerca,68.82,Borroni
+MET-00-0-M14-0200-1-2,"TU MET M14 - 2,00 ZA",tuerca,69.59,Borroni
+MET-00-0-M16-0200-1-2,"TU MET M16 - 2,00 ZA",tuerca,69.59,Borroni
+MET-00-0-M24-0300-1-2,"TU MET M24 - 3,00 ZA",tuerca,69.59,Borroni
+1-0--1--04106350,"CABEZA DE PLOMO ANILLADO 4,1 X 63,5 - CAJA 19 KG - BOLSA 1 KG",cabezal,21.22,Borroni
+1-0--2--04107620,"CABEZA DE PLOMO ANILLADO 4,1 X 76,2 - CAJA 23 KG - BOLSA 1 KG",cabezal,21.09,Borroni
+1-0--3--04106350,"CABEZA DE PLOMO 4,1 X 63,5 - CAJA 20 KG - BOLSA 1 KG",cabezal,21.67,Borroni
+1-0--3--04107620,"CABEZA DE PLOMO 4,1 X 76,2 - CAJA 23 KG - BOLSA 1 KG",cabezal,34.53,Borroni
+1-0--3--04110160,"CABEZA DE PLOMO 4,1 X 101,6 - CAJA 30 KG - BOLSA 1 KG",cabezal,21.96,Borroni
+1-0--4--04110160,"CABEZA DE PLOMO ANILLADO 4,1 X 101,6 - CAJA 27 KG - BOLSA 1 KG",cabezal,20.9,Borroni
+2-1--2--00820000,CABEZA CHATA 8/20 - CAJA 20 KG - BOLSA 1 KG,cabezal,34.71,Borroni
+2-1--2--01025000,CABEZA CHATA 10/25 - CAJA 20 KG - BOLSA 1 KG,cabezal,36.71,Borroni
+2-1--2--01035000,CABEZA CHATA 10/30 - CAJA 20 KG - BOLSA 1 KG,cabezal,36.18,Borroni
+2-1--2--01230000,CABEZA CHATA 12/30 - CAJA 20 KG - BOLSA 1 KG,cabezal,35.0,Borroni
+2-1--2--01240000,CABEZA CHATA 12/40 - CAJA 20 KG - BOLSA 1 KG,cabezal,30.27,Borroni
+2-1--2--01440000,CABEZA CHATA 14/40 - CAJA 20 KG - BOLSA 1 KG,cabezal,35.0,Borroni
+3-1--2--00820020,CABEZA PERDIDA  8/20  - CAJA 20 KG -BOLSA 1 KG,cabezal,22.47,Borroni
+3-1--2--01025020,CABEZA PERDIDA 10/25 - CAJA 20 KG -BOLSA 1 KG,cabezal,36.11,Borroni
+3-1--2--01030020,CABEZA PERDIDA 10/30 - CAJA 20 KG -BOLSA 1 KG,cabezal,35.57,Borroni
+3-1--2--01035020,CABEZA PERDIDA 10/35 - CAJA 20 KG -BOLSA 1 KG,cabezal,35.0,Borroni
+3-1--2--01230020,CABEZA PERDIDA 12/30 - CAJA 20 KG -BOLSA 1 KG,cabezal,34.43,Borroni
+3-1--2--01235020,CABEZA PERDIDA 12/35 - CAJA 20 KG -BOLSA 1 KG,cabezal,35.0,Borroni
+3-1--2--01240020,CABEZA PERDIDA 12/40 - CAJA 20 KG -BOLSA 1 KG,cabezal,29.74,Borroni
+3-1--2--01440000,CABEZA PERDIDA 14/40 - CAJA 20 KG -BOLSA 1 KG,cabezal,29.74,Borroni
+3-1--2--01450020,CABEZA PERDIDA 14/50 - CAJA 20 KG -BOLSA 1 KG,cabezal,28.95,Borroni
+3-1--2--01550020,CABEZA PERDIDA 15/50 - CAJA 20 KG -BOLSA 1 KG,cabezal,28.95,Borroni
+3-1--2--01663020,CABEZA PERDIDA 16/63 - CAJA 20 KG -BOLSA 1 KG,cabezal,28.95,Borroni
+4-1--0--00635009,PUNTA PARIS ESPIR 2 1/2 - CAJA 30  KG,punta,52.47,Borroni
+4-1--0--00762009,PUNTA PARIS ESPIR 3 - CAJA 30  KG,punta,27.5,Borroni
+4-1--1--00152009,PUNTA PARIS ESPIR 6 - CAJA 20  KG,punta,27.5,Borroni
+4-1--2--01270020,PUNTA PARIS ESPIR 5 - CAJA 20 KG -BOLSA 1 KG,punta,27.5,Borroni
+4-2--2--00381020,PUNTA PARIS ESPIR 1 1/2 - CAJA 20 KG -BOLSA 1 KG,punta,49.85,Borroni
+4-2--2--00508020,PUNTA PARIS ESPIR 2 - CAJA 20 KG -BOLSA 1 KG,punta,27.5,Borroni
+4-2--2--00635020,PUNTA PARIS ESPIR 2 1/2 - CAJA 20 KG -BOLSA 1 KG,punta,51.37,Borroni
+4-2--2--00762020,PUNTA PARIS ESPIR 3 - CAJA 20 KG -BOLSA 1 KG,punta,27.5,Borroni
+4-2--2--01016020,PUNTA PARIS ESPIR 4 - CAJA 20 KG -BOLSA 1 KG,punta,27.5,Borroni
+5-2--0--00254G36,PUNTA PARIS 1 - CAJA 30 KG,punta,28.44,Borroni
+5-2--0--00381G36,PUNTA PARIS 1 1/2  - CAJA 30 KG,punta,52.68,Borroni
+5-2--0--00508G36,PUNTA PARIS 2  - CAJA 30 KG,punta,28.44,Borroni
+5-2--0--00635G36,PUNTA PARIS 2  1/2  - CAJA 30 KG,punta,54.19,Borroni
+5-2--0--00762G36,PUNTA PARIS 3  - CAJA 30 KG,punta,28.44,Borroni
+5-2--0--00889G36,PUNTA PARIS 3 1/2  - CAJA 30 KG,punta,52.68,Borroni
+5-2--0--01016G36,PUNTA PARIS 4  - CAJA 30 KG,punta,28.44,Borroni
+5-2--0--01270G36,PUNTA PARIS 5  - CAJA 30 KG,punta,28.44,Borroni
+5-2--1--01770G36,PUNTA PARIS 7  - CAJA 20 KG,punta,28.44,Borroni
+5-2--1--02030G36,PUNTA PARIS 8  - CAJA 20 KG,punta,28.44,Borroni
+5-2--2--00254020,PUNTA PARIS 1 - CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+5-2--2--00381020,PUNTA PARIS 1 1/2  - CAJA 20 KG - BOLSA 1 KG,punta,51.12,Borroni
+5-2--2--00508020,PUNTA PARIS 2 CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+5-2--2--00635020,PUNTA PARIS 2 1/2 CAJA 20 KG - BOLSA 1 KG,punta,51.37,Borroni
+5-2--2--00762020,PUNTA PARIS 3 - CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+5-2--2--00889020,PUNTA PARIS 3 1/2 - CAJA 20 KG - BOLSA 1 KG,punta,50.23,Borroni
+5-2--2--01016020,PUNTA PARIS 4 - CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+5-2--2--01270020,PUNTA PARIS 5 - CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+5-2--2--01520020,PUNTA PARIS 6 - CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+5-2--2--01770G36,PUNTA PARIS 7  - CAJA 20 KG - BOLSA 1 KG,punta,27.5,Borroni
+6-0--0--01232G00,PUNTA CAJONERO 12/32 MM - CAJA 30 KG,punta,21.71,Borroni
+6-0--0--01238G00,PUNTA CAJONERO 12/38 MM - CAJA 30 KG,punta,20.57,Borroni
+6-0--0--01250G00,PUNTA CAJONERO 12/50 MM - CAJA 20 KG,punta,21.69,Borroni

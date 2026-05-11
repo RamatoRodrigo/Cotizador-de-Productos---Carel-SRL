@@ -26,24 +26,79 @@ def detectar_tipo(desc):
     """Detecta el tipo de producto basado en la descripción"""
     desc = desc.lower()
 
-    if "tuerca" in desc:
-        return "tuerca"
-    if "bulón" in desc or "bulon" in desc:
+    # PUNTAS (debe ir antes que otros para evitar confusiones)
+    if (
+        "punta aguja" in desc or
+        "punta paris" in desc or
+        "punta espir" in desc or
+        "punta cajonero" in desc or
+        desc.startswith("pta ") or
+        " pta " in desc
+    ):
+        return "punta"
+
+    # CABEZAL/CABEZA (incluye "cabeza perdida", "cabeza chata")
+    if (
+        "cabeza de plomo" in desc or
+        "cabeza perdida" in desc or
+        "cabeza chata" in desc or
+        "cabezal" in desc or
+        "cab tanque" in desc or
+        "cab " in desc  # Detecta abreviaturas "CAB..."
+    ):
+        return "cabezal"
+
+    # BULONES
+    if (
+        "bulón" in desc or "bulon" in desc or
+        desc.startswith("bu ") or " bu " in desc
+    ):
         return "bulón"
-    if "tornillo" in desc:
+
+    # TUERCAS
+    if (
+        "tuerca" in desc or
+        desc.startswith("tu ") or " tu " in desc
+    ):
+        return "tuerca"
+
+    # TORNILLOS DRYWALL (antes que tornillo genérico)
+    if "drywall" in desc or "dry wall" in desc:
+        return "tornillo_drywall"
+
+    # TORNILLOS FIX
+    if "fix" in desc:
+        return "tornillo_fix"
+
+    # TORNILLOS
+    if (
+        "tornillo" in desc or
+        desc.startswith("to ") or " to " in desc
+    ):
         return "tornillo"
-    if "arandela" in desc:
+
+    # ARANDELAS
+    if (
+        "arandela" in desc or "ale " in desc or " ale " in desc or
+        desc.startswith("ara ") or " ara " in desc
+    ):
         return "arandela"
+
     if "espárrago" in desc or "esparrago" in desc:
         return "espárrago"
+
     if "perno" in desc:
         return "perno"
-    if "varilla" in desc:
+
+    if "varilla" in desc or "vr " in desc:
         return "varilla"
+
     if "remache" in desc:
         return "remache"
+
     if "pasador" in desc:
         return "pasador"
+
     if "chaveta" in desc:
         return "chaveta"
 
@@ -51,7 +106,7 @@ def detectar_tipo(desc):
 
 
 def detectar_forma(desc):
-    """Detecta la forma del producto (hexagonal, autofrenante, etc.)"""
+    """Detecta la forma del producto (hexagonal, autofrenante, phillips, etc.)"""
     desc = desc.lower()
     
     formas = {
@@ -82,15 +137,15 @@ def detectar_acabado(desc):
     desc = desc.lower()
     
     acabados = {
-        'zinc': ['zinc', 'zincado', 'zincada', 'za', 'zn'],
-        'natural': ['nat', 'natural', 'natural', 'na'],
+        'zinc': ['zinc', 'zincado', 'zincada', 'za', 'zn', 'galvanizado', 'galv', 'gv'],
+        'natural': ['nat', 'natural', 'natural', 'na', 'rd nat'],
         'bronce': ['bronce', 'br'],
         'niquelado': ['niquelado', 'niquel', 'ni'],
         'cromado': ['cromado', 'cromo', 'cr'],
         'dicro': ['dicro', 'dicromado', 'dc'],
         'acero_inox': ['inox', 'acero inoxidable', 'stainless', 'a4', 'a2'],
-        'galvanizado': ['galvanizado', 'galv', 'gv'],
         'pavonado': ['pavonado', 'pav'],
+        'plomo': ['plomo', 'pb'],
     }
     
     for acabado, keywords in acabados.items():
@@ -163,7 +218,7 @@ def detectar_grado(desc):
 def parse_metrico(desc):
     """
     Parsea especificaciones métricas
-    Ejemplos: M8x1.25, M10-1.5, M12x1.75, 4x30, 8x1.25x50
+    Ejemplos: M8x1.25, M10-1.5, M12x1.75, 4x30, 8x1.25x50, 4.5x25.0
     """
     desc_norm = normalizar(desc)
     
@@ -184,31 +239,34 @@ def parse_metrico(desc):
         diametro = f"M{match.group(1)}"
         return diametro, paso, largo
     
-    # Números sin M: 4x30, 8x1.25x50mm
-    match = re.search(r"(\d+)\s*x\s*(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
+    # Tres números: 8x1.25x50mm o 4.5x25.0x100
+    match = re.search(r"(\d+\.?\d*)\s*x\s*(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
     if match:
         diametro = match.group(1)
         paso = match.group(2)
         largo = match.group(3)
         return diametro, paso, largo
     
-    # Números sin M: 4x30 (solo dos números)
-    match = re.search(r"(\d+)\s*x\s*(\d+\.?\d*)", desc_norm)
+    # Dos números: 4x30, 4.5x25.0
+    match = re.search(r"(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
     if match:
-        num1 = int(match.group(1))
+        num1 = float(match.group(1))
         num2 = float(match.group(2))
         
-        # Si primer número es pequeño (1-30) probablemente es diámetro
-        if num1 < 30:
-            if num2 < 10:
+        # Heurística: si el primer número es pequeño (1-30) y segundo es mayor, probablemente:
+        # - num1 es diámetro, num2 es largo (si num2 > 10)
+        # - num1 es diámetro, num2 es paso (si num2 < 10)
+        if 1 <= num1 <= 30:
+            if num2 > 10:
                 diametro = str(num1)
-                paso = str(num2)
+                largo = str(int(num2) if num2 == int(num2) else num2)
             else:
                 diametro = str(num1)
-                largo = str(int(num2))
+                paso = str(num2)
             return diametro, paso, largo
     
     return None, None, None
+
 
 
 # -------------------------
@@ -218,7 +276,7 @@ def parse_metrico(desc):
 def parse_imperial(desc):
     """
     Parsea especificaciones imperiales
-    Ejemplos: 1/4"-20, 5/16"UNC(32), 3/8" x 2", 1,1/2-UNF(12)
+    Ejemplos: 1/4"-20, 5/16"UNC(32), 3/8" x 2", 1,1/2-UNF(12), 8 X 1/2
     Retorna: (diámetro, paso, largo)
     """
     desc_norm = normalizar(desc)
@@ -227,17 +285,22 @@ def parse_imperial(desc):
     paso = None
     largo = None
     
-    # Buscar diámetro: 1/4, 5/16, 1.1/2 (con punto), etc.
+    # Buscar diámetro: 1/4, 5/16, 1.1/2 (con punto), 8 (número sin fracción)
     diametro_match = re.search(r"(\d+(?:\.\d+)?/\d+)", desc_norm)
     if diametro_match:
         diametro = diametro_match.group(1)
+    else:
+        # Si no hay fracción pero hay "x" (formato: 8 X 1/2), buscar el primer número
+        diametro_match = re.search(r"^(\d+(?:\.\d+)?)\s*x", desc_norm)
+        if diametro_match:
+            diametro = diametro_match.group(1)
     
     # Paso: búsqueda de UNC(20), (20), -20, UNC20, WH-2, etc.
     paso_match = re.search(r"(?:unc|unf|bsw|wh)?\s*[-\.]?\s*\(?(\d+)\)?", desc_norm)
     if paso_match:
         paso = paso_match.group(1)
     
-    # Largo: x 2", x 1.5", x 16mm, etc.
+    # Largo: x 2", x 1.5", x 1/2, x 16mm, etc.
     largo_match = re.search(r"x\s*(\d+(?:\.\d+)?(?:/\d+)?)", desc_norm)
     if largo_match:
         largo = largo_match.group(1)
@@ -401,7 +464,7 @@ def parse_borroni_csv(input_path, output_path=None):
         if len(sin_parsear) > 0:
             logger.info(f"\n⚠️  Ejemplos de productos sin parsear ({len(sin_parsear)} total):")
             for _, row in sin_parsear.head(10).iterrows():
-                logger.info(f"      {str(row['codigo'])[:15]:15} | {str(row['tipo'])[:12]:12} | {str(row['descripcion'])[:60]}")
+                logger.info(f"      {str(row['codigo'])[:15]:15} | {str(row['tipo'])[:20]:20} | {str(row['descripcion'])[:60]}")
         
         # Guardar si se especifica output_path
         if output_path:
@@ -419,23 +482,3 @@ def parse_borroni_csv(input_path, output_path=None):
         logger.error(traceback.format_exc())
         return pd.DataFrame()
 
-
-# -------------------------
-# Ejemplo de uso
-# -------------------------
-
-if __name__ == "__main__":
-    input_file = "ddbb/borroniSinParsear.csv"
-    output_file = "ddbb/borroniParseado.csv"
-    
-    if Path(input_file).exists():
-        df = parse_borroni_csv(input_file, output_file)
-        
-        if not df.empty:
-            print("\n" + "="*150)
-            print("PRIMERAS 15 FILAS PARSEADAS:")
-            print("="*150)
-            print(df.head(15).to_string())
-    else:
-        logger.error(f"Archivo no encontrado: {input_file}")
-        logger.info("Coloca el archivo 'borroniSinParsear.csv' en la carpeta 'ddbb/'")

@@ -1,5 +1,5 @@
 # =============================
-# TEST: Product Matcher (Generic)
+# TEST: Product Matcher (Borroni)
 # =============================
 
 import sys
@@ -20,38 +20,38 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def test_matcher_generico():
-    """Prueba el matching genérico entre Carel y proveedores"""
+def test_matcher_borroni():
+    """Prueba el matching genérico entre Carel y Borroni"""
     
     # Rutas
     carel_csv = "ddbb/carelParseado.csv"
-    trusoni_csv = "ddbb/trusoniParseado.csv"
+    borroni_csv = "ddbb/borroniParseado.csv"
     output_dir = "ddbb/matchingFiles"
-    output_file = f"{output_dir}/trusoni_match.csv"
+    output_file = f"{output_dir}/borroni_match.csv"
     
     # Validar que existan los archivos
     if not Path(carel_csv).exists():
         logger.error(f"❌ Archivo no encontrado: {carel_csv}")
         return
     
-    if not Path(trusoni_csv).exists():
-        logger.error(f"❌ Archivo no encontrado: {trusoni_csv}")
+    if not Path(borroni_csv).exists():
+        logger.error(f"❌ Archivo no encontrado: {borroni_csv}")
         return
     
     # Crear directorio de salida si no existe
     os.makedirs(output_dir, exist_ok=True)
     
     # Ejecutar matching
-    logger.info("\n🚀 Iniciando Match Engine (Genérico)...\n")
+    logger.info("\n🚀 Iniciando Match Engine (Genérico) - Borroni...\n")
     
     df_matches, df_sin_match = match_generico(
         master_path=carel_csv,
-        proveedor_path=trusoni_csv,
+        proveedor_path=borroni_csv,
         output_path=output_file,
-        proveedor_nombre="Trusoni",
+        proveedor_nombre="Borroni",
         umbral_minimo=70,
         peso_atributos=0.6,
-        debug=False  # Cambié a False para evitar spam
+        debug=False
     )
     
     # Análisis detallado
@@ -80,8 +80,8 @@ def test_matcher_generico():
         top_matches = df_matches.nlargest(10, 'score_final')
         for idx, (_, row) in enumerate(top_matches.iterrows(), 1):
             logger.info(f"{idx}. Score: {row['score_final']:.1f} (Attr: {row['score_atributos']:.1f}, Desc: {row['score_descripcion']:.1f})")
-            logger.info(f"   Carel:    {row['id_master']} - {row['tipo_master']} | Diam: {row['diametro_master']} Largo: {row['largo_master']}")
-            logger.info(f"   Trusoni:  {row['id_proveedor']} - {row['tipo_proveedor']} | Diam: {row['diametro_proveedor']} Largo: {row['largo_proveedor']}")
+            logger.info(f"   Carel:    {row['id_master']} - {row['tipo_master']} | Diam: {row['diametro_master']} Paso: {row['grado_master']}")
+            logger.info(f"   Borroni:  {row['id_proveedor']} - {row['tipo_proveedor']} | Diam: {row['diametro_proveedor']} Paso: {row['largo_proveedor']}")
             logger.info(f"   Precio:   ${row['precio_unitario']}")
             logger.info("")
         
@@ -95,7 +95,7 @@ def test_matcher_generico():
             for idx, (_, row) in enumerate(mediocre.head(5).iterrows(), 1):
                 logger.info(f"{idx}. Score: {row['score_final']:.1f}")
                 logger.info(f"   Carel:    {row['id_master']} - {row['descripcion_master'][:60]}")
-                logger.info(f"   Trusoni:  {row['id_proveedor']} - {row['descripcion_proveedor'][:60]}")
+                logger.info(f"   Borroni:  {row['id_proveedor']} - {row['descripcion_proveedor'][:60]}")
                 logger.info("")
     
     # Análisis de sin match
@@ -131,4 +131,4 @@ def test_matcher_generico():
 
 
 if __name__ == '__main__':
-    test_matcher_generico()
+    test_matcher_borroni()

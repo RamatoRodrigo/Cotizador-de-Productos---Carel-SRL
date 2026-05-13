@@ -1,9 +1,8 @@
 import pandas as pd
 import re
-import os
 import logging
+from pathlib import Path
 
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
@@ -23,54 +22,97 @@ def normalizar(texto):
     )
 
 
-def limpiar_codigo(codigo):
-    """Limpia caracteres especiales del código"""
-    return str(codigo).replace(">", "").strip()
-
-
 def detectar_tipo(desc):
     """Detecta el tipo de producto basado en la descripción"""
     desc = desc.lower()
 
-    # Abreviaturas comunes
-    if "bul" in desc or "bulón" in desc or "bulon" in desc:
+    # PUNTAS (debe ir antes que otros para evitar confusiones)
+    if (
+        "punta aguja" in desc or
+        "punta paris" in desc or
+        "punta espir" in desc or
+        "punta cajonero" in desc or
+        desc.startswith("pta ") or
+        " pta " in desc
+    ):
+        return "punta"
+
+    # CABEZAL/CABEZA (incluye "cabeza perdida", "cabeza chata")
+    if (
+        "cabeza de plomo" in desc or
+        "cabeza perdida" in desc or
+        "cabeza chata" in desc or
+        "cabezal" in desc or
+        "cab tanque" in desc or
+        "cab " in desc  # Detecta abreviaturas "CAB..."
+    ):
+        return "cabezal"
+
+    # BULONES
+    if (
+        "bulón" in desc or "bulon" in desc or
+        desc.startswith("bu ") or " bu " in desc
+    ):
         return "bulón"
-    if "tuerca" in desc:
+
+    # TUERCAS
+    if (
+        "tuerca" in desc or
+        desc.startswith("tu ") or " tu " in desc
+    ):
         return "tuerca"
-    if "tor" in desc or "tornillo" in desc:
+
+    # TORNILLOS DRYWALL (antes que tornillo genérico)
+    if "drywall" in desc or "dry wall" in desc:
+        return "tornillo_drywall"
+
+    # TORNILLOS FIX
+    if "fix" in desc:
+        return "tornillo_fix"
+
+    # TORNILLOS
+    if (
+        "tornillo" in desc or
+        desc.startswith("to ") or " to " in desc
+    ):
         return "tornillo"
-    if "pris" in desc or "prisionero" in desc:
-        return "prisionero"
-    if "tirafondo" in desc:
-        return "tirafondo"
-    if "arandela" in desc:
+
+    # ARANDELAS
+    if (
+        "arandela" in desc or "ale " in desc or " ale " in desc or
+        desc.startswith("ara ") or " ara " in desc
+    ):
         return "arandela"
+
     if "espárrago" in desc or "esparrago" in desc:
         return "espárrago"
+
     if "perno" in desc:
         return "perno"
-    if "varilla" in desc:
+
+    if "varilla" in desc or "vr " in desc:
         return "varilla"
+
     if "remache" in desc:
         return "remache"
+
     if "pasador" in desc:
         return "pasador"
+
     if "chaveta" in desc:
         return "chaveta"
-    if "tarugo" in desc:
-        return "tarugo"
 
     return "otro"
 
 
 def detectar_forma(desc):
-    """Detecta la forma del producto (hexagonal, autofrenante, etc.)"""
+    """Detecta la forma del producto (hexagonal, autofrenante, phillips, etc.)"""
     desc = desc.lower()
     
     formas = {
         'hexagonal': ['hexagonal', 'hex', 'hex.'],
         'autofrenante': ['autofr', 'autofrenante', 'autofren'],
-        'allen': ['allen', 'allen cab', 'allen s/', 'allen s/c'],
+        'allen': ['allen', 'allen cab'],
         'mariposa': ['mariposa', 'butterfly'],
         'almenada': ['almenada', 'castillo'],
         'grower': ['grower'],
@@ -79,7 +121,7 @@ def detectar_forma(desc):
         'phillips': ['phillips', 'phil', 'cruz'],
         'pozi': ['pozi', 'pozidrive'],
         'redonda': ['redonda', 'round'],
-        'cuadrada': ['cuadrada', 'square', 'c/cuad'],
+        'cuadrada': ['cuadrada', 'square'],
     }
     
     for forma, keywords in formas.items():
@@ -95,14 +137,15 @@ def detectar_acabado(desc):
     desc = desc.lower()
     
     acabados = {
-        'zinc': ['zinc', 'zincado', 'zincada'],
-        'natural': ['nat', 'natural'],
-        'bronce': ['bronce'],
-        'niquelado': ['niquelado', 'niquel'],
-        'cromado': ['cromado', 'cromo'],
-        'dicro': ['dicro', 'dicromado'],
-        'fosforado': ['fosf', 'fosforado'],
-        'acero_inox': ['inox', 'acero inoxidable', 'stainless'],
+        'zinc': ['zinc', 'zincado', 'zincada', 'za', 'zn', 'galvanizado', 'galv', 'gv'],
+        'natural': ['nat', 'natural', 'natural', 'na', 'rd nat'],
+        'bronce': ['bronce', 'br'],
+        'niquelado': ['niquelado', 'niquel', 'ni'],
+        'cromado': ['cromado', 'cromo', 'cr'],
+        'dicro': ['dicro', 'dicromado', 'dc'],
+        'acero_inox': ['inox', 'acero inoxidable', 'stainless', 'a4', 'a2'],
+        'pavonado': ['pavonado', 'pav'],
+        'plomo': ['plomo', 'pb'],
     }
     
     for acabado, keywords in acabados.items():
@@ -114,10 +157,10 @@ def detectar_acabado(desc):
 
 
 def detectar_sistema_rosca(desc):
-    """Detecta el sistema de rosca (UNC, UNF, BSW, ISO, NC, etc.)"""
+    """Detecta el sistema de rosca (UNC, UNF, BSW, ISO, etc.)"""
     desc = desc.lower()
     
-    sistemas = ['unc', 'unf', 'bsw', 'bsp', 'iso', 'nc', 'nf', 'metrica', 'métrica', 'wh', 'whitworth']
+    sistemas = ['unc', 'unf', 'bsw', 'bsp', 'iso', 'metrica', 'métrica', 'wh', 'whitworth']
     
     for sistema in sistemas:
         if sistema in desc:
@@ -130,11 +173,11 @@ def detectar_sistema(desc):
     """Detecta si es métrico o imperial"""
     desc = desc.lower()
 
-    # Sistema imperial: 1/4", 5/16", UNC, UNF, BSW, NC, etc.
-    if "unc" in desc or "unf" in desc or "bsw" in desc or "nc" in desc or "nf" in desc or "whitworth" in desc or "wh" in desc or re.search(r"\d+/\d+", desc):
+    # Sistema imperial: 1/4", 5/16", UNC, UNF, BSW, etc.
+    if "unc" in desc or "unf" in desc or "bsw" in desc or "whitworth" in desc or "wh" in desc or re.search(r"\d+/\d+", desc):
         return "imperial"
 
-    # Sistema métrico: M8, M10, M12, etc. o números simples como "4 x 30"
+    # Sistema métrico: M8, M10, M12, etc.
     if re.search(r"\bm\d+", desc):
         return "métrico"
     
@@ -146,13 +189,8 @@ def detectar_sistema(desc):
 
 
 def detectar_grado(desc):
-    """Detecta el grado de resistencia (8.8, 10.9, G2, G10, etc.)"""
+    """Detecta el grado de resistencia (8.8, 10.9, G2, etc.)"""
     desc = desc.lower()
-    
-    # Grados alfanuméricos: G2, G5, G10, etc.
-    match = re.search(r"\bg(\d+)\b", desc)
-    if match:
-        return f"G{match.group(1)}"
     
     # Grados numéricos: 8.8, 10.9, 12.9, etc.
     match = re.search(r"(\d+\.?\d*)\s*(?:grado|gr\.?|clase)", desc)
@@ -165,6 +203,11 @@ def detectar_grado(desc):
         if grado in desc:
             return grado
     
+    # Grados alfanuméricos: G2, G5, etc.
+    match = re.search(r"[^a-z](g\d+)[^a-z]", f" {desc} ")
+    if match:
+        return match.group(1).upper()
+    
     return None
 
 
@@ -175,265 +218,107 @@ def detectar_grado(desc):
 def parse_metrico(desc):
     """
     Parsea especificaciones métricas
-
-    Ejemplos:
-    M8x1.25
-    M10-1.5
-    M12x1.75
-    M24-3-200
-    M10-1,25-20
-    4x30
-    8x1.25x50
-    6x25
+    Ejemplos: M8x1.25, M10-1.5, M12x1.75, 4x30, 8x1.25x50, 4.5x25.0
     """
-
     desc_norm = normalizar(desc)
-
+    
     diametro = None
     paso = None
     largo = None
-
-    # ==========================================
-    # M24-3-200 / M10-1,25-20
-    # ==========================================
-    match = re.search(
-        r"m\s*(\d+)\s*[-x]\s*(\d+(?:[.,]\d+)?)\s*[-x]\s*(\d+)",
-        desc_norm
-    )
-
-    if match:
-        diametro = f"M{match.group(1)}"
-        paso = match.group(2).replace(",", ".")
-        largo = match.group(3)
-
-        return diametro, paso, largo
-
-    # ==========================================
+    
     # M8x1.25 o M8-1.25
-    # ==========================================
-    match = re.search(
-        r"m\s*(\d+)[-x](\d+(?:[.,]\d+)?)",
-        desc_norm
-    )
-
+    match = re.search(r"m\s*(\d+)[-x](\d+\.?\d*)", desc_norm)
     if match:
         diametro = f"M{match.group(1)}"
-        paso = match.group(2).replace(",", ".")
-
+        paso = match.group(2)
         return diametro, paso, largo
-
-    # ==========================================
+    
     # Solo M8 (sin paso)
-    # ==========================================
     match = re.search(r"m\s*(\d+)(?:\s|$|[^\d])", desc_norm)
-
     if match:
         diametro = f"M{match.group(1)}"
-
-        return diametro, None, largo
-
-    # ==========================================
-    # 8x1.25x50
-    # ==========================================
-    match = re.search(
-        r"(\d+)\s*x\s*(\d+(?:[.,]\d+)?)\s*x\s*(\d+(?:[.,]\d+)?)",
-        desc_norm
-    )
-
+        return diametro, paso, largo
+    
+    # Tres números: 8x1.25x50mm o 4.5x25.0x100
+    match = re.search(r"(\d+\.?\d*)\s*x\s*(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
     if match:
-        num1 = int(match.group(1))
-        num2 = float(match.group(2).replace(",", "."))
-        num3 = float(match.group(3).replace(",", "."))
-
-        if num1 < 30:
-            diametro = str(num1)
-
-            # num2 probablemente es paso
-            if num2 < 5:
-                paso = str(num2)
-                largo = str(int(num3))
-            else:
-                paso = None
-                largo = str(int(num2))
-
-            return diametro, paso, largo
-
-    # ==========================================
-    # 4x30
-    # ==========================================
-    match = re.search(
-        r"(\d+)\s*x\s*(\d+(?:[.,]\d+)?)",
-        desc_norm
-    )
-
+        diametro = match.group(1)
+        paso = match.group(2)
+        largo = match.group(3)
+        return diametro, paso, largo
+    
+    # Dos números: 4x30, 4.5x25.0
+    match = re.search(r"(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
     if match:
-        num1 = int(match.group(1))
-        num2 = float(match.group(2).replace(",", "."))
-
-        if num1 < 30:
-
-            # diámetro x paso
-            if num2 < 5:
+        num1 = float(match.group(1))
+        num2 = float(match.group(2))
+        
+        # Heurística: si el primer número es pequeño (1-30) y segundo es mayor, probablemente:
+        # - num1 es diámetro, num2 es largo (si num2 > 10)
+        # - num1 es diámetro, num2 es paso (si num2 < 10)
+        if 1 <= num1 <= 30:
+            if num2 > 10:
                 diametro = str(num1)
-                paso = str(num2)
-
-            # diámetro x largo
+                largo = str(int(num2) if num2 == int(num2) else num2)
             else:
                 diametro = str(num1)
-                largo = str(int(num2))
-
+                paso = str(num2)
             return diametro, paso, largo
-
+    
     return None, None, None
+
 
 
 # -------------------------
 # Parseo imperial
 # -------------------------
+
 def parse_imperial(desc):
     """
     Parsea especificaciones imperiales
-
-    Ejemplos:
-    1/4"-20
-    5/16"UNC(32)
-    3/8 x 2
-    1.1/2-UNF(12)
-    1/4-NC-1/2
-    9/16-UNC-3
-    3/8-UNF-7/8
-
-    Retorna:
-    (diametro, paso, largo)
+    Ejemplos: 1/4"-20, 5/16"UNC(32), 3/8" x 2", 1,1/2-UNF(12), 8 X 1/2
+    Retorna: (diámetro, paso, largo)
     """
-
     desc_norm = normalizar(desc)
-
+    
     diametro = None
     paso = None
     largo = None
-
-    # ==========================================
-    # DIAMETRO
-    # ==========================================
-
-    diam_match = re.search(
-        r"(\d+(?:\.\d+)?/\d+)",
-        desc_norm
-    )
-
-    if diam_match:
-        diametro = diam_match.group(1)
-
-    # ==========================================
-    # PATRON:
-    # 9/16-UNC-3
-    # 3/8-UNF-7/8
-    # 1/4-NC-1/2
-    # ==========================================
-
-    match = re.search(
-        r"(\d+(?:\.\d+)?/\d+)\s*[-]\s*"
-        r"(unc|unf|nc|nf|wh)\s*[-]\s*"
-        r"(\d+(?:\.\d+)?(?:/\d+)?)",
-        desc_norm
-    )
-
-    if match:
-        diametro = match.group(1)
-        largo = match.group(3)
-
-        return diametro, paso, largo
-
-    # ==========================================
-    # PATRON:
-    # 9/16-UNC(12)
-    # 5/16-UNF(24)
-    # ==========================================
-
-    match = re.search(
-        r"(\d+(?:\.\d+)?/\d+)\s*[-]?\s*"
-        r"(unc|unf|nc|nf|wh)\s*"
-        r"\((\d+)\)",
-        desc_norm
-    )
-
-    if match:
-        diametro = match.group(1)
-        paso = match.group(3)
-
-        return diametro, paso, largo
-
-    # ==========================================
-    # PATRON:
-    # 1/4-20
-    # ==========================================
-
-    match = re.search(
-        r"(\d+(?:\.\d+)?/\d+)\s*[-]\s*(\d+)",
-        desc_norm
-    )
-
-    if match:
-        diametro = match.group(1)
-        paso = match.group(2)
-
-        return diametro, paso, largo
-
-    # ==========================================
-    # PATRON:
-    # x 2
-    # x 7/8
-    # ==========================================
-
-    match = re.search(
-        r"x\s*(\d+(?:\.\d+)?(?:/\d+)?)",
-        desc_norm
-    )
-
-    if match:
-        largo = match.group(1)
-
+    
+    # Buscar diámetro: 1/4, 5/16, 1.1/2 (con punto), 8 (número sin fracción)
+    diametro_match = re.search(r"(\d+(?:\.\d+)?/\d+)", desc_norm)
+    if diametro_match:
+        diametro = diametro_match.group(1)
+    else:
+        # Si no hay fracción pero hay "x" (formato: 8 X 1/2), buscar el primer número
+        diametro_match = re.search(r"^(\d+(?:\.\d+)?)\s*x", desc_norm)
+        if diametro_match:
+            diametro = diametro_match.group(1)
+    
+    # Paso: búsqueda de UNC(20), (20), -20, UNC20, WH-2, etc.
+    paso_match = re.search(r"(?:unc|unf|bsw|wh)?\s*[-\.]?\s*\(?(\d+)\)?", desc_norm)
+    if paso_match:
+        paso = paso_match.group(1)
+    
+    # Largo: x 2", x 1.5", x 1/2, x 16mm, etc.
+    largo_match = re.search(r"x\s*(\d+(?:\.\d+)?(?:/\d+)?)", desc_norm)
+    if largo_match:
+        largo = largo_match.group(1)
+    
     return diametro, paso, largo
 
 
 # -------------------------
-# Validaciones
+# Parser de Borroni
 # -------------------------
 
-def es_registro_valido(desc, codigo):
+def parse_borroni_csv(input_path, output_path=None):
     """
-    Valida si un registro es válido (no es basura)
-    """
-    # Convertir a string por seguridad
-    desc = str(desc).strip() if pd.notna(desc) else ""
-    codigo = str(codigo).strip() if pd.notna(codigo) else ""
-    
-    # Si el código está vacío o es solo ">"
-    if not codigo or codigo == ">" or codigo == "nan":
-        return False
-    
-    # Si la descripción está vacía
-    if not desc or desc == "" or desc == "nan":
-        return False
-    
-    # Si es un registro con muchos ceros (basura)
-    if desc.count("0") > 20 and len(desc.split(",")) > 10:
-        return False
-    
-    return True
-
-# -------------------------
-# Parser principal
-# -------------------------
-
-def parse_carel_listado(input_path, output_path=None):
-    """
-    Parsea el archivo listadoProductos.csv de Carel
+    Parsea el archivo borroniSinParsear.csv
     
     Args:
-        input_path: Ruta del archivo CSV
-        output_path: Ruta para guardar el CSV procesado (opcional)
+        input_path: Ruta del archivo CSV sin parsear
+        output_path: Ruta para guardar el CSV parseado (opcional)
     
     Returns:
         DataFrame con productos parseados
@@ -457,23 +342,27 @@ def parse_carel_listado(input_path, output_path=None):
         df.columns = df.columns.str.strip().str.lower()
         
         # Validar que existan las columnas necesarias
-        if "codigo" not in df.columns or "descripcion" not in df.columns:
-            logger.error("❌ El archivo debe contener columnas 'Codigo' y 'Descripcion'")
+        cols_requeridas = ['codigo_de_producto', 'descripcion', 'precio']
+        if not all(col in df.columns for col in cols_requeridas):
+            logger.error(f"❌ El archivo debe contener columnas: {cols_requeridas}")
+            logger.info(f"   Columnas encontradas: {df.columns.tolist()}")
             return pd.DataFrame()
         
-        # Quedarse solo con las columnas importantes
-        df = df[["codigo", "descripcion"]].copy()
-                
         # Convertir TODO a string PRIMERO
-        df["codigo"] = df["codigo"].astype(str).fillna("").str.strip()
-        df["descripcion"] = df["descripcion"].astype(str).fillna("").str.strip()
-
-        # Limpiar datos
-        df["codigo"] = df["codigo"].apply(limpiar_codigo)        
+        df['codigo_de_producto'] = df['codigo_de_producto'].astype(str).fillna("").str.strip()
+        df['descripcion'] = df['descripcion'].astype(str).fillna("").str.strip()
+        df['precio'] = pd.to_numeric(df['precio'], errors='coerce')
+        
         logger.info("🔍 Validando registros...")
         
-        # Filtrar registros válidos
-        df = df[df.apply(lambda row: es_registro_valido(row["descripcion"], row["codigo"]), axis=1)]
+        # Filtrar registros válidos (con código, descripción y precio)
+        df = df[
+            (df['codigo_de_producto'] != "") & 
+            (df['codigo_de_producto'] != "nan") &
+            (df['descripcion'] != "") & 
+            (df['descripcion'] != "nan") &
+            (df['precio'].notna())
+        ]
         
         logger.info(f"✅ Registros válidos: {len(df)}")
         logger.info("🔍 Parseando descripciones...")
@@ -486,8 +375,9 @@ def parse_carel_listado(input_path, output_path=None):
         
         for idx, row in df.iterrows():
             try:
-                desc = str(row["descripcion"]).strip()
-                codigo = str(row["codigo"]).strip()
+                desc = str(row['descripcion']).strip()
+                codigo = str(row['codigo_de_producto']).strip()
+                precio = row['precio']
                 
                 desc_norm = normalizar(desc)
                 
@@ -519,6 +409,8 @@ def parse_carel_listado(input_path, output_path=None):
                     "sistema": sistema,
                     "sistema_rosca": sistema_rosca,
                     "acabado": acabado,
+                    "precio_unitario": precio,
+                    "proveedor": "borroni",
                     "descripcion": desc
                 })
                 
@@ -563,20 +455,16 @@ def parse_carel_listado(input_path, output_path=None):
         for sistema, count in df_resultado['sistema'].value_counts().items():
             logger.info(f"      - {sistema}: {count}")
         
-        logger.info(f"\n   Grados detectados:")
-        grados_count = df_resultado[df_resultado['grado'].notna()]['grado'].value_counts()
-        if len(grados_count) > 0:
-            for grado, count in grados_count.head(10).items():
-                logger.info(f"      - {grado}: {count}")
-        else:
-            logger.info(f"      - (ninguno detectado)")
+        logger.info(f"\n   Precio mínimo: ${df_resultado['precio_unitario'].min():.2f}")
+        logger.info(f"   Precio máximo: ${df_resultado['precio_unitario'].max():.2f}")
+        logger.info(f"   Precio promedio: ${df_resultado['precio_unitario'].mean():.2f}")
         
         # Mostrar ejemplos de productos que no se parsearon bien
         sin_parsear = df_resultado[df_resultado['diametro'].isna()]
         if len(sin_parsear) > 0:
             logger.info(f"\n⚠️  Ejemplos de productos sin parsear ({len(sin_parsear)} total):")
             for _, row in sin_parsear.head(10).iterrows():
-                logger.info(f"      {str(row['codigo'])[:15]:15} | {str(row['tipo'])[:12]:12} | {str(row['descripcion'])[:60]}")
+                logger.info(f"      {str(row['codigo'])[:15]:15} | {str(row['tipo'])[:20]:20} | {str(row['descripcion'])[:60]}")
         
         # Guardar si se especifica output_path
         if output_path:
@@ -593,3 +481,4 @@ def parse_carel_listado(input_path, output_path=None):
         import traceback
         logger.error(traceback.format_exc())
         return pd.DataFrame()
+

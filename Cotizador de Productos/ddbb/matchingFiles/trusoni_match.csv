@@ -1,0 +1,2 @@
+id_master,descripcion_master,tipo_master,diametro_master,largo_master,grado_master,acabado_master,id_proveedor,descripcion_proveedor,tipo_proveedor,diametro_proveedor,largo_proveedor,precio_unitario,proveedor,score_atributos,score_descripcion,score_final
+FM04012D,TOR. FIX. P/MAD.F 3 x 12 DICRO,tornillo,,,,dicro,codigo,descripcion,tornillo,,,proveedor,Trusoni,100.0,29.27,71.71

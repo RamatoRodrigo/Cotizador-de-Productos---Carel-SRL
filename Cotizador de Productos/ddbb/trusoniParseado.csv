@@ -1,0 +1,779 @@
+codigo,tipo,forma,diametro,paso,largo,grado,sistema,acabado,precio_unitario,proveedor,descripcion
+codigo,tornillo,,,,,,metrico,,proveedor,trusoni,descripcion
+AC3X6,tornillo_allen,cilindrica,3,0.50,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 6 12.9"
+AC3X8,tornillo_allen,cilindrica,3,0.50,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 8 12.9"
+AC3X10,tornillo_allen,cilindrica,3,0.50,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 10 12.9"
+AC3X12,tornillo_allen,cilindrica,3,0.50,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 12 12.9"
+AC3X16,tornillo_allen,cilindrica,3,0.50,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 16 12.9"
+AC3X20,tornillo_allen,cilindrica,3,0.50,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 20 12.9"
+AC3X25,tornillo_allen,cilindrica,3,0.50,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 25 12.9"
+AC3X30,tornillo_allen,cilindrica,3,0.50,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 30 12.9"
+AC3X35,tornillo_allen,cilindrica,3,0.50,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 35 12.9"
+AC3X40,tornillo_allen,cilindrica,3,0.50,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 40 12.9"
+AC3X50,tornillo_allen,cilindrica,3,0.50,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3 x 0,50 x 50 12.9"
+AC4X6,tornillo_allen,cilindrica,4,0.70,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 6 12.9"
+AC4X8,tornillo_allen,cilindrica,4,0.70,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 8 12.9"
+AC4X10,tornillo_allen,cilindrica,4,0.70,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 10 12.9"
+AC4X12,tornillo_allen,cilindrica,4,0.70,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 12 12.9"
+AC4X16,tornillo_allen,cilindrica,4,0.70,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 16 12.9"
+AC4X20,tornillo_allen,cilindrica,4,0.70,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 20 12.9"
+AC4X25,tornillo_allen,cilindrica,4,0.70,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 25 12.9"
+AC4X30,tornillo_allen,cilindrica,4,0.70,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 30 12.9"
+AC4X35,tornillo_allen,cilindrica,4,0.70,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 35 12.9"
+AC4X40,tornillo_allen,cilindrica,4,0.70,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 40 12.9"
+AC4X50,tornillo_allen,cilindrica,4,0.70,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 4 x 0,70 x 50 12.9"
+AC5X8,tornillo_allen,cilindrica,5,0.80,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 8 12.9"
+AC5X10,tornillo_allen,cilindrica,5,0.80,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 10 12.9"
+AC5X12,tornillo_allen,cilindrica,5,0.80,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 12 12.9"
+AC5X16,tornillo_allen,cilindrica,5,0.80,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 16 12.9"
+AC5X20,tornillo_allen,cilindrica,5,0.80,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 20 12.9"
+AC5X25,tornillo_allen,cilindrica,5,0.80,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 25 12.9"
+AC5X30,tornillo_allen,cilindrica,5,0.80,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 30 12.9"
+AC5X35,tornillo_allen,cilindrica,5,0.80,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 35 12.9"
+AC5X40,tornillo_allen,cilindrica,5,0.80,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 40 12.9"
+AC5X45,tornillo_allen,cilindrica,5,0.80,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 45 12.9"
+AC5X50,tornillo_allen,cilindrica,5,0.80,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 50 12.9"
+AC5x55,tornillo_allen,cilindrica,5,0.80,55,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 55 12.9"
+AC5X60,tornillo_allen,cilindrica,5,0.80,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 60 12.9"
+AC5X70,tornillo_allen,cilindrica,5,0.80,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 70 12.9"
+AC5X80,tornillo_allen,cilindrica,5,0.80,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 80 12.9"
+AC5X90,tornillo_allen,cilindrica,5,0.80,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 90 12.9"
+AC5X100,tornillo_allen,cilindrica,5,0.80,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5 x 0,80 x 100 12.9"
+AC6X10,tornillo_allen,cilindrica,6,1.00,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 10 12.9"
+AC6X12,tornillo_allen,cilindrica,6,1.00,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 12 12.9"
+AC6X16,tornillo_allen,cilindrica,6,1.00,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 16 12.9"
+AC6X20,tornillo_allen,cilindrica,6,1.00,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 20 12.9"
+AC6X25,tornillo_allen,cilindrica,6,1.00,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 25 12.9"
+AC6X30,tornillo_allen,cilindrica,6,1.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 30 12.9"
+AC6X35,tornillo_allen,cilindrica,6,1.00,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 35 12.9"
+AC6X40,tornillo_allen,cilindrica,6,1.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 40 12.9"
+AC6X45,tornillo_allen,cilindrica,6,1.00,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 45 12.9"
+AC6X50,tornillo_allen,cilindrica,6,1.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 50 12.9"
+AC6X55,tornillo_allen,cilindrica,6,1.00,55,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 55 12.9"
+AC6X60,tornillo_allen,cilindrica,6,1.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 60 12.9"
+AC6X70,tornillo_allen,cilindrica,6,1.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 70 12.9"
+AC6X80,tornillo_allen,cilindrica,6,1.00,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 80 12.9"
+AC6X90,tornillo_allen,cilindrica,6,1.00,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 90 12.9"
+AC6X100,tornillo_allen,cilindrica,6,1.00,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 100 12.9"
+AC6X110,tornillo_allen,cilindrica,6,1.00,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 110 12.9"
+AC6X120,tornillo_allen,cilindrica,6,1.00,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 120 12.9"
+AC6X130,tornillo_allen,cilindrica,6,1.00,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 130 12.9"
+AC6X140,tornillo_allen,cilindrica,6,1.00,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 140 12.9"
+AC6X150,tornillo_allen,cilindrica,6,1.00,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 6 x 1,00 x 150 12.9"
+AC8X10,tornillo_allen,cilindrica,8,1.25,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 10 12.9"
+AC8X12,tornillo_allen,cilindrica,8,1.25,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 12 12.9"
+AC8X16,tornillo_allen,cilindrica,8,1.25,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 16 12.9"
+AC8X180,tornillo_allen,cilindrica,8,1.25,18,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 18 12.9"
+AC8X20,tornillo_allen,cilindrica,8,1.25,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 20 12.9"
+AC8X25,tornillo_allen,cilindrica,8,1.25,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 25 12.9"
+AC8X30,tornillo_allen,cilindrica,8,1.25,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 30 12.9"
+AC8X35,tornillo_allen,cilindrica,8,1.25,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 35 12.9"
+AC8X40,tornillo_allen,cilindrica,8,1.25,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 40 12.9"
+AC8X45,tornillo_allen,cilindrica,8,1.25,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 45 12.9"
+AC8X50,tornillo_allen,cilindrica,8,1.25,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 50 12.9"
+AC8X55,tornillo_allen,cilindrica,8,1.25,55,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 55 12.9"
+AC8X60,tornillo_allen,cilindrica,8,1.25,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 60 12.9"
+AC8X70,tornillo_allen,cilindrica,8,1.25,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 70 12.9"
+AC8X80,tornillo_allen,cilindrica,8,1.25,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 80 12.9"
+AC8X90,tornillo_allen,cilindrica,8,1.25,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 90 12.9"
+AC8X100,tornillo_allen,cilindrica,8,1.25,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 100 12.9"
+AC8X110,tornillo_allen,cilindrica,8,1.25,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 110 12.9"
+AC8X120,tornillo_allen,cilindrica,8,1.25,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 120 12.9"
+AC8X130,tornillo_allen,cilindrica,8,1.25,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 130 12.9"
+AC8X140,tornillo_allen,cilindrica,8,1.25,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 140 12.9"
+AC8X150,tornillo_allen,cilindrica,8,1.25,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 150 12.9"
+AC8X160,tornillo_allen,cilindrica,8,1.25,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 160 12.9"
+AC8X170,tornillo_allen,cilindrica,8,1.25,170,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 170 12.9"
+AC8X180,tornillo_allen,cilindrica,8,1.25,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 180 12.9"
+AC8X200,tornillo_allen,cilindrica,8,1.25,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 8 x 1,25 x 200 12.9"
+AC10X16,tornillo_allen,cilindrica,10,1.50,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 16 12.9"
+AC10X20,tornillo_allen,cilindrica,10,1.50,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 20 12.9"
+AC10X25,tornillo_allen,cilindrica,10,1.50,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 25 12.9"
+AC10X30,tornillo_allen,cilindrica,10,1.50,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 30 12.9"
+AC10X35,tornillo_allen,cilindrica,10,1.50,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 35 12.9"
+AC10X40,tornillo_allen,cilindrica,10,1.50,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 40 12.9"
+AC10X45,tornillo_allen,cilindrica,10,1.50,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 45 12.9"
+AC10X50,tornillo_allen,cilindrica,10,1.50,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 50 12.9"
+AC10X60,tornillo_allen,cilindrica,10,1.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 60 12.9"
+AC10X70,tornillo_allen,cilindrica,10,1.50,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 70 12.9"
+AC10X80,tornillo_allen,cilindrica,10,1.50,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 80 12.9"
+AC10X90,tornillo_allen,cilindrica,10,1.50,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 90 12.9"
+AC10X100,tornillo_allen,cilindrica,10,1.50,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 100 12.9"
+AC10X110,tornillo_allen,cilindrica,10,1.50,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 110 12.9"
+AC10X120,tornillo_allen,cilindrica,10,1.50,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 120 12.9"
+AC10X130,tornillo_allen,cilindrica,10,1.50,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 130 12.9"
+AC10X140,tornillo_allen,cilindrica,10,1.50,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 140 12.9"
+AC10X150,tornillo_allen,cilindrica,10,1.50,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 150 12.9"
+AC10X160,tornillo_allen,cilindrica,10,1.50,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 160 12.9"
+AC10X180,tornillo_allen,cilindrica,10,1.50,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 180 12.9"
+AC10X200,tornillo_allen,cilindrica,10,1.50,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 10 x 1,50 x 200 12.9"
+AC12X20,tornillo_allen,cilindrica,12,1.75,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 20 12.9"
+AC12X25,tornillo_allen,cilindrica,12,1.75,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 25 12.9"
+AC12X30,tornillo_allen,cilindrica,12,1.75,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 30 12.9"
+AC12X35,tornillo_allen,cilindrica,12,1.75,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 35 12.9"
+AC12X40,tornillo_allen,cilindrica,12,1.75,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 40 12.9"
+AC12X45,tornillo_allen,cilindrica,12,1.75,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 45 12.9"
+AC12X50,tornillo_allen,cilindrica,12,1.75,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 50 12.9"
+AC12X60,tornillo_allen,cilindrica,12,1.75,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 60 12.9"
+AC12X70,tornillo_allen,cilindrica,12,1.75,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 70 12.9"
+AC12X80,tornillo_allen,cilindrica,12,1.75,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 80 12.9"
+AC12X90,tornillo_allen,cilindrica,12,1.75,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 90 12.9"
+AC12X100,tornillo_allen,cilindrica,12,1.75,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 100 12.9"
+AC12X110,tornillo_allen,cilindrica,12,1.75,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 110 12.9"
+AC12X120,tornillo_allen,cilindrica,12,1.75,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 120 12.9"
+AC12X130,tornillo_allen,cilindrica,12,1.75,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 130 12.9"
+AC12X140,tornillo_allen,cilindrica,12,1.75,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 140 12.9"
+AC12X150,tornillo_allen,cilindrica,12,1.75,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 150 12.9"
+AC12X160,tornillo_allen,cilindrica,12,1.75,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 160 12.9"
+AC12X180,tornillo_allen,cilindrica,12,1.75,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 180 12.9"
+AC12X200,tornillo_allen,cilindrica,12,1.75,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 12 x 1,75 x 200 12.9"
+AC14X30,tornillo_allen,cilindrica,14,2.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 30 12.9"
+AC14X35,tornillo_allen,cilindrica,14,2.00,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 35 12.9"
+AC14X40,tornillo_allen,cilindrica,14,2.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 40 12.9"
+AC14X45,tornillo_allen,cilindrica,14,2.00,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 45 12.9"
+AC14X50,tornillo_allen,cilindrica,14,2.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 50 12.9"
+AC14X60,tornillo_allen,cilindrica,14,2.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 60 12.9"
+AC14X70,tornillo_allen,cilindrica,14,2.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 70 12.9"
+AC14X80,tornillo_allen,cilindrica,14,2.00,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 80 12.9"
+AC14X90,tornillo_allen,cilindrica,14,2.00,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 90 12.9"
+AC14X100,tornillo_allen,cilindrica,14,2.00,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 100 12.9"
+AC14X110,tornillo_allen,cilindrica,14,2.00,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 110 12.9"
+AC14X120,tornillo_allen,cilindrica,14,2.00,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 120 12.9"
+AC14X130,tornillo_allen,cilindrica,14,2.00,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 130 12.9"
+AC14X140,tornillo_allen,cilindrica,14,2.00,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 140 12.9"
+AC14X150,tornillo_allen,cilindrica,14,2.00,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 150 12.9"
+AC14X160,tornillo_allen,cilindrica,14,2.00,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 160 12.9"
+AC14X180,tornillo_allen,cilindrica,14,2.00,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 180 12.9"
+AC14X200,tornillo_allen,cilindrica,14,2.00,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 200 12.9"
+AC14X250,tornillo_allen,cilindrica,14,2.00,250,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 250 12.9"
+AC14X300,tornillo_allen,cilindrica,14,2.00,300,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 14 x 2,00 x 300 12.9"
+AC16X30,tornillo_allen,cilindrica,16,2.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 30 12.9"
+AC16X35,tornillo_allen,cilindrica,16,2.00,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 35 12.9"
+AC16X40,tornillo_allen,cilindrica,16,2.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 40 12.9"
+AC16X45,tornillo_allen,cilindrica,16,2.00,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 45 12.9"
+AC16X50,tornillo_allen,cilindrica,16,2.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 50 12.9"
+AC16X55,tornillo_allen,cilindrica,16,2.00,55,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 55 12.9"
+AC16X60,tornillo_allen,cilindrica,16,2.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 60 12.9"
+AC16X70,tornillo_allen,cilindrica,16,2.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 70 12.9"
+AC16X80,tornillo_allen,cilindrica,16,2.00,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 80 12.9"
+AC16X90,tornillo_allen,cilindrica,16,2.00,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 90 12.9"
+AC16X100,tornillo_allen,cilindrica,16,2.00,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 100 12.9"
+AC16X110,tornillo_allen,cilindrica,16,2.00,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 110 12.9"
+AC16X120,tornillo_allen,cilindrica,16,2.00,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 120 12.9"
+AC16X130,tornillo_allen,cilindrica,16,2.00,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 130 12.9"
+AC16X140,tornillo_allen,cilindrica,16,2.00,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 140 12.9"
+AC16X150,tornillo_allen,cilindrica,16,2.00,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 150 12.9"
+AC16X160,tornillo_allen,cilindrica,16,2.00,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 160 12.9"
+AC16X180,tornillo_allen,cilindrica,16,2.00,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 180 12.9"
+AC16X200,tornillo_allen,cilindrica,16,2.00,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 200 12.9"
+AC16X250,tornillo_allen,cilindrica,16,2.00,250,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 250 12.9"
+AC16X300,tornillo_allen,cilindrica,16,2.00,300,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 16 x 2,00 x 300 12.9"
+AC18X40,tornillo_allen,cilindrica,18,2.50,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 40 12.9"
+AC18X45,tornillo_allen,cilindrica,18,2.50,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 45 12.9"
+AC18X50,tornillo_allen,cilindrica,18,2.50,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 50 12.9"
+AC18X55,tornillo_allen,cilindrica,18,2.50,55,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 55 12.9"
+AC18X60,tornillo_allen,cilindrica,18,2.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 60 12.9"
+AC18X70,tornillo_allen,cilindrica,18,2.50,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 70 12.9"
+AC18X80,tornillo_allen,cilindrica,18,2.50,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 80 12.9"
+AC18X90,tornillo_allen,cilindrica,18,2.50,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 90 12.9"
+AC18X100,tornillo_allen,cilindrica,18,2.50,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 100 12.9"
+AC18X110,tornillo_allen,cilindrica,18,2.50,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 110 12.9"
+AC18X120,tornillo_allen,cilindrica,18,2.50,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 120 12.9"
+AC18X130,tornillo_allen,cilindrica,18,2.50,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 130 12.9"
+AC18X140,tornillo_allen,cilindrica,18,2.50,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 140 12.9"
+AC18X150,tornillo_allen,cilindrica,18,2.50,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 150 12.9"
+AC18X160,tornillo_allen,cilindrica,18,2.50,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 160 12.9"
+AC18X180,tornillo_allen,cilindrica,18,2.50,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 180 12.9"
+AC18X200,tornillo_allen,cilindrica,18,2.50,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 200 12.9"
+AC18X250,tornillo_allen,cilindrica,18,2.50,250,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 250 12.9"
+AC18X300,tornillo_allen,cilindrica,18,2.50,300,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 18 x 2,50 x 300 12.9"
+AC20X35,tornillo_allen,cilindrica,20,2.5,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 35 12.9"
+AC20X40,tornillo_allen,cilindrica,20,2.5,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 40 12.9"
+AC20X45,tornillo_allen,cilindrica,20,2.5,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 45 12.9"
+AC20X50,tornillo_allen,cilindrica,20,2.5,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 50 12.9"
+AC20X55,tornillo_allen,cilindrica,20,2.5,55,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 55 12.9"
+AC20X60,tornillo_allen,cilindrica,20,2.5,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 60 12.9"
+AC20X70,tornillo_allen,cilindrica,20,2.5,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 70 12.9"
+AC20X80,tornillo_allen,cilindrica,20,2.5,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 80 12.9"
+AC20X90,tornillo_allen,cilindrica,20,2.5,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 90 12.9"
+AC20X100,tornillo_allen,cilindrica,20,2.5,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 100 12.9"
+AC20X110,tornillo_allen,cilindrica,20,2.5,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 110 12.9"
+AC20X120,tornillo_allen,cilindrica,20,2.5,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 120 12.9"
+AC20X130,tornillo_allen,cilindrica,20,2.5,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 130 12.9"
+AC20X140,tornillo_allen,cilindrica,20,2.5,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 140 12.9"
+AC20X150,tornillo_allen,cilindrica,20,2.5,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 150 12.9"
+AC20X160,tornillo_allen,cilindrica,20,2.5,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 160 12.9"
+AC20X180,tornillo_allen,cilindrica,20,2.5,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 180 12.9"
+AC20X200,tornillo_allen,cilindrica,20,2.5,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 200 12.9"
+AC20X250,tornillo_allen,cilindrica,20,2.5,250,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 250 12.9"
+AC20X300,tornillo_allen,cilindrica,20,2.5,300,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 20 x 2,5 x 300 12.9"
+AC22X60,tornillo_allen,cilindrica,22,2.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 60 12.9"
+AC22X70,tornillo_allen,cilindrica,22,2.50,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 70 12.9"
+AC22X80,tornillo_allen,cilindrica,22,2.50,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 80 12.9"
+AC22X90,tornillo_allen,cilindrica,22,2.50,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 90 12.9"
+AC22X100,tornillo_allen,cilindrica,22,2.50,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 100 12.9"
+AC22X110,tornillo_allen,cilindrica,22,2.50,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 110 12.9"
+AC22X120,tornillo_allen,cilindrica,22,2.50,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 120 12.9"
+AC22X130,tornillo_allen,cilindrica,22,2.50,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 130 12.9"
+AC22X140,tornillo_allen,cilindrica,22,2.50,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 140 12.9"
+AC22X150,tornillo_allen,cilindrica,22,2.50,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 150 12.9"
+AC22X160,tornillo_allen,cilindrica,22,2.50,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 160 12.9"
+AC22X180,tornillo_allen,cilindrica,22,2.50,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 180 12.9"
+AC22X200,tornillo_allen,cilindrica,22,2.50,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 22 x 2,50 x 200 12.9"
+AC24X50,tornillo_allen,cilindrica,24,3.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 50 12.9"
+AC24X60,tornillo_allen,cilindrica,24,3.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 60 12.9"
+AC24X70,tornillo_allen,cilindrica,24,3.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 70 12.9"
+AC24X80,tornillo_allen,cilindrica,24,3.00,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 80 12.9"
+AC24X90,tornillo_allen,cilindrica,24,3.00,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 90 12.9"
+AC24X100,tornillo_allen,cilindrica,24,3.00,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 100 12.9"
+AC24X110,tornillo_allen,cilindrica,24,3.00,110,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 110 12.9"
+AC24X120,tornillo_allen,cilindrica,24,3.00,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 120 12.9"
+AC24X130,tornillo_allen,cilindrica,24,3.00,130,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 130 12.9"
+AC24X140,tornillo_allen,cilindrica,24,3.00,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 140 12.9"
+AC24X150,tornillo_allen,cilindrica,24,3.00,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 150 12.9"
+AC24X160,tornillo_allen,cilindrica,24,3.00,160,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 160 12.9"
+AC24X180,tornillo_allen,cilindrica,24,3.00,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 180 12.9"
+AC24X200,tornillo_allen,cilindrica,24,3.00,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 24 x 3,00 x 200 12.9"
+AC30x70,tornillo_allen,cilindrica,30,3.50,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 70 12.9"
+AC30X80,tornillo_allen,cilindrica,30,3.50,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 80 12.9"
+AC30X90,tornillo_allen,cilindrica,30,3.50,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 90 12.9"
+AC30X100,tornillo_allen,cilindrica,30,3.50,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 100 12.9"
+AC30X120,tornillo_allen,cilindrica,30,3.50,120,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 120 12.9"
+AC30X140,tornillo_allen,cilindrica,30,3.50,140,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 140 12.9"
+AC30X150,tornillo_allen,cilindrica,30,3.50,150,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 150 12.9"
+AC30X180,tornillo_allen,cilindrica,30,3.50,180,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 180 12.9"
+AC30X200,tornillo_allen,cilindrica,30,3.50,200,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 30 x 3,50 x 200 12.9"
+CÓDIGO,tornillo_allen,cilindrica,,,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 DESCRIPCIÓN
+AC1/8X1/4,tornillo_allen,cilindrica,1/8,40,1/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/8 - 40 x 1/4
+AC1/8X5/16,tornillo_allen,cilindrica,1/8,40,5/16,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/8 - 40 x 5/16
+AC1/8X3/8,tornillo_allen,cilindrica,1/8,40,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/8 - 40 x 3/8
+AC1/8X1/2,tornillo_allen,cilindrica,1/8,40,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/8 - 40 x 1/2
+AC3/16X3/8,tornillo_allen,cilindrica,3/16,24,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 3/8
+AC3/16X1/2,tornillo_allen,cilindrica,3/16,24,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 1/2
+AC3/16X5/8,tornillo_allen,cilindrica,3/16,24,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 5/8
+AC3/16X3/4,tornillo_allen,cilindrica,3/16,24,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 3/4
+AC3/16X1,tornillo_allen,cilindrica,3/16,24,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 1
+AC3/16X11/4,tornillo_allen,cilindrica,3/16,24,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 11/4
+AC3/16X11/2,tornillo_allen,cilindrica,3/16,24,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 11/2
+AC3/16X13/4,tornillo_allen,cilindrica,3/16,24,13/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 13/4
+AC3/16X2,tornillo_allen,cilindrica,3/16,24,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/16 - 24 x 2
+AC1/4X3/8,tornillo_allen,cilindrica,1/4,20,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 3/8
+AC1/4X1/2,tornillo_allen,cilindrica,1/4,20,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 1/2
+AC1/4X5/8,tornillo_allen,cilindrica,1/4,20,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 5/8
+AC1/4X3/4,tornillo_allen,cilindrica,1/4,20,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 3/4
+AC1/4X1,tornillo_allen,cilindrica,1/4,20,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 1
+AC1/4X11/4,tornillo_allen,cilindrica,1/4,20,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 11/4
+AC1/4X11/2,tornillo_allen,cilindrica,1/4,20,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 11/2
+AC1/4X13/4,tornillo_allen,cilindrica,1/4,20,13/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 13/4
+AC1/4X2,tornillo_allen,cilindrica,1/4,20,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 2
+AC1/4X21/2,tornillo_allen,cilindrica,1/4,20,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 21/2
+AC1/4X23/4,tornillo_allen,cilindrica,1/4,20,23/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 23/4
+AC1/4X3,tornillo_allen,cilindrica,1/4,20,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 3
+AC1/4X31/2,tornillo_allen,cilindrica,1/4,20,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 31/2
+AC1/4X4,tornillo_allen,cilindrica,1/4,20,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/4 - 20 x 4
+AC5/16X1/2,tornillo_allen,cilindrica,5/16,18,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 1/2
+AC5/16X5/8,tornillo_allen,cilindrica,5/16,18,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 5/8
+AC5/16X3/4,tornillo_allen,cilindrica,5/16,18,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 3/4
+AC5/16X1,tornillo_allen,cilindrica,5/16,18,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 1
+AC5/16X11/4,tornillo_allen,cilindrica,5/16,18,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 11/4
+AC5/16X11/2,tornillo_allen,cilindrica,5/16,18,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 11/2
+AC5/16X13/4,tornillo_allen,cilindrica,5/16,18,13/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 13/4
+AC5/16X2,tornillo_allen,cilindrica,5/16,18,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 2
+AC5/16X21/2,tornillo_allen,cilindrica,5/16,18,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 21/2
+AC5/16X23/4,tornillo_allen,cilindrica,5/16,18,23/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 23/4
+AC5/16X3,tornillo_allen,cilindrica,5/16,18,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 3
+AC5/16X31/2,tornillo_allen,cilindrica,5/16,18,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 31/2
+AC5/16X4,tornillo_allen,cilindrica,5/16,18,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 4
+AC5/16X41/2,tornillo_allen,cilindrica,5/16,18,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 41/2
+AC5/16X5,tornillo_allen,cilindrica,5/16,18,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/16 - 18 x 5
+AC3/8X1/2,tornillo_allen,cilindrica,3/8,16,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 1/2
+AC3/8X3/4,tornillo_allen,cilindrica,3/8,16,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 3/4
+AC3/8X1,tornillo_allen,cilindrica,3/8,16,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 1
+AC3/8X11/4,tornillo_allen,cilindrica,3/8,16,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 11/4
+AC3/8X11/2,tornillo_allen,cilindrica,3/8,16,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 11/2
+AC3/8X13/4,tornillo_allen,cilindrica,3/8,16,13/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 13/4
+AC3/8X2,tornillo_allen,cilindrica,3/8,16,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 2
+AC3/8X21/2,tornillo_allen,cilindrica,3/8,16,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 21/2
+AC3/8X23/4,tornillo_allen,cilindrica,3/8,16,23/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 23/4
+AC3/8X3,tornillo_allen,cilindrica,3/8,16,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 3
+AC3/8X31/2,tornillo_allen,cilindrica,3/8,16,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 31/2
+AC3/8X4,tornillo_allen,cilindrica,3/8,16,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 4
+AC3/8X41/2,tornillo_allen,cilindrica,3/8,16,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 41/2
+AC3/8X5,tornillo_allen,cilindrica,3/8,16,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 5
+AC3/8X6,tornillo_allen,cilindrica,3/8,16,6,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/8 - 16 x 6
+AC7/16X1,tornillo_allen,cilindrica,7/16,14,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 1
+AC7/16X11/4,tornillo_allen,cilindrica,7/16,14,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 11/4
+AC7/16X11/2,tornillo_allen,cilindrica,7/16,14,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 11/2
+AC7/16X2,tornillo_allen,cilindrica,7/16,14,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 2
+AC7/16X21/2,tornillo_allen,cilindrica,7/16,14,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 21/2
+AC7/16X3,tornillo_allen,cilindrica,7/16,14,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 3
+AC7/16X31/2,tornillo_allen,cilindrica,7/16,14,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 31/2
+AC7/16X4,tornillo_allen,cilindrica,7/16,14,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/16 - 14 x 4
+AC1/2X3/4,tornillo_allen,cilindrica,1/2,12,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 3/4 wth
+AC1/2X1,tornillo_allen,cilindrica,1/2,12,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 1
+AC1/2X11/4,tornillo_allen,cilindrica,1/2,12,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 11/4
+AC1/2X11/2,tornillo_allen,cilindrica,1/2,12,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 11/2
+AC1/2X13/4,tornillo_allen,cilindrica,1/2,12,13/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 13/4
+AC1/2X2,tornillo_allen,cilindrica,1/2,12,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 2
+AC1/2X21/2,tornillo_allen,cilindrica,1/2,12,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 21/2
+AC1/2X23/4,tornillo_allen,cilindrica,1/2,12,23/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 23/4
+AC1/2X3,tornillo_allen,cilindrica,1/2,12,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 3
+AC1/2X31/2,tornillo_allen,cilindrica,1/2,12,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 31/2
+AC1/2X4,tornillo_allen,cilindrica,1/2,12,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 4
+AC1/2X41/2,tornillo_allen,cilindrica,1/2,12,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 41/2
+AC1/2X5,tornillo_allen,cilindrica,1/2,12,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 5
+AC1/2X6,tornillo_allen,cilindrica,1/2,12,6,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 6
+AC1/2X7,tornillo_allen,cilindrica,1/2,12,7,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 7
+AC1/2X8,tornillo_allen,cilindrica,1/2,12,8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 12 x 8
+ACNC1/2X1,tornillo_allen,cilindrica,1/2,13,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 1 NC
+ACNC1/2X11/4,tornillo_allen,cilindrica,1/2,13,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 11/4
+ACNC1/2X11/2,tornillo_allen,cilindrica,1/2,13,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 11/2
+ACNC1/2X13/4,tornillo_allen,cilindrica,1/2,13,13/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 13/4
+ACNC1/2X2,tornillo_allen,cilindrica,1/2,13,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 2
+ACNC1/2X21/2,tornillo_allen,cilindrica,1/2,13,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 21/2
+ACNC1/2X3,tornillo_allen,cilindrica,1/2,13,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 3
+ACNC1/2X31/4,tornillo_allen,cilindrica,1/2,13,31/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 31/4
+ACNC1/2X31/2,tornillo_allen,cilindrica,1/2,13,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 31/2
+ACNC1/2X4,tornillo_allen,cilindrica,1/2,13,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 4
+ACNC1/2X41/2,tornillo_allen,cilindrica,1/2,13,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 41/2
+ACNC1/2X5,tornillo_allen,cilindrica,1/2,13,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 5
+ACNC1/2X6,tornillo_allen,cilindrica,1/2,13,6,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 6
+ACNC1/2X7,tornillo_allen,cilindrica,1/2,13,7,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 7
+ACNC1/2X8,tornillo_allen,cilindrica,1/2,13,8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1/2 - 13 x 8
+AC5/8X11/4,tornillo_allen,cilindrica,5/8,11,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 11/4
+AC5/8X11/2,tornillo_allen,cilindrica,5/8,11,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 11/2
+AC5/8X2,tornillo_allen,cilindrica,5/8,11,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 2
+AC5/8X21/2,tornillo_allen,cilindrica,5/8,11,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 21/2
+AC5/8X3,tornillo_allen,cilindrica,5/8,11,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 3
+AC5/8X31/2,tornillo_allen,cilindrica,5/8,11,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 31/2
+AC5/8X4,tornillo_allen,cilindrica,5/8,11,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 4
+AC5/8X41/2,tornillo_allen,cilindrica,5/8,11,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 41/2
+AC5/8X5,tornillo_allen,cilindrica,5/8,11,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 5
+AC5/8X6,tornillo_allen,cilindrica,5/8,11,6,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 6
+AC5/8X7,tornillo_allen,cilindrica,5/8,11,7,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 7
+AC5/8X8,tornillo_allen,cilindrica,5/8,11,8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 8
+AC5/8X10,tornillo_allen,cilindrica,5/8,11,10,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 5/8 - 11 x 10
+AC3/4X11/2,tornillo_allen,cilindrica,3/4,10,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 11/2
+AC3/4X2,tornillo_allen,cilindrica,3/4,10,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 2
+AC3/4X21/2,tornillo_allen,cilindrica,3/4,10,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 21/2
+AC3/4X3,tornillo_allen,cilindrica,3/4,10,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 3
+AC3/4X31/2,tornillo_allen,cilindrica,3/4,10,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 31/2
+AC3/4X4,tornillo_allen,cilindrica,3/4,10,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 4
+AC3/4X41/2,tornillo_allen,cilindrica,3/4,10,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 41/2
+AC3/4X5,tornillo_allen,cilindrica,3/4,10,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 5
+AC3/4X6,tornillo_allen,cilindrica,3/4,10,6,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 6
+AC3/4X7,tornillo_allen,cilindrica,3/4,10,7,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 7
+AC3/4X8,tornillo_allen,cilindrica,3/4,10,8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 8
+AC3/4X10,tornillo_allen,cilindrica,3/4,10,10,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 3/4 - 10 x 10
+AC7/8X2,tornillo_allen,cilindrica,7/8,9,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 2
+AC7/8x21/2,tornillo_allen,cilindrica,7/8,9,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 21/2
+AC7/8x31/2,tornillo_allen,cilindrica,7/8,9,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 31/2
+AC7/8X4,tornillo_allen,cilindrica,7/8,9,4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 4
+AC7/8X41/2,tornillo_allen,cilindrica,7/8,9,41/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 41/2
+AC7/8X5,tornillo_allen,cilindrica,7/8,9,5,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 5
+AC7/8X6,tornillo_allen,cilindrica,7/8,9,6,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 6
+AC7/8X7,tornillo_allen,cilindrica,7/8,9,7,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 7
+AC7/8x8,tornillo_allen,cilindrica,7/8,9,8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 7/8 - 9 x 8
+AC1X3,tornillo_allen,cilindrica,8.0,3.0,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1 - 8 x 3
+AC1x31/2,tornillo_allen,cilindrica,1,8,31/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1 - 8 x 31/2
+AC1X4,tornillo_allen,cilindrica,8.0,4.0,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1 - 8 x 4
+AC1x6,tornillo_allen,cilindrica,8.0,6.0,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1 - 8 x 6
+AC1X8,tornillo_allen,cilindrica,8.0,8.0,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 1 - 8 x 8
+AC11/4X8,tornillo_allen,cilindrica,11/4,7,8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 DIN 912 Cil 11/4 - 7 x 8
+AF3X6,tornillo_allen,,3,0.50,6,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 6 10.9"
+AF3X8,tornillo_allen,,3,0.50,8,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 8 10.9"
+AF3X10,tornillo_allen,,3,0.50,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 10 10.9"
+AF3X12,tornillo_allen,,3,0.50,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 12 10.9"
+AF3X16,tornillo_allen,,3,0.50,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 16 10.9"
+AF3X20,tornillo_allen,,3,0.50,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 20 10.9"
+AF3X25,tornillo_allen,,3,0.50,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 25 10.9"
+AF3X30,tornillo_allen,,3,0.50,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 30 10.9"
+AF3X35,tornillo_allen,,3,0.50,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 35 10.9"
+AF3X40,tornillo_allen,,3,0.50,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3 x 0,50 x 40 10.9"
+AF4X8,tornillo_allen,,4,0.70,8,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 8 10.9"
+AF4X10,tornillo_allen,,4,0.70,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 10 10.9"
+AF4X12,tornillo_allen,,4,0.70,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 12 10.9"
+AF4X16,tornillo_allen,,4,0.70,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 16 10.9"
+AF4X20,tornillo_allen,,4,0.70,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 20 10.9"
+AF4X25,tornillo_allen,,4,0.70,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 25 10.9"
+AF4X30,tornillo_allen,,4,0.70,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 30 10.9"
+AF4X35,tornillo_allen,,4,0.70,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 35 10.9"
+AF4X40,tornillo_allen,,4,0.70,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 40 10.9"
+AF4x50,tornillo_allen,,4,0.70,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 4 x 0,70 x 50 10.9"
+AF5X10,tornillo_allen,,5,0.80,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 10 10.9"
+AF5X12,tornillo_allen,,5,0.80,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 12 10.9"
+AF5X16,tornillo_allen,,5,0.80,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 16 10.9"
+AF5X20,tornillo_allen,,5,0.80,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 20 10.9"
+AF5X25,tornillo_allen,,5,0.80,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 25 10.9"
+AF5X30,tornillo_allen,,5,0.80,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 30 10.9"
+AF5X35,tornillo_allen,,5,0.80,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 35 10.9"
+AF5X40,tornillo_allen,,5,0.80,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 40 10.9"
+AF5X50,tornillo_allen,,5,0.80,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5 x 0,80 x 50 10.9"
+AF6X10,tornillo_allen,,6,1.00,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 10 10.9"
+AF6X12,tornillo_allen,,6,1.00,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 12 10.9"
+AF6X16,tornillo_allen,,6,1.00,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 16 10.9"
+AF6X20,tornillo_allen,,6,1.00,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 20 10.9"
+AF6X25,tornillo_allen,,6,1.00,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 25 10.9"
+AF6X30,tornillo_allen,,6,1.00,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 30 10.9"
+AF6X35,tornillo_allen,,6,1.00,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 35 10.9"
+AF6X40,tornillo_allen,,6,1.00,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 40 10.9"
+AF6X50,tornillo_allen,,6,1.00,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 50 10.9"
+AF6X60,tornillo_allen,,6,1.00,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 6 x 1,00 x 60 10.9"
+AF8X16,tornillo_allen,,8,1.25,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 16 10.9"
+AF8X20,tornillo_allen,,8,1.25,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 20 10.9"
+AF8X25,tornillo_allen,,8,1.25,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 25 10.9"
+AF8X30,tornillo_allen,,8,1.25,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 30 10.9"
+AF8X35,tornillo_allen,,8,1.25,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 35 10.9"
+AF8X40,tornillo_allen,,8,1.25,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 40 10.9"
+AF8X50,tornillo_allen,,8,1.25,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 50 10.9"
+AF8X60,tornillo_allen,,8,1.25,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 60 10.9"
+AF8X70,tornillo_allen,,8,1.25,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 70 10.9"
+AF8X80,tornillo_allen,,8,1.25,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 80 10.9"
+AF8X90,tornillo_allen,,8,1.25,90,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 90 10.9"
+AF8X100,tornillo_allen,,8,1.25,100,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 8 x 1,25 x 100 10.9"
+AF10X20,tornillo_allen,,10,1.50,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 20 10.9"
+AF10X25,tornillo_allen,,10,1.50,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 25 10.9"
+AF10X30,tornillo_allen,,10,1.50,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 30 10.9"
+AF10X35,tornillo_allen,,10,1.50,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 35 10.9"
+AF10X40,tornillo_allen,,10,1.50,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 40 10.9"
+AF10X50,tornillo_allen,,10,1.50,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 50 10.9"
+AF10X60,tornillo_allen,,10,1.50,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 60 10.9"
+AF10X70,tornillo_allen,,10,1.50,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 70 10.9"
+AF10X80,tornillo_allen,,10,1.50,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 80 10.9"
+AF10X90,tornillo_allen,,10,1.50,90,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 90 10.9"
+AF10X100,tornillo_allen,,10,1.50,100,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 10 x 1,50 x 100 10.9"
+AF12X25,tornillo_allen,,12,1.75,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 25 10.9"
+AF12X30,tornillo_allen,,12,1.75,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 30 10.9"
+AF12X35,tornillo_allen,,12,1.75,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 35 10.9"
+AF12X40,tornillo_allen,,12,1.75,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 40 10.9"
+AF12X50,tornillo_allen,,12,1.75,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 50 10.9"
+AF12X60,tornillo_allen,,12,1.75,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 60 10.9"
+AF12X70,tornillo_allen,,12,1.75,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 70 10.9"
+AF12X80,tornillo_allen,,12,1.75,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 80 10.9"
+AF12x85,tornillo_allen,,12,1.75,85,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 85 10.9"
+AF12X90,tornillo_allen,,12,1.75,90,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 90 10.9"
+AF12X100,tornillo_allen,,12,1.75,100,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 12 x 1,75 x 100 10.9"
+AF16X30,tornillo_allen,,16,2.00,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 30 10.9"
+AF16X35,tornillo_allen,,16,2.00,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 35 10.9"
+AF16X40,tornillo_allen,,16,2.00,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 40 10.9"
+AF16X50,tornillo_allen,,16,2.00,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 50 10.9"
+AF16X60,tornillo_allen,,16,2.00,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 60 10.9"
+AF16X70,tornillo_allen,,16,2.00,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 70 10.9"
+AF16X80,tornillo_allen,,16,2.00,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 16 x 2,00 x 80 10.9"
+AF20X40,tornillo_allen,,20,2.50,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 40 10.9"
+AF20X50,tornillo_allen,,20,2.50,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 50 10.9"
+AF20X60,tornillo_allen,,20,2.50,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 60 10.9"
+AF20X70,tornillo_allen,,20,2.50,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 70 10.9"
+AF20X80,tornillo_allen,,20,2.50,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 80 10.9"
+AF20X90,tornillo_allen,,20,2.50,90,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 90 10.9"
+AF20X100,tornillo_allen,,20,2.50,100,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 20 x 2,50 x 100 10.9"
+CÓDIGO,tornillo_allen,,,,,10.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 DESCRIPCIÓN
+AF1/8X3/8,tornillo_allen,,1/8,40,3/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/8 - 40 x 3/8
+AF1/8X1/2,tornillo_allen,,1/8,40,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/8 - 40 x 1/2
+AF1/8X5/8,tornillo_allen,,1/8,40,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/8 - 40 x 5/8
+AF1/8X3/4,tornillo_allen,,1/8,40,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/8 - 40 x 3/4
+AF3/16X3/8,tornillo_allen,,3/16,24,3/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/16 - 24 x 3/8
+AF3/16X1/2,tornillo_allen,,3/16,24,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/16 - 24 x 1/2
+AF3/16X5/8,tornillo_allen,,3/16,24,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/16 - 24 x 5/8
+AF3/16X3/4,tornillo_allen,,3/16,24,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/16 - 24 x 3/4
+AF3/16X1,tornillo_allen,,3/16,24,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/16 - 24 x 1
+AF3/16X11/4,tornillo_allen,,3/16,24,11/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/16 - 24 x 11/4
+AF1/4X3/8,tornillo_allen,,1/4,20,3/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 3/8
+AF1/4X1/2,tornillo_allen,,1/4,20,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 1/2
+AF1/4X5/8,tornillo_allen,,1/4,20,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 5/8
+AF1/4X3/4,tornillo_allen,,1/4,20,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 3/4
+AF1/4X1,tornillo_allen,,1/4,20,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 1
+AF1/4X11/4,tornillo_allen,,1/4,20,11/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 11/4
+AF1/4X11/2,tornillo_allen,,1/4,20,11/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 11/2
+AF1/4X13/4,tornillo_allen,,1/4,20,13/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 13/4
+AF1/4X2,tornillo_allen,,1/4,20,2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/4 - 20 x 2
+AF5/16X1/2,tornillo_allen,,5/16,18,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 1/2
+AF5/16X5/8,tornillo_allen,,5/16,18,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 5/8
+AF5/16X3/4,tornillo_allen,,5/16,18,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 3/4
+AF5/16X1,tornillo_allen,,5/16,18,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 1
+AF5/16X11/4,tornillo_allen,,5/16,18,11/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 11/4
+AF5/16X11/2,tornillo_allen,,5/16,18,11/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 11/2
+AF5/16X13/4,tornillo_allen,,5/16,18,13/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 13/4
+AF5/16X2,tornillo_allen,,5/16,18,2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 5/16 - 18 x 2
+AF3/8X1/2,tornillo_allen,,3/8,16,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 1/2
+AF3/8X5/8,tornillo_allen,,3/8,16,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 5/8
+AF3/8X3/4,tornillo_allen,,3/8,16,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 3/4
+AF3/8X1,tornillo_allen,,3/8,16,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 1
+AF3/8X11/4,tornillo_allen,,3/8,16,11/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 11/4
+AF3/8X11/2,tornillo_allen,,3/8,16,11/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 11/2
+AF3/8X2,tornillo_allen,,3/8,16,2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 2
+AF3/8X21/2,tornillo_allen,,3/8,16,21/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 21/2
+AF3/8X3,tornillo_allen,,3/8,16,3,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 3/8 - 16 x 3
+AFW1/2X11/2,tornillo_allen,,1/2,12,11/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 12 x 11/2
+AF1/2X3/4,tornillo_allen,,1/2,13,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 3/4
+AF1/2X1,tornillo_allen,,1/2,13,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 1
+AF1/2X11/4,tornillo_allen,,1/2,13,11/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 11/4
+AF1/2X11/2,tornillo_allen,,1/2,13,11/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 11/2
+AF1/2X2,tornillo_allen,,1/2,13,2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 2
+AF1/2X21/2,tornillo_allen,,1/2,13,21/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 21/2
+AF1/2X3,tornillo_allen,,1/2,13,3,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. FRESADA CALIDAD 10.9 DIN 7991 Fres 1/2 - 13 x 3
+GA3X4,tornillo_allen,,3,0.50,4,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 4 12.9"
+GA3X5,tornillo_allen,,3,0.50,5,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 5 12.9"
+GA3X6,tornillo_allen,,3,0.50,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 6 12.9"
+GA3X8,tornillo_allen,,3,0.50,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 8 12.9"
+GA3X10,tornillo_allen,,3,0.50,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 10 12.9"
+GA3X12,tornillo_allen,,3,0.50,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 12 12.9"
+GA3X16,tornillo_allen,,3,0.50,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 16 12.9"
+GA3X20,tornillo_allen,,3,0.50,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3 x 0,50 x 20 12.9"
+GA4X4,tornillo_allen,,4,0.70,4,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 4 12.9"
+GA4X5,tornillo_allen,,4,0.70,5,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 5 12.9"
+GA4X6,tornillo_allen,,4,0.70,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 6 12.9"
+GA4X8,tornillo_allen,,4,0.70,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 8 12.9"
+GA4X10,tornillo_allen,,4,0.70,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 10 12.9"
+GA4X12,tornillo_allen,,4,0.70,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 12 12.9"
+GA4X16,tornillo_allen,,4,0.70,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 16 12.9"
+GA4X20,tornillo_allen,,4,0.70,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 20 12.9"
+GA4X25,tornillo_allen,,4,0.70,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 4 x 0,70 x 25 12.9"
+GA5X5,tornillo_allen,,5,0.80,5,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 5 12.9"
+GA5X6,tornillo_allen,,5,0.80,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 6 12.9"
+GA5X8,tornillo_allen,,5,0.80,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 8 12.9"
+GA5X10,tornillo_allen,,5,0.80,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 10 12.9"
+GA5X12,tornillo_allen,,5,0.80,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 12 12.9"
+GA5X16,tornillo_allen,,5,0.80,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 16 12.9"
+GA5X20,tornillo_allen,,5,0.80,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 20 12.9"
+GA5X25,tornillo_allen,,5,0.80,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 25 12.9"
+GA5X30,tornillo_allen,,5,0.80,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 30 12.9"
+GA5X35,tornillo_allen,,5,0.80,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 35 12.9"
+GA5X50,tornillo_allen,,5,0.80,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5 x 0,80 x 50 12.9"
+GA6X6,tornillo_allen,,6,1.00,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 6 12.9"
+GA6X8,tornillo_allen,,6,1.00,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 8 12.9"
+GA6X10,tornillo_allen,,6,1.00,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 10 12.9"
+GA6X12,tornillo_allen,,6,1.00,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 12 12.9"
+GA6X16,tornillo_allen,,6,1.00,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 16 12.9"
+GA6X20,tornillo_allen,,6,1.00,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 20 12.9"
+GA6X25,tornillo_allen,,6,1.00,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 25 12.9"
+GA6X30,tornillo_allen,,6,1.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 30 12.9"
+GA6X35,tornillo_allen,,6,1.00,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 35 12.9"
+GA6X40,tornillo_allen,,6,1.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 40 12.9"
+GA6X50,tornillo_allen,,6,1.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 50 12.9"
+GA6X60,tornillo_allen,,6,1.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 60 12.9"
+GA6X70,tornillo_allen,,6,1.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 6 x 1,00 x 70 12.9"
+GA8x6,tornillo_allen,,8,1.25,6,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 6 12.9"
+GA8X8,tornillo_allen,,8,1.25,8,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 8 12.9"
+GA8X10,tornillo_allen,,8,1.25,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 10 12.9"
+GA8X12,tornillo_allen,,8,1.25,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 12 12.9"
+GA8X16,tornillo_allen,,8,1.25,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 16 12.9"
+GA8X20,tornillo_allen,,8,1.25,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 20 12.9"
+GA8X25,tornillo_allen,,8,1.25,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 25 12.9"
+GA8X30,tornillo_allen,,8,1.25,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 30 12.9"
+GA8X35,tornillo_allen,,8,1.25,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 35 12.9"
+GA8X40,tornillo_allen,,8,1.25,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 40 12.9"
+GA8X50,tornillo_allen,,8,1.25,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 50 12.9"
+GA8X60,tornillo_allen,,8,1.25,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 60 12.9"
+GA8X70,tornillo_allen,,8,1.25,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 x 1,25 x 70 12.9"
+GA8X80,tornillo_allen,,1,1.25,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 8 1 x1,25 x 80 12.9"
+GA10X10,tornillo_allen,,10,1.50,10,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 10 12.9"
+GA10X12,tornillo_allen,,10,1.50,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 12 12.9"
+GA10X16,tornillo_allen,,10,1.50,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 16 12.9"
+GA10X20,tornillo_allen,,10,1.50,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 20 12.9"
+GA10X25,tornillo_allen,,10,1.50,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 25 12.9"
+GA10X30,tornillo_allen,,10,1.50,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 30 12.9"
+GA10X35,tornillo_allen,,10,1.50,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 35 12.9"
+GA10X40,tornillo_allen,,10,1.50,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 40 12.9"
+GA10X50,tornillo_allen,,10,1.50,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 50 12.9"
+GA10X60,tornillo_allen,,10,1.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x1,50 x 60 12.9"
+GA10X70,tornillo_allen,,10,1.50,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 70 12.9"
+GA10X80,tornillo_allen,,10,1.50,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 10 x 1,50 x 80 12.9"
+GA12X12,tornillo_allen,,12,1.75,12,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 12 12.9"
+GA12X16,tornillo_allen,,12,1.75,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 16 12.9"
+GA12X20,tornillo_allen,,12,1.75,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 20 12.9"
+GA12X25,tornillo_allen,,12,1.75,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 25 12.9"
+GA12X30,tornillo_allen,,12,1.75,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 30 12.9"
+GA12X35,tornillo_allen,,12,1.75,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 35 12.9"
+GA12X40,tornillo_allen,,12,1.75,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 40 12.9"
+GA12X50,tornillo_allen,,12,1.75,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 50 12.9"
+GA12X60,tornillo_allen,,12,1.75,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 60 12.9"
+GA12X70,tornillo_allen,,12,1.75,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 12 x 1,75 x 70 12.9"
+GA14X16,tornillo_allen,,14,2.00,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 16 12.9"
+GA14X20,tornillo_allen,,14,2.00,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 20 12.9"
+GA14X25,tornillo_allen,,14,2.00,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 25 12.9"
+GA14X30,tornillo_allen,,14,2.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 30 12.9"
+GA14X35,tornillo_allen,,14,2.00,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 35 12.9"
+GA14X40,tornillo_allen,,14,2.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 40 12.9"
+GA14X50,tornillo_allen,,14,2.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 50 12.9"
+GA14X60,tornillo_allen,,14,2.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 60 12.9"
+GA14X70,tornillo_allen,,14,2.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 14 x 2,00 x 70 12.9"
+GA16X16,tornillo_allen,,16,2.00,16,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 16 12.9"
+GA16X20,tornillo_allen,,16,2.00,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 20 12.9"
+GA16X25,tornillo_allen,,16,2.00,25,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 25 12.9"
+GA16X30,tornillo_allen,,16,2.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 30 12.9"
+GA16X35,tornillo_allen,,16,2.00,35,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 35 12.9"
+GA16X40,tornillo_allen,,16,2.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 40 12.9"
+GA16X50,tornillo_allen,,16,2.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 50 12.9"
+GA16X60,tornillo_allen,,16,2.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 60 12.9"
+GA16X70,tornillo_allen,,16,2.00,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 16 x 2,00 x 70 12.9"
+CÓDIGO,tornillo_allen,,,,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 DESCRIPCIÓN
+GA3/16X3/16,tornillo_allen,,3/16,24,3/16,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 3/16
+GA3/16X1/4,tornillo_allen,,3/16,24,1/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 1/4
+GA3/16X5/16,tornillo_allen,,3/16,24,5/16,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 5/16
+GA3/16X3/8,tornillo_allen,,3/16,24,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 3/8
+GA3/16X1/2,tornillo_allen,,3/16,24,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 1/2
+GA3/16X5/8,tornillo_allen,,3/16,24,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 5/8
+GA3/16X3/4,tornillo_allen,,3/16,24,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/16 - 24 x 3/4
+GA1/4X1/4,tornillo_allen,,1/4,20,1/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 1/4
+GA1/4X5/16,tornillo_allen,,1/4,20,5/16,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 5/16
+GA1/4X3/8,tornillo_allen,,1/4,20,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 3/8
+GA1/4X1/2,tornillo_allen,,1/4,20,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 1/2
+GA1/4X5/8,tornillo_allen,,1/4,20,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 5/8
+GA1/4X3/4,tornillo_allen,,1/4,20,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 3/4
+GA1/4X7/8,tornillo_allen,,1/4,20,7/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 7/8
+GA1/4x1,tornillo_allen,,1/4,20,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 1
+GA1/4X11/4,tornillo_allen,,1/4,20,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 11/4
+GA1/4X11/2,tornillo_allen,,1/4,20,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/4 - 20 x 11/2
+GA5/16X5/16,tornillo_allen,,5/16,18,5/16,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 5/16
+GA5/16X3/8,tornillo_allen,,5/16,18,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 3/8
+GA5/16X1/2,tornillo_allen,,5/16,18,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 1/2
+GA5/16X5/8,tornillo_allen,,5/16,18,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 5/8
+GA5/16X3/4,tornillo_allen,,5/16,18,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 3/4
+GA5/16x1,tornillo_allen,,5/16,18,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 1
+GA5/16X11/4,tornillo_allen,,5/16,18,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 11/4
+GA5/16X11/2,tornillo_allen,,5/16,18,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/16 - 18 x 11/2
+GA3/8X3/8,tornillo_allen,,3/8,16,3/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 3/8
+GA3/8X1/2,tornillo_allen,,3/8,16,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 1/2
+GA3/8X5/8,tornillo_allen,,3/8,16,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 5/8
+GA3/8X3/4,tornillo_allen,,3/8,16,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 3/4
+GA3/8x1,tornillo_allen,,3/8,16,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 1
+GA3/8X11/4,tornillo_allen,,3/8,16,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 11/4
+GA3/8X11/2,tornillo_allen,,3/8,16,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 11/2
+GA3/8x2,tornillo_allen,,3/8,16,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 2
+GA3/8X21/2,tornillo_allen,,3/8,16,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 21/2
+GA3/8x3,tornillo_allen,,3/8,16,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 3/8 - 16 x 3
+GA1/2X1/2,tornillo_allen,,1/2,12,1/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 1/2 wht
+GA1/2X5/8,tornillo_allen,,1/2,12,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 5/8
+GA1/2X3/4,tornillo_allen,,1/2,12,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 3/4
+GA1/2x1,tornillo_allen,,1/2,12,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 1
+GA1/2X11/4,tornillo_allen,,1/2,12,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 11/4
+GA1/2X11/2,tornillo_allen,,1/2,12,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 11/2
+GA1/2x2,tornillo_allen,,1/2,12,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 2
+GA1/2X21/2,tornillo_allen,,1/2,12,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 21/2
+GA1/2x3,tornillo_allen,,1/2,12,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 12 x 3
+GANC1/2X5/8,tornillo_allen,,1/2,13,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 13 x 5/8
+GANC1/2X11/2,tornillo_allen,,1/2,13,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 13 x 11/2
+GANC1/2X21/2,tornillo_allen,,1/2,13,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 1/2 - 13 x 21/2
+GA5/8X5/8,tornillo_allen,,5/8,11,5/8,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 5/8
+GA5/8X3/4,tornillo_allen,,5/8,11,3/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 3/4
+GA5/8x1,tornillo_allen,,5/8,11,1,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 1
+GA5/8X11/4,tornillo_allen,,5/8,11,11/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 11/4
+GA5/8X11/2,tornillo_allen,,5/8,11,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 11/2
+GA5/8x2,tornillo_allen,,5/8,11,2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 2
+GA5/8X21/2,tornillo_allen,,5/8,11,21/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 21/2
+GA5/8x3,tornillo_allen,,5/8,11,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN SIN CABEZA 12.9 DIN 916 Sin Cabeza 5/8 - 11 x 3
+AB3X6,tornillo_allen,,3,0.50,6,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 6 10.9"
+AB3X8,tornillo_allen,,3,0.50,8,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 8 10.9"
+AB3X10,tornillo_allen,,3,0.50,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 10 10.9"
+AB3X12,tornillo_allen,,3,0.50,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 12 10.9"
+AB3X16,tornillo_allen,,3,0.50,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 16 10.9"
+AB3X20,tornillo_allen,,3,0.50,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 20 10.9"
+AB3X25,tornillo_allen,,3,0.50,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3 x 0,50 x 25 10.9"
+AB4X8,tornillo_allen,,4,0.70,8,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 8 10.9"
+AB4X10,tornillo_allen,,4,0.70,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 10 10.9"
+AB4X12,tornillo_allen,,4,0.70,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 12 10.9"
+AB4X16,tornillo_allen,,4,0.70,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 16 10.9"
+AB4X20,tornillo_allen,,4,0.70,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 20 10.9"
+AB4X25,tornillo_allen,,4,0.70,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 25 10.9"
+AB4X30,tornillo_allen,,4,0.70,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 30 10.9"
+AB4X40,tornillo_allen,,4,0.70,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 40 10.9"
+AB4x50,tornillo_allen,,4,0.70,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 4 x 0,70 x 50 10.9"
+AB5X6,tornillo_allen,,5,0.80,6,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 6 10.9"
+AB5X10,tornillo_allen,,5,0.80,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 10 10.9"
+AB5X12,tornillo_allen,,5,0.80,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 12 10.9"
+AB5X16,tornillo_allen,,5,0.80,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 16 10.9"
+AB5X20,tornillo_allen,,5,0.80,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 20 10.9"
+AB5X25,tornillo_allen,,5,0.80,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 25 10.9"
+AB5X30,tornillo_allen,,5,0.80,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 30 10.9"
+AB5X40,tornillo_allen,,5,0.80,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 40 10.9"
+AB5X50,tornillo_allen,,5,0.80,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5 x 0,80 x 50 10.9"
+AB6X10,tornillo_allen,,6,1.00,10,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 10 10.9"
+AB6X12,tornillo_allen,,6,1.00,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 12 10.9"
+AB6X16,tornillo_allen,,6,1.00,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 16 10.9"
+AB6X20,tornillo_allen,,6,1.00,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 20 10.9"
+AB6X25,tornillo_allen,,6,1.00,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 25 10.9"
+AB6X30,tornillo_allen,,6,1.00,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 30 10.9"
+AB6X40,tornillo_allen,,6,1.00,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 40 10.9"
+AB6X50,tornillo_allen,,6,1.00,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 50 10.9"
+AB6X60,tornillo_allen,,6,1.00,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 6 x 1,00 x 60 10.9"
+AB8X12,tornillo_allen,,8,1.25,12,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 12 10.9"
+AB8X16,tornillo_allen,,8,1.25,16,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 16 10.9"
+AB8X20,tornillo_allen,,8,1.25,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 20 10.9"
+AB8X25,tornillo_allen,,8,1.25,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 25 10.9"
+AB8X30,tornillo_allen,,8,1.25,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 30 10.9"
+AB8X40,tornillo_allen,,8,1.25,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 40 10.9"
+AB8X50,tornillo_allen,,8,1.25,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 50 10.9"
+AB8X60,tornillo_allen,,8,1.25,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 60 10.9"
+AB8X70,tornillo_allen,,8,1.25,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 70 10.9"
+AB8X80,tornillo_allen,,8,1.25,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 8 x 1,25 x 80 10.9"
+AB10X20,tornillo_allen,,10,1.50,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 20 10.9"
+AB10X25,tornillo_allen,,10,1.50,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 25 10.9"
+AB10X30,tornillo_allen,,10,1.50,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 30 10.9"
+AB10X35,tornillo_allen,,10,1.50,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 35 10.9"
+AB10X40,tornillo_allen,,10,1.50,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 40 10.9"
+AB10X45,tornillo_allen,,10,1.50,45,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 45 10.9"
+AB10X50,tornillo_allen,,10,1.50,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 50 10.9"
+AB10X60,tornillo_allen,,10,1.50,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 60 10.9"
+AB10X70,tornillo_allen,,10,1.50,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 70 10.9"
+AB10X80,tornillo_allen,,10,1.50,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 10 x 1,50 x 80 10.9"
+AB12X20,tornillo_allen,,12,1.75,20,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 20 10.9"
+AB12X25,tornillo_allen,,12,1.75,25,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 25 10.9"
+AB12X30,tornillo_allen,,12,1.75,30,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 30 10.9"
+AB12X35,tornillo_allen,,12,1.75,35,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 35 10.9"
+AB12X40,tornillo_allen,,12,1.75,40,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 40 10.9"
+AB12X45,tornillo_allen,,12,1.75,45,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 45 10.9"
+AB12X50,tornillo_allen,,12,1.75,50,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 50 10.9"
+AB12X60,tornillo_allen,,12,1.75,60,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 60 10.9"
+AB12X70,tornillo_allen,,12,1.75,70,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 70 10.9"
+AB12X80,tornillo_allen,,12,1.75,80,10.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 12 x 1,75 x 80 10.9"
+CÓDIGO,tornillo_allen,,,,,10.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 DESCRIPCIÓN
+AB3/16X1/2,tornillo_allen,,3/16,24,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3/16 - 24 x 1/2
+AB3/16X5/8,tornillo_allen,,3/16,24,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3/16 - 24 x 5/8
+AB3/16X3/4,tornillo_allen,,3/16,24,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3/16 - 24 x 3/4
+AB3/16X1,tornillo_allen,,3/16,24,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 3/16 - 24 x 1
+AB1/4X3/8,tornillo_allen,,1/4,20,3/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/4 - 20 x 3/8
+AB1/4X1/2,tornillo_allen,,1/4,20,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/4 - 20 x 1/2
+AB1/4X5/8,tornillo_allen,,1/4,20,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/4 - 20 x 5/8
+AB1/4X3/4,tornillo_allen,,1/4,20,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/4 - 20 x 3/4
+AB1/4X1,tornillo_allen,,1/4,20,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/4 - 20 x 1
+AB5/16X1/2,tornillo_allen,,5/16,18,1/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5/16 - 18 x 1/2
+AB5/16X5/8,tornillo_allen,,5/16,18,5/8,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5/16 - 18 x 5/8
+AB5/16X3/4,tornillo_allen,,5/16,18,3/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5/16 - 18 x 3/4
+AB5/16X1,tornillo_allen,,5/16,18,1,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 5/16 - 18 x 1
+AB1/2x11/4,tornillo_allen,,1/2,13,11/4,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/2 - 13 x 11/4
+AB1/2x11/2,tornillo_allen,,1/2,13,11/2,10.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. BOTÓN CALIDAD 10.9 ISO 7380 Botón 1/2 - 13 x 11/2
+ACNF1/4X23/4,tornillo_allen,cilindrica,1/4,28,23/4,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 1/4 - 28 x 23/4
+ACNF5/8X11/2,tornillo_allen,cilindrica,5/8,18,11/2,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 5/8 - 18 x 11/2
+ACNF5/8X3,tornillo_allen,cilindrica,5/8,18,3,12.9,imperial,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 5/8 - 18 x 3
+CÓDIGO,tornillo_allen,cilindrica,,,,12.9,metrico,,trusoni,trusoni,TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB DESCRIPCIÓN
+AC8X1X20,tornillo_allen,cilindrica,8,1.00,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 8 x 1,00 x 20 MB"
+AC8X1X30,tornillo_allen,cilindrica,8,1.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 8 x 1,00 x 30 MB"
+AC8X1X40,tornillo_allen,cilindrica,8,1.00,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 8 x 1,00 x 40 MB"
+"AC10x1,00x20",tornillo_allen,cilindrica,8,1.00,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil 8 x 1,00 x 20 MB"
+"AC10x1,00x30",tornillo_allen,cilindrica,8,1.00,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil 8 x 1,00 x 30 MB"
+"AC10x1,00x50",tornillo_allen,cilindrica,8,1.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil 8 x 1,00 x 50 MB"
+"AC10x1,00x60",tornillo_allen,cilindrica,8,1.00,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil 8 x 1,00 x 60 MB"
+"AC10X1,25X30",tornillo_allen,cilindrica,10,1.25,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 10 x 1,25 x 30 MB"
+"AC10X1,25X40",tornillo_allen,cilindrica,10,1.25,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 10 x 1,25 x 40 MB"
+"AC10X1,25X60",tornillo_allen,cilindrica,10,1.25,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 10 x 1,25 x 60 MB"
+"AC10x1,25x80",tornillo_allen,cilindrica,10,1.25,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 10 x 1,25 x 80 MB"
+"AC12X1,50X20",tornillo_allen,cilindrica,12,1.50,20,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 12 x 1,50 x 20 MB"
+"AC12x1,50x30",tornillo_allen,cilindrica,12,1.50,30,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 12 x 1,50 x 30 MB"
+"AC12X1,50X45",tornillo_allen,cilindrica,12,1.50,45,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 12 x 1,50 x 45 MB"
+"AC12X1,50X60",tornillo_allen,cilindrica,12,1.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 12 x 1,50 x 60 MB"
+"AC12X1,50X80",tornillo_allen,cilindrica,12,1.50,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 12 x 1,50 x 80 MB"
+"AC14x1,50x60",tornillo_allen,cilindrica,14,1.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 14 x 1,50 x 60 MB"
+"AC14x1,50x90",tornillo_allen,cilindrica,14,1.50,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 14 x 1,50 x 90 MB"
+"AC16x1,50x60",tornillo_allen,cilindrica,16,1.50,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 16 x 1,50 x 60 MB"
+"AC16x1,50x70",tornillo_allen,cilindrica,16,1.50,70,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 NF Y MB Cil. 16 x 1,50 x 70 MB"
+ACTR4X60,tornillo_allen,cilindrica,4,0.70,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 4 x 0,70 x 60 Todo Rosca"
+ACTR5X80,tornillo_allen,cilindrica,5,0.80,80,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 5 x 0,80 x 80 Todo Rosca"
+ACTR6X50,tornillo_allen,cilindrica,6,1.00,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 6 x 1,00 x 50 Todo Rosca"
+ACTR6X90,tornillo_allen,cilindrica,6,1.00,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 6 x 1,00 x 90 Todo Rosca"
+ACTR8X40,tornillo_allen,cilindrica,8,1.25,40,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil 8 x 1,25 x 40 Todo Rosca"
+ACTR8X60,tornillo_allen,cilindrica,8,1.25,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 8 x 1,25 x 60 Todo Rosca"
+ACTR8X100,tornillo_allen,cilindrica,8,1.25,100,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 8 x 1,25 x 100 Todo Rosca"
+ACTR10X50,tornillo_allen,cilindrica,10,1.50,50,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 10 x 1,50 x 50 Todo Rosca"
+ACTR10X90,tornillo_allen,cilindrica,10,1.50,90,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 10 x 1,50 x 90 Todo Rosca"
+ACTR12X60,tornillo_allen,cilindrica,12,1.75,60,12.9,metrico,,trusoni,trusoni,"TORNILLO ALLEN CAB. CILINDRICA CALIDAD 12.9 TODO ROSCA Cil. 12 x 1,75 x 60 Todo Rosca"

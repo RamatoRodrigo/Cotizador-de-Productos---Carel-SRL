@@ -5,44 +5,61 @@ from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
+
 # -------------------------
 # Helpers
 # -------------------------
 
-
-def normalizar(texto: str) -> str:
-    s = str(texto)
-    s = s.replace("\u00A0", " ")        # NBSP
-    s = s.replace("\u2009", " ")        # otros espacios finos
-    s = s.lower()
-    s = s.replace(",", ".")
-    s = re.sub(r"[\"“”′′`\.]+", " ", s) # comillas, apóstrofes, puntos sueltos
-    s = re.sub(r"[-–—]+", " ", s)       # guiones
-    s = re.sub(r"[()]+", " ", s)        # paréntesis
-    s = re.sub(r"\s+", " ", s).strip()  # colapsar espacios
-    return s
+def normalizar(texto):
+    """Normaliza texto para búsquedas"""
+    return (
+        str(texto)
+        .lower()
+        .replace(",", ".")
+        .replace("(", " ")
+        .replace(")", " ")
+        .replace("  ", " ")
+        .strip()
+    )
 
 
 def detectar_tipo(desc):
     """Detecta el tipo de producto basado en la descripción"""
     desc = desc.lower()
 
-    if "tca" in desc:
-        return "tuerca"
     if "bulón" in desc or "bulon" in desc:
         return "bulón"
-    if "tirafondo" in desc:
-        return "tirafondo"
+    if "tuerca" in desc or "tca" in desc:
+        return "tuerca"
+    if "drywall" in desc:
+        return "drywall"
+    if "niple" in desc:
+        return "niple"
     if "arandela" in desc:
         return "arandela"
-    if "punta" in desc:
-        return "tornillo"
+    if "tarugo" in desc:
+        return "tarugo"
+    if "espárrago" in desc or "esparrago" in desc:
+        return "espárrago"
+    if "perno" in desc:
+        return "perno"
+    if "mecha" in desc:
+        return "mecha"
     if "varilla" in desc:
         return "varilla"
-    if "electrodos" in desc:
-        return "electrodo"
+    if "remache" in desc:
+        return "remache"
+    if "tela" in desc:
+        return "tela"
+    if "chaveta" in desc:
+        return "chaveta"
+    if (("tel" in desc and "poda" not in desc) or "tornillo" in desc or "dry" in desc or ("alas" in desc and "palas" not in desc) 
+        or "tanque" in desc or "punta calada" in desc or "trompeta" in desc or ("phil" in desc and "destornillador" not in desc) 
+        or "fix" in desc or "autoperforante" in desc or "chip" in desc):
+        return "tornillo"
 
     return "otro"
+
 
 def detectar_forma(desc):
     """Detecta la forma del producto (hexagonal, autofrenante, etc.)"""
@@ -70,6 +87,7 @@ def detectar_forma(desc):
     
     return None
 
+
 def detectar_acabado(desc):
     """Detecta el acabado/recubrimiento del producto"""
     desc = desc.lower()
@@ -80,9 +98,9 @@ def detectar_acabado(desc):
         'bronce': ['bronce'],
         'niquelado': ['niquelado', 'niquel'],
         'cromado': ['cromado', 'cromo'],
-        'dicro': ['dicro', 'dicromado', 'dicromatada'],
+        'dicro': ['dicro', 'dicromado'],
         'acero_inox': ['inox', 'acero inoxidable', 'stainless', 'a4', 'a2'],
-        'galvanizado': ['galvanizado', 'galv', 'gv', 'galva'],
+        'galvanizado': ['galvanizado', 'galv', 'gv'],
         'pavonado': ['pavonado', 'pav'],
     }
     
@@ -92,6 +110,7 @@ def detectar_acabado(desc):
                 return acabado
     
     return None
+
 
 def detectar_sistema_rosca(desc):
     """Detecta el sistema de rosca (UNC, UNF, BSW, ISO, etc.)"""
@@ -105,30 +124,54 @@ def detectar_sistema_rosca(desc):
     
     return None
 
+
 def detectar_sistema(desc: str) -> str:
-    """Detecta si es métrico, imperial u otro según la descripción"""
     desc = desc.lower()
 
-    # 🔹 Sistema imperial
-    # Palabras clave UNC, UNF
-    if "unc" in desc or "unf" in desc:
-        return "imperial"
-    # Fracciones con o sin comillas (1/4, 5/16, 3/8")
-    if re.search(r"\d+/\d+(?:\s*\"|)", desc):
+    # ---------- IMPERIAL ----------
+    
+    # fracciones
+    if re.search(r"\b\d+(?:\.\d+)?/\d+\b", desc):
         return "imperial"
 
-    # 🔹 Sistema métrico
-    # Formato M seguido de número (M6, M8, M10)
-    if re.search(r"\bm\d+", desc):
-        return "métrico"
-    # Números con unidad MM (2.0 MM, 300MM)
-    if re.search(r"\d+(?:\.\d+)?\s*mm", desc):
-        return "métrico"
-    # Números sueltos (ej. "Grower 6", "Arandela 8")
-    if re.search(r"\b\d+\b", desc):
+    # UNC / UNF / BSW
+    if re.search(r"\b(?:unc|unf|bsw|bsf)\b", desc):
+        return "imperial"
+
+    # formato 5/16-24
+    if re.search(r"\b\d+(?:\.\d+)?/\d+\s*-\s*\d+\b", desc):
+        return "imperial"
+
+    # ---------- MÉTRICO ----------
+
+    # grados métricos
+    if re.search(r"\b(?:8\.8|10\.9|12\.9)\b", desc):
         return "métrico"
 
-    # 🔹 Otro
+    # M8, M10, etc
+    if re.search(r"\bm\d+\b", desc):
+        return "métrico"
+
+    # paso P1.25
+    if re.search(r"\bp\s*\d+(?:\.\d+)?\b", desc):
+        return "métrico"
+
+    # milímetros explícitos
+    if re.search(r"\d+(?:\.\d+)?\s*mm\b", desc):
+        return "métrico"
+
+    # 12x35
+    if re.search(
+        r"\b\d+(?:\.\d+)?\s*[x]\s*\d+(?:\.\d+)?\b",
+        desc
+    ):
+        return "métrico"
+
+    # ---------- FALLBACK ----------
+
+    if re.search(r"\d", desc):
+        return "métrico"
+
     return "otro"
 
 def detectar_grado(desc):
@@ -155,96 +198,98 @@ def detectar_grado(desc):
 
 
 # -------------------------
-# Parseo métrico e imperial
+# Parseo métrico
 # -------------------------
 
 def parse_metrico(desc: str):
     desc = desc.upper().replace(",", ".")
+    desc = re.sub(r"\s+", " ", desc)  # normalizar espacios
     
     # Caso M + número (ej: M8 x 20)
-    match = re.search(r"\bM(\d+)\s*x\s*(\d+(?:\.\d+)?)", desc)
+    match = re.search(r"\bM(\d+)\s*[Xx]\s*(\d+(?:\.\d+)?)", desc)
     if match:
         return match.group(1), None, match.group(2)
 
     # Caso con MM explícito (ej: 2.0 MM X 300MM)
-    match = re.search(r"(\d+(?:\.\d+)?)\s*MM\s*x\s*(\d+(?:\.\d+)?)\s*MM", desc)
+    match = re.search(r"(\d+(?:\.\d+)?)\s*MM\s*[Xx]\s*(\d+(?:\.\d+)?)\s*MM", desc)
     if match:
         return match.group(1), None, match.group(2)
 
-    # 🔹 Caso genérico con tres números separados por x (ej: 6 x 1.00 x 100)
-    match = re.search(r"(\d+(?:\.\d+)?)\s*x\s*(\d+(?:\.\d+)?)\s*x\s*(\d+(?:\.\d+)?)", desc)
+    # Caso genérico con tres números separados por x (ej: 6 x 1.00 x 100)
+    match = re.search(r"(\d+(?:\.\d+)?)\s*[Xx]\s*(\d+(?:\.\d+)?)\s*[Xx]\s*(\d+(?:\.\d+)?)", desc)
     if match:
         return match.group(1), match.group(2), match.group(3)
 
+    # 🔹 Nuevo: dos números separados por x (ej: 14 x 3, 14x6)
+    match = re.search(r"(\d+(?:\.\d+)?)\s*[Xx]\s*(\d+(?:\.\d+)?)", desc)
+    if match:
+        return match.group(1), None, match.group(2)
+
     # Caso número suelto (ej: Grower 6)
-    match = re.search(r"\b(\d+)\b", desc)
+    match = re.search(r"\b(\d+(?:\.\d+)?)\b", desc)
     if match:
         return match.group(1), None, None
 
     return None, None, None
 
 
+
+
+# -------------------------
+# Parseo imperial
+# -------------------------
+
 def parse_imperial(desc: str):
+    desc = desc.lower().replace(",", ".")
+    
+    # Fracción con paso (ej: 5/16 - 24)
+    match = re.search(r"(\d+(?:\.\d+)?/\d+)\s*-\s*(\d+)", desc)
+    if match:
+        return match.group(1), match.group(2), None
 
-    # 1. Fracción con paso (ej: 5/16 - 24)
-    m = re.search(r"(\d+(?:\.\d+)?/\d+)\s*-\s*(\d+)", desc)
-    if m:
-        return m.group(1), m.group(2), None
+    # Fracción x fracción (ej: 5/16 x 3/4)
+    match = re.search(r"(\d+(?:\.\d+)?/\d+)\s*x\s*(\d+(?:\.\d+)?/\d+)", desc)
+    if match:
+        return match.group(1), None, match.group(2)
 
-    # 2. Fracción con largo en pulgadas (ej: 1/4 x 2")
-    m = re.search(r"(\d+(?:\.\d+)?/\d+)\s*x\s*(\d+(?:\.\d+)?)", desc)
-    if m:
-        return m.group(1), None, m.group(2)
+    # Fracción x número entero (ej: 5/16 x 110)
+    match = re.search(r"(\d+(?:\.\d+)?/\d+)\s*x\s*(\d+)", desc)
+    if match:
+        return match.group(1), None, match.group(2)
 
-    # 3. Fracción + entero + fracción (ej: 1/4 1 1/4)
-    m = re.search(r"(\d+(?:\.\d+)?/\d+)\s+(\d+)\s+(\d+/\d+)", desc)
-    if m:
-        return m.group(1), None, f"{m.group(2)} {m.group(3)}"
+    # Entero x fracción (ej: 08 x 1.1/4)
+    match = re.search(r"(\d+)\s*x\s*(\d+(?:\.\d+)?/\d+)", desc)
+    if match:
+        return match.group(1), None, match.group(2)
 
-    # 4. Dos fracciones (ej: 1/4 1/2)
-    m = re.search(r"(\d+(?:\.\d+)?/\d+)\s+(\d+/\d+)", desc)
-    if m:
-        return m.group(1), None, m.group(2)
+    # 🔹 Entero x entero (ej: 1 x 6)
+    match = re.search(r"(\d+)\s*x\s*(\d+)", desc)
+    if match:
+        return match.group(1), None, match.group(2)
 
-    # 5. Entero + entero + fracción (ej: 5 1 4 1/2) -> diametro, largo compuesto
-    m = re.search(r"(\d+)\s+(\d+)\s+(\d+/\d+)", desc)
-    if m:
-        diametro = m.group(1)
-        largo = f"{m.group(2)} {m.group(3)}"
-        return diametro, None, largo
-
-    # 6. Fracción + entero (ej: 1/4 1)
-    m = re.search(r"(\d+(?:\.\d+)?/\d+)\s+(\d+)", desc)
-    if m:
-        return m.group(1), None, m.group(2)
-
-    # 7. Entero + fracción al final (ej: 1 1/4)
-    m = re.search(r"(\d+)\s+(\d+/\d+)\s*$", desc)
-    if m:
-        return None, None, f"{m.group(1)} {m.group(2)}"
-
-    # 8. Entero + fracción anywhere (ej: 3 1/4)
-    m = re.search(r"(\d+)\s+(\d+/\d+)", desc)
-    if m:
-        return None, None, f"{m.group(1)} {m.group(2)}"
-
-    # 9. Fallback tokens
-    tokens = re.findall(r"\d+(?:/\d+)?", desc)
-    if tokens:
-        diametro = tokens[0]
-        largo = " ".join(tokens[1:]) if len(tokens) > 1 else None
-        return diametro, None, largo
+    # Fracción sola (ej: 3/8)
+    match = re.search(r"(\d+(?:\.\d+)?/\d+)\b", desc)
+    if match:
+        return match.group(1), None, None
 
     return None, None, None
 
-
-
 # -------------------------
-# Parser principal
+# Parser de Efepe
 # -------------------------
 
-def parse_fleb(input_path, output_path):
-
+def parse_efepe_csv(input_path, output_path=None):
+    """
+    Parsea el archivo efepeSinParsear.csv
+    
+    Args:
+        input_path: Ruta del archivo CSV sin parsear
+        output_path: Ruta para guardar el CSV parseado (opcional)
+    
+    Returns:
+        DataFrame con productos parseados
+    """
+    
     try:
         logger.info(f"📖 Leyendo archivo: {input_path}")
         
@@ -263,7 +308,7 @@ def parse_fleb(input_path, output_path):
         df.columns = df.columns.str.strip().str.lower()
         
         # Validar que existan las columnas necesarias
-        cols_requeridas = ['codigo', 'descripcion', 'precio_granel', 'precio_fraccionado']
+        cols_requeridas = ['codigo', 'descripcion', 'precio_unitario']
         if not all(col in df.columns for col in cols_requeridas):
             logger.error(f"❌ El archivo debe contener columnas: {cols_requeridas}")
             logger.info(f"   Columnas encontradas: {df.columns.tolist()}")
@@ -272,8 +317,7 @@ def parse_fleb(input_path, output_path):
         # Convertir TODO a string PRIMERO
         df['codigo'] = df['codigo'].astype(str).fillna("").str.strip()
         df['descripcion'] = df['descripcion'].astype(str).fillna("").str.strip()
-        df['precio_granel'] = pd.to_numeric(df['precio_granel'], errors='coerce')
-        df['precio_fraccionado'] = pd.to_numeric(df['precio_fraccionado'], errors='coerce')
+        df['precio_unitario'] = pd.to_numeric(df['precio_unitario'], errors='coerce')
         
         logger.info("🔍 Validando registros...")
         
@@ -283,8 +327,7 @@ def parse_fleb(input_path, output_path):
             (df['codigo'] != "nan") &
             (df['descripcion'] != "") & 
             (df['descripcion'] != "nan") &
-            (df['precio_granel'].notna())  &
-            (df['precio_fraccionado'].notna())
+            (df['precio_unitario'].notna())
         ]
         
         logger.info(f"✅ Registros válidos: {len(df)}")
@@ -300,8 +343,7 @@ def parse_fleb(input_path, output_path):
             try:
                 desc = str(row['descripcion']).strip()
                 codigo = str(row['codigo']).strip()
-                precio_granel = row['precio_granel']
-                precio_fraccionado = row['precio_fraccionado']
+                precio = row['precio_unitario']
                 
                 desc_norm = normalizar(desc)
                 
@@ -333,8 +375,7 @@ def parse_fleb(input_path, output_path):
                     "sistema": sistema,
                     "sistema_rosca": sistema_rosca,
                     "acabado": acabado,
-                    "precio_granel": precio_granel,
-                    "precio_fraccionado": precio_fraccionado,
+                    "precio_unitario": precio,
                     "proveedor": "efepe",
                     "descripcion": desc
                 })
@@ -380,9 +421,9 @@ def parse_fleb(input_path, output_path):
         for sistema, count in df_resultado['sistema'].value_counts().items():
             logger.info(f"      - {sistema}: {count}")
         
-        logger.info(f"\n   Precio mínimo: ${df_resultado['precio_granel'].min():.2f}")
-        logger.info(f"   Precio máximo: ${df_resultado['precio_granel'].max():.2f}")
-        logger.info(f"   Precio promedio: ${df_resultado['precio_granel'].mean():.2f}")
+        logger.info(f"\n   Precio mínimo: ${df_resultado['precio_unitario'].min():.2f}")
+        logger.info(f"   Precio máximo: ${df_resultado['precio_unitario'].max():.2f}")
+        logger.info(f"   Precio promedio: ${df_resultado['precio_unitario'].mean():.2f}")
         
         # Mostrar ejemplos de productos que no se parsearon bien
         sin_parsear = df_resultado[df_resultado['diametro'].isna()]
@@ -413,11 +454,11 @@ def parse_fleb(input_path, output_path):
 # -------------------------
 
 if __name__ == "__main__":
-    input_file = "ddbb/flebSinParsear.csv"
-    output_file = "ddbb/flebParseado.csv"
+    input_file = "ddbb/efepeSinParsear.csv"
+    output_file = "ddbb/efepeParseado.csv"
     
     if Path(input_file).exists():
-        df = parse_fleb(input_file, output_file)
+        df = parse_efepe_csv(input_file, output_file)
         
         if not df.empty:
             print("\n" + "="*150)
@@ -426,4 +467,4 @@ if __name__ == "__main__":
             print(df.head(15).to_string())
     else:
         logger.error(f"Archivo no encontrado: {input_file}")
-        logger.info("Coloca el archivo 'flebSinParsear.csv' en la carpeta 'ddbb/'")
+        logger.info("Coloca el archivo 'efepeSinParsear.csv' en la carpeta 'ddbb/'")

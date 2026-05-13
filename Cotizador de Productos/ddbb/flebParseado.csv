@@ -1,0 +1,1373 @@
+codigo,tipo,forma,diametro,paso,largo,grado,sistema,sistema_rosca,acabado,precio_granel,precio_fraccionado,proveedor,descripcion
+1040000000D0012,bulón,hexagonal,1/4,,1/2,G2,imperial,UNC,,34.32133899432,36.380619333979205,efepe,Bulon G2 Hex UNC 1/4 1/2
+1040000000D0016,bulón,hexagonal,1/4,,5/8,G2,imperial,UNC,,36.29719433088,38.4750259907328,efepe,Bulon G2 Hex UNC 1/4 5/8
+1040000000D0019,bulón,hexagonal,1/4,,3/4,G2,imperial,UNC,,37.17535225824,39.4058733937344,efepe,Bulon G2 Hex UNC 1/4 3/4
+1040000000D0022,bulón,hexagonal,1/4,,7/8,G2,imperial,UNC,,41.93204103144,44.4479634933264,efepe,Bulon G2 Hex UNC 1/4 7/8
+1040000000D0025,bulón,hexagonal,1/4,,1,G2,imperial,UNC,,44.93241394992,47.62835878691521,efepe,Bulon G2 Hex UNC 1/4 1
+1040000000D0032,bulón,hexagonal,1/4,,1 1/4,G2,imperial,UNC,,52.689475641600005,55.850844180096,efepe,Bulon G2 Hex UNC 1/4 1 1/4
+1040000000D0038,bulón,hexagonal,1/4,,1 1/2,G2,imperial,UNC,,61.61741456976,65.3144594439456,efepe,Bulon G2 Hex UNC 1/4 1 1/2
+1040000000D0044,bulón,hexagonal,1/4,,1 3/4,G2,imperial,UNC,,70.22819664212211,74.44188844064944,efepe,Bulon G2 Hex UNC 1/4 1 3/4
+1040000000D0050,bulón,hexagonal,1/4,,2,G2,imperial,UNC,,79.10739328968,83.85383688706081,efepe,Bulon G2 Hex UNC 1/4 2
+1040000000D0056,bulón,hexagonal,1/4,,2 1/4,G2,imperial,UNC,,91.03570513632,96.4978474444992,efepe,Bulon G2 Hex UNC 1/4 2 1/4
+1040000000D0063,bulón,hexagonal,1/4,,2 1/2,G2,imperial,UNC,,98.35368786432,104.2549091361792,efepe,Bulon G2 Hex UNC 1/4 2 1/2
+1040000000D0070,bulón,hexagonal,1/4,,2 3/4,G2,imperial,UNC,,107.11900495408,113.5461452513248,efepe,Bulon G2 Hex UNC 1/4 2 3/4
+1040000000D0076,bulón,hexagonal,1/4,,3,G2,imperial,UNC,,116.13638589336,123.1045690469616,efepe,Bulon G2 Hex UNC 1/4 3
+1040000000D0082,bulón,hexagonal,1/4,,3 1/4,G2,imperial,UNC,,124.84478533968,132.3354724600608,efepe,Bulon G2 Hex UNC 1/4 3 1/4
+1040000000D0090,bulón,hexagonal,1/4,,3 1/2,G2,imperial,UNC,,133.91908392240003,141.95422895774402,efepe,Bulon G2 Hex UNC 1/4 3 1/2
+1040000000D0100,bulón,hexagonal,1/4,,4,G2,imperial,UNC,,154.33625573352003,163.59643107753124,efepe,Bulon G2 Hex UNC 1/4 4
+1040000000D0110,bulón,hexagonal,1/4,,4 1/2,G2,imperial,UNC,,175.99748460840004,186.55733368490405,efepe,Bulon G2 Hex UNC 1/4 4 1/2
+1040000000D0125,bulón,hexagonal,1/4,,5,G2,imperial,UNC,,190.56027023712,201.9938864513472,efepe,Bulon G2 Hex UNC 1/4 5
+1040000000D0140,bulón,hexagonal,1/4,,5 1/2,G2,imperial,UNC,,208.67304417705887,221.1934268276824,efepe,Bulon G2 Hex UNC 1/4 5 1/2
+1040000000D0155,bulón,hexagonal,1/4,,6,G2,imperial,UNC,,181.4286544935981,192.314373763214,efepe,Bulon G2 Hex UNC 1/4 6
+1040000000E0012,bulón,hexagonal,5/16,,1/2,G2,imperial,UNC,,54.07989235992,57.3246859015152,efepe,Bulon G2 Hex UNC 5/16 1/2
+1040000000E0016,bulón,hexagonal,5/16,,5/8,G2,imperial,UNC,,57.958423205760006,61.435928598105605,efepe,Bulon G2 Hex UNC 5/16 5/8
+1040000000E0019,bulón,hexagonal,5/16,,3/4,G2,imperial,UNC,,58.98294078768,62.5219172349408,efepe,Bulon G2 Hex UNC 5/16 3/4
+1040000000E0022,bulón,hexagonal,5/16,,7/8,G2,imperial,UNC,,65.34958576104,69.2705609067024,efepe,Bulon G2 Hex UNC 5/16 7/8
+1040000000E0025,bulón,hexagonal,5/16,,1,G2,imperial,UNC,,69.22811660688,73.3818036032928,efepe,Bulon G2 Hex UNC 5/16 1
+1040000000E0032,bulón,hexagonal,5/16,,1 1/4,G2,imperial,UNC,,82.40048551728002,87.34451464831682,efepe,Bulon G2 Hex UNC 5/16 1 1/4
+1040000000E0038,bulón,hexagonal,5/16,,1 1/2,G2,imperial,UNC,,93.81653857296,99.4455308873376,efepe,Bulon G2 Hex UNC 5/16 1 1/2
+1040000000E0044,bulón,hexagonal,5/16,,1 3/4,G2,imperial,UNC,,109.0379426472,115.580219206032,efepe,Bulon G2 Hex UNC 5/16 1 3/4
+1040000000E0050,bulón,hexagonal,5/16,,2,G2,imperial,UNC,,119.79537725736002,126.98309989280162,efepe,Bulon G2 Hex UNC 5/16 2
+1040000000E0056,bulón,hexagonal,5/16,,2 1/4,G2,imperial,UNC,,132.55308203819243,140.50626696048397,efepe,Bulon G2 Hex UNC 5/16 2 1/4
+1040000000E0063,bulón,hexagonal,5/16,,2 1/2,G2,imperial,UNC,,151.26270298776,160.33846516702562,efepe,Bulon G2 Hex UNC 5/16 2 1/2
+1040000000E0070,bulón,hexagonal,5/16,,2 3/4,G2,imperial,UNC,,161.43469897967998,171.12078091846078,efepe,Bulon G2 Hex UNC 5/16 2 3/4
+1040000000E0076,bulón,hexagonal,5/16,,3,G2,imperial,UNC,,174.60706789008003,185.08349196348485,efepe,Bulon G2 Hex UNC 5/16 3
+1040000000E0082,bulón,hexagonal,5/16,,3 1/4,G2,imperial,UNC,,202.3817395359312,214.52464390808709,efepe,Bulon G2 Hex UNC 5/16 3 1/4
+1040000000E0090,bulón,hexagonal,5/16,,3 1/2,G2,imperial,UNC,,200.80544605632,212.8537728196992,efepe,Bulon G2 Hex UNC 5/16 3 1/2
+1040000000E0100,bulón,hexagonal,5/16,,4,G2,imperial,UNC,,227.2233637044,240.856765526664,efepe,Bulon G2 Hex UNC 5/16 4
+1040000000E0110,bulón,hexagonal,5/16,,4 1/2,G2,imperial,UNC,,253.5681015252,268.782187616712,efepe,Bulon G2 Hex UNC 5/16 4 1/2
+1040000000E0125,bulón,hexagonal,5/16,,5,G2,imperial,UNC,,279.76647969144,296.5524684729264,efepe,Bulon G2 Hex UNC 5/16 5
+1040000000E0140,bulón,hexagonal,5/16,,5 1/2,G2,imperial,UNC,,306.1849755574653,324.5560740909133,efepe,Bulon G2 Hex UNC 5/16 5 1/2
+1040000000E0155,bulón,hexagonal,5/16,,6,G2,imperial,UNC,,332.3338949350619,352.27392863116563,efepe,Bulon G2 Hex UNC 5/16 6
+1040000000E0175,bulón,hexagonal,5/16,,7,G2,imperial,UNC,,422.37200911197607,447.7143296586946,efepe,Bulon G2 Hex UNC 5/16 7
+1040000000E0200,bulón,hexagonal,5/16,,8,G2,imperial,UNC,,453.93446861784,481.1705367349104,efepe,Bulon G2 Hex UNC 5/16 8
+1040000000F0012,bulón,hexagonal,3/8,,1/2,G2,imperial,UNC,,82.18094603544002,87.11180279756641,efepe,Bulon G2 Hex UNC 3/8 1/2
+1040000000F0016,bulón,hexagonal,3/8,,5/8,G2,imperial,UNC,,94.9527302681946,100.64989408428627,efepe,Bulon G2 Hex UNC 3/8 5/8
+1040000000F0019,bulón,hexagonal,3/8,,3/4,G2,imperial,UNC,,100.5289785,106.56071721,efepe,Bulon G2 Hex UNC 3/8 3/4
+1040000000F0022,bulón,hexagonal,3/8,,7/8,G2,imperial,UNC,,109.27062880434782,115.82686653260868,efepe,Bulon G2 Hex UNC 3/8 7/8
+1040000000F0025,bulón,hexagonal,3/8,,1,G2,imperial,UNC,,102.01267922832,108.1334399820192,efepe,Bulon G2 Hex UNC 3/8 1
+1040000000F0032,bulón,hexagonal,3/8,,1 1/4,G2,imperial,UNC,,118.91721933,126.0522524898,efepe,Bulon G2 Hex UNC 3/8 1 1/4
+1040000000F0038,bulón,hexagonal,3/8,,1 1/2,G2,imperial,UNC,,135.38268046800002,143.50564129608003,efepe,Bulon G2 Hex UNC 3/8 1 1/2
+1040000000F0044,bulón,hexagonal,3/8,,1 3/4,G2,imperial,UNC,,154.11671625168,163.3637192267808,efepe,Bulon G2 Hex UNC 3/8 1 3/4
+1040000000F0050,bulón,hexagonal,3/8,,2,G2,imperial,UNC,,172.55803272624,182.9115146898144,efepe,Bulon G2 Hex UNC 3/8 2
+1040000000F0056,bulón,hexagonal,3/8,,2 1/4,G2,imperial,UNC,,194.95105987392003,206.64812346635523,efepe,Bulon G2 Hex UNC 3/8 2 1/4
+1040000000F0063,bulón,hexagonal,3/8,,2 1/2,G2,imperial,UNC,,213.75827548488004,226.5837720139729,efepe,Bulon G2 Hex UNC 3/8 2 1/2
+1040000000F0070,bulón,hexagonal,3/8,,2 3/4,G2,imperial,UNC,,232.8476875740948,246.8185488285405,efepe,Bulon G2 Hex UNC 3/8 2 3/4
+1040000000F0076,bulón,hexagonal,3/8,,3,G2,imperial,UNC,,251.88496549776005,266.99806342762565,efepe,Bulon G2 Hex UNC 3/8 3
+1040000000F0082,bulón,hexagonal,3/8,,3 1/4,G2,imperial,UNC,,270.7008586824173,286.9429102033623,efepe,Bulon G2 Hex UNC 3/8 3 1/4
+1040000000F0090,bulón,hexagonal,3/8,,3 1/2,G2,imperial,UNC,,289.7863205373417,307.1734997695822,efepe,Bulon G2 Hex UNC 3/8 3 1/2
+1040000000F0100,bulón,hexagonal,3/8,,4,G2,imperial,UNC,,327.69926655984005,347.3612225534305,efepe,Bulon G2 Hex UNC 3/8 4
+1040000000F0110,bulón,hexagonal,3/8,,4 1/2,G2,imperial,UNC,,365.5332372636,387.465231499416,efepe,Bulon G2 Hex UNC 3/8 4 1/2
+1040000000F0125,bulón,hexagonal,3/8,,5,G2,imperial,UNC,,411.70970827728,436.4122907739168,efepe,Bulon G2 Hex UNC 3/8 5
+1040000000F0140,bulón,hexagonal,3/8,,5 1/2,G2,imperial,UNC,,360.5265558746636,382.1581492271434,efepe,Bulon G2 Hex UNC 3/8 5 1/2
+1040000000F0155,bulón,hexagonal,3/8,,6,G2,imperial,UNC,,489.0565615426268,518.3999552351844,efepe,Bulon G2 Hex UNC 3/8 6
+1040000000F0175,bulón,hexagonal,3/8,,7,G2,imperial,UNC,,557.931568859991,591.4074629915905,efepe,Bulon G2 Hex UNC 3/8 7
+1040000000F0200,bulón,hexagonal,3/8,,8,G2,imperial,UNC,,643.32386161848,681.9232933155888,efepe,Bulon G2 Hex UNC 3/8 8
+1040000000G0022,bulón,hexagonal,7/16,,7/8,G2,imperial,UNC,,107.59007430328408,114.0454787614811,efepe,Bulon G2 Hex UNC 7/16 7/8
+1040000000G0025,bulón,hexagonal,7/16,,1,G2,imperial,UNC,,144.74969835984,153.4346802614304,efepe,Bulon G2 Hex UNC 7/16 1
+1040000000G0032,bulón,hexagonal,7/16,,1 1/4,G2,imperial,UNC,,165.27390932130984,175.19034388058844,efepe,Bulon G2 Hex UNC 7/16 1 1/4
+1040000000G0038,bulón,hexagonal,7/16,,1 1/2,G2,imperial,UNC,,191.21888868264,202.6920220035984,efepe,Bulon G2 Hex UNC 7/16 1 1/2
+1040000000G0044,bulón,hexagonal,7/16,,1 3/4,G2,imperial,UNC,,234.1081218549025,248.15460916619665,efepe,Bulon G2 Hex UNC 7/16 1 3/4
+1040000000G0050,bulón,hexagonal,7/16,,2,G2,imperial,UNC,,261.9919676341464,277.71148569219514,efepe,Bulon G2 Hex UNC 7/16 2
+1040000000G0056,bulón,hexagonal,7/16,,2 1/4,G2,imperial,UNC,,231.9006507307123,245.81468977455503,efepe,Bulon G2 Hex UNC 7/16 2 1/4
+1040000000G0063,bulón,hexagonal,7/16,,2 1/2,G2,imperial,UNC,,317.7596591926344,336.8252387441924,efepe,Bulon G2 Hex UNC 7/16 2 1/2
+1040000000G0070,bulón,hexagonal,7/16,,2 3/4,G2,imperial,UNC,,276.51480397750265,293.1056922161528,efepe,Bulon G2 Hex UNC 7/16 2 3/4
+1040000000G0076,bulón,hexagonal,7/16,,3,G2,imperial,UNC,,346.65284182536,367.4520123348816,efepe,Bulon G2 Hex UNC 7/16 3
+1040000000G0082,bulón,hexagonal,7/16,,3 1/4,G2,imperial,UNC,,373.608739323444,396.0252636828506,efepe,Bulon G2 Hex UNC 7/16 3 1/4
+1040000000G0090,bulón,hexagonal,7/16,,3 1/2,G2,imperial,UNC,,398.40816502168127,422.3126549229821,efepe,Bulon G2 Hex UNC 7/16 3 1/2
+1040000000G0100,bulón,hexagonal,7/16,,4,G2,imperial,UNC,,450.16348821800256,477.1732975110827,efepe,Bulon G2 Hex UNC 7/16 4
+1040000000G0110,bulón,hexagonal,7/16,,4 1/2,G2,imperial,UNC,,502.9970473142472,533.1768701531021,efepe,Bulon G2 Hex UNC 7/16 4 1/2
+1040000000G0125,bulón,hexagonal,7/16,,5,G2,imperial,UNC,,553.8897817906295,587.1231686980673,efepe,Bulon G2 Hex UNC 7/16 5
+1040000000G0140,bulón,hexagonal,7/16,,5 1/2,G2,imperial,UNC,,484.6023428615544,513.6784834332477,efepe,Bulon G2 Hex UNC 7/16 5 1/2
+1040000000G0155,bulón,hexagonal,7/16,,6,G2,imperial,UNC,,671.49809512128,711.7879808285568,efepe,Bulon G2 Hex UNC 7/16 6
+1040000000H0019,bulón,hexagonal,1/2,,3/4,G2,imperial,UNC,,201.67567746933923,213.7762181174996,efepe,Bulon G2 Hex UNC 1/2 3/4
+1040000000H0022,bulón,hexagonal,1/2,,7/8,G2,imperial,UNC,,219.5706885893732,232.7449299047356,efepe,Bulon G2 Hex UNC 1/2 7/8
+1040000000H0025,bulón,hexagonal,1/2,,1,G2,imperial,UNC,,229.5611549201896,243.33482421540097,efepe,Bulon G2 Hex UNC 1/2 1
+1040000000H0032,bulón,hexagonal,1/2,,1 1/4,G2,imperial,UNC,,257.44663237104004,272.8934303133024,efepe,Bulon G2 Hex UNC 1/2 1 1/4
+1040000000H0038,bulón,hexagonal,1/2,,1 1/2,G2,imperial,UNC,,294.47562497472006,312.14416247320327,efepe,Bulon G2 Hex UNC 1/2 1 1/2
+1040000000H0044,bulón,hexagonal,1/2,,1 3/4,G2,imperial,UNC,,329.60194206912007,349.37805859326727,efepe,Bulon G2 Hex UNC 1/2 1 3/4
+1040000000H0050,bulón,hexagonal,1/2,,2,G2,imperial,UNC,,357.33709660824,378.7773224047344,efepe,Bulon G2 Hex UNC 1/2 2
+1040000000H0056,bulón,hexagonal,1/2,,2 1/4,G2,imperial,UNC,,422.6567809344774,448.0161877905461,efepe,Bulon G2 Hex UNC 1/2 2 1/4
+1040000000H0063,bulón,hexagonal,1/2,,2 1/2,G2,imperial,UNC,,434.76135387048,460.8470351027088,efepe,Bulon G2 Hex UNC 1/2 2 1/2
+1040000000H0070,bulón,hexagonal,1/2,,2 3/4,G2,imperial,UNC,,469.43694697005833,497.6031637882618,efepe,Bulon G2 Hex UNC 1/2 2 3/4
+1040000000H0076,bulón,hexagonal,1/2,,3,G2,imperial,UNC,,566.4394679368659,600.4258360130779,efepe,Bulon G2 Hex UNC 1/2 3
+1040000000H0082,bulón,hexagonal,1/2,,3 1/4,G2,imperial,UNC,,580.5384970053314,615.3708068256512,efepe,Bulon G2 Hex UNC 1/2 3 1/4
+1040000000H0090,bulón,hexagonal,1/2,,3 1/2,G2,imperial,UNC,,619.2620359791343,656.4177581378824,efepe,Bulon G2 Hex UNC 1/2 3 1/2
+1040000000H0100,bulón,hexagonal,1/2,,4,G2,imperial,UNC,,645.66561609144,684.4055530569265,efepe,Bulon G2 Hex UNC 1/2 4
+1040000000H0110,bulón,hexagonal,1/2,,4 1/2,G2,imperial,UNC,,715.77189062568,758.7182040632208,efepe,Bulon G2 Hex UNC 1/2 4 1/2
+1040000000H0125,bulón,hexagonal,1/2,,5,G2,imperial,UNC,,785.8357013760401,832.9858434586025,efepe,Bulon G2 Hex UNC 1/2 5
+1040000000H0140,bulón,hexagonal,1/2,,5 1/2,G2,imperial,UNC,,684.7196097011204,725.8027862831876,efepe,Bulon G2 Hex UNC 1/2 5 1/2
+1040000000H0155,bulón,hexagonal,1/2,,6,G2,imperial,UNC,,925.724815092,981.26830399752,efepe,Bulon G2 Hex UNC 1/2 6
+1040000000H0175,bulón,hexagonal,1/2,,7,G2,imperial,UNC,,1035.2763897593643,1097.3929731449264,efepe,Bulon G2 Hex UNC 1/2 7
+1040000000H0200,bulón,hexagonal,1/2,,8,G2,imperial,UNC,,915.6382250970512,970.576518602874,efepe,Bulon G2 Hex UNC 1/2 8
+1040000000H0225,bulón,hexagonal,1/2,,9,G2,imperial,UNC,,1051.0675067625684,1114.1315571683226,efepe,Bulon G2 Hex UNC 1/2 9
+1040000000H0250,bulón,hexagonal,1/2,,10,G2,imperial,UNC,,1453.1413986056752,1540.329882522016,efepe,Bulon G2 Hex UNC 1/2 10
+1040000000H0275,bulón,hexagonal,1/2,,11,G2,imperial,UNC,,1625.0617214084757,1722.565424692984,efepe,Bulon G2 Hex UNC 1/2 11
+1040000000H0300,bulón,hexagonal,1/2,,12,G2,imperial,UNC,,1793.1715546576272,1900.761847937085,efepe,Bulon G2 Hex UNC 1/2 12
+1040000000J0025,bulón,hexagonal,5/8,,1,G2,imperial,UNC,,378.5592465194399,401.2728013106063,efepe,Bulon G2 Hex UNC 5/8 1
+1040000000J0032,bulón,hexagonal,5/8,,1 1/4,G2,imperial,UNC,,422.5777635565841,447.9324293699792,efepe,Bulon G2 Hex UNC 5/8 1 1/4
+1040000000J0038,bulón,hexagonal,5/8,,1 1/2,G2,imperial,UNC,,466.59457873728,494.5902534615168,efepe,Bulon G2 Hex UNC 5/8 1 1/2
+1040000000J0044,bulón,hexagonal,5/8,,1 3/4,G2,imperial,UNC,,544.6233013728529,577.300699455224,efepe,Bulon G2 Hex UNC 5/8 1 3/4
+1040000000J0050,bulón,hexagonal,5/8,,2,G2,imperial,UNC,,557.92300318272,591.3983833736831,efepe,Bulon G2 Hex UNC 5/8 2
+1040000000J0056,bulón,hexagonal,5/8,,2 1/4,G2,imperial,UNC,,623.2725889437602,660.6689442803857,efepe,Bulon G2 Hex UNC 5/8 2 1/4
+1040000000J0063,bulón,hexagonal,5/8,,2 1/2,G2,imperial,UNC,,674.5716478670402,715.0459467390625,efepe,Bulon G2 Hex UNC 5/8 2 1/2
+1040000000J0070,bulón,hexagonal,5/8,,2 3/4,G2,imperial,UNC,,731.0664745272001,774.930462998832,efepe,Bulon G2 Hex UNC 5/8 2 3/4
+1040000000J0076,bulón,hexagonal,5/8,,3,G2,imperial,UNC,,784.4877484415999,831.5570133480959,efepe,Bulon G2 Hex UNC 5/8 3
+1040000000J0082,bulón,hexagonal,5/8,,3 1/4,G2,imperial,UNC,,838.1218242238425,888.4091336772731,efepe,Bulon G2 Hex UNC 5/8 3 1/4
+1040000000J0090,bulón,hexagonal,5/8,,3 1/2,G2,imperial,UNC,,892.030946548558,945.5528033414714,efepe,Bulon G2 Hex UNC 5/8 3 1/2
+1040000000J0100,bulón,hexagonal,5/8,,4,G2,imperial,UNC,,1000.2950590903198,1060.312762635739,efepe,Bulon G2 Hex UNC 5/8 4
+1040000000J0110,bulón,hexagonal,5/8,,4 1/2,G2,imperial,UNC,,1107.35714640096,1173.7985751850176,efepe,Bulon G2 Hex UNC 5/8 4 1/2
+1040000000J0125,bulón,hexagonal,5/8,,5,G2,imperial,UNC,,1214.627212743825,1287.5048455084543,efepe,Bulon G2 Hex UNC 5/8 5
+1040000000J0140,bulón,hexagonal,5/8,,5 1/2,G2,imperial,UNC,,1322.43265877688,1401.778618303493,efepe,Bulon G2 Hex UNC 5/8 5 1/2
+1040000000J0155,bulón,hexagonal,5/8,,6,G2,imperial,UNC,,1430.73880315128,1516.5831313403569,efepe,Bulon G2 Hex UNC 5/8 6
+1040000000J0175,bulón,hexagonal,5/8,,7,G2,imperial,UNC,,1316.7861551126823,1395.7933244194433,efepe,Bulon G2 Hex UNC 5/8 7
+1040000000J0200,bulón,hexagonal,5/8,,8,G2,imperial,UNC,,1862.13388496688,1973.8619180648927,efepe,Bulon G2 Hex UNC 5/8 8
+1040000000J0225,bulón,hexagonal,5/8,,9,G2,imperial,UNC,,2077.703007290464,2202.365187727891,efepe,Bulon G2 Hex UNC 5/8 9
+1040000000J0250,bulón,hexagonal,5/8,,10,G2,imperial,UNC,,2292.831518224526,2430.4014093179976,efepe,Bulon G2 Hex UNC 5/8 10
+1040000000J0275,bulón,hexagonal,5/8,,11,G2,imperial,UNC,,2500.469635536716,2650.4978136689188,efepe,Bulon G2 Hex UNC 5/8 11
+1040000000J0300,bulón,hexagonal,5/8,,12,G2,imperial,UNC,,2766.34383083856,2932.3244606888734,efepe,Bulon G2 Hex UNC 5/8 12
+1040000000K0025,bulón,hexagonal,3/4,,1,G2,imperial,UNC,,488.66561464492816,517.9855515236238,efepe,Bulon G2 Hex UNC 3/4 1
+1040000000K0032,bulón,hexagonal,3/4,,1 1/4,G2,imperial,UNC,,675.8258669627215,716.3754189804848,efepe,Bulon G2 Hex UNC 3/4 1 1/4
+1040000000K0038,bulón,hexagonal,3/4,,1 1/2,G2,imperial,UNC,,740.43349241904,784.8595019641824,efepe,Bulon G2 Hex UNC 3/4 1 1/2
+1040000000K0044,bulón,hexagonal,3/4,,1 3/4,G2,imperial,UNC,,805.393456809707,853.7170642182895,efepe,Bulon G2 Hex UNC 3/4 1 3/4
+1040000000K0050,bulón,hexagonal,3/4,,2,G2,imperial,UNC,,858.7652731308001,910.291189518648,efepe,Bulon G2 Hex UNC 3/4 2
+1040000000K0056,bulón,hexagonal,3/4,,2 1/4,G2,imperial,UNC,,934.7765119954846,990.8631027152136,efepe,Bulon G2 Hex UNC 3/4 2 1/4
+1040000000K0063,bulón,hexagonal,3/4,,2 1/2,G2,imperial,UNC,,1010.83295421864,1071.4829314717583,efepe,Bulon G2 Hex UNC 3/4 2 1/2
+1040000000K0070,bulón,hexagonal,3/4,,2 3/4,G2,imperial,UNC,,1109.0402824284,1175.582699374104,efepe,Bulon G2 Hex UNC 3/4 2 3/4
+1040000000K0076,bulón,hexagonal,3/4,,3,G2,imperial,UNC,,1187.41587744528,1258.6608300919966,efepe,Bulon G2 Hex UNC 3/4 3
+1040000000K0082,bulón,hexagonal,3/4,,3 1/4,G2,imperial,UNC,,1267.7880230674457,1343.8553044514924,efepe,Bulon G2 Hex UNC 3/4 3 1/4
+1040000000K0090,bulón,hexagonal,3/4,,3 1/2,G2,imperial,UNC,,1342.70347093344,1423.2656791894465,efepe,Bulon G2 Hex UNC 3/4 3 1/2
+1040000000K0100,bulón,hexagonal,3/4,,4,G2,imperial,UNC,,1492.28303789376,1581.8200201673858,efepe,Bulon G2 Hex UNC 3/4 4
+1040000000K0110,bulón,hexagonal,3/4,,4 1/2,G2,imperial,UNC,,1652.54685963696,1751.6996712151774,efepe,Bulon G2 Hex UNC 3/4 4 1/2
+1040000000K0125,bulón,hexagonal,3/4,,5,G2,imperial,UNC,,1446.1435368221178,1532.9121490314449,efepe,Bulon G2 Hex UNC 3/4 5
+1040000000K0140,bulón,hexagonal,3/4,,5 1/2,G2,imperial,UNC,,1923.45858022752,2038.8660950411715,efepe,Bulon G2 Hex UNC 3/4 5 1/2
+1040000000K0155,bulón,hexagonal,3/4,,6,G2,imperial,UNC,,1664.1158503092029,1763.962801327755,efepe,Bulon G2 Hex UNC 3/4 6
+1040000000K0175,bulón,hexagonal,3/4,,7,G2,imperial,UNC,,2384.8725205405267,2527.9648717729583,efepe,Bulon G2 Hex UNC 3/4 7
+1040000000K0200,bulón,hexagonal,3/4,,8,G2,imperial,UNC,,2902.75102888848,3076.916090621789,efepe,Bulon G2 Hex UNC 3/4 8
+1040000000K0225,bulón,hexagonal,3/4,,9,G2,imperial,UNC,,3232.0365865448334,3425.958781737524,efepe,Bulon G2 Hex UNC 3/4 9
+1040000000K0250,bulón,hexagonal,3/4,,10,G2,imperial,UNC,,3677.43268047456,3898.078641303033,efepe,Bulon G2 Hex UNC 3/4 10
+1040000000K0275,bulón,hexagonal,3/4,,11,G2,imperial,UNC,,4124.910160842773,4372.404770493339,efepe,Bulon G2 Hex UNC 3/4 11
+1040000000K0300,bulón,hexagonal,3/4,,12,G2,imperial,UNC,,4377.824360485688,4640.4938221148295,efepe,Bulon G2 Hex UNC 3/4 12
+1010000000C0019,bulón,redonda,3/16,,3/4,,imperial,,,30.517348875,32.3483898075,efepe,Bulon Cab. Redonda 3/16 3/4
+1010000000D0019,bulón,redonda,1/4,,3/4,,imperial,,,41.93204103144,44.4479634933264,efepe,Bulon Cab. Redonda 1/4 3/4
+1010000000D0025,bulón,redonda,1/4,,1,,imperial,,,48.518225486640006,51.42931901583841,efepe,Bulon Cab. Redonda 1/4 1
+1010000000D0032,bulón,redonda,1/4,,1 1/4,,imperial,,,55.397129250960006,58.720957006017606,efepe,Bulon Cab. Redonda 1/4 1 1/4
+1010000000D0038,bulón,redonda,1/4,,1 1/2,,imperial,,,62.27603301528,66.0125949961968,efepe,Bulon Cab. Redonda 1/4 1 1/2
+1010000000D0044,bulón,redonda,1/4,,1 3/4,,imperial,,,69.1024443265703,73.24859098616453,efepe,Bulon Cab. Redonda 1/4 1 3/4
+1010000000D0050,bulón,redonda,1/4,,2,,imperial,,,75.98873643883684,80.54806062516705,efepe,Bulon Cab. Redonda 1/4 2
+1010000000D0056,bulón,redonda,1/4,,2 1/4,,imperial,,,82.87502855110338,87.84753026416959,efepe,Bulon Cab. Redonda 1/4 2 1/4
+1010000000D0063,bulón,redonda,1/4,,2 1/2,,imperial,,,89.76132066336991,95.14699990317212,efepe,Bulon Cab. Redonda 1/4 2 1/2
+1010000000D0070,bulón,redonda,1/4,,2 3/4,,imperial,,,96.58773197466022,102.38299589313982,efepe,Bulon Cab. Redonda 1/4 2 3/4
+1010000000D0076,bulón,redonda,1/4,,3,,imperial,,,103.62263542848,109.8399935541888,efepe,Bulon Cab. Redonda 1/4 3
+1010000000D0082,bulón,redonda,1/4,,3 1/4,,imperial,,,109.33066195632,115.8905016736992,efepe,Bulon Cab. Redonda 1/4 3 1/4
+1010000000D0090,bulón,redonda,1/4,,3 1/2,,imperial,,,116.72270235031328,123.72606449133208,efepe,Bulon Cab. Redonda 1/4 3 1/2
+1010000000D0100,bulón,redonda,1/4,,4,,imperial,,,130.37413178760735,138.1965796948638,efepe,Bulon Cab. Redonda 1/4 4
+1010000000D0110,bulón,redonda,1/4,,4 1/2,,imperial,,,137.2296531207463,145.46343230799107,efepe,Bulon Cab. Redonda 1/4 4 1/2
+1010000000D0125,bulón,redonda,1/4,,5,,imperial,,,157.70252778840003,167.16467945570403,efepe,Bulon Cab. Redonda 1/4 5
+1010000000D0140,bulón,redonda,1/4,,5 1/2,,imperial,,,172.41167307168,182.7563734559808,efepe,Bulon Cab. Redonda 1/4 5 1/2
+1010000000D0155,bulón,redonda,1/4,,6,,imperial,,,186.09630077304,197.2620788194224,efepe,Bulon Cab. Redonda 1/4 6
+1010000000E0025,bulón,redonda,5/16,,1,,imperial,,,77.71697657135998,82.37999516564157,efepe,Bulon Cab. Redonda 5/16 1
+1010000000E0032,bulón,redonda,5/16,,1 1/4,,imperial,,,90.81616565448002,96.26513559374882,efepe,Bulon Cab. Redonda 5/16 1 1/4
+1010000000E0038,bulón,redonda,5/16,,1 1/2,,imperial,,,102.21247252789652,108.34522087957032,efepe,Bulon Cab. Redonda 5/16 1 1/2
+1010000000E0044,bulón,redonda,5/16,,1 3/4,,imperial,,,111.37969712016,118.0624789473696,efepe,Bulon Cab. Redonda 5/16 1 3/4
+1010000000E0050,bulón,redonda,5/16,,2,,imperial,,,129.96737324928003,137.76541564423684,efepe,Bulon Cab. Redonda 5/16 2
+1010000000E0056,bulón,redonda,5/16,,2 1/4,,imperial,,,136.55355770448,144.7467711667488,efepe,Bulon Cab. Redonda 5/16 2 1/4
+1010000000E0063,bulón,redonda,5/16,,2 1/2,,imperial,,,156.75119003376005,166.15626143578564,efepe,Bulon Cab. Redonda 5/16 2 1/2
+1010000000E0070,bulón,redonda,5/16,,2 3/4,,imperial,,,156.16575141552,165.5356965004512,efepe,Bulon Cab. Redonda 5/16 2 3/4
+1010000000E0076,bulón,redonda,5/16,,3,,imperial,,,167.43544481663997,177.48157150563836,efepe,Bulon Cab. Redonda 5/16 3
+1010000000E0082,bulón,redonda,5/16,,3 1/4,,imperial,,,178.5587785632,189.272305276992,efepe,Bulon Cab. Redonda 5/16 3 1/4
+1010000000E0090,bulón,redonda,5/16,,3 1/2,,imperial,,,189.82847196432,201.2181802821792,efepe,Bulon Cab. Redonda 5/16 3 1/2
+1010000000E0100,bulón,redonda,5/16,,4,,imperial,,,212.14831928472,224.8772184418032,efepe,Bulon Cab. Redonda 5/16 4
+1010000000E0110,bulón,redonda,5/16,,4 1/2,,imperial,,,233.29728936864,247.2951267307584,efepe,Bulon Cab. Redonda 5/16 4 1/2
+1010000000E0125,bulón,redonda,5/16,,5,,imperial,,,235.05360522336,249.1568215367616,efepe,Bulon Cab. Redonda 5/16 5
+1010000000E0140,bulón,redonda,5/16,,5 1/2,,imperial,,,279.32740072776005,296.08704477142567,efepe,Bulon Cab. Redonda 5/16 5 1/2
+1010000000E0155,bulón,redonda,5/16,,6,,imperial,,,326.30884984152,345.8873808320111,efepe,Bulon Cab. Redonda 5/16 6
+1010000000E0175,bulón,redonda,5/16,,7,,imperial,,,346.57966199808004,367.3744417179648,efepe,Bulon Cab. Redonda 5/16 7
+1010000000E0200,bulón,redonda,5/16,,8,,imperial,,,389.3166811296001,412.6756819973761,efepe,Bulon Cab. Redonda 5/16 8
+1010000000E0225,bulón,redonda,5/16,,9,,imperial,,,437.1587250121728,463.3882485129032,efepe,Bulon Cab. Redonda 5/16 9
+1010000000E0250,bulón,redonda,5/16,,10,,imperial,,,620.41857567984,657.6436902206304,efepe,Bulon Cab. Redonda 5/16 10
+1010000000F0025,bulón,redonda,3/8,,1,,imperial,,,122.42985103944,129.7756421018064,efepe,Bulon Cab. Redonda 3/8 1
+1010000000F0032,bulón,redonda,3/8,,1 1/4,,imperial,,,140.94434734128004,149.40100818175685,efepe,Bulon Cab. Redonda 3/8 1 1/4
+1010000000F0038,bulón,redonda,3/8,,1 1/2,,imperial,,,157.04390934287997,166.46654390345276,efepe,Bulon Cab. Redonda 3/8 1 1/2
+1010000000F0044,bulón,redonda,3/8,,1 3/4,,imperial,,,179.61029452800005,190.38691219968,efepe,Bulon Cab. Redonda 3/8 1 3/4
+1010000000F0050,bulón,redonda,3/8,,2,,imperial,,,185.21814284568,196.3312314164208,efepe,Bulon Cab. Redonda 3/8 2
+1010000000F0056,bulón,redonda,3/8,,2 1/4,,imperial,,,200.95180571088,213.0089140535328,efepe,Bulon Cab. Redonda 3/8 2 1/4
+1010000000F0063,bulón,redonda,3/8,,2 1/2,,imperial,,,210.9067914776632,223.561198966323,efepe,Bulon Cab. Redonda 3/8 2 1/2
+1010000000F0070,bulón,redonda,3/8,,2 3/4,,imperial,,,232.3794642653177,246.3222321212368,efepe,Bulon Cab. Redonda 3/8 2 3/4
+1010000000F0076,bulón,redonda,3/8,,3,,imperial,,,248.00643465192,262.88682073103524,efepe,Bulon Cab. Redonda 3/8 3
+1010000000F0082,bulón,redonda,3/8,,3 1/4,,imperial,,,263.8132773444,279.642073985064,efepe,Bulon Cab. Redonda 3/8 3 1/4
+1010000000F0090,bulón,redonda,3/8,,3 1/2,,imperial,,,278.01016383672004,294.69077366692323,efepe,Bulon Cab. Redonda 3/8 3 1/2
+1010000000F0100,bulón,redonda,3/8,,4,,imperial,,,310.8679062854399,329.5199806625663,efepe,Bulon Cab. Redonda 3/8 4
+1010000000F0110,bulón,redonda,3/8,,4 1/2,,imperial,,,349.21413578016006,370.1669839269697,efepe,Bulon Cab. Redonda 3/8 4 1/2
+1010000000F0125,bulón,redonda,3/8,,5,,imperial,,,373.65619809168,396.07556997718086,efepe,Bulon Cab. Redonda 3/8 5
+1010000000F0140,bulón,redonda,3/8,,5 1/2,,imperial,,,401.0254534944,425.086980704064,efepe,Bulon Cab. Redonda 3/8 5 1/2
+1010000000F0155,bulón,redonda,3/8,,6,,imperial,,,445.2992489988,472.017203938728,efepe,Bulon Cab. Redonda 3/8 6
+1010000000F0175,bulón,redonda,3/8,,7,,imperial,,,496.6714877493601,526.4717770143217,efepe,Bulon Cab. Redonda 3/8 7
+1010000000F0200,bulón,redonda,3/8,,8,,imperial,,,559.0938804192001,592.6395132443521,efepe,Bulon Cab. Redonda 3/8 8
+1010000000F0225,bulón,redonda,3/8,,9,,imperial,,,624.8825451439201,662.3754978525553,efepe,Bulon Cab. Redonda 3/8 9
+1010000000F0250,bulón,redonda,3/8,,10,,imperial,,,687.5976571228799,728.8535165502527,efepe,Bulon Cab. Redonda 3/8 10
+1010000000G0038,bulón,redonda,7/16,,1 1/2,,imperial,,,209.51384550263995,222.0846762327984,efepe,Bulon Cab. Redonda 7/16 1 1/2
+1010000000G0050,bulón,redonda,7/16,,2,,imperial,,,252.5741496611937,267.7285986408653,efepe,Bulon Cab. Redonda 7/16 2
+1010000000G0056,bulón,redonda,7/16,,2 1/4,,imperial,,,296.90774238357534,314.7222069265899,efepe,Bulon Cab. Redonda 7/16 2 1/4
+1010000000G0063,bulón,redonda,7/16,,2 1/2,,imperial,,,307.7157676878103,326.1787137490789,efepe,Bulon Cab. Redonda 7/16 2 1/2
+1010000000G0070,bulón,redonda,7/16,,2 3/4,,imperial,,,317.6565582986849,336.715951796606,efepe,Bulon Cab. Redonda 7/16 2 3/4
+1010000000G0076,bulón,redonda,7/16,,3,,imperial,,,270.90950498031964,287.16407527913884,efepe,Bulon Cab. Redonda 7/16 3
+1010000000G0090,bulón,redonda,7/16,,3 1/2,,imperial,,,383.3177344651891,406.3167985331005,efepe,Bulon Cab. Redonda 7/16 3 1/2
+1010000000G0100,bulón,redonda,7/16,,4,,imperial,,,425.2783803186184,450.7950831377355,efepe,Bulon Cab. Redonda 7/16 4
+1010000000G0110,bulón,redonda,7/16,,4 1/2,,imperial,,,469.90135680550657,498.095438213837,efepe,Bulon Cab. Redonda 7/16 4 1/2
+1010000000G0125,bulón,redonda,7/16,,5,,imperial,,,511.91987941183726,542.6350721765475,efepe,Bulon Cab. Redonda 7/16 5
+1010000000G0140,bulón,redonda,7/16,,5 1/2,,imperial,,,554.8494504369598,588.1404174631774,efepe,Bulon Cab. Redonda 7/16 5 1/2
+1010000000G0155,bulón,redonda,7/16,,6,,imperial,,,598.53780732312,634.4500757625071,efepe,Bulon Cab. Redonda 7/16 6
+1010000000G0175,bulón,redonda,7/16,,7,,imperial,,,682.5715431801274,723.525835770935,efepe,Bulon Cab. Redonda 7/16 7
+1010000000G0250,bulón,redonda,7/16,,10,,imperial,,,934.3255039087652,990.385034143291,efepe,Bulon Cab. Redonda 7/16 10
+1010000000G0275,bulón,redonda,7/16,,11,,imperial,,,1018.1856163445806,1079.2767533252554,efepe,Bulon Cab. Redonda 7/16 11
+1010000000H0038,bulón,redonda,1/2,,1 1/2,,imperial,,,306.6234763032,325.020884881392,efepe,Bulon Cab. Redonda 1/2 1 1/2
+1010000000H0050,bulón,redonda,1/2,,2,,imperial,,,426.49203338784,452.0815553911104,efepe,Bulon Cab. Redonda 1/2 2
+1010000000H0063,bulón,redonda,1/2,,2 1/2,,imperial,,,437.02992851616006,463.25172422712967,efepe,Bulon Cab. Redonda 1/2 2 1/2
+1010000000H0070,bulón,redonda,1/2,,2 3/4,,imperial,,,467.7490528934138,495.81399606701865,efepe,Bulon Cab. Redonda 1/2 2 3/4
+1010000000H0076,bulón,redonda,1/2,,3,,imperial,,,498.4681772706679,528.376267906908,efepe,Bulon Cab. Redonda 1/2 3
+1010000000H0090,bulón,redonda,1/2,,3 1/2,,imperial,,,559.9064260251755,593.500811586686,efepe,Bulon Cab. Redonda 1/2 3 1/2
+1010000000H0100,bulón,redonda,1/2,,4,,imperial,,,606.3680488420799,642.7501317726047,efepe,Bulon Cab. Redonda 1/2 4
+1010000000H0110,bulón,redonda,1/2,,4 1/2,,imperial,,,666.2291475571202,706.2028964105474,efepe,Bulon Cab. Redonda 1/2 4 1/2
+1010000000H0125,bulón,redonda,1/2,,5,,imperial,,,785.4390861962399,832.5654313680143,efepe,Bulon Cab. Redonda 1/2 5
+1010000000H0140,bulón,redonda,1/2,,5 1/2,,imperial,,,786.1708844690402,833.3411375371826,efepe,Bulon Cab. Redonda 1/2 5 1/2
+1010000000H0155,bulón,redonda,1/2,,6,,imperial,,,846.1229698068096,896.8903479952181,efepe,Bulon Cab. Redonda 1/2 6
+1010000000H0175,bulón,redonda,1/2,,7,,imperial,,,1049.32554336792,1112.2850759699952,efepe,Bulon Cab. Redonda 1/2 7
+1010000000H0200,bulón,redonda,1/2,,8,,imperial,,,1179.568787862445,1250.342915134192,efepe,Bulon Cab. Redonda 1/2 8
+1020000000C0019,bulón,redonda,3/16,,3/4,,imperial,,,49.05398099052,51.99721984995119,efepe,Bulon Cab. Redonda con Tuerca 3/16 3/4
+1020000000D0019,bulón,redonda,1/4,,3/4,,imperial,,,67.54498057944001,71.59767941420641,efepe,Bulon Cab. Redonda con Tuerca 1/4 3/4
+1020000000D0025,bulón,redonda,1/4,,1,,imperial,,,74.13116503463999,78.57903493671839,efepe,Bulon Cab. Redonda con Tuerca 1/4 1
+1020000000D0032,bulón,redonda,1/4,,1 1/4,,imperial,,,81.01006879896,85.87067292689761,efepe,Bulon Cab. Redonda con Tuerca 1/4 1 1/4
+1020000000D0038,bulón,redonda,1/4,,1 1/2,,imperial,,,87.88897256328,93.1623109170768,efepe,Bulon Cab. Redonda con Tuerca 1/4 1 1/2
+1020000000D0044,bulón,redonda,1/4,,1 3/4,,imperial,,,94.7153838745703,100.39830690704451,efepe,Bulon Cab. Redonda con Tuerca 1/4 1 3/4
+1020000000D0050,bulón,redonda,1/4,,2,,imperial,,,101.60167598683684,107.69777654604704,efepe,Bulon Cab. Redonda con Tuerca 1/4 2
+1020000000D0056,bulón,redonda,1/4,,2 1/4,,imperial,,,108.4879680991034,114.9972461850496,efepe,Bulon Cab. Redonda con Tuerca 1/4 2 1/4
+1020000000D0063,bulón,redonda,1/4,,2 1/2,,imperial,,,115.37426021136991,122.29671582405211,efepe,Bulon Cab. Redonda con Tuerca 1/4 2 1/2
+1020000000D0070,bulón,redonda,1/4,,2 3/4,,imperial,,,122.20067152266024,129.53271181401985,efepe,Bulon Cab. Redonda con Tuerca 1/4 2 3/4
+1020000000D0076,bulón,redonda,1/4,,3,,imperial,,,129.23557497648,136.9897094750688,efepe,Bulon Cab. Redonda con Tuerca 1/4 3
+1020000000D0082,bulón,redonda,1/4,,3 1/4,,imperial,,,134.94360150432,143.0402175945792,efepe,Bulon Cab. Redonda con Tuerca 1/4 3 1/4
+1020000000D0090,bulón,redonda,1/4,,3 1/2,,imperial,,,142.3356418983133,150.8757804122121,efepe,Bulon Cab. Redonda con Tuerca 1/4 3 1/2
+1020000000D0100,bulón,redonda,1/4,,4,,imperial,,,155.98707133560734,165.34629561574377,efepe,Bulon Cab. Redonda con Tuerca 1/4 4
+1020000000D0110,bulón,redonda,1/4,,4 1/2,,imperial,,,162.84259266874628,172.61314822887107,efepe,Bulon Cab. Redonda con Tuerca 1/4 4 1/2
+1020000000D0125,bulón,redonda,1/4,,5,,imperial,,,183.3154673364,194.314395376584,efepe,Bulon Cab. Redonda con Tuerca 1/4 5
+1020000000D0140,bulón,redonda,1/4,,5 1/2,,imperial,,,198.02461261968,209.9060893768608,efepe,Bulon Cab. Redonda con Tuerca 1/4 5 1/2
+1020000000D0155,bulón,redonda,1/4,,6,,imperial,,,211.70924032104,224.41179474030235,efepe,Bulon Cab. Redonda con Tuerca 1/4 6
+1020000000E0025,bulón,redonda,5/16,,1,,imperial,,,115.6241271024,122.561574728544,efepe,Bulon Cab. Redonda con Tuerca 5/16 1
+1020000000E0032,bulón,redonda,5/16,,1 1/4,,imperial,,,128.72331618552002,136.4467151566512,efepe,Bulon Cab. Redonda con Tuerca 5/16 1 1/4
+1020000000E0038,bulón,redonda,5/16,,1 1/2,,imperial,,,140.11962305893655,148.52680044247273,efepe,Bulon Cab. Redonda con Tuerca 5/16 1 1/2
+1020000000E0044,bulón,redonda,5/16,,1 3/4,,imperial,,,149.2868476512,158.244058510272,efepe,Bulon Cab. Redonda con Tuerca 5/16 1 3/4
+1020000000E0050,bulón,redonda,5/16,,2,,imperial,,,167.87452378032,177.9469952071392,efepe,Bulon Cab. Redonda con Tuerca 5/16 2
+1020000000E0056,bulón,redonda,5/16,,2 1/4,,imperial,,,174.46070823552,184.9283507296512,efepe,Bulon Cab. Redonda con Tuerca 5/16 2 1/4
+1020000000E0063,bulón,redonda,5/16,,2 1/2,,imperial,,,194.65834056480008,206.33784099868805,efepe,Bulon Cab. Redonda con Tuerca 5/16 2 1/2
+1020000000E0070,bulón,redonda,5/16,,2 3/4,,imperial,,,194.07290194656,205.71727606335364,efepe,Bulon Cab. Redonda con Tuerca 5/16 2 3/4
+1020000000E0076,bulón,redonda,5/16,,3,,imperial,,,205.34259534768,217.6631510685408,efepe,Bulon Cab. Redonda con Tuerca 5/16 3
+1020000000E0082,bulón,redonda,5/16,,3 1/4,,imperial,,,216.46592909424,229.4538848398944,efepe,Bulon Cab. Redonda con Tuerca 5/16 3 1/4
+1020000000E0090,bulón,redonda,5/16,,3 1/2,,imperial,,,227.73562249536005,241.3997598450817,efepe,Bulon Cab. Redonda con Tuerca 5/16 3 1/2
+1020000000E0100,bulón,redonda,5/16,,4,,imperial,,,250.05546981576,265.0587980047056,efepe,Bulon Cab. Redonda con Tuerca 5/16 4
+1020000000E0110,bulón,redonda,5/16,,4 1/2,,imperial,,,271.20443989968,287.47670629366075,efepe,Bulon Cab. Redonda con Tuerca 5/16 4 1/2
+1020000000E0125,bulón,redonda,5/16,,5,,imperial,,,272.9607557544,289.338401099664,efepe,Bulon Cab. Redonda con Tuerca 5/16 5
+1020000000E0140,bulón,redonda,5/16,,5 1/2,,imperial,,,317.2345512588001,336.2686243343281,efepe,Bulon Cab. Redonda con Tuerca 5/16 5 1/2
+1020000000E0155,bulón,redonda,5/16,,6,,imperial,,,364.21600037256,386.0689603949136,efepe,Bulon Cab. Redonda con Tuerca 5/16 6
+1020000000E0175,bulón,redonda,5/16,,7,,imperial,,,384.48681252912,407.5560212808672,efepe,Bulon Cab. Redonda con Tuerca 5/16 7
+1020000000E0200,bulón,redonda,5/16,,8,,imperial,,,427.22383166064014,452.8572615602786,efepe,Bulon Cab. Redonda con Tuerca 5/16 8
+1020000000E0225,bulón,redonda,5/16,,9,,imperial,,,475.0658755432128,503.5698280758056,efepe,Bulon Cab. Redonda con Tuerca 5/16 9
+1020000000E0250,bulón,redonda,5/16,,10,,imperial,,,658.3257262108801,697.8252697835329,efepe,Bulon Cab. Redonda con Tuerca 5/16 10
+1020000000F0025,bulón,redonda,3/8,,1,,imperial,,,187.7062569732,198.968632391592,efepe,Bulon Cab. Redonda con Tuerca 3/8 1
+1020000000F0032,bulón,redonda,3/8,,1 1/4,,imperial,,,206.22075327504,218.5939984715424,efepe,Bulon Cab. Redonda con Tuerca 3/8 1 1/4
+1020000000F0038,bulón,redonda,3/8,,1 1/2,,imperial,,,222.32031527664,235.6595341932384,efepe,Bulon Cab. Redonda con Tuerca 3/8 1 1/2
+1020000000F0044,bulón,redonda,3/8,,1 3/4,,imperial,,,244.88670046176,259.5799024894656,efepe,Bulon Cab. Redonda con Tuerca 3/8 1 3/4
+1020000000F0050,bulón,redonda,3/8,,2,,imperial,,,250.49454877943992,265.52422170620633,efepe,Bulon Cab. Redonda con Tuerca 3/8 2
+1020000000F0056,bulón,redonda,3/8,,2 1/4,,imperial,,,266.22821164464,282.2019043433184,efepe,Bulon Cab. Redonda con Tuerca 3/8 2 1/4
+1020000000F0063,bulón,redonda,3/8,,2 1/2,,imperial,,,276.1831974114232,292.7541892561086,efepe,Bulon Cab. Redonda con Tuerca 3/8 2 1/2
+1020000000F0070,bulón,redonda,3/8,,2 3/4,,imperial,,,297.65587019907764,315.5152224110223,efepe,Bulon Cab. Redonda con Tuerca 3/8 2 3/4
+1020000000F0076,bulón,redonda,3/8,,3,,imperial,,,313.28284058568005,332.07981102082084,efepe,Bulon Cab. Redonda con Tuerca 3/8 3
+1020000000F0082,bulón,redonda,3/8,,3 1/4,,imperial,,,329.08968327815995,348.8350642748496,efepe,Bulon Cab. Redonda con Tuerca 3/8 3 1/4
+1020000000F0090,bulón,redonda,3/8,,3 1/2,,imperial,,,343.28656977048,363.8837639567088,efepe,Bulon Cab. Redonda con Tuerca 3/8 3 1/2
+1020000000F0100,bulón,redonda,3/8,,4,,imperial,,,376.1443122192,398.712970952352,efepe,Bulon Cab. Redonda con Tuerca 3/8 4
+1020000000F0110,bulón,redonda,3/8,,4 1/2,,imperial,,,414.49054171392,439.3599742167552,efepe,Bulon Cab. Redonda con Tuerca 3/8 4 1/2
+1020000000F0125,bulón,redonda,3/8,,5,,imperial,,,438.93260402544,465.2685602669664,efepe,Bulon Cab. Redonda con Tuerca 3/8 5
+1020000000F0140,bulón,redonda,3/8,,5 1/2,,imperial,,,466.30185942816,494.2799709938496,efepe,Bulon Cab. Redonda con Tuerca 3/8 5 1/2
+1020000000F0155,bulón,redonda,3/8,,6,,imperial,,,510.5756549325599,541.2101942285135,efepe,Bulon Cab. Redonda con Tuerca 3/8 6
+1020000000F0175,bulón,redonda,3/8,,7,,imperial,,,561.9478936831201,595.6647673041074,efepe,Bulon Cab. Redonda con Tuerca 3/8 7
+1020000000F0200,bulón,redonda,3/8,,8,,imperial,,,624.3702863529601,661.8325035341377,efepe,Bulon Cab. Redonda con Tuerca 3/8 8
+1020000000F0225,bulón,redonda,3/8,,9,,imperial,,,690.1589510776801,731.5684881423408,efepe,Bulon Cab. Redonda con Tuerca 3/8 9
+1020000000F0250,bulón,redonda,3/8,,10,,imperial,,,752.8740630566399,798.0465068400383,efepe,Bulon Cab. Redonda con Tuerca 3/8 10
+1020000000G0038,bulón,redonda,7/16,,1 1/2,,imperial,,,303.47674373016,321.6853483539696,efepe,Bulon Cab. Redonda con Tuerca 7/16 1 1/2
+1020000000G0050,bulón,redonda,7/16,,2,,imperial,,,346.53704788871363,367.32927076203646,efepe,Bulon Cab. Redonda con Tuerca 7/16 2
+1020000000G0056,bulón,redonda,7/16,,2 1/4,,imperial,,,390.8706406110954,414.3228790477611,efepe,Bulon Cab. Redonda con Tuerca 7/16 2 1/4
+1020000000G0063,bulón,redonda,7/16,,2 1/2,,imperial,,,401.6786659153303,425.7793858702501,efepe,Bulon Cab. Redonda con Tuerca 7/16 2 1/2
+1020000000G0070,bulón,redonda,7/16,,2 3/4,,imperial,,,411.6194565262049,436.3166239177772,efepe,Bulon Cab. Redonda con Tuerca 7/16 2 3/4
+1020000000G0076,bulón,redonda,7/16,,3,,imperial,,,432.5997794529196,458.5557662200947,efepe,Bulon Cab. Redonda con Tuerca 7/16 3
+1020000000G0090,bulón,redonda,7/16,,3 1/2,,imperial,,,477.2806326927091,505.91747065427165,efepe,Bulon Cab. Redonda con Tuerca 7/16 3 1/2
+1020000000G0100,bulón,redonda,7/16,,4,,imperial,,,519.2412785461385,550.3957552589068,efepe,Bulon Cab. Redonda con Tuerca 7/16 4
+1020000000G0110,bulón,redonda,7/16,,4 1/2,,imperial,,,563.8642550330267,597.6961103350083,efepe,Bulon Cab. Redonda con Tuerca 7/16 4 1/2
+1020000000G0125,bulón,redonda,7/16,,5,,imperial,,,605.8827776393572,642.2357442977186,efepe,Bulon Cab. Redonda con Tuerca 7/16 5
+1020000000G0140,bulón,redonda,7/16,,5 1/2,,imperial,,,648.8123486644798,687.7410895843486,efepe,Bulon Cab. Redonda con Tuerca 7/16 5 1/2
+1020000000G0155,bulón,redonda,7/16,,6,,imperial,,,692.50070555064,734.0507478836784,efepe,Bulon Cab. Redonda con Tuerca 7/16 6
+1020000000G0175,bulón,redonda,7/16,,7,,imperial,,,776.5344414076474,823.1265078921062,efepe,Bulon Cab. Redonda con Tuerca 7/16 7
+1020000000G0250,bulón,redonda,7/16,,10,,imperial,,,1028.288402136285,1089.985706264462,efepe,Bulon Cab. Redonda con Tuerca 7/16 10
+1020000000G0275,bulón,redonda,7/16,,11,,imperial,,,1112.1485145721006,1178.8774254464263,efepe,Bulon Cab. Redonda con Tuerca 7/16 11
+1020000000H0038,bulón,redonda,1/2,,1 1/2,,imperial,,,400.58637453072,424.6215570025632,efepe,Bulon Cab. Redonda con Tuerca 1/2 1 1/2
+1020000000H0050,bulón,redonda,1/2,,2,,imperial,,,520.45493161536,551.6822275122817,efepe,Bulon Cab. Redonda con Tuerca 1/2 2
+1020000000H0063,bulón,redonda,1/2,,2 1/2,,imperial,,,530.9928267436801,562.8523963483009,efepe,Bulon Cab. Redonda con Tuerca 1/2 2 1/2
+1020000000H0070,bulón,redonda,1/2,,2 3/4,,imperial,,,561.7119511209339,595.4146681881899,efepe,Bulon Cab. Redonda con Tuerca 1/2 2 3/4
+1020000000H0076,bulón,redonda,1/2,,3,,imperial,,,592.4310754981879,627.9769400280791,efepe,Bulon Cab. Redonda con Tuerca 1/2 3
+1020000000H0090,bulón,redonda,1/2,,3 1/2,,imperial,,,653.8693242526955,693.1014837078573,efepe,Bulon Cab. Redonda con Tuerca 1/2 3 1/2
+1020000000H0100,bulón,redonda,1/2,,4,,imperial,,,700.3309470695999,742.350803893776,efepe,Bulon Cab. Redonda con Tuerca 1/2 4
+1020000000H0110,bulón,redonda,1/2,,4 1/2,,imperial,,,760.1920457846402,805.8035685317186,efepe,Bulon Cab. Redonda con Tuerca 1/2 4 1/2
+1020000000H0125,bulón,redonda,1/2,,5,,imperial,,,879.40198442376,932.1661034891856,efepe,Bulon Cab. Redonda con Tuerca 1/2 5
+1020000000H0140,bulón,redonda,1/2,,5 1/2,,imperial,,,880.13378269656,932.9418096583536,efepe,Bulon Cab. Redonda con Tuerca 1/2 5 1/2
+1020000000H0155,bulón,redonda,1/2,,6,,imperial,,,940.0858680343296,996.4910201163892,efepe,Bulon Cab. Redonda con Tuerca 1/2 6
+1020000000H0175,bulón,redonda,1/2,,7,,imperial,,,1143.28844159544,1211.8857480911663,efepe,Bulon Cab. Redonda con Tuerca 1/2 7
+1020000000H0200,bulón,redonda,1/2,,8,,imperial,,,1273.5316860899654,1349.9435872553634,efepe,Bulon Cab. Redonda con Tuerca 1/2 8
+107NC00000D0012,bulón,,1/4,,1/2,G5,imperial,UNC,,39.36203519244,41.7237573039864,efepe,Bulon G5 UNC. 5 1/4 1/2
+107NC00000D0016,bulón,,1/4,,5/8,G5,imperial,UNC,,43.54012831342525,46.15253601223076,efepe,Bulon G5 UNC. 5 1/4 5/8
+107NC00000D0019,bulón,,1/4,,3/4,G5,imperial,UNC,,47.64877944348,50.50770621008879,efepe,Bulon G5 UNC. 5 1/4 3/4
+107NC00000D0022,bulón,,1/4,,7/8,G5,imperial,UNC,,48.07740414612001,50.96204839488721,efepe,Bulon G5 UNC. 5 1/4 7/8
+107NC00000D0025,bulón,,1/4,,1,G5,imperial,UNC,,52.8637133256,56.035536125136005,efepe,Bulon G5 UNC. 5 1/4 1
+107NC00000D0032,bulón,,1/4,,1 1/4,G5,imperial,UNC,,68.86570222416,72.9976443576096,efepe,Bulon G5 UNC. 5 1/4 1 1/4
+107NC00000D0038,bulón,,1/4,,1 1/2,G5,imperial,UNC,,80.47720450797915,85.3058367784579,efepe,Bulon G5 UNC. 5 1/4 1 1/2
+107NC00000D0044,bulón,,1/4,,1 3/4,G5,imperial,UNC,,91.7235652105461,97.22697912317886,efepe,Bulon G5 UNC. 5 1/4 1 3/4
+107NC00000D0050,bulón,,1/4,,2,G5,imperial,UNC,,103.33506749436523,109.53517154402716,efepe,Bulon G5 UNC. 5 1/4 2
+107NC00000D0056,bulón,,1/4,,2 1/4,G5,imperial,UNC,,91.72356521054613,97.2269791231789,efepe,Bulon G5 UNC. 5 1/4 2 1/4
+107NC00000D0063,bulón,,1/4,,2 1/2,G5,imperial,UNC,,126.19293048075134,133.7645063095964,efepe,Bulon G5 UNC. 5 1/4 2 1/2
+107NC00000D0070,bulón,,1/4,,2 3/4,G5,imperial,UNC,,137.4392911833183,145.6856486543174,efepe,Bulon G5 UNC. 5 1/4 2 3/4
+107NC00000D0076,bulón,,1/4,,3,G5,imperial,UNC,,119.1822121207096,126.33314484795216,efepe,Bulon G5 UNC. 5 1/4 3
+107NC00000D0082,bulón,,1/4,,3 1/4,G5,imperial,UNC,,128.23772333576352,135.93198673590933,efepe,Bulon G5 UNC. 5 1/4 3 1/4
+107NC00000D0090,bulón,,1/4,,3 1/2,G5,imperial,UNC,,171.90865645352352,182.2231758407349,efepe,Bulon G5 UNC. 5 1/4 3 1/2
+107NC00000D0100,bulón,,1/4,,4,G5,imperial,UNC,,211.88347800504,224.59648668534243,efepe,Bulon G5 UNC. 5 1/4 4
+107NC00000D0110,bulón,,1/4,,4 1/2,G5,imperial,UNC,,236.7501928965201,250.9552044703113,efepe,Bulon G5 UNC. 5 1/4 4 1/2
+107NC00000D0125,bulón,,1/4,,5,G5,imperial,UNC,,261.6169077880002,277.3139222552802,efepe,Bulon G5 UNC. 5 1/4 5
+107NC00000D0140,bulón,,1/4,,5 1/2,G5,imperial,UNC,,229.18689814358436,242.9381120321994,efepe,Bulon G5 UNC. 5 1/4 5 1/2
+107NC00000D0155,bulón,,1/4,,6,G5,imperial,UNC,,249.08027005676843,264.02508626017453,efepe,Bulon G5 UNC. 5 1/4 6
+107NC00000E0012,bulón,,5/16,,1/2,G5,imperial,UNC,,77.67955776,82.3403312256,efepe,Bulon G5 UNC. 5 5/16 1/2
+107NC00000E0016,bulón,,5/16,,5/8,G5,imperial,UNC,,63.80820815999999,67.63670064959999,efepe,Bulon G5 UNC. 5 5/16 5/8
+107NC00000E0019,bulón,,5/16,,3/4,G5,imperial,UNC,,80.45382767999999,85.28105734079999,efepe,Bulon G5 UNC. 5 5/16 3/4
+107NC00000E0022,bulón,,5/16,,7/8,G5,imperial,UNC,,64.9611254929748,68.85879302255329,efepe,Bulon G5 UNC. 5 5/16 7/8
+107NC00000E0025,bulón,,5/16,,1,G5,imperial,UNC,,80.367131745,85.18915964969999,efepe,Bulon G5 UNC. 5 5/16 1
+107NC00000E0032,bulón,,5/16,,1 1/4,G5,imperial,UNC,,102.71734378800002,108.88038441528002,efepe,Bulon G5 UNC. 5 5/16 1 1/4
+107NC00000E0038,bulón,,5/16,,1 1/2,G5,imperial,UNC,,117.65748087468,124.7169297271608,efepe,Bulon G5 UNC. 5 5/16 1 1/2
+107NC00000E0044,bulón,,5/16,,1 3/4,G5,imperial,UNC,,125.15841317088,132.66791796113282,efepe,Bulon G5 UNC. 5 5/16 1 3/4
+107NC00000E0050,bulón,,5/16,,2,G5,imperial,UNC,,150.09008337443998,159.0954883769064,efepe,Bulon G5 UNC. 5 5/16 2
+107NC00000E0056,bulón,,5/16,,2 1/4,G5,imperial,UNC,,166.07404718055582,176.03849001138917,efepe,Bulon G5 UNC. 5 5/16 2 1/4
+107NC00000E0063,bulón,,5/16,,2 1/2,G5,imperial,UNC,,188.0808830441235,199.3657360267709,efepe,Bulon G5 UNC. 5 5/16 2 1/2
+107NC00000E0070,bulón,,5/16,,2 3/4,G5,imperial,UNC,,204.56960360201143,216.84377981813213,efepe,Bulon G5 UNC. 5 5/16 2 3/4
+107NC00000E0076,bulón,,5/16,,3,G5,imperial,UNC,,221.67408550853412,234.9745306390462,efepe,Bulon G5 UNC. 5 5/16 3
+107NC00000E0082,bulón,,5/16,,3 1/4,G5,imperial,UNC,,190.69444787944025,202.13611475220665,efepe,Bulon G5 UNC. 5 5/16 3 1/4
+107NC00000E0090,bulón,,5/16,,3 1/2,G5,imperial,UNC,,254.5146907690577,269.7855722152012,efepe,Bulon G5 UNC. 5 5/16 3 1/2
+107NC00000E0100,bulón,,5/16,,4,G5,imperial,UNC,,288.03947530584225,305.3218438241928,efepe,Bulon G5 UNC. 5 5/16 4
+107NC00000E0110,bulón,,5/16,,4 1/2,G5,imperial,UNC,,257.47034524250483,272.91856595705514,efepe,Bulon G5 UNC. 5 5/16 4 1/2
+107NC00000E0125,bulón,,5/16,,5,G5,imperial,UNC,,284.01650116142804,301.0574912311137,efepe,Bulon G5 UNC. 5 5/16 5
+107NC00000E0140,bulón,,5/16,,5 1/2,G5,imperial,UNC,,310.83632879085565,329.486508518307,efepe,Bulon G5 UNC. 5 5/16 5 1/2
+107NC00000E0155,bulón,,5/16,,6,G5,imperial,UNC,,337.3824847097788,357.6254337923655,efepe,Bulon G5 UNC. 5 5/16 6
+107NC00000E0175,bulón,,5/16,,7,G5,imperial,UNC,,443.50455485164224,470.1148281427408,efepe,Bulon G5 UNC. 5 5/16 7
+107NC00000E0200,bulón,,5/16,,8,G5,imperial,UNC,,503.2431796588803,533.4377704384132,efepe,Bulon G5 UNC. 5 5/16 8
+107NC00000F0012,bulón,,3/8,,1/2,G5,imperial,UNC,,67.73670289793844,71.80090507181475,efepe,Bulon G5 UNC. 5 3/8 1/2
+107NC00000F0016,bulón,,3/8,,5/8,G5,imperial,UNC,,97.58355730104,103.4385707391024,efepe,Bulon G5 UNC. 5 3/8 5/8
+107NC00000F0019,bulón,,3/8,,3/4,G5,imperial,UNC,,98.86892543160404,104.80106095750028,efepe,Bulon G5 UNC. 5 3/8 3/4
+107NC00000F0022,bulón,,3/8,,7/8,G5,imperial,UNC,,85.97297863617743,91.13135735434808,efepe,Bulon G5 UNC. 5 3/8 7/8
+107NC00000F0025,bulón,,3/8,,1,G5,imperial,UNC,,118.37185537908,125.4741667018248,efepe,Bulon G5 UNC. 5 3/8 1
+107NC00000F0032,bulón,,3/8,,1 1/4,G5,imperial,UNC,,136.58840524128,144.7837095557568,efepe,Bulon G5 UNC. 5 3/8 1 1/4
+107NC00000F0038,bulón,,3/8,,1 1/2,G5,imperial,UNC,,158.51970252636002,168.03088467794163,efepe,Bulon G5 UNC. 5 3/8 1 1/2
+107NC00000F0044,bulón,,3/8,,1 3/4,G5,imperial,UNC,,197.23880066483997,209.07312870473035,efepe,Bulon G5 UNC. 5 3/8 1 3/4
+107NC00000F0050,bulón,,3/8,,2,G5,imperial,UNC,,202.02510984432004,214.14661643497925,efepe,Bulon G5 UNC. 5 3/8 2
+107NC00000F0056,bulón,,3/8,,2 1/4,G5,imperial,UNC,,223.95607853027187,237.39344324208815,efepe,Bulon G5 UNC. 5 3/8 2 1/4
+107NC00000F0063,bulón,,3/8,,2 1/2,G5,imperial,UNC,,263.55564239999995,279.368980944,efepe,Bulon G5 UNC. 5 3/8 2 1/2
+107NC00000F0070,bulón,,3/8,,2 3/4,G5,imperial,UNC,,214.00660516596724,226.84700147592528,efepe,Bulon G5 UNC. 5 3/8 2 3/4
+107NC00000F0076,bulón,,3/8,,3,G5,imperial,UNC,,292.32204720048003,309.86137003250883,efepe,Bulon G5 UNC. 5 3/8 3
+107NC00000F0082,bulón,,3/8,,3 1/4,G5,imperial,UNC,,329.75527123104,349.5405875049024,efepe,Bulon G5 UNC. 5 3/8 3 1/4
+107NC00000F0090,bulón,,3/8,,3 1/2,G5,imperial,UNC,,356.47287769559995,377.861250357336,efepe,Bulon G5 UNC. 5 3/8 3 1/2
+107NC00000F0100,bulón,,3/8,,4,G5,imperial,UNC,,403.4072826346799,427.6117195927607,efepe,Bulon G5 UNC. 5 3/8 4
+107NC00000F0110,bulón,,3/8,,4 1/2,G5,imperial,UNC,,450.06659814836536,477.07059403726726,efepe,Bulon G5 UNC. 5 3/8 4 1/2
+107NC00000F0125,bulón,,3/8,,5,G5,imperial,UNC,,496.72591366205086,526.529468481774,efepe,Bulon G5 UNC. 5 3/8 5
+107NC00000F0140,bulón,,3/8,,5 1/2,G5,imperial,UNC,,434.97367019984193,461.0720904118325,efepe,Bulon G5 UNC. 5 3/8 5 1/2
+107NC00000F0155,bulón,,3/8,,6,G5,imperial,UNC,,590.0445446894216,625.4472173707869,efepe,Bulon G5 UNC. 5 3/8 6
+107NC00000F0175,bulón,,3/8,,7,G5,imperial,UNC,,708.5704543532196,751.0846816144127,efepe,Bulon G5 UNC. 5 3/8 7
+107NC00000F0200,bulón,,3/8,,8,G5,imperial,UNC,,805.6128879064262,853.9496611808117,efepe,Bulon G5 UNC. 5 3/8 8
+107NC00000G0025,bulón,,7/16,,1,G5,imperial,UNC,,178.09356394692003,188.77917778373524,efepe,Bulon G5 UNC. 5 7/16 1
+107NC00000G0032,bulón,,7/16,,1 1/4,G5,imperial,UNC,,203.45385885312004,215.66109038430724,efepe,Bulon G5 UNC. 5 7/16 1 1/4
+107NC00000G0038,bulón,,7/16,,1 1/2,G5,imperial,UNC,,221.95615851708,235.27352802810475,efepe,Bulon G5 UNC. 5 7/16 1 1/2
+107NC00000G0044,bulón,,7/16,,1 3/4,G5,imperial,UNC,,201.57370565044107,213.66812798946756,efepe,Bulon G5 UNC. 5 7/16 1 3/4
+107NC00000G0050,bulón,,7/16,,2,G5,imperial,UNC,,281.9781056090227,298.8967919455641,efepe,Bulon G5 UNC. 5 7/16 2
+107NC00000G0056,bulón,,7/16,,2 1/4,G5,imperial,UNC,,311.9890791549941,330.70842390429374,efepe,Bulon G5 UNC. 5 7/16 2 1/4
+107NC00000G0063,bulón,,7/16,,2 1/2,G5,imperial,UNC,,362.75937333432,384.5249357343792,efepe,Bulon G5 UNC. 5 7/16 2 1/2
+107NC00000G0070,bulón,,7/16,,2 3/4,G5,imperial,UNC,,394.5920057292879,418.26752607304513,efepe,Bulon G5 UNC. 5 7/16 2 3/4
+107NC00000G0076,bulón,,7/16,,3,G5,imperial,UNC,,426.4246381242554,452.0101164117107,efepe,Bulon G5 UNC. 5 7/16 3
+107NC00000G0082,bulón,,7/16,,3 1/4,G5,imperial,UNC,,459.58363020234697,487.15864801448777,efepe,Bulon G5 UNC. 5 7/16 3 1/4
+107NC00000G0090,bulón,,7/16,,3 1/2,G5,imperial,UNC,,490.0899029141908,519.4952970890423,efepe,Bulon G5 UNC. 5 7/16 3 1/2
+107NC00000G0100,bulón,,7/16,,4,G5,imperial,UNC,,548.49674447832,581.4065491470192,efepe,Bulon G5 UNC. 5 7/16 4
+107NC00000G0110,bulón,,7/16,,4 1/2,G5,imperial,UNC,,612.8712126925419,649.6434854540944,efepe,Bulon G5 UNC. 5 7/16 4 1/2
+107NC00000G0125,bulón,,7/16,,5,G5,imperial,UNC,,674.8809045233844,715.3737587947875,efepe,Bulon G5 UNC. 5 7/16 5
+107NC00000G0140,bulón,,7/16,,5 1/2,G5,imperial,UNC,,738.0729845459166,782.3573636186716,efepe,Bulon G5 UNC. 5 7/16 5 1/2
+107NC00000G0155,bulón,,7/16,,6,G5,imperial,UNC,,802.67119314384,850.8314647324704,efepe,Bulon G5 UNC. 5 7/16 6
+107NC00000G0175,bulón,,7/16,,7,G5,imperial,UNC,,988.05137703564,1047.3344596577783,efepe,Bulon G5 UNC. 5 7/16 7
+107NC00000G0200,bulón,,7/16,,8,G5,imperial,UNC,,1182.0236365382398,1252.945054730534,efepe,Bulon G5 UNC. 5 7/16 8
+107NC00000H0019,bulón,,1/2,,12 3/4,G5,imperial,UNC,,264.52663687200004,280.39823508432005,efepe,Bulon G5 UNC. 5 1/2 12 3/4
+107NC00000H0022,bulón,,1/2,,12 7/8,G5,imperial,UNC,,213.61878384,226.4359108704,efepe,Bulon G5 UNC. 5 1/2 12 7/8
+107NC00000H0025,bulón,,1/2,,12,G5,imperial,UNC,,269.89068776232,286.0841290280592,efepe,Bulon G5 UNC. 5 1/2 12 1
+107NC00000H0032,bulón,,12,,1 1/4,G5,imperial,UNC,,302.68047751428,320.8413061651368,efepe,Bulon G5 UNC. 5 1/2 12 1 1/4
+107NC00000H0038,bulón,,12,,1 1/2,G5,imperial,UNC,,335.89889196888004,356.05282548701285,efepe,Bulon G5 UNC. 5 1/2 12 1 1/2
+107NC00000H0044,bulón,,12,,1 3/4,G5,imperial,UNC,,375.8336090091216,398.3836255496689,efepe,Bulon G5 UNC. 5 1/2 12 1 3/4
+107NC00000H0050,bulón,,1/2,,12,G5,imperial,UNC,,416.26602371388,441.24198513671286,efepe,Bulon G5 UNC. 5 1/2 12 2
+107NC00000H0056,bulón,,12,,2 1/4,G5,imperial,UNC,,459.41424377964,486.9790984064184,efepe,Bulon G5 UNC. 5 1/2 12 2 1/4
+107NC00000H0063,bulón,,12,,2 1/2,G5,imperial,UNC,,496.4188431075599,526.2039736940135,efepe,Bulon G5 UNC. 5 1/2 12 2 1/2
+107NC00000H0070,bulón,,12,,2 3/4,G5,imperial,UNC,,572.49972782616,606.8497114957296,efepe,Bulon G5 UNC. 5 1/2 12 2 3/4
+107NC00000H0076,bulón,,1/2,,12,G5,imperial,UNC,,576.5002250508,611.090238553848,efepe,Bulon G5 UNC. 5 1/2 12 3
+107NC00000H0082,bulón,,12,,3 1/4,G5,imperial,UNC,,582.2588288526392,617.1943585837976,efepe,Bulon G5 UNC. 5 1/2 12 3 1/4
+107NC00000H0090,bulón,,12,,3 1/2,G5,imperial,UNC,,702.2301378252,744.363946094712,efepe,Bulon G5 UNC. 5 1/2 12 3 1/2
+107NC00000H0100,bulón,,1/2,,12,G5,imperial,UNC,,788.4689266809264,835.777062281782,efepe,Bulon G5 UNC. 5 1/2 12 4
+107NC00000H0110,bulón,,12,,4 1/2,G5,imperial,UNC,,824.1024282758401,873.5485739723905,efepe,Bulon G5 UNC. 5 1/2 12 4 1/2
+107NC00000H0125,bulón,,1/2,,12,G5,imperial,UNC,,1017.76935641868,1078.835517803801,efepe,Bulon G5 UNC. 5 1/2 12 5
+107NC00000H0140,bulón,,12,,5 1/2,G5,imperial,UNC,,1194.3173093047471,1265.976347863032,efepe,Bulon G5 UNC. 5 1/2 12 5 1/2
+107NC00000H0155,bulón,,1/2,,12,G5,imperial,UNC,,1205.79272597676,1278.1402895353656,efepe,Bulon G5 UNC. 5 1/2 12 6
+107NC00000H0175,bulón,,1/2,,12,G5,imperial,UNC,,1379.24285564508,1461.9974269837849,efepe,Bulon G5 UNC. 5 1/2 12 7
+107NC00000H0200,bulón,,1/2,,12,G5,imperial,UNC,,1219.8553862647148,1293.0467094405976,efepe,Bulon G5 UNC. 5 1/2 12 8
+107NC00000H0225,bulón,,1/2,,12,G5,imperial,UNC,,1750.3506356403002,1855.371673778718,efepe,Bulon G5 UNC. 5 1/2 12 9
+107NC00000H0250,bulón,,1/2,,12,G5,imperial,UNC,,1935.9418529141117,2052.098364088958,efepe,Bulon G5 UNC. 5 1/2 12 10
+107NC00000H1019,bulón,,1/2,,13 3/4,G5,imperial,UNC,,230.02859041680003,243.83030584180804,efepe,Bulon G5 UNC. 5 1/2 13 3/4
+107NC00000H1022,bulón,,1/2,,13 7/8,G5,imperial,UNC,,250.43940165138812,265.46576575047146,efepe,Bulon G5 UNC. 5 1/2 13 7/8
+107NC00000H1025,bulón,,1/2,,13,G5,imperial,UNC,,261.8343944265264,277.544458092118,efepe,Bulon G5 UNC. 5 1/2 13 1
+107NC00000H1032,bulón,,13,,1 1/4,G5,imperial,UNC,,293.64019843625266,311.2586103424278,efepe,Bulon G5 UNC. 5 1/2 13 1 1/4
+107NC00000H1038,bulón,,13,,1 1/2,G5,imperial,UNC,,328.89802182576,348.6319031353056,efepe,Bulon G5 UNC. 5 1/2 13 1 1/2
+107NC00000H1044,bulón,,13,,1 3/4,G5,imperial,UNC,,375.90386421528007,398.4580960681969,efepe,Bulon G5 UNC. 5 1/2 13 1 3/4
+107NC00000H1050,bulón,,1/2,,13,G5,imperial,UNC,,427.48170343296,453.1306056389376,efepe,Bulon G5 UNC. 5 1/2 13 2
+107NC00000H1056,bulón,,13,,2 1/4,G5,imperial,UNC,,483.20291477616,512.1950896627296,efepe,Bulon G5 UNC. 5 1/2 13 2 1/4
+107NC00000H1063,bulón,,13,,2 1/2,G5,imperial,UNC,,525.5974522183291,557.1332993514288,efepe,Bulon G5 UNC. 5 1/2 13 2 1/2
+107NC00000H1070,bulón,,13,,2 3/4,G5,imperial,UNC,,568.07060589888,602.1548422528128,efepe,Bulon G5 UNC. 5 1/2 13 2 3/4
+107NC00000H1076,bulón,,1/2,,13,G5,imperial,UNC,,563.92723377336,597.7628677997616,efepe,Bulon G5 UNC. 5 1/2 13 3
+107NC00000H1082,bulón,,13,,3 1/4,G5,imperial,UNC,,455.64819776582254,482.9870896317719,efepe,Bulon G5 UNC. 5 1/2 13 3 1/4
+107NC00000H1090,bulón,,13,,3 1/2,G5,imperial,UNC,,513.730825173334,544.554674683734,efepe,Bulon G5 UNC. 5 1/2 13 3 1/2
+107NC00000H1100,bulón,,1/2,,13,G5,imperial,UNC,,721.0257195415212,764.2872627140125,efepe,Bulon G5 UNC. 5 1/2 13 4
+107NC00000H1110,bulón,,13,,4 1/2,G5,imperial,UNC,,677.7741906151349,718.440642052043,efepe,Bulon G5 UNC. 5 1/2 13 4 1/2
+107NC00000H1125,bulón,,1/2,,13,G5,imperial,UNC,,930.1482138238244,985.9571066532538,efepe,Bulon G5 UNC. 5 1/2 13 5
+107NC00000H1140,bulón,,13,,5 1/2,G5,imperial,UNC,,1098.06505071324,1163.9489537560344,efepe,Bulon G5 UNC. 5 1/2 13 5 1/2
+107NC00000H1155,bulón,,1/2,,13,G5,imperial,UNC,,950.3619980501758,1007.3837179331864,efepe,Bulon G5 UNC. 5 1/2 13 6
+107NC00000H1175,bulón,,1/2,,13,G5,imperial,UNC,,1062.8291715482444,1126.5989218411391,efepe,Bulon G5 UNC. 5 1/2 13 7
+107NC00000H1200,bulón,,1/2,,13,G5,imperial,UNC,,1283.5249014280378,1360.53639551372,efepe,Bulon G5 UNC. 5 1/2 13 8
+107NC00000H1225,bulón,,1/2,,13,G5,imperial,UNC,,1908.6802223392244,2023.201035679578,efepe,Bulon G5 UNC. 5 1/2 13 9
+107NC00000H1250,bulón,,1/2,,13,G5,imperial,UNC,,1688.8474119491864,1790.1782566661377,efepe,Bulon G5 UNC. 5 1/2 13 10
+107NC00000I0025,bulón,,9/16,,1,G5,imperial,UNC,,268.11246674596754,284.1992147507256,efepe,Bulon G5 UNC. 5 9/16 1
+107NC00000I0032,bulón,,9/16,,1 1/4,G5,imperial,UNC,,378.68992478244,401.4113202693864,efepe,Bulon G5 UNC. 5 9/16 1 1/4
+107NC00000I0038,bulón,,9/16,,1 1/2,G5,imperial,UNC,,422.2392661324206,447.5736221003658,efepe,Bulon G5 UNC. 5 9/16 1 1/2
+107NC00000I0044,bulón,,9/16,,1 3/4,G5,imperial,UNC,,478.05941834448,506.7429834451488,efepe,Bulon G5 UNC. 5 9/16 1 3/4
+107NC00000I0050,bulón,,9/16,,2,G5,imperial,UNC,,495.7759060536,525.522460416816,efepe,Bulon G5 UNC. 5 9/16 2
+107NC00000I0056,bulón,,9/16,,2 1/4,G5,imperial,UNC,,543.0211371491782,575.6024053781289,efepe,Bulon G5 UNC. 5 9/16 2 1/4
+107NC00000I0063,bulón,,9/16,,2 1/2,G5,imperial,UNC,,629.79256307904,667.5801168637823,efepe,Bulon G5 UNC. 5 9/16 2 1/2
+107NC00000I0070,bulón,,9/16,,2 3/4,G5,imperial,UNC,,544.6716634693705,577.3519632775327,efepe,Bulon G5 UNC. 5 9/16 2 3/4
+107NC00000I0076,bulón,,9/16,,3,G5,imperial,UNC,,783.7312524000001,830.7551275440002,efepe,Bulon G5 UNC. 5 9/16 3
+107NC00000I0082,bulón,,9/16,,3 1/4,G5,imperial,UNC,,853.0880004000002,904.2732804240002,efepe,Bulon G5 UNC. 5 9/16 3 1/4
+107NC00000I0090,bulón,,9/16,,3 1/2,G5,imperial,UNC,,901.637724,955.73598744,efepe,Bulon G5 UNC. 5 9/16 3 1/2
+107NC00000I0100,bulón,,9/16,,4,G5,imperial,UNC,,1005.672846,1066.01321676,efepe,Bulon G5 UNC. 5 9/16 4
+107NC00000I0110,bulón,,9/16,,4 1/2,G5,imperial,UNC,,1137.4506672,1205.697707232,efepe,Bulon G5 UNC. 5 9/16 4 1/2
+107NC00000I0125,bulón,,9/16,,5,G5,imperial,UNC,,1192.9360656,1264.5122295360002,efepe,Bulon G5 UNC. 5 9/16 5
+107NC00000I0140,bulón,,9/16,,5 1/2,G5,imperial,UNC,,1054.2225696,1117.475923776,efepe,Bulon G5 UNC. 5 9/16 5 1/2
+107NC00000I0155,bulón,,9/16,,6,G5,imperial,UNC,,1387.13496,1470.3630576,efepe,Bulon G5 UNC. 5 9/16 6
+107NC00000I0175,bulón,,9/16,,7,G5,imperial,UNC,,1561.7788851888386,1655.4856183001689,efepe,Bulon G5 UNC. 5 9/16 7
+107NC00000I0200,bulón,,9/16,,8,G5,imperial,UNC,,2090.8312994779203,2216.2811774465954,efepe,Bulon G5 UNC. 5 9/16 8
+107NC00000J0025,bulón,,5/8,,1,G5,imperial,UNC,,426.1243918746,451.691855387076,efepe,Bulon G5 UNC. 5 5/8 1
+107NC00000J0032,bulón,,5/8,,1 1/4,G5,imperial,UNC,,452.3657265184125,479.5076701095173,efepe,Bulon G5 UNC. 5 5/8 1 1/4
+107NC00000J0038,bulón,,5/8,,1 1/2,G5,imperial,UNC,,530.7088193187601,562.5513484778858,efepe,Bulon G5 UNC. 5 5/8 1 1/2
+107NC00000J0044,bulón,,5/8,,1 3/4,G5,imperial,UNC,,586.71578046372,621.9187272915432,efepe,Bulon G5 UNC. 5 5/8 1 3/4
+107NC00000J0050,bulón,,5/8,,2,G5,imperial,UNC,,641.151117699,679.62018476094,efepe,Bulon G5 UNC. 5 5/8 2
+107NC00000J0056,bulón,,5/8,,2 1/4,G5,imperial,UNC,,708.6595083648001,751.1790788666881,efepe,Bulon G5 UNC. 5 5/8 2 1/4
+107NC00000J0063,bulón,,5/8,,2 1/2,G5,imperial,UNC,,762.2375961948,807.971851966488,efepe,Bulon G5 UNC. 5 5/8 2 1/2
+107NC00000J0070,bulón,,5/8,,2 3/4,G5,imperial,UNC,,830.96042351808,880.8180489291648,efepe,Bulon G5 UNC. 5 5/8 2 3/4
+107NC00000J0076,bulón,,5/8,,3,G5,imperial,UNC,,892.3438704662153,945.8845026941882,efepe,Bulon G5 UNC. 5 5/8 3
+107NC00000J0082,bulón,,5/8,,3 1/4,G5,imperial,UNC,,953.3518834880622,1010.552996497346,efepe,Bulon G5 UNC. 5 5/8 3 1/4
+107NC00000J0090,bulón,,5/8,,3 1/2,G5,imperial,UNC,,1098.27936306456,1164.1761248484338,efepe,Bulon G5 UNC. 5 5/8 3 1/2
+107NC00000J0100,bulón,,5/8,,4,G5,imperial,UNC,,1230.65295872988,1304.492136253673,efepe,Bulon G5 UNC. 5 5/8 4
+107NC00000J0110,bulón,,5/8,,4 1/2,G5,imperial,UNC,,1363.3286037770345,1445.1283200036564,efepe,Bulon G5 UNC. 5 5/8 4 1/2
+107NC00000J0125,bulón,,5/8,,5,G5,imperial,UNC,,1495.394712935763,1585.1183957119088,efepe,Bulon G5 UNC. 5 5/8 5
+107NC00000J0140,bulón,,5/8,,5 1/2,G5,imperial,UNC,,1628.1380841927423,1725.8263692443068,efepe,Bulon G5 UNC. 5 5/8 5 1/2
+107NC00000J0155,bulón,,5/8,,6,G5,imperial,UNC,,1760.2041933514713,1865.81644495256,efepe,Bulon G5 UNC. 5 5/8 6
+107NC00000J0175,bulón,,5/8,,7,G5,imperial,UNC,,2160.2685013056,2289.8846113839363,efepe,Bulon G5 UNC. 5 5/8 7
+107NC00000J0200,bulón,,5/8,,8,G5,imperial,UNC,,2560.38966122004,2714.0130408932428,efepe,Bulon G5 UNC. 5 5/8 8
+107NC00000J0225,bulón,,5/8,,9,G5,imperial,UNC,,2856.7920609247208,3028.199584580204,efepe,Bulon G5 UNC. 5 5/8 9
+107NC00000J0250,bulón,,5/8,,10,G5,imperial,UNC,,2522.070904385454,2673.3951586485814,efepe,Bulon G5 UNC. 5 5/8 10
+107NC00000J0275,bulón,,5/8,,11,G5,imperial,UNC,,3407.7945801508968,3612.2622549599514,efepe,Bulon G5 UNC. 5 5/8 11
+107NC00000J0300,bulón,,5/8,,12,G5,imperial,UNC,,3710.709653942085,3933.3522331786103,efepe,Bulon G5 UNC. 5 5/8 12
+107NC00000K0025,bulón,,3/4,,1,G5,imperial,UNC,,582.9139923004915,617.888831838521,efepe,Bulon G5 UNC. 5 3/4 1
+107NC00000K0032,bulón,,3/4,,1 1/4,G5,imperial,UNC,,806.1716282153998,854.5419259083237,efepe,Bulon G5 UNC. 5 3/4 1 1/4
+107NC00000K0038,bulón,,3/4,,1 1/2,G5,imperial,UNC,,841.8189159849601,892.3280509440577,efepe,Bulon G5 UNC. 5 3/4 1 1/2
+107NC00000K0044,bulón,,3/4,,1 3/4,G5,imperial,UNC,,934.97335135872,991.0717524402432,efepe,Bulon G5 UNC. 5 3/4 1 3/4
+107NC00000K0050,bulón,,3/4,,2,G5,imperial,UNC,,986.83694037816,1046.0471568008495,efepe,Bulon G5 UNC. 5 3/4 2
+107NC00000K0056,bulón,,3/4,,2 1/4,G5,imperial,UNC,,1084.99199728272,1150.0915171196832,efepe,Bulon G5 UNC. 5 3/4 2 1/4
+107NC00000K0063,bulón,,3/4,,2 1/2,G5,imperial,UNC,,1161.5729441544,1231.267320803664,efepe,Bulon G5 UNC. 5 3/4 2 1/2
+107NC00000K0070,bulón,,3/4,,2 3/4,G5,imperial,UNC,,1262.44262417568,1338.189181626221,efepe,Bulon G5 UNC. 5 3/4 2 3/4
+107NC00000K0076,bulón,,3/4,,3,G5,imperial,UNC,,1349.8106260638,1430.799263627628,efepe,Bulon G5 UNC. 5 3/4 3
+107NC00000K0082,bulón,,3/4,,3 1/4,G5,imperial,UNC,,1468.61110614552,1556.727772514251,efepe,Bulon G5 UNC. 5 3/4 3 1/4
+107NC00000K0090,bulón,,3/4,,3 1/2,G5,imperial,UNC,,1511.11638915732,1601.7833725067594,efepe,Bulon G5 UNC. 5 3/4 3 1/2
+107NC00000K0100,bulón,,3/4,,4,G5,imperial,UNC,,1702.9259435887202,1805.1015002040435,efepe,Bulon G5 UNC. 5 3/4 4
+107NC00000K0110,bulón,,3/4,,4 1/2,G5,imperial,UNC,,1861.08845886288,1972.7537663946528,efepe,Bulon G5 UNC. 5 3/4 4 1/2
+107NC00000K0125,bulón,,3/4,,5,G5,imperial,UNC,,2057.398572672,2180.84248703232,efepe,Bulon G5 UNC. 5 3/4 5
+107NC00000K0140,bulón,,3/4,,5 1/2,G5,imperial,UNC,,2228.952805451101,2362.6899737781678,efepe,Bulon G5 UNC. 5 3/4 5 1/2
+107NC00000K0155,bulón,,3/4,,6,G5,imperial,UNC,,2384.9392829394,2528.035639915764,efepe,Bulon G5 UNC. 5 3/4 6
+107NC00000K0175,bulón,,3/4,,7,G5,imperial,UNC,,3198.2546561988,3390.149935570728,efepe,Bulon G5 UNC. 5 3/4 7
+107NC00000K0200,bulón,,3/4,,8,G5,imperial,UNC,,3606.9124781507994,3823.3272268398464,efepe,Bulon G5 UNC. 5 3/4 8
+107NC00000K0225,bulón,,3/4,,9,G5,imperial,UNC,,4016.0774995272063,4257.042149498839,efepe,Bulon G5 UNC. 5 3/4 9
+107NC00000K0250,bulón,,3/4,,10,G5,imperial,UNC,,4424.880235600464,4690.373049736492,efepe,Bulon G5 UNC. 5 3/4 10
+107NC00000K0275,bulón,,3/4,,11,G5,imperial,UNC,,4963.308653140412,5261.107172328836,efepe,Bulon G5 UNC. 5 3/4 11
+107NC00000K0300,bulón,,3/4,,12,G5,imperial,UNC,,5267.628307785518,5583.686006252648,efepe,Bulon G5 UNC. 5 3/4 12
+107NC00000L0050,bulón,,7/8,,2,G5,imperial,UNC,,1587.26871132636,1682.5048340059416,efepe,Bulon G5 UNC. 5 7/8 2
+107NC00000L0056,bulón,,7/8,,2 1/4,G5,imperial,UNC,,1705.6296971278512,1807.9674789555224,efepe,Bulon G5 UNC. 5 7/8 2 1/4
+107NC00000L0063,bulón,,7/8,,2 1/2,G5,imperial,UNC,,1836.989866341068,1947.209258321532,efepe,Bulon G5 UNC. 5 7/8 2 1/2
+107NC00000L0070,bulón,,7/8,,2 3/4,G5,imperial,UNC,,1574.680028443427,1669.160830150033,efepe,Bulon G5 UNC. 5 7/8 2 3/4
+107NC00000L0076,bulón,,7/8,,3,G5,imperial,UNC,,2080.4014317136803,2205.2255176165013,efepe,Bulon G5 UNC. 5 7/8 3
+107NC00000L0082,bulón,,7/8,,3 1/4,G5,imperial,UNC,,2214.620878921015,2347.498131656276,efepe,Bulon G5 UNC. 5 7/8 3 1/4
+107NC00000L0090,bulón,,7/8,,3 1/2,G5,imperial,UNC,,2340.0279381803925,2480.429614471216,efepe,Bulon G5 UNC. 5 7/8 3 1/2
+107NC00000L0100,bulón,,7/8,,4,G5,imperial,UNC,,2600.332320643103,2756.352259881689,efepe,Bulon G5 UNC. 5 7/8 4
+107NC00000L0110,bulón,,7/8,,4 1/2,G5,imperial,UNC,,2860.6367031058103,3032.274905292159,efepe,Bulon G5 UNC. 5 7/8 4 1/2
+107NC00000L0125,bulón,,7/8,,5,G5,imperial,UNC,,3152.60612536764,3341.762492889698,efepe,Bulon G5 UNC. 5 7/8 5
+107NC00000L0140,bulón,,7/8,,5 1/2,G5,imperial,UNC,,2732.486942812673,2896.4361593814333,efepe,Bulon G5 UNC. 5 7/8 5 1/2
+107NC00000L0155,bulón,,7/8,,6,G5,imperial,UNC,,3678.611231664044,3899.3279055638864,efepe,Bulon G5 UNC. 5 7/8 6
+107NC00000L0175,bulón,,7/8,,7,G5,imperial,UNC,,4203.931435478291,4456.1673216069885,efepe,Bulon G5 UNC. 5 7/8 7
+107NC00000L0200,bulón,,7/8,,8,G5,imperial,UNC,,4729.936541774696,5013.732734281178,efepe,Bulon G5 UNC. 5 7/8 8
+107NC00000L0225,bulón,,7/8,,9,G5,imperial,UNC,,5311.896837917264,5630.6106481923,efepe,Bulon G5 UNC. 5 7/8 9
+107NC00000L0250,bulón,,7/8,,10,G5,imperial,UNC,,5843.197180462971,6193.78901129075,efepe,Bulon G5 UNC. 5 7/8 10
+107NC00000L0275,bulón,,7/8,,11,G5,imperial,UNC,,5430.5035325677445,5756.333744521809,efepe,Bulon G5 UNC. 5 7/8 11
+107NC00000L0300,bulón,,7/8,,12,G5,imperial,UNC,,7353.914023194479,7795.148864586148,efepe,Bulon G5 UNC. 5 7/8 12
+107NC00000M0050,bulón,,5,,5 1 2,G5,imperial,UNC,,2219.415936,2352.58089216,efepe,Bulon G5 UNC. 5 1 2
+107NC00000M0056,bulón,,1,,2 1/4,G5,imperial,UNC,,2954.5974648,3131.873312688,efepe,Bulon G5 UNC. 5 1 2 1/4
+107NC00000M0063,bulón,,1,,2 1/2,G5,imperial,UNC,,2982.340164,3161.28057384,efepe,Bulon G5 UNC. 5 1 2 1/2
+107NC00000M0070,bulón,,1,,2 3/4,G5,imperial,UNC,,2413.6148304,2558.431720224,efepe,Bulon G5 UNC. 5 1 2 3/4
+107NC00000M0076,bulón,,5,,5 1 3,G5,imperial,UNC,,3121.0536600000005,3308.3168796000004,efepe,Bulon G5 UNC. 5 1 3
+107NC00000M0082,bulón,,1,,3 1/4,G5,imperial,UNC,,3407.70926088888,3612.171816542213,efepe,Bulon G5 UNC. 5 1 3 1/4
+107NC00000M0090,bulón,,1,,3 1/2,G5,imperial,UNC,,3527.071726686579,3738.6960302877737,efepe,Bulon G5 UNC. 5 1 3 1/2
+107NC00000M0100,bulón,,5,,5 1 4,G5,imperial,UNC,,3703.425313020908,3925.6308318021615,efepe,Bulon G5 UNC. 5 1 4
+107NC00000M0110,bulón,,1,,4 1/2,G5,imperial,UNC,,4185.273998789079,4436.390438716424,efepe,Bulon G5 UNC. 5 1 4 1/2
+107NC00000M0125,bulón,,5,,5 1 5,G5,imperial,UNC,,4557.843699107723,4831.314321054187,efepe,Bulon G5 UNC. 5 1 5
+107NC00000M0140,bulón,,1,,5 1/2,G5,imperial,UNC,,4930.413399426366,5226.238203391948,efepe,Bulon G5 UNC. 5 1 5 1/2
+107NC00000M0155,bulón,,5,,5 1 6,G5,imperial,UNC,,5302.239447648566,5620.37381450748,efepe,Bulon G5 UNC. 5 1 6
+107NC00000M0175,bulón,,5,,5 1 7,G5,imperial,UNC,,6052.807508589899,6415.975959105293,efepe,Bulon G5 UNC. 5 1 7
+107NC00000M0200,bulón,,5,,5 1 8,G5,imperial,UNC,,5438.595496052613,5764.91122581577,efepe,Bulon G5 UNC. 5 1 8
+107NC00000M0225,bulón,,5,,5 1 9,G5,imperial,UNC,,7543.681231541634,7996.302105434132,efepe,Bulon G5 UNC. 5 1 9
+107NC00000M0250,bulón,,5,,5 1 10,G5,imperial,UNC,,6956.357929042134,7373.739404784662,efepe,Bulon G5 UNC. 5 1 10
+107NC00000M0275,bulón,,5,,5 1 11,G5,imperial,UNC,,9831.721568125133,10421.62486221264,efepe,Bulon G5 UNC. 5 1 11
+107NC00000M0300,bulón,,5,,5 1 12,G5,imperial,UNC,,10642.68948978209,11281.250859169017,efepe,Bulon G5 UNC. 5 1 12
+107NC00000N0076,bulón,,5,,1 1/8,G5,imperial,UNC,,4989.052144998001,5288.395273697881,efepe,Bulon G5 UNC. 5 1 1/8 3
+107NC00000N0100,bulón,,5,,1 1/8,G5,imperial,UNC,,6160.094109748799,6529.699756333727,efepe,Bulon G5 UNC. 5 1 1/8 4
+107NC00000N0125,bulón,,5,,1 1/8,G5,imperial,UNC,,7335.2376568224,7775.351916231744,efepe,Bulon G5 UNC. 5 1 1/8 5
+107NC00000N0155,bulón,,5,,1 1/8,G5,imperial,UNC,,8506.1991983904,9016.571150293825,efepe,Bulon G5 UNC. 5 1 1/8 6
+107NC00000N0175,bulón,,5,,1 1/8,G5,imperial,UNC,,9685.6051741524,10266.741484601544,efepe,Bulon G5 UNC. 5 1 1/8 7
+107NC00000N0200,bulón,,5,,1 1/8,G5,imperial,UNC,,10857.612217096796,11509.068950122604,efepe,Bulon G5 UNC. 5 1 1/8 8
+107NC00000N0225,bulón,,5,,1 1/8,G5,imperial,UNC,,12029.699683224,12751.48166421744,efepe,Bulon G5 UNC. 5 1 1/8 9
+107NC00000N0250,bulón,,5,,1 1/8,G5,imperial,UNC,,13201.7067261684,13993.809129738504,efepe,Bulon G5 UNC. 5 1 1/8 10
+107NC00000N0275,bulón,,5,,1 1/8,G5,imperial,UNC,,14373.63334593,15236.0513466858,efepe,Bulon G5 UNC. 5 1 1/8 11
+107NC00000N0300,bulón,,5,,1 1/8,G5,imperial,UNC,,15545.6403888744,16478.378812206865,efepe,Bulon G5 UNC. 5 1 1/8 12
+107NC00000O0076,bulón,,5,,1 1/4,G5,imperial,UNC,,5806.955914074001,6155.373268918442,efepe,Bulon G5 UNC. 5 1 1/4 3
+107NC00000O0100,bulón,,5,,1 1/4,G5,imperial,UNC,,7104.5035453692,7530.773758091352,efepe,Bulon G5 UNC. 5 1 1/4 4
+107NC00000O0125,bulón,,5,,1 1/4,G5,imperial,UNC,,8405.750643073201,8910.095681657593,efepe,Bulon G5 UNC. 5 1 1/4 5
+107NC00000O0155,bulón,,5,,1 1/4,G5,imperial,UNC,,10793.756209953604,11441.38158255082,efepe,Bulon G5 UNC. 5 1 1/4 6
+107NC00000O0175,bulón,,5,,1 1/4,G5,imperial,UNC,,11018.1368899656,11679.225103363537,efepe,Bulon G5 UNC. 5 1 1/4 7
+107NC00000O0200,bulón,,5,,1 1/4,G5,imperial,UNC,,12320.590335411602,13059.825755536298,efepe,Bulon G5 UNC. 5 1 1/4 8
+107NC00000O0225,bulón,,5,,1 1/4,G5,imperial,UNC,,15148.189019476802,16057.08036064541,efepe,Bulon G5 UNC. 5 1 1/4 9
+107NC00000O0250,bulón,,5,,1 1/4,G5,imperial,UNC,,16596.2888489736,17592.066179912017,efepe,Bulon G5 UNC. 5 1 1/4 10
+107NC00000O0275,bulón,,5,,1 1/4,G5,imperial,UNC,,18043.9061393736,19126.54050773601,efepe,Bulon G5 UNC. 5 1 1/4 11
+107NC00000O0300,bulón,,5,,1 1/4,G5,imperial,UNC,,19492.810200698405,20662.37881274031,efepe,Bulon G5 UNC. 5 1 1/4 12
+107NC00000P0076,bulón,,5,,1 1/2,G5,imperial,UNC,,10153.9093675968,10763.143929652608,efepe,Bulon G5 UNC. 5 1 1/2 3
+107NC00000P0100,bulón,,5,,1 1/2,G5,imperial,UNC,,12127.815966240005,12855.484924214405,efepe,Bulon G5 UNC. 5 1 1/2 4
+107NC00000P0125,bulón,,5,,1 1/2,G5,imperial,UNC,,14214.6367135344,15067.514916346465,efepe,Bulon G5 UNC. 5 1 1/2 5
+107NC00000P0155,bulón,,5,,1 1/2,G5,imperial,UNC,,14656.4816798376,15535.870580627858,efepe,Bulon G5 UNC. 5 1 1/2 6
+107NC00000P0175,bulón,,5,,1 1/2,G5,imperial,UNC,,18404.443267866,19508.70986393796,efepe,Bulon G5 UNC. 5 1 1/2 7
+107NC00000P0200,bulón,,5,,1 1/2,G5,imperial,UNC,,20493.1137483648,21722.70057326669,efepe,Bulon G5 UNC. 5 1 1/2 8
+107NC00000P0225,bulón,,5,,1 1/2,G5,imperial,UNC,,22581.7038056808,23936.60603402165,efepe,Bulon G5 UNC. 5 1 1/2 9
+107NC00000P0250,bulón,,5,,1 1/2,G5,imperial,UNC,,24670.4547093624,26150.681991924142,efepe,Bulon G5 UNC. 5 1 1/2 10
+107NC00000P0275,bulón,,5,,1 1/2,G5,imperial,UNC,,26755.264877086804,28360.58076971201,efepe,Bulon G5 UNC. 5 1 1/2 11
+107NC00000P0300,bulón,,5,,1 1/2,G5,imperial,UNC,,28847.7152471772,30578.57816200783,efepe,Bulon G5 UNC. 5 1 1/2 12
+108NF00000D0012,bulón,,1/4,,1/2,G5,imperial,UNF,,45.89771956866573,48.65158274278567,efepe,Bulon G5 UNF. 5 1/4 1/2
+108NF00000D0016,bulón,,1/4,,5/8,G5,imperial,UNF,,50.76954455081461,53.81571722386349,efepe,Bulon G5 UNF. 5 1/4 5/8
+108NF00000D0019,bulón,,1/4,,3/4,G5,imperial,UNF,,44.649848608325854,47.328839524825405,efepe,Bulon G5 UNF. 5 1/4 3/4
+108NF00000D0022,bulón,,1/4,,7/8,G5,imperial,UNF,,60.855076970000006,64.5063815882,efepe,Bulon G5 UNF. 5 1/4 7/8
+108NF00000D0025,bulón,,1/4,,1,G5,imperial,UNF,,53.94905138126968,57.18599446414586,efepe,Bulon G5 UNF. 5 1/4 1
+108NF00000D0032,bulón,,1/4,,1 1/4,G5,imperial,UNF,,64.479030991809,68.34777285131754,efepe,Bulon G5 UNF. 5 1/4 1 1/4
+108NF00000D0038,bulón,,1/4,,1 1/2,G5,imperial,UNF,,75.35089305723595,79.8719466406701,efepe,Bulon G5 UNF. 5 1/4 1 1/2
+108NF00000D0044,bulón,,1/4,,1 3/4,G5,imperial,UNF,,85.8808726677753,91.0337250278418,efepe,Bulon G5 UNF. 5 1/4 1 3/4
+108NF00000D0050,bulón,,1/4,,2,G5,imperial,UNF,,96.75273473320227,102.55789881719444,efepe,Bulon G5 UNF. 5 1/4 2
+108NF00000D0056,bulón,,1/4,,2 1/4,G5,imperial,UNF,,107.35109083471912,113.79215628480227,efepe,Bulon G5 UNF. 5 1/4 2 1/4
+108NF00000D0063,bulón,,1/4,,2 1/2,G5,imperial,UNF,,118.15457640916856,125.24385099371868,efepe,Bulon G5 UNF. 5 1/4 2 1/2
+108NF00000D0070,bulón,,1/4,,2 3/4,G5,imperial,UNF,,160.85569502463483,170.50703672611294,efepe,Bulon G5 UNF. 5 1/4 2 3/4
+108NF00000D0076,bulón,,1/4,,3,G5,imperial,UNF,,139.48804159415732,147.85732408980675,efepe,Bulon G5 UNF. 5 1/4 3
+108NF00000D0082,bulón,,1/4,,3 1/4,G5,imperial,UNF,,187.60799711959268,198.86447694676824,efepe,Bulon G5 UNF. 5 1/4 3 1/4
+108NF00000D0090,bulón,,1/4,,3 1/2,G5,imperial,UNF,,160.95825976110115,170.61575534676723,efepe,Bulon G5 UNF. 5 1/4 3 1/2
+108NF00000D0100,bulón,,1/4,,4,G5,imperial,UNF,,227.9501267963343,241.6271344041144,efepe,Bulon G5 UNF. 5 1/4 4
+108NF00000D0110,bulón,,1/4,,4 1/2,G5,imperial,UNF,,203.76194311303377,215.9876596998158,efepe,Bulon G5 UNF. 5 1/4 4 1/2
+108NF00000D0125,bulón,,1/4,,5,G5,imperial,UNF,,225.1637847890001,238.6736118763401,efepe,Bulon G5 UNF. 5 1/4 5
+108NF00000D0140,bulón,,1/4,,5 1/2,G5,imperial,UNF,,308.2070330812079,326.6994550660804,efepe,Bulon G5 UNF. 5 1/4 5 1/2
+108NF00000D0155,bulón,,1/4,,6,G5,imperial,UNF,,267.762338668,283.82807898808,efepe,Bulon G5 UNF. 5 1/4 6
+108NF00000E0012,bulón,,5/16,,1/2,G5,imperial,UNF,,78.527505,83.23915530000001,efepe,Bulon G5 UNF. 5 5/16 1/2
+108NF00000E0016,bulón,,5/16,,5/8,G5,imperial,UNF,,82.26691000000001,87.20292460000002,efepe,Bulon G5 UNF. 5 5/16 5/8
+108NF00000E0019,bulón,,5/16,,3/4,G5,imperial,UNF,,86.006315,91.1666939,efepe,Bulon G5 UNF. 5 5/16 3/4
+108NF00000E0022,bulón,,5/16,,7/8,G5,imperial,UNF,,77.779624,82.44640144,efepe,Bulon G5 UNF. 5 5/16 7/8
+108NF00000E0025,bulón,,5/16,,1,G5,imperial,UNF,,104.70333999999998,110.98554039999998,efepe,Bulon G5 UNF. 5 5/16 1
+108NF00000E0032,bulón,,5/16,,1 1/4,G5,imperial,UNF,,101.711816,107.81452496,efepe,Bulon G5 UNF. 5 5/16 1 1/4
+108NF00000E0038,bulón,,5/16,,1 1/2,G5,imperial,UNF,,141.58434363400002,150.07940425204004,efepe,Bulon G5 UNF. 5 5/16 1 1/2
+108NF00000E0044,bulón,,5/16,,1 3/4,G5,imperial,UNF,,128.91038998739393,136.64501338663757,efepe,Bulon G5 UNF. 5 5/16 1 3/4
+108NF00000E0050,bulón,,5/16,,2,G5,imperial,UNF,,180.61182054325928,191.44852977585484,efepe,Bulon G5 UNF. 5 5/16 2
+108NF00000E0056,bulón,,5/16,,2 1/4,G5,imperial,UNF,,159.8769769828798,169.46959560185255,efepe,Bulon G5 UNF. 5 5/16 2 1/4
+108NF00000E0063,bulón,,5/16,,2 1/2,G5,imperial,UNF,,175.51989206307374,186.05108558685816,efepe,Bulon G5 UNF. 5 5/16 2 1/2
+108NF00000E0070,bulón,,5/16,,2 3/4,G5,imperial,UNF,,238.6342657641827,252.9523217100337,efepe,Bulon G5 UNF. 5 5/16 2 3/4
+108NF00000E0076,bulón,,5/16,,3,G5,imperial,UNF,,206.869570856442,219.2817451078285,efepe,Bulon G5 UNF. 5 5/16 3
+108NF00000E0082,bulón,,5/16,,3 1/4,G5,imperial,UNF,,277.930528744,294.60636046864,efepe,Bulon G5 UNF. 5 5/16 3 1/4
+108NF00000E0090,bulón,,5/16,,3 1/2,G5,imperial,UNF,,229.388294315688,243.15159197462924,efepe,Bulon G5 UNF. 5 5/16 3 1/2
+108NF00000E0100,bulón,,5/16,,4,G5,imperial,UNF,,368.1875415185182,390.2787940096293,efepe,Bulon G5 UNF. 5 5/16 4
+108NF00000E0110,bulón,,5/16,,4 1/2,G5,imperial,UNF,,329.1124361621111,348.8591823318378,efepe,Bulon G5 UNF. 5 5/16 4 1/2
+108NF00000E0125,bulón,,5/16,,5,G5,imperial,UNF,,453.80644962935656,481.03483660711794,efepe,Bulon G5 UNF. 5 5/16 5
+108NF00000F0019,bulón,,3/8,,3/4,G5,imperial,UNF,,128.41191558100002,136.11663051586,efepe,Bulon G5 UNF. 5 3/8 3/4
+108NF00000F0022,bulón,,3/8,,7/8,G5,imperial,UNF,,139.57816910978264,147.9528592563696,efepe,Bulon G5 UNF. 5 3/8 7/8
+108NF00000F0025,bulón,,3/8,,1,G5,imperial,UNF,,149.5762,158.550772,efepe,Bulon G5 UNF. 5 3/8 1
+108NF00000F0032,bulón,,3/8,,1 1/4,G5,imperial,UNF,,175.86346926899998,186.41527742514,efepe,Bulon G5 UNF. 5 3/8 1 1/4
+108NF00000F0038,bulón,,3/8,,1 1/2,G5,imperial,UNF,,209.988531418,222.58784330308,efepe,Bulon G5 UNF. 5 3/8 1 1/2
+108NF00000F0044,bulón,,3/8,,1 3/4,G5,imperial,UNF,,191.10762358917285,202.5740810045232,efepe,Bulon G5 UNF. 5 3/8 1 3/4
+108NF00000F0050,bulón,,3/8,,2,G5,imperial,UNF,,214.15874932106277,227.0082742803265,efepe,Bulon G5 UNF. 5 3/8 2
+108NF00000F0056,bulón,,3/8,,2 1/4,G5,imperial,UNF,,237.40689322160125,251.6513068148973,efepe,Bulon G5 UNF. 5 3/8 2 1/4
+108NF00000F0063,bulón,,3/8,,2 1/2,G5,imperial,UNF,,260.3266735077254,275.9462739181889,efepe,Bulon G5 UNF. 5 3/8 2 1/2
+108NF00000F0070,bulón,,3/8,,2 3/4,G5,imperial,UNF,,354.4685217603299,375.7366330659497,efepe,Bulon G5 UNF. 5 3/8 2 3/4
+108NF00000F0076,bulón,,3/8,,3,G5,imperial,UNF,,306.82296130880246,325.2323389873306,efepe,Bulon G5 UNF. 5 3/8 3
+108NF00000F0082,bulón,,3/8,,3 1/4,G5,imperial,UNF,,412.1784269936584,436.9091326132779,efepe,Bulon G5 UNF. 5 3/8 3 1/4
+108NF00000F0090,bulón,,3/8,,3 1/2,G5,imperial,UNF,,352.99088549546514,374.170338625193,efepe,Bulon G5 UNF. 5 3/8 3 1/2
+108NF00000F0100,bulón,,3/8,,4,G5,imperial,UNF,,399.1588096821279,423.1083382630556,efepe,Bulon G5 UNF. 5 3/8 4
+108NF00000F0110,bulón,,3/8,,4 1/2,G5,imperial,UNF,,445.32673386879054,472.046337900918,efepe,Bulon G5 UNF. 5 3/8 4 1/2
+108NF00000F0125,bulón,,3/8,,5,G5,imperial,UNF,,537.4287382475516,569.6744625424046,efepe,Bulon G5 UNF. 5 3/8 5
+108NF00000G0025,bulón,,7/16,,1,G5,imperial,UNF,,214.2036278388889,227.05584550922225,efepe,Bulon G5 UNF. 5 7/16 1
+108NF00000G0032,bulón,,7/16,,1 1/4,G5,imperial,UNF,,244.575784025,259.2503310665,efepe,Bulon G5 UNF. 5 7/16 1 1/4
+108NF00000G0038,bulón,,7/16,,1 1/2,G5,imperial,UNF,,283.7398801597222,300.7642729693055,efepe,Bulon G5 UNF. 5 7/16 1 1/2
+108NF00000G0044,bulón,,7/16,,1 3/4,G5,imperial,UNF,,322.1047090263888,341.4309915679721,efepe,Bulon G5 UNF. 5 7/16 1 3/4
+108NF00000G0050,bulón,,7/16,,2,G5,imperial,UNF,,360.4695378930557,382.0977101666391,efepe,Bulon G5 UNF. 5 7/16 2
+108NF00000G0056,bulón,,7/16,,2 1/4,G5,imperial,UNF,,319.0674934077779,338.21154301224453,efepe,Bulon G5 UNF. 5 7/16 2 1/4
+108NF00000G0063,bulón,,7/16,,2 1/2,G5,imperial,UNF,,437.1991956263889,463.4311473639723,efepe,Bulon G5 UNF. 5 7/16 2 1/2
+108NF00000G0070,bulón,,7/16,,2 3/4,G5,imperial,UNF,,475.5640244930557,504.0978659626391,efepe,Bulon G5 UNF. 5 7/16 2 3/4
+108NF00000G0076,bulón,,7/16,,3,G5,imperial,UNF,,490.307044195,519.7254668467,efepe,Bulon G5 UNF. 5 7/16 3
+108NF00000G0082,bulón,,7/16,,3 1/4,G5,imperial,UNF,,528.4335639613297,560.1395777990094,efepe,Bulon G5 UNF. 5 7/16 3 1/4
+108NF00000G0090,bulón,,7/16,,3 1/2,G5,imperial,UNF,,450.8079697170825,477.8564479001074,efepe,Bulon G5 UNF. 5 7/16 3 1/2
+108NF00000G0100,bulón,,7/16,,4,G5,imperial,UNF,,666.170513464,706.14074427184,efepe,Bulon G5 UNF. 5 7/16 4
+108NF00000G0110,bulón,,7/16,,4 1/2,G5,imperial,UNF,,837.4002696941927,887.6442858758443,efepe,Bulon G5 UNF. 5 7/16 4 1/2
+108NF00000G0125,bulón,,7/16,,5,G5,imperial,UNF,,737.7020682390685,781.9641923334126,efepe,Bulon G5 UNF. 5 7/16 5
+108NF00000G0140,bulón,,7/16,,5 1/2,G5,imperial,UNF,,1008.4704641247532,1068.9786919722385,efepe,Bulon G5 UNF. 5 7/16 5 1/2
+108NF00000H0019,bulón,,1/2,,3/4,G5,imperial,UNF,,293.0981194643334,310.6840066321934,efepe,Bulon G5 UNF. 5 1/2 3/4
+108NF00000H0022,bulón,,1/2,,7/8,G5,imperial,UNF,,319.1051926666667,338.2515042266667,efepe,Bulon G5 UNF. 5 1/2 7/8
+108NF00000H0025,bulón,,1/2,,1,G5,imperial,UNF,,333.6244789330001,353.6419476689801,efepe,Bulon G5 UNF. 5 1/2 1
+108NF00000H0032,bulón,,1/2,,1 1/4,G5,imperial,UNF,,374.1508384016667,396.5998887057667,efepe,Bulon G5 UNF. 5 1/2 1 1/4
+108NF00000H0038,bulón,,1/2,,1 1/2,G5,imperial,UNF,,354.654144772,375.93339345832,efepe,Bulon G5 UNF. 5 1/2 1 1/2
+108NF00000H0044,bulón,,1/2,,1 3/4,G5,imperial,UNF,,396.81865694291497,420.6277763594898,efepe,Bulon G5 UNF. 5 1/2 1 3/4
+108NF00000H0050,bulón,,1/2,,2,G5,imperial,UNF,,439.2349985860001,465.5890985011601,efepe,Bulon G5 UNF. 5 1/2 2
+108NF00000H0056,bulón,,1/2,,2 1/4,G5,imperial,UNF,,385.12340582625,408.230810175825,efepe,Bulon G5 UNF. 5 1/2 2 1/4
+108NF00000H0063,bulón,,1/2,,2 1/2,G5,imperial,UNF,,619.181150234,656.3320192480401,efepe,Bulon G5 UNF. 5 1/2 2 1/2
+108NF00000H0070,bulón,,1/2,,2 3/4,G5,imperial,UNF,,534.852523021355,566.9436744026362,efepe,Bulon G5 UNF. 5 1/2 2 3/4
+108NF00000H0076,bulón,,1/2,,3,G5,imperial,UNF,,644.6016254240002,683.2777229494402,efepe,Bulon G5 UNF. 5 1/2 3
+108NF00000H0082,bulón,,1/2,,3 1/4,G5,imperial,UNF,,651.04048738717,690.1029166304002,efepe,Bulon G5 UNF. 5 1/2 3 1/4
+108NF00000H0090,bulón,,1/2,,3 1/2,G5,imperial,UNF,,734.0302638013586,778.0720796294402,efepe,Bulon G5 UNF. 5 1/2 3 1/2
+108NF00000H0100,bulón,,1/2,,4,G5,imperial,UNF,,878.0078067140001,930.68827511684,efepe,Bulon G5 UNF. 5 1/2 4
+108NF00000H0110,bulón,,1/2,,4 1/2,G5,imperial,UNF,,1029.4283905007644,1091.1940939308104,efepe,Bulon G5 UNF. 5 1/2 4 1/2
+108NF00000H0125,bulón,,1/2,,5,G5,imperial,UNF,,904.1557421970692,958.4050867288936,efepe,Bulon G5 UNF. 5 1/2 5
+108NF00000H0140,bulón,,1/2,,5 1/2,G5,imperial,UNF,,1047.435875665842,1110.2820282057924,efepe,Bulon G5 UNF. 5 1/2 5 1/2
+108NF00000H0155,bulón,,1/2,,6,G5,imperial,UNF,,1133.1788255402555,1201.169555072671,efepe,Bulon G5 UNF. 5 1/2 6
+108NF00000H0175,bulón,,1/2,,7,G5,imperial,UNF,,1584.1009989297995,1679.1470588655875,efepe,Bulon G5 UNF. 5 1/2 7
+108NF00000H0200,bulón,,1/2,,8,G5,imperial,UNF,,1401.0398009479252,1485.1021890048007,efepe,Bulon G5 UNF. 5 1/2 8
+108NF00000I0025,bulón,,9/16,,1,G5,imperial,UNF,,345.487367355,366.2166093963,efepe,Bulon G5 UNF. 5 9/16 1
+108NF00000I0032,bulón,,9/16,,1 1/4,G5,imperial,UNF,,312.30496484067805,331.0432627311187,efepe,Bulon G5 UNF. 5 9/16 1 1/4
+108NF00000I0038,bulón,,9/16,,1 1/2,G5,imperial,UNF,,435.2750447466951,461.3915474314968,efepe,Bulon G5 UNF. 5 9/16 1 1/2
+108NF00000I0044,bulón,,9/16,,1 3/4,G5,imperial,UNF,,533.1366933029999,565.1248949011799,efepe,Bulon G5 UNF. 5 9/16 1 3/4
+108NF00000I0050,bulón,,9/16,,2,G5,imperial,UNF,,540.3776771450001,572.8003377737001,efepe,Bulon G5 UNF. 5 9/16 2
+108NF00000I0056,bulón,,9/16,,2 1/4,G5,imperial,UNF,,591.8732579585765,627.385653436091,efepe,Bulon G5 UNF. 5 9/16 2 1/4
+108NF00000I0063,bulón,,9/16,,2 1/2,G5,imperial,UNF,,647.5288316580001,686.3805615574801,efepe,Bulon G5 UNF. 5 9/16 2 1/2
+108NF00000I0070,bulón,,9/16,,2 3/4,G5,imperial,UNF,,829.4778086240002,879.2464771414402,efepe,Bulon G5 UNF. 5 9/16 2 3/4
+108NF00000I0076,bulón,,9/16,,3,G5,imperial,UNF,,852.433268038,903.57926412028,efepe,Bulon G5 UNF. 5 9/16 3
+108NF00000I0090,bulón,,9/16,,3 1/2,G5,imperial,UNF,,937.964093414494,994.2419390193636,efepe,Bulon G5 UNF. 5 9/16 3 1/2
+108NF00000I0100,bulón,,9/16,,4,G5,imperial,UNF,,1125.5107969730002,1193.0414447913802,efepe,Bulon G5 UNF. 5 9/16 4
+108NF00000I0110,bulón,,9/16,,4 1/2,G5,imperial,UNF,,1141.302304288,1209.78044254528,efepe,Bulon G5 UNF. 5 9/16 4 1/2
+108NF00000I0125,bulón,,9/16,,5,G5,imperial,UNF,,1296.5982981759998,1374.3941960665595,efepe,Bulon G5 UNF. 5 9/16 5
+108NF00000I0140,bulón,,9/16,,5 1/2,G5,imperial,UNF,,1131.7914985445177,1199.6989884571883,efepe,Bulon G5 UNF. 5 9/16 5 1/2
+108NF00000I0155,bulón,,9/16,,6,G5,imperial,UNF,,1225.7136531732117,1299.2564723636042,efepe,Bulon G5 UNF. 5 9/16 6
+108NF00000J0025,bulón,,5/8,,1,G5,imperial,UNF,,548.6200736459999,581.5372780647599,efepe,Bulon G5 UNF. 5 5/8 1
+108NF00000J0032,bulón,,5/8,,1 1/4,G5,imperial,UNF,,489.9304843722418,519.3263134345764,efepe,Bulon G5 UNF. 5 5/8 1 1/4
+108NF00000J0038,bulón,,5/8,,1 1/2,G5,imperial,UNF,,676.6468305120002,717.2456403427202,efepe,Bulon G5 UNF. 5 5/8 1 1/2
+108NF00000J0044,bulón,,5/8,,1 3/4,G5,imperial,UNF,,632.199514801,670.1314856890599,efepe,Bulon G5 UNF. 5 5/8 1 3/4
+108NF00000J0050,bulón,,5/8,,2,G5,imperial,UNF,,698.3697820379999,740.2719689602799,efepe,Bulon G5 UNF. 5 5/8 2
+108NF00000J0056,bulón,,5/8,,2 1/4,G5,imperial,UNF,,611.0566904479351,647.7200918748113,efepe,Bulon G5 UNF. 5 5/8 2 1/4
+108NF00000J0063,bulón,,5/8,,2 1/2,G5,imperial,UNF,,938.1695979970002,994.4597738768202,efepe,Bulon G5 UNF. 5 5/8 2 1/2
+108NF00000J0070,bulón,,5/8,,2 3/4,G5,imperial,UNF,,1012.9180700325336,1073.6931542344855,efepe,Bulon G5 UNF. 5 5/8 2 3/4
+108NF00000J0076,bulón,,5/8,,3,G5,imperial,UNF,,1137.6047806240003,1205.8610674614404,efepe,Bulon G5 UNF. 5 5/8 3
+108NF00000J0082,bulón,,5/8,,3 1/4,G5,imperial,UNF,,972.30468761446,1030.6429688713276,efepe,Bulon G5 UNF. 5 5/8 3 1/4
+108NF00000J0090,bulón,,5/8,,3 1/2,G5,imperial,UNF,,1034.8446320790283,1096.9353100037702,efepe,Bulon G5 UNF. 5 5/8 3 1/2
+108NF00000J0100,bulón,,5/8,,4,G5,imperial,UNF,,1449.5067995735717,1536.4772075479857,efepe,Bulon G5 UNF. 5 5/8 4
+108NF00000J0110,bulón,,5/8,,4 1/2,G5,imperial,UNF,,1706.6227820651527,1809.020148989062,efepe,Bulon G5 UNF. 5 5/8 4 1/2
+108NF00000J0125,bulón,,5/8,,5,G5,imperial,UNF,,1871.943915946278,1984.2605509030543,efepe,Bulon G5 UNF. 5 5/8 5
+108NF00000J0140,bulón,,5/8,,5 1/2,G5,imperial,UNF,,1728.746376406,1832.47115899036,efepe,Bulon G5 UNF. 5 5/8 5 1/2
+108NF00000J0155,bulón,,5/8,,6,G5,imperial,UNF,,1920.555416476,2035.78874146456,efepe,Bulon G5 UNF. 5 5/8 6
+108NF00000J0175,bulón,,5/8,,7,G5,imperial,UNF,,2545.89910615,2698.653052519,efepe,Bulon G5 UNF. 5 5/8 7
+108NF00000J0200,bulón,,5/8,,8,G5,imperial,UNF,,2070.81820507477,2195.067297379256,efepe,Bulon G5 UNF. 5 5/8 8
+108NF00000J0225,bulón,,5/8,,9,G5,imperial,UNF,,2310.545577291943,2449.17831192946,efepe,Bulon G5 UNF. 5 5/8 9
+108NF00000J0250,bulón,,5/8,,10,G5,imperial,UNF,,3427.9125635000005,3633.58731731,efepe,Bulon G5 UNF. 5 5/8 10
+108NF00000K0038,bulón,,3/4,,1 1/2,G5,imperial,UNF,,907.742059512,962.20658308272,efepe,Bulon G5 UNF. 5 3/4 1 1/2
+108NF00000K0044,bulón,,3/4,,1 3/4,G5,imperial,UNF,,987.315850031,1046.5548010328598,efepe,Bulon G5 UNF. 5 3/4 1 3/4
+108NF00000K0050,bulón,,3/4,,2,G5,imperial,UNF,,1177.1990965260002,1247.83104231756,efepe,Bulon G5 UNF. 5 3/4 2
+108NF00000K0056,bulón,,3/4,,2 1/4,G5,imperial,UNF,,1025.1165013815869,1086.623491464482,efepe,Bulon G5 UNF. 5 3/4 2 1/4
+108NF00000K0063,bulón,,3/4,,2 1/2,G5,imperial,UNF,,1348.748788187,1429.67371547822,efepe,Bulon G5 UNF. 5 3/4 2 1/2
+108NF00000K0070,bulón,,3/4,,2 3/4,G5,imperial,UNF,,1160.13975764693,1229.7481431057456,efepe,Bulon G5 UNF. 5 3/4 2 3/4
+108NF00000K0076,bulón,,3/4,,3,G5,imperial,UNF,,1551.6006059303252,1644.6966422861449,efepe,Bulon G5 UNF. 5 3/4 3
+108NF00000K0082,bulón,,3/4,,3 1/4,G5,imperial,UNF,,1656.623178237153,1756.0205689313825,efepe,Bulon G5 UNF. 5 3/4 3 1/4
+108NF00000K0090,bulón,,3/4,,3 1/2,G5,imperial,UNF,,1403.56193893892,1487.775655275255,efepe,Bulon G5 UNF. 5 3/4 3 1/2
+108NF00000K0100,bulón,,3/4,,4,G5,imperial,UNF,,1566.4188592832063,1660.4039908401987,efepe,Bulon G5 UNF. 5 3/4 4
+108NF00000K0110,bulón,,3/4,,4 1/2,G5,imperial,UNF,,2147.490931354,2276.34038723524,efepe,Bulon G5 UNF. 5 3/4 4 1/2
+108NF00000K0125,bulón,,3/4,,5,G5,imperial,UNF,,1879.2690280770296,1992.025169761652,efepe,Bulon G5 UNF. 5 3/4 5
+108NF00000K0140,bulón,,3/4,,5 1/2,G5,imperial,UNF,,2544.962621711132,2697.6603790138,efepe,Bulon G5 UNF. 5 3/4 5 1/2
+108NF00000K0155,bulón,,3/4,,6,G5,imperial,UNF,,2597.6644374460006,2753.5243036927604,efepe,Bulon G5 UNF. 5 3/4 6
+108NF00000K0175,bulón,,3/4,,7,G5,imperial,UNF,,3754.835280792001,3980.125397639521,efepe,Bulon G5 UNF. 5 3/4 7
+108NF00000K0200,bulón,,3/4,,8,G5,imperial,UNF,,4258.237721297,4513.73198457482,efepe,Bulon G5 UNF. 5 3/4 8
+108NF00000K0225,bulón,,3/4,,9,G5,imperial,UNF,,4740.764559449,5025.210433015939,efepe,Bulon G5 UNF. 5 3/4 9
+108NF00000K0250,bulón,,3/4,,10,G5,imperial,UNF,,4178.667449163636,4429.387496113454,efepe,Bulon G5 UNF. 5 3/4 10
+108NF00000L0050,bulón,,7/8,,2,G5,imperial,UNF,,2115.7308383008985,2242.6746885989523,efepe,Bulon G5 UNF. 5 7/8 2
+108NF00000L0056,bulón,,7/8,,2 1/4,G5,imperial,UNF,,2273.498698225922,2409.9086201194773,efepe,Bulon G5 UNF. 5 7/8 2 1/4
+108NF00000L0063,bulón,,7/8,,2 1/2,G5,imperial,UNF,,2448.593664154272,2595.509284003528,efepe,Bulon G5 UNF. 5 7/8 2 1/2
+108NF00000L0070,bulón,,7/8,,2 3/4,G5,imperial,UNF,,2098.9509040660982,2224.8879583100643,efepe,Bulon G5 UNF. 5 7/8 2 3/4
+108NF00000L0076,bulón,,7/8,,3,G5,imperial,UNF,,2784.5434459640005,2951.6160527218403,efepe,Bulon G5 UNF. 5 7/8 3
+108NF00000L0082,bulón,,7/8,,3 1/4,G5,imperial,UNF,,2371.353128175793,2513.634315866341,efepe,Bulon G5 UNF. 5 7/8 3 1/4
+108NF00000L0090,bulón,,7/8,,3 1/2,G5,imperial,UNF,,3164.078843725,3353.9235743485,efepe,Bulon G5 UNF. 5 7/8 3 1/2
+108NF00000L0100,bulón,,7/8,,4,G5,imperial,UNF,,2812.840427469085,2981.6108531172304,efepe,Bulon G5 UNF. 5 7/8 4
+108NF00000L0110,bulón,,7/8,,4 1/2,G5,imperial,UNF,,3094.4177799581694,3280.0828467556594,efepe,Bulon G5 UNF. 5 7/8 4 1/2
+108NF00000L0125,bulón,,7/8,,5,G5,imperial,UNF,,4219.077322614767,4472.2219619716525,efepe,Bulon G5 UNF. 5 7/8 5
+108NF00000L0140,bulón,,7/8,,5 1/2,G5,imperial,UNF,,4571.049013226122,4845.311954019689,efepe,Bulon G5 UNF. 5 7/8 5 1/2
+108NF00000L0155,bulón,,7/8,,6,G5,imperial,UNF,,4531.546345461,4803.439126188659,efepe,Bulon G5 UNF. 5 7/8 6
+108NF00000L0175,bulón,,7/8,,7,G5,imperial,UNF,,4142.935240132507,4391.511354540457,efepe,Bulon G5 UNF. 5 7/8 7
+108NF00000L0200,bulón,,7/8,,8,G5,imperial,UNF,,5885.456260429,6238.583636054739,efepe,Bulon G5 UNF. 5 7/8 8
+108NF00000L0225,bulón,,7/8,,9,G5,imperial,UNF,,5236.334580086753,5550.514654891958,efepe,Bulon G5 UNF. 5 7/8 9
+108NF00000L0250,bulón,,7/8,,10,G5,imperial,UNF,,7200.096403397111,7632.102187600938,efepe,Bulon G5 UNF. 5 7/8 10
+108NF00000M0050,bulón,,5,,5 1 2,G5,imperial,UNF,,2333.0370812734936,2473.019306149903,efepe,Bulon G5 UNF. 5 1 2
+108NF00000M0056,bulón,,1,,2 1/4,G5,imperial,UNF,,3110.801658923962,3297.4497584594,efepe,Bulon G5 UNF. 5 1 2 1/4
+108NF00000M0063,bulón,,1,,2 1/2,G5,imperial,UNF,,2658.1780926629413,2817.6687782227177,efepe,Bulon G5 UNF. 5 1 2 1/2
+108NF00000M0070,bulón,,1,,2 3/4,G5,imperial,UNF,,3551.8758996789297,3764.9884536596655,efepe,Bulon G5 UNF. 5 1 2 3/4
+108NF00000M0076,bulón,,5,,5 1 3,G5,imperial,UNF,,3781.945796664584,4008.862544464459,efepe,Bulon G5 UNF. 5 1 3
+108NF00000M0082,bulón,,1,,3 1/4,G5,imperial,UNF,,4011.374064455457,4252.056508322785,efepe,Bulon G5 UNF. 5 1 3 1/4
+108NF00000M0090,bulón,,1,,3 1/2,G5,imperial,UNF,,3392.935182000394,3596.5112929204174,efepe,Bulon G5 UNF. 5 1 3 1/2
+108NF00000M0100,bulón,,5,,5 1 4,G5,imperial,UNF,,4699.475545201,4981.44407791306,efepe,Bulon G5 UNF. 5 1 4
+108NF00000M0110,bulón,,1,,4 1/2,G5,imperial,UNF,,5158.698726036908,5468.220649599122,efepe,Bulon G5 UNF. 5 1 4 1/2
+108NF00000M0125,bulón,,5,,5 1 5,G5,imperial,UNF,,5617.921906872814,5954.997221285184,efepe,Bulon G5 UNF. 5 1 5
+108NF00000M0140,bulón,,1,,5 1/2,G5,imperial,UNF,,4861.716070166979,5153.419034376998,efepe,Bulon G5 UNF. 5 1 5 1/2
+108NF00000M0155,bulón,,5,,5 1 6,G5,imperial,UNF,,6070.640570601001,6434.879004837061,efepe,Bulon G5 UNF. 5 1 6
+108NF00000M0175,bulón,,5,,5 1 7,G5,imperial,UNF,,6929.981037348207,7345.779899589099,efepe,Bulon G5 UNF. 5 1 7
+108NF00000M0200,bulón,,5,,5 1 8,G5,imperial,UNF,,7783.446690639996,8250.453492078395,efepe,Bulon G5 UNF. 5 1 8
+108NF00000M0225,bulón,,5,,5 1 9,G5,imperial,UNF,,8636.912343931785,9155.127084567692,efepe,Bulon G5 UNF. 5 1 9
+108NF00000M0250,bulón,,5,,5 1 10,G5,imperial,UNF,,9490.377997223572,10059.800677056986,efepe,Bulon G5 UNF. 5 1 10
+109MA00000K0010,bulón,,8,,,G8,métrico,,,20.82730208718435,22.07694021241541,efepe,Bulon G8 MA. 8 5 0.80 10
+109MA00000K0012,bulón,,8,,,G8,métrico,,,16.72592567616958,17.729481216739757,efepe,Bulon G8 MA. 8 5 0.80 12
+109MA00000K0015,bulón,,8,,,G8,métrico,,,22.696418941162424,24.05820407763217,efepe,Bulon G8 MA. 8 5 0.80 15
+109MA00000K0020,bulón,,8,,,G8,métrico,,,24.9927625046212,26.492328254898474,efepe,Bulon G8 MA. 8 5 0.80 20
+109MA00000K0025,bulón,,8,,,G8,métrico,,,28.773718883525444,30.50014201653697,efepe,Bulon G8 MA. 8 5 0.80 25
+109MA00000K0030,bulón,,8,,,G8,métrico,,,40.93365910212,43.389678648247205,efepe,Bulon G8 MA. 8 5 0.80 30
+109MA00000K0035,bulón,,8,,,G8,métrico,,,45.9001695998332,48.65417977582319,efepe,Bulon G8 MA. 8 5 0.80 35
+109MA00000K0040,bulón,,8,,,G8,métrico,,,55.10557010567524,58.41190431201576,efepe,Bulon G8 MA. 8 5 0.80 40
+109MA00000K0045,bulón,,8,,,G8,métrico,,,60.6595173289244,64.29908836865985,efepe,Bulon G8 MA. 8 5 0.80 45
+109MA00000K0050,bulón,,8,,,G8,métrico,,,65.86634285072051,69.81832342176375,efepe,Bulon G8 MA. 8 5 0.80 50
+109MA00000K0060,bulón,,8,,,G8,métrico,,,82.8008496439466,87.7689006225834,efepe,Bulon G8 MA. 8 5 0.80 60
+109MA00000K0070,bulón,,8,,,G8,métrico,,,100.54507172264437,106.57777602600302,efepe,Bulon G8 MA. 8 5 0.80 70
+109MA00000M0010,bulón,,8,,,G8,métrico,,,28.21636502204441,29.909346923367075,efepe,Bulon G8 MA. 8 6 1.00 10
+109MA00000M0012,bulón,,8,,,G8,métrico,,,28.73889030023041,30.463223718244237,efepe,Bulon G8 MA. 8 6 1.00 12
+109MA00000M0015,bulón,,8,,,G8,métrico,,,35.57585031912001,37.71040133826721,efepe,Bulon G8 MA. 8 6 1.00 15
+109MA00000M0020,bulón,,8,,,G8,métrico,,,38.71909813847999,41.0422440267888,efepe,Bulon G8 MA. 8 6 1.00 20
+109MA00000M0025,bulón,,8,,,G8,métrico,,,44.36265672324001,47.02441612663441,efepe,Bulon G8 MA. 8 6 1.00 25
+109MA00000M0030,bulón,,8,,,G8,métrico,,,50.07765275844,53.08231192394639,efepe,Bulon G8 MA. 8 6 1.00 30
+109MA00000M0035,bulón,,8,,,G8,métrico,,,62.36489423412002,66.10678788816722,efepe,Bulon G8 MA. 8 6 1.00 35
+109MA00000M0040,bulón,,8,,,G8,métrico,,,72.93763689924,77.3138951131944,efepe,Bulon G8 MA. 8 6 1.00 40
+109MA00000M0045,bulón,,8,,,G8,métrico,,,76.4380719708,81.024356289048,efepe,Bulon G8 MA. 8 6 1.00 45
+109MA00000M0050,bulón,,8,,,G8,métrico,,,77.79538352916,82.4631065409096,efepe,Bulon G8 MA. 8 6 1.00 50
+109MA00000M0055,bulón,,8,,,G8,métrico,,,84.160460363364,89.21008798516584,efepe,Bulon G8 MA. 8 6 1.00 55
+109MA00000M0060,bulón,,8,,,G8,métrico,,,98.36936925588002,104.2715314112328,efepe,Bulon G8 MA. 8 6 1.00 60
+109MA00000M0065,bulón,,8,,,G8,métrico,,,84.272341535746,89.32868202789075,efepe,Bulon G8 MA. 8 6 1.00 65
+109MA00000M0070,bulón,,8,,,G8,métrico,,,126.01566257616,133.5766023307296,efepe,Bulon G8 MA. 8 6 1.00 70
+109MA00000M0075,bulón,,8,,,G8,métrico,,,107.113313189736,113.54011198112016,efepe,Bulon G8 MA. 8 6 1.00 75
+109MA00000M0080,bulón,,8,,,G8,métrico,,,135.80259328644,143.9507488836264,efepe,Bulon G8 MA. 8 6 1.00 80
+109MA00000M0090,bulón,,8,,,G8,métrico,,,176.04039870464453,186.6028226269232,efepe,Bulon G8 MA. 8 6 1.00 90
+109MA00000M0100,bulón,,8,,,G8,métrico,,,194.48272618798825,206.15168975926755,efepe,Bulon G8 MA. 8 6 1.00 100
+109MA00000M0110,bulón,,8,,,G8,métrico,,,208.92706659452315,221.4626905901945,efepe,Bulon G8 MA. 8 6 1.00 110
+109MA00000M0120,bulón,,8,,,G8,métrico,,,211.58044034027355,224.27526676069,efepe,Bulon G8 MA. 8 6 1.00 120
+109MA00000M0130,bulón,,8,,,G8,métrico,,,217.6104828899714,230.66711186336968,efepe,Bulon G8 MA. 8 6 1.00 130
+109MA00000O0010,bulón,,8,,,G8,métrico,,,37.51699384086542,39.76801347131735,efepe,Bulon G8 MA. 8 7 1.00 10
+109MA00000O0015,bulón,,8,,,G8,métrico,,,52.657780640928976,55.81724747938471,efepe,Bulon G8 MA. 8 7 1.00 15
+109MA00000O0020,bulón,,8,,,G8,métrico,,,59.62522235423258,63.20273569548653,efepe,Bulon G8 MA. 8 7 1.00 20
+109MA00000O0025,bulón,,8,,,G8,métrico,,,70.21795848585158,74.43103599500267,efepe,Bulon G8 MA. 8 7 1.00 25
+109MA00000O0030,bulón,,8,,,G8,métrico,,,86.36787758196002,91.54995023687762,efepe,Bulon G8 MA. 8 7 1.00 30
+109MA00000O0035,bulón,,8,,,G8,métrico,,,76.36738649352255,80.9494296831339,efepe,Bulon G8 MA. 8 7 1.00 35
+109MA00000O0040,bulón,,8,,,G8,métrico,,,105.30820161309158,111.62669370987707,efepe,Bulon G8 MA. 8 7 1.00 40
+109MA00000O0045,bulón,,8,,,G8,métrico,,,91.51964571842778,97.01082446153345,efepe,Bulon G8 MA. 8 7 1.00 45
+109MA00000O0050,bulón,,8,,,G8,métrico,,,99.39882051537852,105.36274974630123,efepe,Bulon G8 MA. 8 7 1.00 50
+109MA00000O0055,bulón,,8,,,G8,métrico,,,140.58890246592,149.0242366138752,efepe,Bulon G8 MA. 8 7 1.00 55
+109MA00000O0060,bulón,,8,,,G8,métrico,,,116.87317780276636,123.88556847093234,efepe,Bulon G8 MA. 8 7 1.00 60
+109MA00000O0070,bulón,,8,,,G8,métrico,,,152.06554756517878,161.1894804190895,efepe,Bulon G8 MA. 8 7 1.00 70
+109MA00000P0010,bulón,,8,,,G8,métrico,,,45.7088100128925,48.451338613666046,efepe,Bulon G8 MA. 8 8 1.25 10
+109MA00000P0012,bulón,,8,,,G8,métrico,,,47.61334376342968,50.470144389235465,efepe,Bulon G8 MA. 8 8 1.25 12
+109MA00000P0015,bulón,,8,,,G8,métrico,,,67.19834246084854,71.23024300849944,efepe,Bulon G8 MA. 8 8 1.25 15
+109MA00000P0020,bulón,,8,,,G8,métrico,,,72.28057004192112,76.61740424443639,efepe,Bulon G8 MA. 8 8 1.25 20
+109MA00000P0025,bulón,,8,,,G8,métrico,,,84.51050387052001,89.58113410275121,efepe,Bulon G8 MA. 8 8 1.25 25
+109MA00000P0030,bulón,,8,,,G8,métrico,,,99.58380591336,105.5588342681616,efepe,Bulon G8 MA. 8 8 1.25 30
+109MA00000P0035,bulón,,8,,,G8,métrico,,,103.9414903902,110.177979813612,efepe,Bulon G8 MA. 8 8 1.25 35
+109MA00000P0040,bulón,,8,,,G8,métrico,,,113.72842110048,120.5521263665088,efepe,Bulon G8 MA. 8 8 1.25 40
+109MA00000P0045,bulón,,8,,,G8,métrico,,,124.65835101779996,132.13785207886798,efepe,Bulon G8 MA. 8 8 1.25 45
+109MA00000P0050,bulón,,8,,,G8,métrico,,,135.88883309147568,144.0421630769642,efepe,Bulon G8 MA. 8 8 1.25 50
+109MA00000P0055,bulón,,8,,,G8,métrico,,,157.73389057152,167.1979240058112,efepe,Bulon G8 MA. 8 8 1.25 55
+109MA00000P0060,bulón,,8,,,G8,métrico,,,170.73550655159997,180.97963694469595,efepe,Bulon G8 MA. 8 8 1.25 60
+109MA00000P0065,bulón,,8,,,G8,métrico,,,183.01863651934104,193.99975471050143,efepe,Bulon G8 MA. 8 8 1.25 65
+109MA00000P0070,bulón,,8,,,G8,métrico,,,206.09704451940004,218.46286719056403,efepe,Bulon G8 MA. 8 8 1.25 70
+109MA00000P0075,bulón,,8,,,G8,métrico,,,219.1000126278796,232.24601338555237,efepe,Bulon G8 MA. 8 8 1.25 75
+109MA00000P0080,bulón,,8,,,G8,métrico,,,230.10002786724,243.9060295392744,efepe,Bulon G8 MA. 8 8 1.25 80
+109MA00000P0090,bulón,,8,,,G8,métrico,,,249.38813948603996,264.3514278552023,efepe,Bulon G8 MA. 8 8 1.25 90
+109MA00000P0100,bulón,,8,,,G8,métrico,,,274.46268459048,290.93044566590885,efepe,Bulon G8 MA. 8 8 1.25 100
+109MA00000P0110,bulón,,8,,,G8,métrico,,,346.36019221131363,367.14180374399245,efepe,Bulon G8 MA. 8 8 1.25 110
+109MA00000P0120,bulón,,8,,,G8,métrico,,,374.6344936163189,397.112563233298,efepe,Bulon G8 MA. 8 8 1.25 120
+109MA00000P0130,bulón,,8,,,G8,métrico,,,413.9814540488088,438.82034129173735,efepe,Bulon G8 MA. 8 8 1.25 130
+109MA00000P0140,bulón,,8,,,G8,métrico,,,354.42622732599784,375.6918009655577,efepe,Bulon G8 MA. 8 8 1.25 140
+109MA00000P0150,bulón,,8,,,G8,métrico,,,472.0841142661856,500.4091611221567,efepe,Bulon G8 MA. 8 8 1.25 150
+109MA00000Q0016,bulón,,8,,,G8,métrico,,,127.37297413452,135.01535258259122,efepe,Bulon G8 MA. 8 10 1.50 16
+109MA00000Q0020,bulón,,8,,,G8,métrico,,,136.65984269171997,144.85943325322316,efepe,Bulon G8 MA. 8 10 1.50 20
+109MA00000Q0025,bulón,,8,,,G8,métrico,,,144.16077498791998,152.8104214871952,efepe,Bulon G8 MA. 8 10 1.50 25
+109MA00000Q0030,bulón,,8,,,G8,métrico,,,159.30551448120002,168.863845350072,efepe,Bulon G8 MA. 8 10 1.50 30
+109MA00000Q0035,bulón,,8,,,G8,métrico,,,174.45025397448003,184.91726921294884,efepe,Bulon G8 MA. 8 10 1.50 35
+109MA00000Q0040,bulón,,8,,,G8,métrico,,,189.6664309182,201.046416773292,efepe,Bulon G8 MA. 8 10 1.50 40
+109MA00000Q0045,bulón,,8,,,G8,métrico,,,219.38441030124,232.5474749193144,efepe,Bulon G8 MA. 8 10 1.50 45
+109MA00000Q0050,bulón,,8,,,G8,métrico,,,232.45746373176,246.4049115556656,efepe,Bulon G8 MA. 8 10 1.50 50
+109MA00000Q0055,bulón,,8,,,G8,métrico,,,285.17830215648,302.28900028586884,efepe,Bulon G8 MA. 8 10 1.50 55
+109MA00000Q0060,bulón,,8,,,G8,métrico,,,288.03580017408,305.3179481845248,efepe,Bulon G8 MA. 8 10 1.50 60
+109MA00000Q0065,bulón,,8,,,G8,métrico,,,307.07441383164183,325.49887866154035,efepe,Bulon G8 MA. 8 10 1.50 65
+109MA00000Q0070,bulón,,8,,,G8,métrico,,,342.25682505804,362.7922345615224,efepe,Bulon G8 MA. 8 10 1.50 70
+109MA00000Q0075,bulón,,8,,,G8,métrico,,,384.0705935495809,407.1148291625557,efepe,Bulon G8 MA. 8 10 1.50 75
+109MA00000Q0080,bulón,,8,,,G8,métrico,,,360.54481237068,382.1775011129208,efepe,Bulon G8 MA. 8 10 1.50 80
+109MA00000Q0090,bulón,,8,,,G8,métrico,,,398.33522365344,422.2353370726464,efepe,Bulon G8 MA. 8 10 1.50 90
+109MA00000Q0100,bulón,,8,,,G8,métrico,,,440.3404445121601,466.7608711828897,efepe,Bulon G8 MA. 8 10 1.50 100
+109MA00000Q0110,bulón,,8,,,G8,métrico,,,493.70421999084,523.3264731902905,efepe,Bulon G8 MA. 8 10 1.50 110
+109MA00000Q0120,bulón,,8,,,G8,métrico,,,528.2085085533599,559.9010190665615,efepe,Bulon G8 MA. 8 10 1.50 120
+109MA00000Q0130,bulón,,8,,,G8,métrico,,,590.0733406344,625.477741072464,efepe,Bulon G8 MA. 8 10 1.50 130
+109MA00000Q0140,bulón,,8,,,G8,métrico,,,630.57837503388,668.4130775359127,efepe,Bulon G8 MA. 8 10 1.50 140
+109MA00000Q0150,bulón,,8,,,G8,métrico,,,686.0138365753198,727.1746667698391,efepe,Bulon G8 MA. 8 10 1.50 150
+109MA00000Q0160,bulón,,8,,,G8,métrico,,,801.0809954970457,849.1458552268684,efepe,Bulon G8 MA. 8 10 1.50 160
+109MA00000Q0170,bulón,,8,,,G8,métrico,,,697.8564026108565,739.727786767508,efepe,Bulon G8 MA. 8 10 1.50 170
+109MA00000Q0180,bulón,,8,,,G8,métrico,,,917.7712132927684,972.8374860903344,efepe,Bulon G8 MA. 8 10 1.50 180
+109MA00000Q0190,bulón,,8,,,G8,métrico,,,1018.2565598306812,1079.351953420522,efepe,Bulon G8 MA. 8 10 1.50 190
+109MA00000Q0200,bulón,,8,,,G8,métrico,,,1198.4438247064004,1270.3504541887844,efepe,Bulon G8 MA. 8 10 1.50 200
+109MA00000R0020,bulón,,8,,,G8,métrico,,,193.8048889968578,205.4331823366693,efepe,Bulon G8 MA. 8 12 1.75 20
+109MA00000R0025,bulón,,8,,,G8,métrico,,,209.45460469008,222.0218809714848,efepe,Bulon G8 MA. 8 12 1.75 25
+109MA00000R0030,bulón,,8,,,G8,métrico,,,245.38764226139995,260.110900797084,efepe,Bulon G8 MA. 8 12 1.75 30
+109MA00000R0035,bulón,,8,,,G8,métrico,,,253.67438651244,268.8948497031864,efepe,Bulon G8 MA. 8 12 1.75 35
+109MA00000R0040,bulón,,8,,,G8,métrico,,,275.7485586984001,292.29347222030407,efepe,Bulon G8 MA. 8 12 1.75 40
+109MA00000R0045,bulón,,8,,,G8,métrico,,,294.89379541632,312.5874231412992,efepe,Bulon G8 MA. 8 12 1.75 45
+109MA00000R0050,bulón,,8,,,G8,métrico,,,316.11071819700004,335.07736128882004,efepe,Bulon G8 MA. 8 12 1.75 50
+109MA00000R0055,bulón,,8,,,G8,métrico,,,405.69328104876,430.0348779116856,efepe,Bulon G8 MA. 8 12 1.75 55
+109MA00000R0060,bulón,,8,,,G8,métrico,,,411.4797145344001,436.168497406464,efepe,Bulon G8 MA. 8 12 1.75 60
+109MA00000R0065,bulón,,8,,,G8,métrico,,,431.7466258472884,457.6514233981257,efepe,Bulon G8 MA. 8 12 1.75 65
+109MA00000R0070,bulón,,8,,,G8,métrico,,,502.1995615971648,532.3315352929947,efepe,Bulon G8 MA. 8 12 1.75 70
+109MA00000R0075,bulón,,8,,,G8,métrico,,,512.563706907,543.31752932142,efepe,Bulon G8 MA. 8 12 1.75 75
+109MA00000R0080,bulón,,8,,,G8,métrico,,,544.21049745192,576.8631272990352,efepe,Bulon G8 MA. 8 12 1.75 80
+109MA00000R0090,bulón,,8,,,G8,métrico,,,621.4643851067447,658.7522482131493,efepe,Bulon G8 MA. 8 12 1.75 90
+109MA00000R0100,bulón,,8,,,G8,métrico,,,620.29138217052,657.5088651007512,efepe,Bulon G8 MA. 8 12 1.75 100
+109MA00000R0110,bulón,,8,,,G8,métrico,,,709.5881952205201,752.1634869337513,efepe,Bulon G8 MA. 8 12 1.75 110
+109MA00000R0120,bulón,,8,,,G8,métrico,,,724.6614972633599,768.1411870991615,efepe,Bulon G8 MA. 8 12 1.75 120
+109MA00000R0130,bulón,,8,,,G8,métrico,,,801.4567564863601,849.5441618755417,efepe,Bulon G8 MA. 8 12 1.75 130
+109MA00000R0140,bulón,,8,,,G8,métrico,,,858.2495295861601,909.7445013613296,efepe,Bulon G8 MA. 8 12 1.75 140
+109MA00000R0150,bulón,,8,,,G8,métrico,,,1036.1273524327512,1098.2949935787162,efepe,Bulon G8 MA. 8 12 1.75 150
+109MA00000R0160,bulón,,8,,,G8,métrico,,,874.6343995708193,927.1124635450684,efepe,Bulon G8 MA. 8 12 1.75 160
+109MA00000R0170,bulón,,8,,,G8,métrico,,,1170.6976817080356,1240.9395426105175,efepe,Bulon G8 MA. 8 12 1.75 170
+109MA00000R0180,bulón,,8,,,G8,métrico,,,1617.4112707808383,1714.4559470276886,efepe,Bulon G8 MA. 8 12 1.75 180
+109MA00000R0190,bulón,,8,,,G8,métrico,,,1771.450439426633,1877.737465792231,efepe,Bulon G8 MA. 8 12 1.75 190
+109MA00000R0200,bulón,,8,,,G8,métrico,,,1925.489608072427,2041.0189845567727,efepe,Bulon G8 MA. 8 12 1.75 200
+109MA00000S0025,bulón,,8,,,G8,métrico,,,367.18849526160005,389.21980497729606,efepe,Bulon G8 MA. 8 14 2.00 25
+109MA00000S0030,bulón,,8,,,G8,métrico,,,376.97542597188,399.5939515301928,efepe,Bulon G8 MA. 8 14 2.00 30
+109MA00000S0035,bulón,,8,,,G8,métrico,,,405.47896869744005,429.80770681928647,efepe,Bulon G8 MA. 8 14 2.00 35
+109MA00000S0040,bulón,,8,,,G8,métrico,,,456.6896194198585,484.09099658504994,efepe,Bulon G8 MA. 8 14 2.00 40
+109MA00000S0045,bulón,,8,,,G8,métrico,,,447.69850190748,474.5604120219288,efepe,Bulon G8 MA. 8 14 2.00 45
+109MA00000S0050,bulón,,8,,,G8,métrico,,,504.8123025623438,535.1010407160844,efepe,Bulon G8 MA. 8 14 2.00 50
+109MA00000S0055,bulón,,8,,,G8,métrico,,,433.81923422145934,459.8483882747469,efepe,Bulon G8 MA. 8 14 2.00 55
+109MA00000S0060,bulón,,8,,,G8,métrico,,,579.1216561025427,613.8689554686953,efepe,Bulon G8 MA. 8 14 2.00 60
+109MA00000S0065,bulón,,8,,,G8,métrico,,,664.5511689651265,704.4242391030341,efepe,Bulon G8 MA. 8 14 2.00 65
+109MA00000S0070,bulón,,8,,,G8,métrico,,,706.1992025716467,748.5711547259455,efepe,Bulon G8 MA. 8 14 2.00 70
+109MA00000S0075,bulón,,8,,,G8,métrico,,,739.5104857118184,783.8811148545276,efepe,Bulon G8 MA. 8 14 2.00 75
+109MA00000S0080,bulón,,8,,,G8,métrico,,,761.7375340417201,807.4417860842233,efepe,Bulon G8 MA. 8 14 2.00 80
+109MA00000S0090,bulón,,8,,,G8,métrico,,,818.7446194928399,867.8692966624103,efepe,Bulon G8 MA. 8 14 2.00 90
+109MA00000S0100,bulón,,8,,,G8,métrico,,,895.5019275702938,949.2320432245116,efepe,Bulon G8 MA. 8 14 2.00 100
+109MA00000S0110,bulón,,8,,,G8,métrico,,,927.32954416164,982.9693168113384,efepe,Bulon G8 MA. 8 14 2.00 110
+109MA00000S0120,bulón,,8,,,G8,métrico,,,1006.640623596517,1067.039061012308,efepe,Bulon G8 MA. 8 14 2.00 120
+109MA00000S0130,bulón,,8,,,G8,métrico,,,854.1193169909842,905.3664760104432,efepe,Bulon G8 MA. 8 14 2.00 130
+109MA00000S0140,bulón,,8,,,G8,métrico,,,1140.859373409386,1209.3109358139493,efepe,Bulon G8 MA. 8 14 2.00 140
+109MA00000S0150,bulón,,8,,,G8,métrico,,,1236.9394543686,1311.155821630716,efepe,Bulon G8 MA. 8 14 2.00 150
+109MA00000T0025,bulón,,8,,,G8,métrico,,,431.1620582150294,457.0317817079312,efepe,Bulon G8 MA. 8 16 2.00 25
+109MA00000T0030,bulón,,8,,,G8,métrico,,,472.31285294495376,500.65162412165097,efepe,Bulon G8 MA. 8 16 2.00 30
+109MA00000T0035,bulón,,8,,,G8,métrico,,,512.84945670876,543.6204241112856,efepe,Bulon G8 MA. 8 16 2.00 35
+109MA00000T0040,bulón,,8,,,G8,métrico,,,554.0002514386846,587.2402665250056,efepe,Bulon G8 MA. 8 16 2.00 40
+109MA00000T0045,bulón,,8,,,G8,métrico,,,596.3794281008456,632.1621937868964,efepe,Bulon G8 MA. 8 16 2.00 45
+109MA00000T0050,bulón,,8,,,G8,métrico,,,626.36356545792,663.9453793853952,efepe,Bulon G8 MA. 8 16 2.00 50
+109MA00000T0055,bulón,,8,,,G8,métrico,,,699.3379614336002,741.2982391196161,efepe,Bulon G8 MA. 8 16 2.00 55
+109MA00000T0060,bulón,,8,,,G8,métrico,,,748.02154355724,792.9028361706744,efepe,Bulon G8 MA. 8 16 2.00 60
+109MA00000T0065,bulón,,8,,,G8,métrico,,,796.6733512682799,844.4737523443767,efepe,Bulon G8 MA. 8 16 2.00 65
+109MA00000T0070,bulón,,8,,,G8,métrico,,,904.89818472348,959.1920758068889,efepe,Bulon G8 MA. 8 16 2.00 70
+109MA00000T0075,bulón,,8,,,G8,métrico,,,893.9682548061601,947.6063500945296,efepe,Bulon G8 MA. 8 16 2.00 75
+109MA00000T0080,bulón,,8,,,G8,métrico,,,942.6195884010532,999.1767637051164,efepe,Bulon G8 MA. 8 16 2.00 80
+109MA00000T0090,bulón,,8,,,G8,métrico,,,1039.9222555908393,1102.3175909262898,efepe,Bulon G8 MA. 8 16 2.00 90
+109MA00000T0100,bulón,,8,,,G8,métrico,,,1142.2848325356,1210.821922487736,efepe,Bulon G8 MA. 8 16 2.00 100
+109MA00000T0110,bulón,,8,,,G8,métrico,,,1240.5458933988778,1314.9786470028105,efepe,Bulon G8 MA. 8 16 2.00 110
+109MA00000T0120,bulón,,8,,,G8,métrico,,,1332.73707540864,1412.7012999331585,efepe,Bulon G8 MA. 8 16 2.00 120
+109MA00000T0130,bulón,,8,,,G8,métrico,,,1406.0987492843449,1490.4646742414056,efepe,Bulon G8 MA. 8 16 2.00 130
+109MA00000T0140,bulón,,8,,,G8,métrico,,,1496.04308711448,1585.8056723413488,efepe,Bulon G8 MA. 8 16 2.00 140
+109MA00000T0150,bulón,,8,,,G8,métrico,,,1593.34670253656,1688.9475046887535,efepe,Bulon G8 MA. 8 16 2.00 150
+109MA00000T0160,bulón,,8,,,G8,métrico,,,1690.65031795864,1792.0893370361584,efepe,Bulon G8 MA. 8 16 2.00 160
+109MA00000T0170,bulón,,8,,,G8,métrico,,,1518.4322151853246,1609.538148096444,efepe,Bulon G8 MA. 8 16 2.00 170
+109MA00000T0180,bulón,,8,,,G8,métrico,,,2001.334977497664,2121.415076147524,efepe,Bulon G8 MA. 8 16 2.00 180
+109MA00000T0190,bulón,,8,,,G8,métrico,,,2315.0926546150395,2453.9982138919418,efepe,Bulon G8 MA. 8 16 2.00 190
+109MA00000T0200,bulón,,8,,,G8,métrico,,,1942.97346718612,2059.551875217287,efepe,Bulon G8 MA. 8 16 2.00 200
+109MA00000U0030,bulón,,8,,,G8,métrico,,,740.8777985132401,785.3304664240345,efepe,Bulon G8 MA. 8 18 2.50 30
+109MA00000U0035,bulón,,8,,,G8,métrico,,,797.3256307809155,845.1651686277704,efepe,Bulon G8 MA. 8 18 2.50 35
+109MA00000U0040,bulón,,8,,,G8,métrico,,,683.0187704388726,723.9998966652049,efepe,Bulon G8 MA. 8 18 2.50 40
+109MA00000U0045,bulón,,8,,,G8,métrico,,,622.7631179557441,660.1289050330887,efepe,Bulon G8 MA. 8 18 2.50 45
+109MA00000U0050,bulón,,8,,,G8,métrico,,,831.38904822072,881.2723911139633,efepe,Bulon G8 MA. 8 18 2.50 50
+109MA00000U0055,bulón,,8,,,G8,métrico,,,879.9373138102511,932.7335526388662,efepe,Bulon G8 MA. 8 18 2.50 55
+109MA00000U0060,bulón,,8,,,G8,métrico,,,977.0338449893136,1035.6558756886725,efepe,Bulon G8 MA. 8 18 2.50 60
+109MA00000U0065,bulón,,8,,,G8,métrico,,,1150.0915171196832,1219.0970081468645,efepe,Bulon G8 MA. 8 18 2.50 65
+109MA00000U0070,bulón,,8,,,G8,métrico,,,1111.6381662968402,1178.3364562746506,efepe,Bulon G8 MA. 8 18 2.50 70
+109MA00000U0075,bulón,,8,,,G8,métrico,,,1173.0546395729089,1243.4379179472835,efepe,Bulon G8 MA. 8 18 2.50 75
+109MA00000U0080,bulón,,8,,,G8,métrico,,,1234.471112848977,1308.5393796199155,efepe,Bulon G8 MA. 8 18 2.50 80
+109MA00000U0090,bulón,,8,,,G8,métrico,,,1351.162412073507,1432.2321567979177,efepe,Bulon G8 MA. 8 18 2.50 90
+109MA00000U0100,bulón,,8,,,G8,métrico,,,1473.995358625644,1562.4350801431826,efepe,Bulon G8 MA. 8 18 2.50 100
+109MA00000U0110,bulón,,8,,,G8,métrico,,,1596.7698922348802,1692.576085768973,efepe,Bulon G8 MA. 8 18 2.50 110
+109MA00000U0120,bulón,,8,,,G8,métrico,,,1375.6786763869736,1458.219396970192,efepe,Bulon G8 MA. 8 18 2.50 120
+109MA00000U0130,bulón,,8,,,G8,métrico,,,1926.9537881685603,2042.5710154586736,efepe,Bulon G8 MA. 8 18 2.50 130
+109MA00000U0140,bulón,,8,,,G8,métrico,,,2057.59472295965,2181.050406337229,efepe,Bulon G8 MA. 8 18 2.50 140
+109MA00000U0150,bulón,,8,,,G8,métrico,,,1750.5885262005906,1855.623837772626,efepe,Bulon G8 MA. 8 18 2.50 150
+109MA00000U0160,bulón,,8,,,G8,métrico,,,1855.1012740334616,1966.4073504754688,efepe,Bulon G8 MA. 8 18 2.50 160
+109MA00000U0170,bulón,,8,,,G8,métrico,,,2765.8837736577266,2931.83680007719,efepe,Bulon G8 MA. 8 18 2.50 170
+109MA00000U0180,bulón,,8,,,G8,métrico,,,2959.495637813768,3137.065376082593,efepe,Bulon G8 MA. 8 18 2.50 180
+109MA00000U0190,bulón,,8,,,G8,métrico,,,2533.3282659685856,2685.3279619267005,efepe,Bulon G8 MA. 8 18 2.50 190
+109MA00000U0200,bulón,,8,,,G8,métrico,,,2710.6612445863866,2873.30091926157,efepe,Bulon G8 MA. 8 18 2.50 200
+109MA00000V0030,bulón,,8,,,G8,métrico,,,971.686485888845,1029.9876750421756,efepe,Bulon G8 MA. 8 20 2.50 30
+109MA00000V0035,bulón,,8,,,G8,métrico,,,838.5082792934915,888.8187760511009,efepe,Bulon G8 MA. 8 20 2.50 35
+109MA00000V0040,bulón,,8,,,G8,métrico,,,1054.2225695999998,1117.4759237759995,efepe,Bulon G8 MA. 8 20 2.50 40
+109MA00000V0045,bulón,,8,,,G8,métrico,,,1081.9652688,1146.883184928,efepe,Bulon G8 MA. 8 20 2.50 45
+109MA00000V0050,bulón,,8,,,G8,métrico,,,1116.6436428000002,1183.6422613680002,efepe,Bulon G8 MA. 8 20 2.50 50
+109MA00000V0060,bulón,,8,,,G8,métrico,,,1192.0052980418398,1263.5256159243502,efepe,Bulon G8 MA. 8 20 2.50 60
+109MA00000V0065,bulón,,8,,,G8,métrico,,,1311.804825483231,1390.513115012225,efepe,Bulon G8 MA. 8 20 2.50 65
+109MA00000V0070,bulón,,8,,,G8,métrico,,,1418.67632828796,1503.7969079852378,efepe,Bulon G8 MA. 8 20 2.50 70
+109MA00000V0075,bulón,,8,,,G8,métrico,,,1193.8990399098675,1265.5329823044594,efepe,Bulon G8 MA. 8 20 2.50 75
+109MA00000V0080,bulón,,8,,,G8,métrico,,,1550.7641741515204,1643.8100246006115,efepe,Bulon G8 MA. 8 20 2.50 80
+109MA00000V0090,bulón,,8,,,G8,métrico,,,1705.64056670544,1807.9790007077663,efepe,Bulon G8 MA. 8 20 2.50 90
+109MA00000V0100,bulón,,8,,,G8,métrico,,,1852.3623358844025,1963.5040760374663,efepe,Bulon G8 MA. 8 20 2.50 100
+109MA00000V0110,bulón,,8,,,G8,métrico,,,1999.084105063365,2119.0291513671677,efepe,Bulon G8 MA. 8 20 2.50 110
+109MA00000V0120,bulón,,8,,,G8,métrico,,,2134.5510191472,2262.624080296032,efepe,Bulon G8 MA. 8 20 2.50 120
+109MA00000V0130,bulón,,8,,,G8,métrico,,,2219.689806235692,2352.8711946098338,efepe,Bulon G8 MA. 8 20 2.50 130
+109MA00000V0140,bulón,,8,,,G8,métrico,,,2365.642012673108,2507.580533433494,efepe,Bulon G8 MA. 8 20 2.50 140
+109MA00000V0150,bulón,,8,,,G8,métrico,,,2566.326296524553,2720.305874316027,efepe,Bulon G8 MA. 8 20 2.50 150
+109MA00000V0160,bulón,,8,,,G8,métrico,,,3236.1426724962635,3430.3112328460397,efepe,Bulon G8 MA. 8 20 2.50 160
+109MA00000V0170,bulón,,8,,,G8,métrico,,,2722.124485142271,2885.4519542508074,efepe,Bulon G8 MA. 8 20 2.50 170
+109MA00000V0180,bulón,,8,,,G8,métrico,,,3325.1275681802404,3524.6352222710548,efepe,Bulon G8 MA. 8 20 2.50 180
+109MA00000V0190,bulón,,8,,,G8,métrico,,,3906.4855398609607,4140.874672252618,efepe,Bulon G8 MA. 8 20 2.50 190
+109MA00000V0200,bulón,,8,,,G8,métrico,,,4373.270699776999,4635.666941763619,efepe,Bulon G8 MA. 8 20 2.50 200
+109MA00000X0050,bulón,,8,,,G8,métrico,,,1370.0756412086544,1452.2801796811736,efepe,Bulon G8 MA. 8 24 3.00 50
+109MA00000X0055,bulón,,8,,,G8,métrico,,,1815.08274077952,1923.9877052262912,efepe,Bulon G8 MA. 8 24 3.00 55
+109MA00000X0060,bulón,,8,,,G8,métrico,,,2042.32527062916,2164.864786866909,efepe,Bulon G8 MA. 8 24 3.00 60
+109MA00000X0065,bulón,,8,,,G8,métrico,,,2157.2060671020504,2286.6384311281736,efepe,Bulon G8 MA. 8 24 3.00 65
+109MA00000X0070,bulón,,8,,,G8,métrico,,,2288.772684,2426.09904504,efepe,Bulon G8 MA. 8 24 3.00 70
+109MA00000X0075,bulón,,8,,,G8,métrico,,,2413.6928567415,2558.51442814599,efepe,Bulon G8 MA. 8 24 3.00 75
+109MA00000X0080,bulón,,8,,,G8,métrico,,,2996.082176541351,3175.847107133832,efepe,Bulon G8 MA. 8 24 3.00 80
+109MA00000X0090,bulón,,8,,,G8,métrico,,,3356.866941255756,3558.278957731101,efepe,Bulon G8 MA. 8 24 3.00 90
+109MA00000X0100,bulón,,8,,,G8,métrico,,,3639.220235380072,3857.573449502876,efepe,Bulon G8 MA. 8 24 3.00 100
+109MA00000X0110,bulón,,8,,,G8,métrico,,,3921.5735295043855,4156.86794127465,efepe,Bulon G8 MA. 8 24 3.00 110
+109MA00000X0120,bulón,,8,,,G8,métrico,,,4196.083676569694,4447.848697163876,efepe,Bulon G8 MA. 8 24 3.00 120
+109MA00000X0130,bulón,,8,,,G8,métrico,,,4392.162353044913,4655.692094227608,efepe,Bulon G8 MA. 8 24 3.00 130
+109MA00000X0140,bulón,,8,,,G8,métrico,,,4666.672500110221,4946.6728501168345,efepe,Bulon G8 MA. 8 24 3.00 140
+109MA00000X0150,bulón,,8,,,G8,métrico,,,3952.9461177404223,4190.122884804848,efepe,Bulon G8 MA. 8 24 3.00 150
+109MA00000X0160,bulón,,8,,,G8,métrico,,,5372.555735421012,5694.909079546273,efepe,Bulon G8 MA. 8 24 3.00 160
+109MA00000X0170,bulón,,8,,,G8,métrico,,,5789.668556286477,6137.048669663665,efepe,Bulon G8 MA. 8 24 3.00 170
+109MA00000X0180,bulón,,8,,,G8,métrico,,,4863.32158728064,5155.120882517479,efepe,Bulon G8 MA. 8 24 3.00 180
+109MA00000X0190,bulón,,8,,,G8,métrico,,,6368.635411915124,6750.753536630031,efepe,Bulon G8 MA. 8 24 3.00 190
+109MA00000X0200,bulón,,8,,,G8,métrico,,,6658.118839729448,7057.605970113215,efepe,Bulon G8 MA. 8 24 3.00 200
+110MB00000Q0020,bulón,,8,,,G8,métrico,,,187.329828195404,198.56961788712823,efepe,Bulon G8 MB. 8 10 1.25 20
+110MB00000Q0025,bulón,,8,,,G8,métrico,,,207.5162320957708,219.96720602151703,efepe,Bulon G8 MB. 8 10 1.25 25
+110MB00000Q0030,bulón,,8,,,G8,métrico,,,221.08129835720004,234.34617625863208,efepe,Bulon G8 MB. 8 10 1.25 30
+110MB00000Q0035,bulón,,8,,,G8,métrico,,,249.15032326808003,264.09934266416485,efepe,Bulon G8 MB. 8 10 1.25 35
+110MB00000Q0040,bulón,,8,,,G8,métrico,,,294.5979392388048,312.27381559313307,efepe,Bulon G8 MB. 8 10 1.25 40
+110MB00000Q0045,bulón,,8,,,G8,métrico,,,308.3945369442033,326.8982091608555,efepe,Bulon G8 MB. 8 10 1.25 45
+110MB00000Q0050,bulón,,8,,,G8,métrico,,,327.39650292556007,347.04029310109365,efepe,Bulon G8 MB. 8 10 1.25 50
+110MB00000Q0055,bulón,,8,,,G8,métrico,,,279.12344191025846,295.870848424874,efepe,Bulon G8 MB. 8 10 1.25 55
+110MB00000Q0060,bulón,,8,,,G8,métrico,,,373.59844251116215,396.0143490618319,efepe,Bulon G8 MB. 8 10 1.25 60
+110MB00000Q0065,bulón,,8,,,G8,métrico,,,412.88630191488,437.6594800297728,efepe,Bulon G8 MB. 8 10 1.25 65
+110MB00000Q0070,bulón,,8,,,G8,métrico,,,436.8448880994959,463.0555813854656,efepe,Bulon G8 MB. 8 10 1.25 70
+110MB00000Q0075,bulón,,8,,,G8,métrico,,,448.8241811918039,475.75363206331207,efepe,Bulon G8 MB. 8 10 1.25 75
+110MB00000Q0080,bulón,,8,,,G8,métrico,,,497.5399731005227,527.392371486554,efepe,Bulon G8 MB. 8 10 1.25 80
+110MB00000Q0090,bulón,,8,,,G8,métrico,,,437.6435076389831,463.9021180973221,efepe,Bulon G8 MB. 8 10 1.25 90
+110MB00000Q0100,bulón,,8,,,G8,métrico,,,620.5273821815508,657.7590251124439,efepe,Bulon G8 MB. 8 10 1.25 100
+110MB00000Q0110,bulón,,8,,,G8,métrico,,,536.0334349038055,568.1954409980339,efepe,Bulon G8 MB. 8 10 1.25 110
+110MB00000Q0120,bulón,,8,,,G8,métrico,,,575.0060684307807,609.5064325366276,efepe,Bulon G8 MB. 8 10 1.25 120
+110MB00000Q0130,bulón,,8,,,G8,métrico,,,723.5193076753244,766.9304661358439,efepe,Bulon G8 MB. 8 10 1.25 130
+110MB00000Q0140,bulón,,8,,,G8,métrico,,,620.8985715449744,658.1524858376729,efepe,Bulon G8 MB. 8 10 1.25 140
+110MB00000Q0150,bulón,,8,,,G8,métrico,,,724.3816668024701,767.8445668106183,efepe,Bulon G8 MB. 8 10 1.25 150
+110MB00000R0020,bulón,,8,,,G8,métrico,,,201.6542693399776,213.75352550037624,efepe,Bulon G8 MB. 8 12 1.25 20
+110MB00000R0025,bulón,,8,,,G8,métrico,,,279.5661461304234,296.3401148982488,efepe,Bulon G8 MB. 8 12 1.25 25
+110MB00000R0030,bulón,,8,,,G8,métrico,,,307.0644555858749,325.4883229210275,efepe,Bulon G8 MB. 8 12 1.25 30
+110MB00000R0035,bulón,,8,,,G8,métrico,,,341.28010664492,361.7569130436152,efepe,Bulon G8 MB. 8 12 1.25 35
+110MB00000R0040,bulón,,8,,,G8,métrico,,,369.6509490279601,391.83000596963774,efepe,Bulon G8 MB. 8 12 1.25 40
+110MB00000R0045,bulón,,8,,,G8,métrico,,,418.0019170442756,443.0820320669321,efepe,Bulon G8 MB. 8 12 1.25 45
+110MB00000R0050,bulón,,8,,,G8,métrico,,,453.0953615722465,480.2810832665813,efepe,Bulon G8 MB. 8 12 1.25 50
+110MB00000R0055,bulón,,8,,,G8,métrico,,,511.0524347349199,541.7155808190151,efepe,Bulon G8 MB. 8 12 1.25 55
+110MB00000R0060,bulón,,8,,,G8,métrico,,,546.9730531507929,579.7914363398405,efepe,Bulon G8 MB. 8 12 1.25 60
+110MB00000R0065,bulón,,8,,,G8,métrico,,,573.9135169626976,608.3483279804594,efepe,Bulon G8 MB. 8 12 1.25 65
+110MB00000R0070,bulón,,8,,,G8,métrico,,,594.5804201552,630.255245364512,efepe,Bulon G8 MB. 8 12 1.25 70
+110MB00000R0075,bulón,,8,,,G8,métrico,,,503.68204802437833,533.902970905841,efepe,Bulon G8 MB. 8 12 1.25 75
+110MB00000R0080,bulón,,8,,,G8,métrico,,,641.541925897043,680.0344414508656,efepe,Bulon G8 MB. 8 12 1.25 80
+110MB00000R0090,bulón,,8,,,G8,métrico,,,741.4900747290801,785.9794792128249,efepe,Bulon G8 MB. 8 12 1.25 90
+110MB00000R0100,bulón,,8,,,G8,métrico,,,782.1625260855274,829.092277650659,efepe,Bulon G8 MB. 8 12 1.25 100
+110MB00000R0110,bulón,,8,,,G8,métrico,,,703.6875581798851,745.9088116706781,efepe,Bulon G8 MB. 8 12 1.25 110
+110MB00000R0120,bulón,,8,,,G8,métrico,,,953.44139455344,1010.6478782266464,efepe,Bulon G8 MB. 8 12 1.25 120
+110MB00000R0130,bulón,,8,,,G8,métrico,,,1038.17664986236,1100.467248854102,efepe,Bulon G8 MB. 8 12 1.25 130
+110MB00000R0140,bulón,,8,,,G8,métrico,,,868.8739961924986,921.0064359640484,efepe,Bulon G8 MB. 8 12 1.25 140
+110MB00000R0150,bulón,,8,,,G8,métrico,,,926.3730106464136,981.9553912851984,efepe,Bulon G8 MB. 8 12 1.25 150
+110MB00000R1020,bulón,,8,,,G8,métrico,,,253.55654245831872,268.76993500581784,efepe,Bulon G8 MB. 8 12 1.50 20
+110MB00000R1025,bulón,,8,,,G8,métrico,,,275.86116955424006,292.4128397274945,efepe,Bulon G8 MB. 8 12 1.50 25
+110MB00000R1030,bulón,,8,,,G8,métrico,,,312.83380989384005,331.60383848747045,efepe,Bulon G8 MB. 8 12 1.50 30
+110MB00000R1035,bulón,,8,,,G8,métrico,,,341.58192411708006,362.0768395641049,efepe,Bulon G8 MB. 8 12 1.50 35
+110MB00000R1040,bulón,,8,,,G8,métrico,,,373.6090068000001,396.0255472080001,efepe,Bulon G8 MB. 8 12 1.50 40
+110MB00000R1045,bulón,,8,,,G8,métrico,,,417.5630076,442.616788056,efepe,Bulon G8 MB. 8 12 1.50 45
+110MB00000R1050,bulón,,8,,,G8,métrico,,,449.1798529421201,476.1306441186473,efepe,Bulon G8 MB. 8 12 1.50 50
+110MB00000R1055,bulón,,8,,,G8,métrico,,,385.8726253462508,409.0249828670258,efepe,Bulon G8 MB. 8 12 1.50 55
+110MB00000R1060,bulón,,8,,,G8,métrico,,,501.8081758,531.9166663479999,efepe,Bulon G8 MB. 8 12 1.50 60
+110MB00000R1065,bulón,,8,,,G8,métrico,,,534.7736764,566.8600969839999,efepe,Bulon G8 MB. 8 12 1.50 65
+110MB00000R1070,bulón,,8,,,G8,métrico,,,581.7531775884,616.658368243704,efepe,Bulon G8 MB. 8 12 1.50 70
+110MB00000R1075,bulón,,8,,,G8,métrico,,,614.9100944457698,651.804700112516,efepe,Bulon G8 MB. 8 12 1.50 75
+110MB00000R1080,bulón,,8,,,G8,métrico,,,648.0670113031397,686.951031981328,efepe,Bulon G8 MB. 8 12 1.50 80
+110MB00000R1090,bulón,,8,,,G8,métrico,,,706.9268462000001,749.3424569720002,efepe,Bulon G8 MB. 8 12 1.50 90
+110MB00000R1100,bulón,,8,,,G8,métrico,,,807.4371923960402,855.8834239398027,efepe,Bulon G8 MB. 8 12 1.50 100
+110MB00000R1110,bulón,,8,,,G8,métrico,,,895.3758965183811,949.098450309484,efepe,Bulon G8 MB. 8 12 1.50 110
+110MB00000R1120,bulón,,8,,,G8,métrico,,,943.5458838400002,1000.1586368704002,efepe,Bulon G8 MB. 8 12 1.50 120
+110MB00000R1130,bulón,,8,,,G8,métrico,,,1018.2676852,1079.363746312,efepe,Bulon G8 MB. 8 12 1.50 130
+110MB00000R1140,bulón,,8,,,G8,métrico,,,1118.00737124868,1185.087813523601,efepe,Bulon G8 MB. 8 12 1.50 140
+110MB00000R1150,bulón,,8,,,G8,métrico,,,1222.81348845624,1296.1822977636143,efepe,Bulon G8 MB. 8 12 1.50 150
+110MB00000S0020,bulón,,8,,,G8,métrico,,,335.2225127680001,355.33586353408015,efepe,Bulon G8 MB. 8 14 1.50 20
+110MB00000S0025,bulón,,8,,,G8,métrico,,,363.3812038405121,385.18407607094287,efepe,Bulon G8 MB. 8 14 1.50 25
+110MB00000S0030,bulón,,8,,,G8,métrico,,,496.96737517856,526.7854176892736,efepe,Bulon G8 MB. 8 14 1.50 30
+110MB00000S0035,bulón,,8,,,G8,métrico,,,506.932626239936,537.3485838143322,efepe,Bulon G8 MB. 8 14 1.50 35
+110MB00000S0040,bulón,,8,,,G8,métrico,,,519.4279938823462,550.5936735152869,efepe,Bulon G8 MB. 8 14 1.50 40
+110MB00000S0045,bulón,,8,,,G8,métrico,,,557.6774779679386,591.1381266460148,efepe,Bulon G8 MB. 8 14 1.50 45
+110MB00000S0050,bulón,,8,,,G8,métrico,,,646.4162810465132,685.201257909304,efepe,Bulon G8 MB. 8 14 1.50 50
+110MB00000S0055,bulón,,8,,,G8,métrico,,,689.2557032223767,730.6110454157193,efepe,Bulon G8 MB. 8 14 1.50 55
+110MB00000S0060,bulón,,8,,,G8,métrico,,,732.0951253982406,776.020832922135,efepe,Bulon G8 MB. 8 14 1.50 60
+110MB00000S0065,bulón,,8,,,G8,métrico,,,618.1116628231748,655.1983625925653,efepe,Bulon G8 MB. 8 14 1.50 65
+110MB00000S0070,bulón,,8,,,G8,métrico,,,818.5389594316796,867.6512969975804,efepe,Bulon G8 MB. 8 14 1.50 70
+110MB00000S0075,bulón,,8,,,G8,métrico,,,860.6133919258313,912.2501954413812,efepe,Bulon G8 MB. 8 14 1.50 75
+110MB00000S0080,bulón,,8,,,G8,métrico,,,902.6878244199828,956.849093885182,efepe,Bulon G8 MB. 8 14 1.50 80
+110MB00000S0090,bulón,,8,,,G8,métrico,,,972.15407782736,1030.4833224970016,efepe,Bulon G8 MB. 8 14 1.50 90
+110MB00000S0100,bulón,,8,,,G8,métrico,,,1086.9201716162002,1152.135381913172,efepe,Bulon G8 MB. 8 14 1.50 100
+110MB00000S0110,bulón,,8,,,G8,métrico,,,1180.0847577547318,1250.8898432200156,efepe,Bulon G8 MB. 8 14 1.50 110
+110MB00000S0120,bulón,,8,,,G8,métrico,,,1281.013059404807,1357.8738429690957,efepe,Bulon G8 MB. 8 14 1.50 120
+110MB00000S0130,bulón,,8,,,G8,métrico,,,1316.2259960897602,1395.1995558551455,efepe,Bulon G8 MB. 8 14 1.50 130
+110MB00000S0140,bulón,,8,,,G8,métrico,,,1125.1851943715894,1192.6963060338849,efepe,Bulon G8 MB. 8 14 1.50 140
+110MB00000S0150,bulón,,8,,,G8,métrico,,,1504.25828124544,1594.5137781201663,efepe,Bulon G8 MB. 8 14 1.50 150
+110MB00000T0025,bulón,,8,,,G8,métrico,,,519.0698815129663,550.2140744037442,efepe,Bulon G8 MB. 8 16 1.50 25
+110MB00000T0030,bulón,,8,,,G8,métrico,,,569.887911870879,604.0811865831317,efepe,Bulon G8 MB. 8 16 1.50 30
+110MB00000T0035,bulón,,8,,,G8,métrico,,,619.2539985042799,656.4092384145367,efepe,Bulon G8 MB. 8 16 1.50 35
+110MB00000T0040,bulón,,8,,,G8,métrico,,,654.826619754819,694.1162169401082,efepe,Bulon G8 MB. 8 16 1.50 40
+110MB00000T0045,bulón,,8,,,G8,métrico,,,761.1836647875201,806.8546846747713,efepe,Bulon G8 MB. 8 16 1.50 45
+110MB00000T0050,bulón,,8,,,G8,métrico,,,804.9478179991228,853.2446870790701,efepe,Bulon G8 MB. 8 16 1.50 50
+110MB00000T0055,bulón,,8,,,G8,métrico,,,898.7281463097002,952.6518350882822,efepe,Bulon G8 MB. 8 16 1.50 55
+110MB00000T0060,bulón,,8,,,G8,métrico,,,961.2483651834184,1018.9232670944236,efepe,Bulon G8 MB. 8 16 1.50 60
+110MB00000T0070,bulón,,8,,,G8,métrico,,,1086.288802930855,1151.466131106706,efepe,Bulon G8 MB. 8 16 1.50 70
+110MB00000T0075,bulón,,8,,,G8,métrico,,,1148.809021804573,1217.7375631128473,efepe,Bulon G8 MB. 8 16 1.50 75
+110MB00000T0080,bulón,,8,,,G8,métrico,,,1211.3292406782916,1284.008995118989,efepe,Bulon G8 MB. 8 16 1.50 80
+110MB00000T0090,bulón,,8,,,G8,métrico,,,1141.7527349656707,1210.257899063611,efepe,Bulon G8 MB. 8 16 1.50 90
+110MB00000T0100,bulón,,8,,,G8,métrico,,,1228.552650489377,1302.2658095187394,efepe,Bulon G8 MB. 8 16 1.50 100
+110MB00000T0110,bulón,,8,,,G8,métrico,,,1275.291066540603,1351.8085305330392,efepe,Bulon G8 MB. 8 16 1.50 110
+110MB00000T0120,bulón,,8,,,G8,métrico,,,1315.3525660130824,1394.2737199738674,efepe,Bulon G8 MB. 8 16 1.50 120
+110MB00000T0130,bulón,,8,,,G8,métrico,,,1491.3803667254926,1580.863188729022,efepe,Bulon G8 MB. 8 16 1.50 130
+110MB00000T0140,bulón,,8,,,G8,métrico,,,1988.5071556339904,2107.81758497203,efepe,Bulon G8 MB. 8 16 1.50 140
+110MB00000T0150,bulón,,8,,,G8,métrico,,,1683.1292710187706,1784.1170272798968,efepe,Bulon G8 MB. 8 16 1.50 150
+110MB00000U0025,bulón,,8,,,G8,métrico,,,784.7254276159999,831.8089532729599,efepe,Bulon G8 MB. 8 18 1.50 25
+110MB00000U0030,bulón,,8,,,G8,métrico,,,678.0027694602239,718.6829356278374,efepe,Bulon G8 MB. 8 18 1.50 30
+110MB00000U0035,bulón,,8,,,G8,métrico,,,918.12875031072,973.2164753293632,efepe,Bulon G8 MB. 8 18 1.50 35
+110MB00000U0040,bulón,,8,,,G8,métrico,,,784.725427616,831.80895327296,efepe,Bulon G8 MB. 8 18 1.50 40
+110MB00000U0045,bulón,,8,,,G8,métrico,,,1051.5320730054402,1114.6239973857666,efepe,Bulon G8 MB. 8 18 1.50 45
+110MB00000U0050,bulón,,8,,,G8,métrico,,,1075.0738358339204,1139.5782659839556,efepe,Bulon G8 MB. 8 18 1.50 50
+110MB00000U0060,bulón,,8,,,G8,métrico,,,1326.1859726710402,1405.7571310313026,efepe,Bulon G8 MB. 8 18 1.50 60
+110MB00000U0070,bulón,,8,,,G8,métrico,,,1483.13105819424,1572.1189216858943,efepe,Bulon G8 MB. 8 18 1.50 70
+110MB00000U0080,bulón,,8,,,G8,métrico,,,1640.0761437174403,1738.480712340487,efepe,Bulon G8 MB. 8 18 1.50 80
+110MB00000U0090,bulón,,8,,,G8,métrico,,,1535.3191084774403,1627.438254986087,efepe,Bulon G8 MB. 8 18 1.50 90
+110MB00000U0100,bulón,,8,,,G8,métrico,,,1582.2502602649606,1677.1852758808582,efepe,Bulon G8 MB. 8 18 1.50 100
+110MB00000U0110,bulón,,8,,,G8,métrico,,,1912.4664123418404,2027.2143970823508,efepe,Bulon G8 MB. 8 18 1.50 110
+110MB00000U0120,bulón,,8,,,G8,métrico,,,1548.406541076768,1641.3109335413742,efepe,Bulon G8 MB. 8 18 1.50 120
+110MB00000U0130,bulón,,8,,,G8,métrico,,,1652.8625378954384,1752.0342901691647,efepe,Bulon G8 MB. 8 18 1.50 130
+110MB00000U0140,bulón,,8,,,G8,métrico,,,1751.1740643130108,1856.2445081717915,efepe,Bulon G8 MB. 8 18 1.50 140
+110MB00000U0150,bulón,,8,,,G8,métrico,,,2311.8569884132294,2450.568407718023,efepe,Bulon G8 MB. 8 18 1.50 150
+110MB00000V0030,bulón,,8,,,G8,métrico,,,1084.1986864,1149.250607584,efepe,Bulon G8 MB. 8 20 1.50 30
+110MB00000V0040,bulón,,8,,,G8,métrico,,,1156.6805698598866,1226.08140405148,efepe,Bulon G8 MB. 8 20 1.50 40
+110MB00000V0045,bulón,,8,,,G8,métrico,,,1227.6425680108,1301.301122091448,efepe,Bulon G8 MB. 8 20 1.50 45
+110MB00000V0050,bulón,,8,,,G8,métrico,,,1312.796965791896,1391.56478373941,efepe,Bulon G8 MB. 8 20 1.50 50
+110MB00000V0060,bulón,,8,,,G8,métrico,,,1129.71501056254,1197.4979111962923,efepe,Bulon G8 MB. 8 20 1.50 60
+110MB00000V0065,bulón,,8,,,G8,métrico,,,1617.9335578408236,1715.009571311273,efepe,Bulon G8 MB. 8 20 1.50 65
+110MB00000V0070,bulón,,8,,,G8,métrico,,,1703.0879556219193,1805.2732329592343,efepe,Bulon G8 MB. 8 20 1.50 70
+110MB00000V0080,bulón,,8,,,G8,métrico,,,1504.394360799362,1594.6580224473237,efepe,Bulon G8 MB. 8 20 1.50 80
+110MB00000V0090,bulón,,8,,,G8,métrico,,,1710.2530505808472,1812.868233615698,efepe,Bulon G8 MB. 8 20 1.50 90
+110MB00000V0100,bulón,,8,,,G8,métrico,,,1851.7912340771927,1962.8987081218247,efepe,Bulon G8 MB. 8 20 1.50 100
+110MB00000V0110,bulón,,8,,,G8,métrico,,,2351.597944548665,2492.693821221585,efepe,Bulon G8 MB. 8 20 1.50 110
+110MB00000V0120,bulón,,8,,,G8,métrico,,,2067.570824571037,2191.6250740453,efepe,Bulon G8 MB. 8 20 1.50 120
+110MB00000V0130,bulón,,8,,,G8,métrico,,,3004.5174809847604,3184.788529843846,efepe,Bulon G8 MB. 8 20 1.50 130
+110MB00000V0140,bulón,,8,,,G8,métrico,,,2929.1385673128007,3104.8868813515687,efepe,Bulon G8 MB. 8 20 1.50 140
+110MB00000V0150,bulón,,8,,,G8,métrico,,,3090.0802468354814,3275.48506164561,efepe,Bulon G8 MB. 8 20 1.50 150
+112MA00000K0000,tuerca,autofrenante,5,,,,métrico,,natural,13.70809010844,14.5305755149464,efepe,Tca autofrenante MA 5 0.80
+112MA00000M0000,tuerca,autofrenante,6,,,,métrico,,natural,15.201050417280005,16.113113442316802,efepe,Tca autofrenante MA 6 1.00
+112MA00000O0000,tuerca,autofrenante,7,,,,métrico,,natural,27.8233512102,29.492752282812003,efepe,Tca autofrenante MA 7 1.00
+112MA00000P0000,tuerca,autofrenante,8,,,,métrico,,natural,31.962922975620003,33.880698354157204,efepe,Tca autofrenante MA 8 1.25
+112MA00000Q0000,tuerca,autofrenante,10,,,,métrico,,natural,72.06926581764,76.3934217666984,efepe,Tca autofrenante MA 10 1.50
+112MA00000R0000,tuerca,autofrenante,12,,,,métrico,,natural,106.67880024984,113.07952826483042,efepe,Tca autofrenante MA 12 1.75
+112MA00000S0000,tuerca,autofrenante,14,,,,métrico,,natural,161.25865154045582,170.93417063288317,efepe,Tca autofrenante MA 14 2.00
+112MA00000T0000,tuerca,autofrenante,16,,,,métrico,,natural,224.14763182266003,237.5964897320196,efepe,Tca autofrenante MA 16 2.00
+112MA00000U0000,tuerca,autofrenante,18,,,,métrico,,natural,237.33278663575769,251.57275383390316,efepe,Tca autofrenante MA 18 2.50
+112MA00000V0000,tuerca,autofrenante,20,,,,métrico,,natural,428.5175314256735,454.2285833112139,efepe,Tca autofrenante MA 20 2.50
+112MA00000W0000,tuerca,autofrenante,22,,,,métrico,,natural,464.50453653481617,492.37480872690514,efepe,Tca autofrenante MA 22 2.50
+112MA00000X0000,tuerca,autofrenante,24,,,,métrico,,natural,619.3393820464215,656.4997449692069,efepe,Tca autofrenante MA 24 3.00
+112MA00000Y0000,tuerca,autofrenante,27,,,,métrico,,natural,1330.6119536153592,1410.4486708322806,efepe,Tca autofrenante MA 27 3.00
+112MA00000Z0000,tuerca,autofrenante,30,,,,métrico,,natural,1461.253854515776,1548.929085786723,efepe,Tca autofrenante MA 30 3.00
+112NC00000H0000,tuerca,autofrenante,1/2,,12,,imperial,,natural,133.07705298342,141.0616761624252,efepe,Tca autofrenante MA 1/2 12
+112MB00000Q0000,tuerca,autofrenante,10,,,,métrico,,natural,78.38041621410001,83.08324118694601,efepe,Tca autofrenante MB 10 1.25
+112MB00000R0000,tuerca,autofrenante,12,,,,métrico,,natural,109.5968590353,116.172670577418,efepe,Tca autofrenante MB 12 1.25
+112MB00000R1000,tuerca,autofrenante,12,,,,métrico,,natural,118.5934932,125.709102792,efepe,Tca autofrenante MB 12 1.50
+112MB00000S0000,tuerca,autofrenante,14,,,,métrico,,natural,162.05405534136,171.7772986618416,efepe,Tca autofrenante MB 14 1.50
+112MB00000T0000,tuerca,autofrenante,16,,,,métrico,,natural,219.1937180706,232.345341154836,efepe,Tca autofrenante MB 16 1.50
+112MB00000U0000,tuerca,autofrenante,18,,,,métrico,,natural,303.2961205923408,321.4938878278812,efepe,Tca autofrenante MB 18 1.50
+112MB00000V0000,tuerca,autofrenante,20,,,,métrico,,natural,438.094396411159,464.3800601958285,efepe,Tca autofrenante MB 20 1.50
+112MB00000W0000,tuerca,autofrenante,22,,,,métrico,,natural,547.91643334428,580.7914193449368,efepe,Tca autofrenante MB 22 1.50
+112MB00000X0000,tuerca,autofrenante,24,,,,métrico,,natural,889.3293112431,942.689069917686,efepe,Tca autofrenante MB 24 2.00
+112NC00000C0000,tuerca,autofrenante,3/16,,24,,imperial,UNC,natural,24.70697775,26.189396415,efepe,Tca autofrenante UNC 3/16 24
+112NC00000D0000,tuerca,autofrenante,1/4,,20,,imperial,UNC,natural,27.34831838466,28.9892174877396,efepe,Tca autofrenante UNC 1/4 20
+112NC00000E0000,tuerca,autofrenante,5/16,,18,,imperial,UNC,natural,35.356014586620006,37.4773754618172,efepe,Tca autofrenante UNC 5/16 18
+112NC00000F0000,tuerca,autofrenante,3/8,,16,,imperial,UNC,natural,56.189597078160006,59.560972902849606,efepe,Tca autofrenante UNC 3/8 16
+112NC00000G0000,tuerca,autofrenante,7/16,,14,,imperial,UNC,natural,72.12601091939854,76.45357157456245,efepe,Tca autofrenante UNC 7/16 14
+112NC00000H1000,tuerca,autofrenante,1/2,,13,,imperial,UNC,natural,131.31264534570002,139.19140406644203,efepe,Tca autofrenante UNC 1/2 13
+112NC00000I0000,tuerca,autofrenante,9/16,,12,,imperial,UNC,natural,217.1734994708709,230.2039094391232,efepe,Tca autofrenante UNC 9/16 12
+112NC00000J0000,tuerca,autofrenante,5/8,,11,,imperial,UNC,natural,281.08370905524004,297.94873159855445,efepe,Tca autofrenante UNC 5/8 11
+112NC00000K0000,tuerca,autofrenante,3/4,,10,,imperial,UNC,natural,384.64086502296,407.7193169243377,efepe,Tca autofrenante UNC 3/4 10
+112NC00000L0000,tuerca,autofrenante,7/8,,9,,imperial,UNC,natural,614.4281669792691,651.2938569980253,efepe,Tca autofrenante UNC 7/8 9
+112NC00000M0000,tuerca,autofrenante,1,,8,,imperial,UNC,natural,873.1347636021189,925.522849418246,efepe,Tca autofrenante UNC 1 8
+112NF00000C0000,tuerca,autofrenante,3/16,,,,imperial,UNF,natural,24.70697775,26.189396415,efepe,Tca autofrenante UNF 3/16
+112NF00000D0000,tuerca,autofrenante,1/4,,28,,imperial,UNF,natural,26.354109600000005,27.93535617600001,efepe,Tca autofrenante UNF 1/4 28
+112NF00000E0000,tuerca,autofrenante,5/16,,24,,imperial,UNF,natural,36.3060802377,38.484445051962,efepe,Tca autofrenante UNF 5/16 24
+112NF00000F0000,tuerca,autofrenante,3/8,,24,,imperial,UNF,natural,54.49242868704332,57.76197440826592,efepe,Tca autofrenante UNF 3/8 24
+112NF00000G0000,tuerca,autofrenante,7/16,,20,,imperial,UNF,natural,66.77604290448,70.78260547874879,efepe,Tca autofrenante UNF 7/16 20
+112NF00000H0000,tuerca,autofrenante,1/2,,20,,imperial,UNF,natural,129.37858312743,137.1412981150758,efepe,Tca autofrenante UNF 1/2 20
+112NF00000I0000,tuerca,autofrenante,9/16,,18,,imperial,UNF,natural,219.05799440616,232.20147407052963,efepe,Tca autofrenante UNF 9/16 18
+112NF00000J0000,tuerca,autofrenante,5/8,,18,,imperial,UNF,natural,281.49088004856,298.38033285147355,efepe,Tca autofrenante UNF 5/8 18
+112NF00000K0000,tuerca,autofrenante,3/4,,16,,imperial,UNF,natural,403.1964860112,427.388275171872,efepe,Tca autofrenante UNF 3/4 16
+112NF00000L0000,tuerca,autofrenante,7/8,,14,,imperial,UNF,natural,676.6503290656199,717.2493488095571,efepe,Tca autofrenante UNF 7/8 14
+112NF00000M0000,tuerca,autofrenante,1,,14,,imperial,UNF,natural,1002.25140005718,1062.3864840606109,efepe,Tca autofrenante UNF 1 14
+114NCD0000C0000,tuerca,hexagonal,3/16,,24,,imperial,,natural,9.307281715200002,9.865718618112002,efepe,Tca Hexagonal NC - Dicro 3/16 24
+114NCD0000D0000,tuerca,hexagonal,1/4,,20,,imperial,,natural,17.742005769600002,18.806526115776,efepe,Tca Hexagonal NC - Dicro 1/4 20
+114NCD0000E0000,tuerca,hexagonal,5/16,,18,,imperial,,natural,25.5950247168,27.130726199808,efepe,Tca Hexagonal NC - Dicro 5/16 18
+114NCD0000F0000,tuerca,hexagonal,3/8,,16,,imperial,,natural,38.2471107984,40.541937446304,efepe,Tca Hexagonal NC - Dicro 3/8 16
+114NCD0000G0000,tuerca,hexagonal,7/16,,14,,imperial,,natural,65.85246349586778,69.80361130561985,efepe,Tca Hexagonal NC - Dicro 7/16 14
+114NCD0000H0000,tuerca,hexagonal,1/2,,12,,imperial,,natural,93.3636697056,98.965489887936,efepe,Tca Hexagonal NC - Dicro 1/2 12
+114NCD0000H1000,tuerca,hexagonal,1/2,,13,,imperial,,natural,93.3636697056,98.965489887936,efepe,Tca Hexagonal NC - Dicro 1/2 13
+114NCD0000I0000,tuerca,hexagonal,9/16,,12,,imperial,,natural,141.44513629120004,149.93184446867204,efepe,Tca Hexagonal NC - Dicro 9/16 12
+114NCD0000J0000,tuerca,hexagonal,5/8,,11,,imperial,,natural,174.07525332959997,184.519768529376,efepe,Tca Hexagonal NC - Dicro 5/8 11
+114NCD0000K0000,tuerca,hexagonal,3/4,,10,,imperial,,natural,292.7430951984,310.307680910304,efepe,Tca Hexagonal NC - Dicro 3/4 10
+114NCD0000L0000,tuerca,hexagonal,7/8,,9,,imperial,,natural,481.7245419000001,510.6280144140001,efepe,Tca Hexagonal NC - Dicro 7/8 9
+114NCD0000M0000,tuerca,hexagonal,1,,,,métrico,,natural,711.1344935520001,753.8025631651201,efepe,Tca Hexagonal NC - Dicro 1 8
+114NCD0000O0000,tuerca,hexagonal,1/4,,7,,imperial,,natural,1628.410734468,1726.11537853608,efepe,Tca Hexagonal NC - Dicro 1 1/4 7
+114NCD0000Q0000,tuerca,hexagonal,1/2,,6,,imperial,,natural,2844.901539900001,3015.595632294001,efepe,Tca Hexagonal NC - Dicro 1 1/2 6
+114NCG0000B0000,tuerca,hexagonal,5/32,,32,,imperial,,natural,12.354174,13.09542444,efepe,Tca Hexagonal NC - Galva 5/32 32
+114NCG0000C0000,tuerca,hexagonal,3/16,,24,,imperial,,natural,17.648820000000004,18.70774920000001,efepe,Tca Hexagonal NC - Galva 3/16 24
+114NCG0000D0000,tuerca,hexagonal,1/4,,20,,imperial,,natural,18.832702845600004,19.962665016336004,efepe,Tca Hexagonal NC - Galva 1/4 20
+114NCG0000E0000,tuerca,hexagonal,5/16,,18,,imperial,,natural,25.449598440000003,26.976574346400003,efepe,Tca Hexagonal NC - Galva 5/16 18
+114NCG0000F0000,tuerca,hexagonal,3/8,,16,,imperial,,natural,37.66540569120001,39.92533003267201,efepe,Tca Hexagonal NC - Galva 3/8 16
+114NCG0000G0000,tuerca,hexagonal,7/16,,14,,imperial,,natural,64.8601194528,68.75172661996801,efepe,Tca Hexagonal NC - Galva 7/16 14
+114NCG0000H0000,tuerca,hexagonal,1/2,,12,,imperial,,natural,93.3636697056,98.965489887936,efepe,Tca Hexagonal NC - Galva 1/2 12
+114NCG0000H1000,tuerca,hexagonal,1/2,,13,,imperial,,natural,93.3636697056,98.965489887936,efepe,Tca Hexagonal NC - Galva 1/2 13
+114NCG0000I0000,tuerca,hexagonal,9/16,,12,,imperial,,natural,138.30038923680002,146.598412591008,efepe,Tca Hexagonal NC - Galva 9/16 12
+114NCG0000J0000,tuerca,hexagonal,5/8,,11,,imperial,,natural,171.60300662400002,181.89918702144,efepe,Tca Hexagonal NC - Galva 5/8 11
+114NCG0000K0000,tuerca,hexagonal,3/4,,10,,imperial,,natural,288.5984463096,305.914353088176,efepe,Tca Hexagonal NC - Galva 3/4 10
+114NCG0000L0000,tuerca,hexagonal,7/8,,9,,imperial,,natural,488.3414374944,517.641923744064,efepe,Tca Hexagonal NC - Galva 7/8 9
+114NCG0000M0000,tuerca,hexagonal,1,,,,métrico,,natural,711.1344935520001,753.8025631651201,efepe,Tca Hexagonal NC - Galva 1 8
+114NCG0000N0000,tuerca,hexagonal,,,1 1/8,,imperial,,natural,1050.7048498800002,1113.7471408728002,efepe,Tca Hexagonal NC - Galva 1 1/8
+114NCG0000O0000,tuerca,hexagonal,,,1 1/4,,imperial,,natural,1571.4763471008005,1665.7649279268485,efepe,Tca Hexagonal NC - Galva 1 1/4
+114NCG0000Q0000,tuerca,hexagonal,,,1 1/2,,imperial,,natural,2764.4080956912007,2930.2725814326727,efepe,Tca Hexagonal NC - Galva 1 1/2
+114NCG0000R0000,tuerca,hexagonal,,,1 3/4,,imperial,,natural,5222.848659771345,5536.219579357627,efepe,Tca Hexagonal NC - Galva 1 3/4
+114NCG0000S0000,tuerca,hexagonal,2,,,,métrico,,natural,7293.345920935199,7730.946676191312,efepe,Tca Hexagonal NC - Galva 2
+114NCP0000C0000,tuerca,hexagonal,3/16,,24,,imperial,,natural,14.909723136000004,15.804306524160005,efepe,Tca Hexagonal NC - Pulido 3/16 24
+114NCP0000D0000,tuerca,hexagonal,1/4,,20,,imperial,,natural,20.359678752,21.58125947712,efepe,Tca Hexagonal NC - Pulido 1/4 20
+114NCP0000E0000,tuerca,hexagonal,5/16,,18,,imperial,,natural,23.8499093952,25.280903958912003,efepe,Tca Hexagonal NC - Pulido 5/16 18
+114NCP0000F0000,tuerca,hexagonal,3/8,,16,,imperial,,natural,34.97501957040001,37.073520744624005,efepe,Tca Hexagonal NC - Pulido 3/8 16
+114NCP0000G0000,tuerca,hexagonal,7/16,,14,,imperial,,natural,48.17495808595043,51.06545557110746,efepe,Tca Hexagonal NC - Pulido 7/16 14
+114NCP0000H0000,tuerca,hexagonal,1/2,,12,,imperial,,natural,86.60134783440002,91.797428704464,efepe,Tca Hexagonal NC - Pulido 1/2 12
+114NCP0000H1000,tuerca,hexagonal,1/2,,13,,imperial,,natural,86.60134783440002,91.797428704464,efepe,Tca Hexagonal NC - Pulido 1/2 13
+114NCP0000I0000,tuerca,hexagonal,9/16,,12,,imperial,,natural,131.2002782888,139.072294986128,efepe,Tca Hexagonal NC - Pulido 9/16 12
+114NCP0000J0000,tuerca,hexagonal,5/8,,11,,imperial,,natural,162.1038750762667,171.83010758084268,efepe,Tca Hexagonal NC - Pulido 5/8 11
+114NCP0000K0000,tuerca,hexagonal,3/4,,10,,imperial,,natural,272.63387281200005,288.99190518072004,efepe,Tca Hexagonal NC - Pulido 3/4 10
+114NCP0000L0000,tuerca,hexagonal,7/8,,9,,imperial,,natural,351.0078380420268,372.0683083245484,efepe,Tca Hexagonal NC - Pulido 7/8 9
+114NCP0000M0000,tuerca,hexagonal,1,,,,métrico,,natural,647.7536440312,686.618862673072,efepe,Tca Hexagonal NC - Pulido 1 8
+114NCP0000N0000,tuerca,hexagonal,,,1 1/8,,imperial,,natural,774.9592868209234,821.4568440301788,efepe,Tca Hexagonal NC - Pulido 1 1/8
+114NCP0000O0000,tuerca,hexagonal,,,1 1/4,,imperial,,natural,1529.6662925208004,1621.4462700720485,efepe,Tca Hexagonal NC - Pulido 1 1/4
+114NCP0000Q0000,tuerca,hexagonal,,,1 1/2,,imperial,,natural,2599.3492715232005,2755.3102278145925,efepe,Tca Hexagonal NC - Pulido 1 1/2
+114NFD0000D0000,tuerca,hexagonal,1/4,,28,,imperial,,natural,20.068826198400004,21.272955770304005,efepe,Tca Hexagonal NF 1/4 28
+114NFD0000E0000,tuerca,hexagonal,5/16,,24,,imperial,,natural,30.16480011415952,31.97468812100909,efepe,Tca Hexagonal NF 5/16 24
+114NFD0000F0000,tuerca,hexagonal,3/8,,24,,imperial,,natural,44.6931528222037,47.37474199153592,efepe,Tca Hexagonal NF 3/8 24
+114NFD0000G0000,tuerca,hexagonal,7/16,,20,,imperial,,natural,68.64120264960002,72.75967480857602,efepe,Tca Hexagonal NF 7/16 20
+114NFD0000H0000,tuerca,hexagonal,1/2,,20,,imperial,,natural,93.3636697056,98.965489887936,efepe,Tca Hexagonal NF 1/2 20
+114NFD0000I0000,tuerca,hexagonal,9/16,,18,,imperial,,natural,144.0447271704,152.68741080062398,efepe,Tca Hexagonal NF 9/16 18
+114NFD0000J0000,tuerca,hexagonal,5/8,,18,,imperial,,natural,183.60067446,194.6167149276,efepe,Tca Hexagonal NF 5/8 18
+114NFD0000K0000,tuerca,hexagonal,3/4,,16,,imperial,,natural,308.8126987848,327.341460711888,efepe,Tca Hexagonal NF 3/4 16
+114NFD0000L0000,tuerca,hexagonal,7/8,,14,,imperial,,natural,514.3000279032001,545.1580295773921,efepe,Tca Hexagonal NF 7/8 14
+114NFD0000M0000,tuerca,hexagonal,1,,,,métrico,,natural,798.6083990472001,846.5249029900322,efepe,Tca Hexagonal NF 1 14
+115MAD0000D0000,tuerca,hexagonal,3,,,,métrico,,natural,4.362788304,4.62455560224,efepe,Tca Hexagonal MA 3 0.50
+115MAD0000G0000,tuerca,hexagonal,4,,,,métrico,,natural,6.527981625688074,6.919660523229359,efepe,Tca Hexagonal MA 4 0.70
+115MAD0000K0000,tuerca,hexagonal,5,,,,métrico,,natural,9.250356444770642,9.80537783145688,efepe,Tca Hexagonal MA 5 0.80
+115MAD0000M0000,tuerca,hexagonal,6,,,,métrico,,natural,11.28340181724771,11.960405926282574,efepe,Tca Hexagonal MA 6 1.00
+115MAD0000O0000,tuerca,hexagonal,7,,,,métrico,,natural,15.857753905321108,16.809219139640373,efepe,Tca Hexagonal MA 7 1.00
+115MAD0000P0000,tuerca,hexagonal,8,,,,métrico,,natural,23.8499093952,25.280903958912003,efepe,Tca Hexagonal MA 8 1.25
+115MAD0000Q0000,tuerca,hexagonal,10,,,,métrico,,natural,52.77426759788936,55.94072365376272,efepe,Tca Hexagonal MA 10 1.50
+115MAD0000R0000,tuerca,hexagonal,12,,,,métrico,,natural,78.38476319520001,83.08784898691201,efepe,Tca Hexagonal MA 12 1.75
+115MAD0000S0000,tuerca,hexagonal,14,,,,métrico,,natural,124.5576060792,132.031062443952,efepe,Tca Hexagonal MA 14 2.00
+115MAD0000T0000,tuerca,hexagonal,16,,,,métrico,,natural,169.951933628064,180.14904964574785,efepe,Tca Hexagonal MA 16 2.00
+115MAD0000U0000,tuerca,hexagonal,18,,,,métrico,,natural,237.9901019832,252.269508102192,efepe,Tca Hexagonal MA 18 2.50
+115MAD0000V0000,tuerca,hexagonal,20,,,,métrico,,natural,318.04131810482187,337.1237971911112,efepe,Tca Hexagonal MA 20 2.50
+115MAD0000W0000,tuerca,hexagonal,22,,,,métrico,,natural,411.8472158976001,436.5580488514561,efepe,Tca Hexagonal MA 22 2.50
+115MAD0000X0000,tuerca,hexagonal,24,,,,métrico,,natural,533.2054438872,565.197770520432,efepe,Tca Hexagonal MA 24 3.00
+115MAD0000Y0000,tuerca,hexagonal,27,,,,métrico,,natural,937.9267722216002,994.2023785548962,efepe,Tca Hexagonal MA 27 3.00
+115MAD0000Z0000,tuerca,hexagonal,30,,,,métrico,,natural,1411.9056,1496.619936,efepe,Tca Hexagonal MA 30 3.50
+115MBD0000Q0000,tuerca,hexagonal,10,,,,métrico,,natural,56.570821675200015,59.96507097571202,efepe,Tca Hexagonal MB 10 1.25
+115MBD0000R0000,tuerca,hexagonal,12,,,,métrico,,natural,84.05638799040001,89.09977126982402,efepe,Tca Hexagonal MB 12 1.25
+115MBD0000R1000,tuerca,hexagonal,12,,,,métrico,,natural,84.05638799040001,89.09977126982402,efepe,Tca Hexagonal MB 12 1.50
+115MBD0000S0000,tuerca,hexagonal,14,,,,métrico,,natural,123.97590097200003,131.41445503032006,efepe,Tca Hexagonal MB 14 1.50
+115MBD0000T0000,tuerca,hexagonal,16,,,,métrico,,natural,177.27463141920006,187.91110930435207,efepe,Tca Hexagonal MB 16 1.50
+115MBD0000U0000,tuerca,hexagonal,18,,,,métrico,,natural,268.0933412808,284.17894175764803,efepe,Tca Hexagonal MB 18 1.50
+115MBD0000V0000,tuerca,hexagonal,20,,,,métrico,,natural,358.2701924388873,379.76640398522056,efepe,Tca Hexagonal MB 20 1.50
+115MBD0000W0000,tuerca,hexagonal,22,,,,métrico,,natural,436.7878223688001,462.995091710928,efepe,Tca Hexagonal MB 22 1.50
+115MBD0000X0000,tuerca,hexagonal,24,,,,métrico,,natural,512.6968171394462,543.458626167813,efepe,Tca Hexagonal MB 24 2.00
+1200000000C0025,tirafondo,,3/16,,1,,imperial,,,24.7389468511536,27.70762047329203,efepe,TIRAFONDO 3/16 1
+1200000000C0032,tirafondo,,3/16,,1 1/4,,imperial,,,29.404005400228275,32.93248604825567,efepe,TIRAFONDO 3/16 1 1/4
+1200000000C0038,tirafondo,,3/16,,1 1/2,,imperial,,,34.410263183899204,38.53949476596711,efepe,TIRAFONDO 3/16 1 1/2
+1200000000C0044,tirafondo,,3/16,,1 3/4,,imperial,,,37.143461277936,41.60067663128832,efepe,TIRAFONDO 3/16 1 3/4
+1200000000C0050,tirafondo,,3/16,,2,,imperial,,,40.92788940814081,45.8392361371177,efepe,TIRAFONDO 3/16 2
+1200000000C0056,tirafondo,,3/16,,2 1/4,,imperial,,,45.50626347752605,50.96701509482917,efepe,TIRAFONDO 3/16 2 1/4
+1200000000C0063,tirafondo,,3/16,,2 1/2,,imperial,,,50.52912373847521,56.59261858709223,efepe,TIRAFONDO 3/16 2 1/2
+1200000000C0070,tirafondo,,3/16,,2 3/4,,imperial,,,55.15453589761441,61.773080205328135,efepe,TIRAFONDO 3/16 2 3/4
+1200000000C0076,tirafondo,,3/16,,3,,imperial,,,58.448390010940805,65.46219681225371,efepe,TIRAFONDO 3/16 3
+1200000000D0025,tirafondo,,1/4,,1,,imperial,,,33.85342981928659,37.91584139760098,efepe,TIRAFONDO 1/4 1
+1200000000D0032,tirafondo,,1/4,,1 1/4,,imperial,,,40.22706938402881,45.054317710112265,efepe,TIRAFONDO 1/4 1 1/4
+1200000000D0038,tirafondo,,1/4,,1 1/2,,imperial,,,45.3430555600464,50.78422222725196,efepe,TIRAFONDO 1/4 1 1/2
+1200000000D0044,tirafondo,,1/4,,1 3/4,,imperial,,,51.6504357770544,57.84848807030093,efepe,TIRAFONDO 1/4 1 3/4
+1200000000D0050,tirafondo,,1/4,,2,,imperial,,,56.55617594583841,63.34291705933902,efepe,TIRAFONDO 1/4 2
+1200000000D0056,tirafondo,,1/4,,2 1/4,,imperial,,,62.51314615079042,70.01472368888527,efepe,TIRAFONDO 1/4 2 1/4
+1200000000D0063,tirafondo,,1/4,,2 1/2,,imperial,,,68.5401983581536,76.76502216113204,efepe,TIRAFONDO 1/4 2 1/2
+1200000000D0070,tirafondo,,1/4,,2 3/4,,imperial,,,74.56725056551682,83.51532063337883,efepe,TIRAFONDO 1/4 2 3/4
+1200000000D0076,tirafondo,,1/4,,3,,imperial,,,80.52422077046882,90.18712726292507,efepe,TIRAFONDO 1/4 3
+1200000000D0082,tirafondo,,1/4,,3 1/4,,imperial,,,86.83160098747682,97.25139310597405,efepe,TIRAFONDO 1/4 3 1/4
+1200000000D0090,tirafondo,,1/4,,3 1/2,,imperial,,,92.5783251851952,103.68772420741864,efepe,TIRAFONDO 1/4 3 1/2
+1200000000D0100,tirafondo,,1/4,,4,,imperial,,,105.05292161438884,117.6592722081155,efepe,TIRAFONDO 1/4 4
+1200000000D0110,tirafondo,,1/4,,4 1/2,,imperial,,,117.45743604117122,131.55232836611177,efepe,TIRAFONDO 1/4 4 1/2
+1200000000D0125,tirafondo,,1/4,,5,,imperial,,,129.09104844143042,144.58197425440207,efepe,TIRAFONDO 1/4 5
+1200000000D0140,tirafondo,,1/4,,5 1/2,,imperial,,,107.94857751558986,120.90240681746064,efepe,TIRAFONDO 1/4 5 1/2
+1200000000D0155,tirafondo,,1/4,,6,,imperial,,,156.2127833745648,174.95831737951258,efepe,TIRAFONDO 1/4 6
+1200000000E0025,tirafondo,,5/16,,1,,imperial,,,59.70986605434239,66.87504998086348,efepe,TIRAFONDO 5/16 1
+1200000000E0032,tirafondo,,5/16,,1 1/4,,imperial,,,54.06013846849553,60.547355084714994,efepe,TIRAFONDO 5/16 1 1/4
+1200000000E0038,tirafondo,,5/16,,1 1/2,,imperial,,,75.32970114462493,84.36926528197992,efepe,TIRAFONDO 5/16 1 1/2
+1200000000E0044,tirafondo,,5/16,,1 3/4,,imperial,,,66.55600654072157,74.54272732560815,efepe,TIRAFONDO 5/16 1 3/4
+1200000000E0050,tirafondo,,5/16,,2,,imperial,,,90.405783110448,101.25447708370176,efepe,TIRAFONDO 5/16 2
+1200000000E0056,tirafondo,,5/16,,2 1/4,,imperial,,,100.4275094552496,112.47881058987956,efepe,TIRAFONDO 5/16 2 1/4
+1200000000E0063,tirafondo,,5/16,,2 1/2,,imperial,,,110.5193178024624,123.7816359387579,efepe,TIRAFONDO 5/16 2 1/2
+1200000000E0070,tirafondo,,5/16,,2 3/4,,imperial,,,119.62997811591842,133.98557548982862,efepe,TIRAFONDO 5/16 2 3/4
+1200000000E0076,tirafondo,,5/16,,3,,imperial,,,127.47916238597284,142.77666187228957,efepe,TIRAFONDO 5/16 3
+1200000000E0082,tirafondo,,5/16,,3 1/4,,imperial,,,137.01031471389604,153.45155247956356,efepe,TIRAFONDO 5/16 3 1/4
+1200000000E0090,tirafondo,,5/16,,3 1/2,,imperial,,,141.87765015724682,158.90296817611645,efepe,TIRAFONDO 5/16 3 1/2
+1200000000E0100,tirafondo,,5/16,,4,,imperial,,,161.11852354334883,180.4527463685507,efepe,TIRAFONDO 5/16 4
+1200000000E0110,tirafondo,,5/16,,4 1/2,,imperial,,,180.7414842184848,202.43046232470297,efepe,TIRAFONDO 5/16 4 1/2
+1200000000E0125,tirafondo,,5/16,,5,,imperial,,,201.1353469201441,225.27158855056135,efepe,TIRAFONDO 5/16 5
+1200000000E0140,tirafondo,,5/16,,5 1/2,,imperial,,,217.955027498832,244.10963079869185,efepe,TIRAFONDO 5/16 5 1/2
+1200000000E0155,tirafondo,,5/16,,6,,imperial,,,236.8070861474448,265.2239364851381,efepe,TIRAFONDO 5/16 6
+1200000000F0038,tirafondo,,3/8,,1 1/2,,imperial,,,107.8562017108368,120.79894591613724,efepe,TIRAFONDO 3/8 1 1/2
+1200000000F0044,tirafondo,,3/8,,1 3/4,,imperial,,,124.46563628229124,139.4015126361662,efepe,TIRAFONDO 3/8 1 3/4
+1200000000F0050,tirafondo,,3/8,,2,,imperial,,,134.13695261503682,150.23338692884124,efepe,TIRAFONDO 3/8 2
+1200000000F0056,tirafondo,,3/8,,2 1/4,,imperial,,,145.06974499118402,162.4781143901261,efepe,TIRAFONDO 3/8 2 1/4
+1200000000F0063,tirafondo,,3/8,,2 1/2,,imperial,,,158.87589946619042,177.94100740213327,efepe,TIRAFONDO 3/8 2 1/2
+1200000000F0070,tirafondo,,3/8,,2 3/4,,imperial,,,181.44693115668625,203.22056289548857,efepe,TIRAFONDO 3/8 2 3/4
+1200000000F0076,tirafondo,,3/8,,3,,imperial,,,185.36689637762404,207.6109239429389,efepe,TIRAFONDO 3/8 3
+1200000000F0082,tirafondo,,3/8,,3 1/4,,imperial,,,197.3509187899392,221.0330290447319,efepe,TIRAFONDO 3/8 3 1/4
+1200000000F0090,tirafondo,,3/8,,3 1/2,,imperial,,,206.67182511062884,231.4724441239043,efepe,TIRAFONDO 3/8 3 1/2
+1200000000F0100,tirafondo,,3/8,,4,,imperial,,,236.7370041450336,265.14544464243767,efepe,TIRAFONDO 3/8 4
+1200000000F0110,tirafondo,,3/8,,4 1/2,,imperial,,,263.7886570757568,295.44329592484763,efepe,TIRAFONDO 3/8 4 1/2
+1200000000F0125,tirafondo,,3/8,,5,,imperial,,,293.8538361101617,329.1162964433811,efepe,TIRAFONDO 3/8 5
+1200000000F0140,tirafondo,,3/8,,5 1/2,,imperial,,,319.50384899266083,357.8443108717801,efepe,TIRAFONDO 3/8 5 1/2
+1200000000F0155,tirafondo,,3/8,,6,,imperial,,,346.27517391373925,387.828194783388,efepe,TIRAFONDO 3/8 6
+122CHG0000C0000,arandela,,3/16,,,,imperial,,,6193.3330950750005,6936.533066484,efepe,Arandela Chapista 3/16
+122CHG0000D0000,arandela,,1/4,,,,imperial,,,5974.2762975,6691.1894532,efepe,Arandela Chapista 1/4
+122CHG0000E0000,arandela,,5/16,,,,imperial,,,5987.552467049999,6706.058763095999,efepe,Arandela Chapista 5/16
+122CHG0000F0000,arandela,,3/8,,,,imperial,,,5987.552467049999,6706.058763095999,efepe,Arandela Chapista 3/8
+122CHG0000G0000,arandela,,7/16,,,,imperial,,,5781.771839024999,6475.584459708,efepe,Arandela Chapista 7/16
+122CHG0000H0000,arandela,,1/2,,,,imperial,,,5781.771839024999,6475.584459708,efepe,Arandela Chapista 1/2
+122G000000A0000,arandela,plana,1/8,,,,imperial,,natural,7288.617082950001,8163.251132904001,efepe,Arandela Plana 1/8
+122G000000B0000,arandela,plana,5/32,,,,imperial,,natural,6425.666062200001,7196.745989664001,efepe,Arandela Plana 5/32
+122G000000C0000,arandela,plana,3/16,,,,imperial,,natural,6326.094790575,7085.226165444,efepe,Arandela Plana 3/16
+122G000000D0000,arandela,plana,1/4,,,,imperial,,natural,6133.5903321,6869.621171952,efepe,Arandela Plana 1/4
+122G000000E0000,arandela,plana,5/16,,,,imperial,,natural,6034.019060475,6758.101347731999,efepe,Arandela Plana 5/16
+122G000000F0000,arandela,plana,3/8,,,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 3/8
+122G000000G0000,arandela,plana,7/16,,,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 7/16
+122G000000H0000,arandela,plana,1/2,,,,imperial,,natural,6034.019060475,6758.101347731999,efepe,Arandela Plana 1/2
+122G000000I0000,arandela,plana,9/16,,,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 9/16
+122G000000J0000,arandela,plana,5/8,,,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 5/8
+122G000000K0000,arandela,plana,3/4,,,,imperial,,natural,6034.019060475,6758.101347731999,efepe,Arandela Plana 3/4
+122G000000L0000,arandela,plana,7/8,,,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 7/8
+122G000000M0000,arandela,plana,1,,,,métrico,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 1
+122G000000N0000,arandela,plana,,,1 1/8,,imperial,,natural,6034.019060475,6758.101347731999,efepe,Arandela Plana 1 1/8
+122G000000O0000,arandela,plana,,,1 1/4,,imperial,,natural,6034.019060475,6758.101347731999,efepe,Arandela Plana 1 1/4
+122G000000Q0000,arandela,plana,,,1 1/2,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 1 1/2
+122G000000S0000,arandela,plana,,,1 3/4,,imperial,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 1 3/4
+122G000000T0000,arandela,plana,2,,,,métrico,,natural,5781.771839024999,6475.584459708,efepe,Arandela Plana 2
+124MA00000K0000,arandela,grower,5,,,,métrico,,,3.15820615408704,3.3476985233322623,efepe,Arandela Grower 5
+124MA00000M0000,arandela,grower,6,,,,métrico,,,6.277085986332,6.653711145511919,efepe,Arandela Grower 6
+124MA00000O0000,arandela,grower,7,,,,métrico,,,5.6266891250976,5.964290472603456,efepe,Arandela Grower 7
+124MA00000P0000,arandela,grower,8,,,,métrico,,,11.6163904518144,12.313373878923263,efepe,Arandela Grower 8
+124MA00000Q0000,arandela,grower,10,,,,métrico,,,18.36841740193152,19.47052244604741,efepe,Arandela Grower 10
+124MA00000R0000,arandela,grower,12,,,,métrico,,,27.66152976338304,29.32122154918602,efepe,Arandela Grower 12
+124MA00000S0000,arandela,grower,14,,,,métrico,,,43.56146419430399,46.17515204596223,efepe,Arandela Grower 14
+124MA00000T0000,arandela,grower,16,,,,métrico,,,59.29804313449632,62.8559257225661,efepe,Arandela Grower 16
+124MA00000V0000,arandela,grower,20,,,,métrico,,,101.29250465847744,107.37005493798608,efepe,Arandela Grower 20
+124MA00000X0000,arandela,grower,24,,,,métrico,,,144.49821689519464,153.16810990890633,efepe,Arandela Grower 24
+124P000000A0000,arandela,grower,1/8,,,,imperial,,,2.6822568230752,2.843192232459712,efepe,Arandela Grower 1/8
+124P000000B0000,arandela,grower,5/32,,,,imperial,,,2.873846596152,3.04627739192112,efepe,Arandela Grower 5/32
+124P000000C0000,arandela,grower,3/16,,,,imperial,,,4.640064816703751,4.918468705705975,efepe,Arandela Grower 3/16
+124P000000D0000,arandela,grower,1/4,,,,imperial,,,9.1843347468691,9.735394831681246,efepe,Arandela Grower 1/4
+124P000000E0000,arandela,grower,5/16,,,,imperial,,,13.263999477323212,14.059839445962606,efepe,Arandela Grower 5/16
+124P000000F0000,arandela,grower,3/8,,,,imperial,,,18.279894573800004,19.376688248228003,efepe,Arandela Grower 3/8
+124P000000G0000,arandela,grower,7/16,,,,imperial,,,24.9513889438,26.448472280428,efepe,Arandela Grower 7/16
+124P000000H0000,arandela,grower,1/2,,,,imperial,,,33.824476455900005,35.85394504325401,efepe,Arandela Grower 1/2
+124P000000I0000,arandela,grower,9/16,,,,imperial,,,55.1732584399,58.483653946294005,efepe,Arandela Grower 9/16
+124P000000J0000,arandela,grower,5/8,,,,imperial,,,76.3218955928,80.901209328368,efepe,Arandela Grower 5/8
+124P000000K0000,arandela,grower,3/4,,,,imperial,,,119.6198940541,126.797087697346,efepe,Arandela Grower 3/4
+124P000000L0000,arandela,grower,7/8,,,,imperial,,,181.26450203290003,192.14037215487403,efepe,Arandela Grower 7/8
+124P000000M0000,arandela,grower,1,,,,métrico,,,239.6400777704,254.01848243662403,efepe,Arandela Grower 1
+124P000000O0000,arandela,grower,,,1 1/4,,imperial,,,402.5979072808786,426.7537817177314,efepe,Arandela Grower 1 1/4
+124P000000P0000,arandela,grower,,,1 1/2,,imperial,,,588.4258034340002,623.7313516400402,efepe,Arandela Grower 1 1/2
+200GALMA00J0000,varilla,,4,,,,métrico,METRICA,,875.9698239999999,875.9698239999999,efepe,Varilla roscada Metrica 4
+200GALMA00K0000,varilla,,5,,,,métrico,METRICA,,821.2217099999999,821.2217099999999,efepe,Varilla roscada Metrica 5
+200GALMA00M0000,varilla,,6,,,,métrico,METRICA,,878.212443619725,878.212443619725,efepe,Varilla roscada Metrica 6
+200GALMA00O0000,varilla,,7,,,,métrico,METRICA,,1216.8344498093825,1216.8344498093825,efepe,Varilla roscada Metrica 7
+200GALMA00P0000,varilla,,8,,,,métrico,METRICA,,1425.3418269872748,1425.3418269872748,efepe,Varilla roscada Metrica 8
+200GALMA00Q0000,varilla,,10,,,,métrico,METRICA,,2176.3935636249003,2176.3935636249003,efepe,Varilla roscada Metrica 10
+200GALMA00R0000,varilla,,12,,,,métrico,METRICA,,3156.813892568376,3156.813892568376,efepe,Varilla roscada Metrica 12
+200GALMA00S0000,varilla,,14,,,,métrico,METRICA,,4308.7320042654255,4308.7320042654255,efepe,Varilla roscada Metrica 14
+200GALMA00T0000,varilla,,16,,,,métrico,METRICA,,5781.58287587905,5781.58287587905,efepe,Varilla roscada Metrica 16
+200GALMA00U0000,varilla,,18,,,,métrico,METRICA,,7328.305377712875,7328.305377712875,efepe,Varilla roscada Metrica 18
+200GALMA00V0000,varilla,,20,,,,métrico,METRICA,,9057.239868210076,9057.239868210076,efepe,Varilla roscada Metrica 20
+200GALMA00W0000,varilla,,22,,,,métrico,METRICA,,11652.262832481698,11652.262832481698,efepe,Varilla roscada Metrica 22
+200GALMA00X0000,varilla,,24,,,,métrico,METRICA,,13651.801510398123,13651.801510398123,efepe,Varilla roscada Metrica 24
+200GALMA00Y0000,varilla,,27,,,,métrico,METRICA,,17953.555183182827,17953.555183182827,efepe,Varilla roscada Metrica 27
+200GALMA00Z0000,varilla,,30,,,,métrico,METRICA,,23165.87765571977,23165.87765571977,efepe,Varilla roscada Metrica 30
+200GALPU00A0000,varilla,,1/8,,,,imperial,,,434.3602060447448,434.3602060447448,efepe,Varilla roscada Pulgada 1/8
+200GALPU00B0000,varilla,,5/32,,,,imperial,,,723.4908516985998,723.4908516985998,efepe,Varilla roscada Pulgada 5/32
+200GALPU00C0000,varilla,,3/16,,,,imperial,,,849.3153476461828,849.3153476461828,efepe,Varilla roscada Pulgada 3/16
+200GALPU00D0000,varilla,,1/4,,,,imperial,,,957.2297122045,957.2297122045,efepe,Varilla roscada Pulgada 1/4
+200GALPU00E0000,varilla,,5/16,,,,imperial,,,1366.131741696275,1366.131741696275,efepe,Varilla roscada Pulgada 5/16
+200GALPU00F0000,varilla,,3/8,,,,imperial,,,1916.9265112961248,1916.9265112961248,efepe,Varilla roscada Pulgada 3/8
+200GALPU00G0000,varilla,,7/16,,,,imperial,,,2651.131568904525,2651.131568904525,efepe,Varilla roscada Pulgada 7/16
+200GALPU00H0000,varilla,,1/2,,,,imperial,,,3403.02916390345,3403.02916390345,efepe,Varilla roscada Pulgada 1/2
+200GALPU00I0000,varilla,,9/16,,,,imperial,,,4445.056176828275,4445.056176828275,efepe,Varilla roscada Pulgada 9/16
+200GALPU00J0000,varilla,,5/8,,,,imperial,,,5517.816043547,5517.816043547,efepe,Varilla roscada Pulgada 5/8
+200GALPU00K0000,varilla,,3/4,,,,imperial,,,8089.7893674732,8089.7893674732,efepe,Varilla roscada Pulgada 3/4
+200GALPU00L0000,varilla,,7/8,,,,imperial,,,11180.996059520612,11180.996059520612,efepe,Varilla roscada Pulgada 7/8
+200GALPU00M0000,varilla,,1,,,,métrico,,,15210.859446667577,15210.859446667577,efepe,Varilla roscada Pulgada 1
+200GALPU00N0000,varilla,,,,1 1/8,,imperial,,,20388.93102619892,20388.93102619892,efepe,Varilla roscada Pulgada 1 1/8
+200GALPU00O0000,varilla,,,,1 1/4,,imperial,,,24665.088839114447,24665.088839114447,efepe,Varilla roscada Pulgada 1 1/4
+200GALPU00Q0000,varilla,,,,1 1/2,,imperial,,,37869.85420556553,37869.85420556553,efepe,Varilla roscada Pulgada 1 1/2
+200GALPU00T0000,varilla,,2,,,,métrico,,,86369.842924974,86369.842924974,efepe,Varilla roscada Pulgada 2
+305ELE000000020,electrodo,,2,,,,métrico,,,7281.347840000002,7718.228710400002,efepe,Electrodos 2.0 MM 300MM
+305ELE000000025,electrodo,,2,,,,métrico,,,5756.458240000002,6101.845734400002,efepe,Electrodos 2.5 MM 350MM
+305ELE000000032,electrodo,,3,,,,métrico,,,5451.480320000001,5778.569139200001,efepe,Electrodos 3.2 MM 350MM
+305ELE000000040,electrodo,,4,,,,métrico,,,5451.480320000001,5778.569139200001,efepe,Electrodos 4.0 MM 400MM

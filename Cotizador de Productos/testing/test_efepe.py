@@ -9,23 +9,23 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Agregar src al path (ajustalo si tu estructura es distinta)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from services.readers.fleb_reader import read_fleb
+from services.readers.efepe_reader import read_efepe
 
 
-def test_fleb_reader():
-    input_path = os.path.join(BASE_DIR, "data", "fleb.xlsx")
-    output_path = os.path.join(BASE_DIR, "ddbb", "flebSinParsear.csv")
+def test_efepe_reader():
+    input_path_excel = os.path.join(BASE_DIR, "data", "efepe.xlsx")
+    input_path_pdf = os.path.join(BASE_DIR, "data", "Efepe.pdf")
+    output_path = os.path.join(BASE_DIR, "ddbb", "efepeSinParsear.csv")
 
     # Ejecutar reader
-    df = read_fleb(input_path)
+    df = read_efepe(input_path_excel, input_path_pdf)
 
     # 🔍 Validaciones básicas
     assert df is not None, "El DataFrame es None"
     assert not df.empty, "El DataFrame está vacío"
     assert "codigo" in df.columns, "Falta columna codigo"
     assert "descripcion" in df.columns, "Falta columna descripcion"
-    assert "precio_granel" in df.columns, "Falta columna precio_granel"
-    assert "precio_fraccionado" in df.columns, "Falta columna precio_fraccionado"
+    assert "precio_unitario" in df.columns, "Falta columna precio_unitario"
 
     # Crear carpeta si no existe
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -38,4 +38,4 @@ def test_fleb_reader():
 
 
 if __name__ == "__main__":
-    test_fleb_reader()
+    test_efepe_reader()

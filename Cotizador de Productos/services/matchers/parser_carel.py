@@ -35,10 +35,10 @@ def detectar_tipo(desc):
     # Abreviaturas comunes
     if "bul" in desc or "bulón" in desc or "bulon" in desc:
         return "bulón"
-    if "tor" in desc or "tornillo" in desc:
-        return "tornillo"
     if "tuerca" in desc:
         return "tuerca"
+    if "tor" in desc or "tornillo" in desc:
+        return "tornillo"
     if "pris" in desc or "prisionero" in desc:
         return "prisionero"
     if "tirafondo" in desc:
@@ -175,109 +175,225 @@ def detectar_grado(desc):
 def parse_metrico(desc):
     """
     Parsea especificaciones métricas
-    Ejemplos: M8x1.25, M10-1.5, M12x1.75, 4x30, 8x1.25x50, 6x25
+
+    Ejemplos:
+    M8x1.25
+    M10-1.5
+    M12x1.75
+    M24-3-200
+    M10-1,25-20
+    4x30
+    8x1.25x50
+    6x25
     """
+
     desc_norm = normalizar(desc)
-    
+
     diametro = None
     paso = None
     largo = None
-    
-    # M8x1.25 o M8-1.25
-    match = re.search(r"m\s*(\d+)[-x](\d+\.?\d*)", desc_norm)
+
+    # ==========================================
+    # M24-3-200 / M10-1,25-20
+    # ==========================================
+    match = re.search(
+        r"m\s*(\d+)\s*[-x]\s*(\d+(?:[.,]\d+)?)\s*[-x]\s*(\d+)",
+        desc_norm
+    )
+
     if match:
         diametro = f"M{match.group(1)}"
-        paso = match.group(2)
+        paso = match.group(2).replace(",", ".")
+        largo = match.group(3)
+
         return diametro, paso, largo
-    
-    # Solo M8 (sin paso)
-    match = re.search(r"m\s*(\d+)(?:\s|$|[^\d])", desc_norm)
+
+    # ==========================================
+    # M8x1.25 o M8-1.25
+    # ==========================================
+    match = re.search(
+        r"m\s*(\d+)[-x](\d+(?:[.,]\d+)?)",
+        desc_norm
+    )
+
     if match:
         diametro = f"M{match.group(1)}"
+        paso = match.group(2).replace(",", ".")
+
+        return diametro, paso, largo
+
+    # ==========================================
+    # Solo M8 (sin paso)
+    # ==========================================
+    match = re.search(r"m\s*(\d+)(?:\s|$|[^\d])", desc_norm)
+
+    if match:
+        diametro = f"M{match.group(1)}"
+
         return diametro, None, largo
-    
-    # Números sin M: 4x30, 8x1.25x50mm (3 números)
-    match = re.search(r"(\d+)\s*x\s*(\d+\.?\d*)\s*x\s*(\d+\.?\d*)", desc_norm)
+
+    # ==========================================
+    # 8x1.25x50
+    # ==========================================
+    match = re.search(
+        r"(\d+)\s*x\s*(\d+(?:[.,]\d+)?)\s*x\s*(\d+(?:[.,]\d+)?)",
+        desc_norm
+    )
+
     if match:
         num1 = int(match.group(1))
-        num2 = float(match.group(2))
-        num3 = float(match.group(3))
-        
-        # Si primer número es pequeño, probablemente es diámetro
+        num2 = float(match.group(2).replace(",", "."))
+        num3 = float(match.group(3).replace(",", "."))
+
         if num1 < 30:
             diametro = str(num1)
-            # Si el segundo número es muy pequeño (< 5), es paso
+
+            # num2 probablemente es paso
             if num2 < 5:
                 paso = str(num2)
                 largo = str(int(num3))
             else:
-                # Si el segundo es mayor, es largo
                 paso = None
                 largo = str(int(num2))
+
             return diametro, paso, largo
-    
-    # Números sin M: 4x30 (solo dos números)
-    match = re.search(r"(\d+)\s*x\s*(\d+\.?\d*)", desc_norm)
+
+    # ==========================================
+    # 4x30
+    # ==========================================
+    match = re.search(
+        r"(\d+)\s*x\s*(\d+(?:[.,]\d+)?)",
+        desc_norm
+    )
+
     if match:
         num1 = int(match.group(1))
-        num2 = float(match.group(2))
-        
-        # Si primer número es pequeño (1-30) probablemente es diámetro
+        num2 = float(match.group(2).replace(",", "."))
+
         if num1 < 30:
-            # Si el segundo número es muy pequeño (< 5), es paso
+
+            # diámetro x paso
             if num2 < 5:
                 diametro = str(num1)
                 paso = str(num2)
+
+            # diámetro x largo
             else:
-                # Si es mayor, es largo
                 diametro = str(num1)
                 largo = str(int(num2))
+
             return diametro, paso, largo
-    
+
     return None, None, None
 
 
 # -------------------------
 # Parseo imperial
 # -------------------------
-
 def parse_imperial(desc):
     """
     Parsea especificaciones imperiales
-    Ejemplos: 1/4"-20, 5/16"UNC(32), 3/8" x 2", 1.1/2-UNF(12), 1.3/4-WH, 1/4-NC-1/2
-    Retorna: (diámetro, paso, largo)
+
+    Ejemplos:
+    1/4"-20
+    5/16"UNC(32)
+    3/8 x 2
+    1.1/2-UNF(12)
+    1/4-NC-1/2
+    9/16-UNC-3
+    3/8-UNF-7/8
+
+    Retorna:
+    (diametro, paso, largo)
     """
+
     desc_norm = normalizar(desc)
-    
+
     diametro = None
     paso = None
     largo = None
-    
-    # Buscar diámetro con fracciones: 1/4, 5/16, 1.1/2, 1.3/4, etc.
-    diametro_match = re.search(r"(\d+(?:\.\d+)?/\d+)", desc_norm)
-    if diametro_match:
-        diametro = diametro_match.group(1)
-    
-    # NUEVOS PATRONES PARA PASO Y LARGO:
-    
-    # Patrón 1: "NC-paso-largo" o "UNC-paso-largo" (ej: 1/4-NC-1/2, 5/16-UNC-3/8)
-    # Busca: sistema-número-número (donde el segundo número puede ser fracción)
-    match = re.search(r"(?:unc|unf|nc|nf|wh)\s*[-.]?\s*(\d+)\s*[-.]?\s*(\d+(?:/\d+)?)", desc_norm)
-    if match and diametro:
-        paso = match.group(1)
-        largo = match.group(2)
+
+    # ==========================================
+    # DIAMETRO
+    # ==========================================
+
+    diam_match = re.search(
+        r"(\d+(?:\.\d+)?/\d+)",
+        desc_norm
+    )
+
+    if diam_match:
+        diametro = diam_match.group(1)
+
+    # ==========================================
+    # PATRON:
+    # 9/16-UNC-3
+    # 3/8-UNF-7/8
+    # 1/4-NC-1/2
+    # ==========================================
+
+    match = re.search(
+        r"(\d+(?:\.\d+)?/\d+)\s*[-]\s*"
+        r"(unc|unf|nc|nf|wh)\s*[-]\s*"
+        r"(\d+(?:\.\d+)?(?:/\d+)?)",
+        desc_norm
+    )
+
+    if match:
+        diametro = match.group(1)
+        largo = match.group(3)
+
         return diametro, paso, largo
-    
-    # Patrón 2: "UNC(20)" o "(20)" o "-20" (paso sin largo)
-    paso_match = re.search(r"(?:unc|unf|bsw|nc|nf|wh)?\s*[-.\s]?\(?(\d+)\)?", desc_norm)
-    if paso_match and not largo:
-        paso = paso_match.group(1)
-    
-    # Patrón 3: "x 2" o "x 1.1/2" o "x 1.3/4" (largo)
-    largo_match = re.search(r"x\s*(\d+(?:\.\d+)?(?:/\d+)?)", desc_norm)
-    if largo_match and not largo:
-        largo = largo_match.group(1)
-    
+
+    # ==========================================
+    # PATRON:
+    # 9/16-UNC(12)
+    # 5/16-UNF(24)
+    # ==========================================
+
+    match = re.search(
+        r"(\d+(?:\.\d+)?/\d+)\s*[-]?\s*"
+        r"(unc|unf|nc|nf|wh)\s*"
+        r"\((\d+)\)",
+        desc_norm
+    )
+
+    if match:
+        diametro = match.group(1)
+        paso = match.group(3)
+
+        return diametro, paso, largo
+
+    # ==========================================
+    # PATRON:
+    # 1/4-20
+    # ==========================================
+
+    match = re.search(
+        r"(\d+(?:\.\d+)?/\d+)\s*[-]\s*(\d+)",
+        desc_norm
+    )
+
+    if match:
+        diametro = match.group(1)
+        paso = match.group(2)
+
+        return diametro, paso, largo
+
+    # ==========================================
+    # PATRON:
+    # x 2
+    # x 7/8
+    # ==========================================
+
+    match = re.search(
+        r"x\s*(\d+(?:\.\d+)?(?:/\d+)?)",
+        desc_norm
+    )
+
+    if match:
+        largo = match.group(1)
+
     return diametro, paso, largo
 
 

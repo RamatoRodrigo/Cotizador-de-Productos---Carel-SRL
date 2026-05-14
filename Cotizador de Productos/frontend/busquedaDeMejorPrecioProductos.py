@@ -296,11 +296,13 @@ def main():
         print("\n")
 
         descripcionBusqueda = input(
+            "Ejemplo de busqueda: bulon hexagonal g2 1/2 x 7 zinc\n"
             "Buscar producto ('salir' para terminar): "
         ).strip()
 
         if descripcionBusqueda.lower() == "salir":
             break
+        
 
         # ==================================
         # BUSCAR EN MASTER
@@ -340,23 +342,24 @@ def main():
         # ==================================
         # SELECCION USUARIO
         # ==================================
+        entrada = input("Ingrese 'no' para cancelar o seleccione el número de producto que desea facturar: ").strip().lower()
+
+        # 1. Verificamos primero si el usuario quiere salir
+        if entrada == "no":
+            print("Seleccion cancelada.")
+            continue 
 
         try:
-
-            seleccion = int(
-                input(
-                    "Seleccione producto: "
-                )
-            )
+            seleccion = int(entrada)
 
         except:
 
-            print("❌ Selección inválida")
+            print("❌ Entrada no válida")
             continue
 
-        if seleccion >= len(resultados):
+        if seleccion < 0 or seleccion >= len(resultados):
 
-            print("❌ Índice inválido")
+            print("❌ El índice ingresado es inválido")
             continue
 
         filaSeleccionada = (

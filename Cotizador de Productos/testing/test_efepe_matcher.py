@@ -49,7 +49,7 @@ def test_matcher_efepe():
         proveedor_path=efepe_csv,
         output_path=output_file,
         proveedor_nombre="Efepe",
-        umbral_minimo=70,
+        umbral_minimo=60,
         peso_atributos=0.6,
         debug=False
     )

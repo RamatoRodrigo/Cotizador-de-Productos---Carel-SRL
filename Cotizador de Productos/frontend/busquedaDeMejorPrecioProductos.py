@@ -129,9 +129,8 @@ def obtenerMejorPrecio(resultadosPorProveedor):
         if resultados.empty:
             continue
 
-        # Ordenar por score_final
+        # Ordenar por score_final si existe
         if "score_final" in resultados.columns:
-
             resultados = resultados.sort_values(
                 by="score_final",
                 ascending=False
@@ -144,18 +143,19 @@ def obtenerMejorPrecio(resultadosPorProveedor):
 
         precio = fila["precio_unitario"]
 
-        if pd.isna(precio):
+        # Ignorar precios nulos o iguales a 0
+        if pd.isna(precio) or precio == 0:
             continue
 
         if (
             mejorPrecio is None
             or precio < mejorPrecio
         ):
-
             mejorPrecio = precio
             mejorProveedor = proveedor
 
     return mejorProveedor, mejorPrecio
+
 
 # ==========================================
 # GENERAR COTIZACION

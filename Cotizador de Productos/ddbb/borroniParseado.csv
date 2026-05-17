@@ -708,55 +708,55 @@ HEX-G8--0--M24--140--RT--2--2,bulón,hexagonal,M24,,140,8.8,métrico,,,5242.8407
 HEX-G8--4--M10--030--RT--2--2,bulón,hexagonal,M10,,30,8.8,métrico,,,248.7947,borroni,"BU HEX G8,8 - M10 x 30 - Paso Fino 1,25 - RT ZD"
 HEX-G8--4--M12--030--RT--1--2,bulón,hexagonal,M12,,30,8.8,métrico,,,333.4929,borroni,"BU HEX G8,8 - M12  x 30 - Paso 1,25 - RT ZD"
 HEX-G8--4--M12--030--RT--2--2,bulón,hexagonal,M12,,30,8.8,métrico,,,333.4929,borroni,"BU HEX G8,8 - M12  x 30 - Paso Fino 1,50 - RT ZD"
-TIR-00--1--104--112--RT--1--2,bulón,,1/4,,1 1/2,,imperial,,zinc,74.6887,borroni,BU TIR - 1/4  x 1 1/2  ZA
-TIR-00--1--104--114--RT--1--2,bulón,,1/4,,1 1/4,,imperial,,zinc,66.9506,borroni,BU TIR - 1/4  x 1 1/4  ZA
-TIR-00--1--104--134--RT--1--2,bulón,,1/4,,1 3/4,,imperial,,zinc,78.8684,borroni,BU TIR - 1/4  x 1 3/4  ZA
-TIR-00--1--104--200--RT--1--2,bulón,,1/4,,2,,imperial,,zinc,87.8354,borroni,BU TIR - 1/4  x 2  ZA
-TIR-00--1--104--212--RT--1--2,bulón,,1/4,,2 1/2,,imperial,,zinc,116.6883,borroni,BU TIR - 1/4  x 2 1/2  ZA
-TIR-00--1--104--214--RT--1--2,bulón,,1/4,,2 1/4,,imperial,,zinc,92.6136,borroni,BU TIR - 1/4  x 2 1/4  ZA
-TIR-00--1--104--234--RT--1--2,bulón,,1/4,,2 3/4,,imperial,,zinc,124.3409,borroni,BU TIR - 1/4  x 2 3/4  ZA
-TIR-00--1--104--238--RT--1--2,bulón,,1/4,,2 3/8,,imperial,,zinc,114.7705,borroni,BU TIR - 1/4  x 2 3/8  ZA
-TIR-00--1--104--300--RT--1--2,bulón,,1/4,,3,,imperial,,zinc,131.4638,borroni,BU TIR - 1/4  x 3  ZA
-TIR-00--1--104--312--RT--1--2,bulón,,1/4,,3 1/2,,imperial,,zinc,156.8696,borroni,BU TIR - 1/4  x 3 1/2  ZA
-TIR-00--1--104--318--RT--1--2,bulón,,1/4,,3 1/8,,imperial,,zinc,147.9314,borroni,BU TIR - 1/4  x 3 1/8  ZA
-TIR-00--1--104--400--RT--1--2,bulón,,1/4,,4,,imperial,,zinc,175.3919,borroni,BU TIR - 1/4  x 4  ZA
-TIR-00--1--104--500--RT--1--2,bulón,,1/4,,5,,imperial,,zinc,212.6481,borroni,BU TIR - 1/4  x 5  ZA
-TIR-00--1--308--112--RT--1--2,bulón,,3/8,,1 1/2,,imperial,,zinc,182.7975,borroni,BU TIR - 3/8  x 1 1/2  ZA
-TIR-00--1--308--134--RT--1--2,bulón,,3/8,,1 3/4,,imperial,,zinc,208.4979,borroni,BU TIR - 3/8  x 1 3/4  ZA
-TIR-00--1--308--200--RT--1--2,bulón,,3/8,,2,,imperial,,zinc,203.1841,borroni,BU TIR - 3/8  x 2  ZA
-TIR-00--1--308--212--RT--1--2,bulón,,3/8,,2  1/2,,imperial,,zinc,261.8553,borroni,BU TIR - 3/8  x 2  1/2 ZA
-TIR-00--1--308--300--RT--1--2,bulón,,3/8,,3,,imperial,,zinc,285.3144,borroni,BU TIR - 3/8  x 3  ZA
-TIR-00--1--308--312--RT--1--2,bulón,,3/8,,3 1/2,,imperial,,zinc,350.6923,borroni,BU TIR - 3/8  x 3 1/2 ZA
-TIR-00--1--308--400--RT--1--2,bulón,,3/8,,4,,imperial,,zinc,390.8627,borroni,BU TIR - 3/8  x 4 ZA
-TIR-00--1--308--500--RT--1--2,bulón,,3/8,,5,,imperial,,zinc,453.9302,borroni,BU TIR - 3/8  x 5  ZA
-TIR-00--1--316--112--RT--1--2,bulón,,3/16,,1 1/2,,imperial,,zinc,45.3602,borroni,BU TIR - 3/16 x 1 1/2 ZA
-TIR-00--1--316--114--RT--1--2,bulón,,3/16,,1 1/4,,imperial,,zinc,38.0388,borroni,BU TIR - 3/16 x 1 1/4 ZA
-TIR-00--1--316--134--RT--1--2,bulón,,3/16,,1 3/4,,imperial,,zinc,47.5555,borroni,BU TIR - 3/16 x 1 3/4 ZA
-TIR-00--1--316--200--RT--1--2,bulón,,3/16,,2,,imperial,,zinc,51.9437,borroni,BU TIR - 3/16 x 2  ZA
-TIR-00--1--316--212--RT--1--2,bulón,,3/16,,2 1/2,,imperial,,zinc,58.5598,borroni,BU TIR - 3/16 x 2 1/2  ZA
-TIR-00--1--316--214--RT--1--2,bulón,,3/16,,2 1/4,,imperial,,zinc,54.1947,borroni,BU TIR - 3/16 x 2 1/4 ZA
-TIR-00--1--316--238--RT--1--2,bulón,,3/16,,2 3/8,,imperial,,zinc,59.2956,borroni,BU TIR - 3/16 x 2 3/8 ZA
-TIR-00--1--516--112--RT--1--2,bulón,,5/16,,1 1/2,,imperial,,zinc,121.2978,borroni,BU TIR - 5/16  x 1 1/2  ZA
-TIR-00--1--516--114--RT--1--2,bulón,,5/16,,1 1/4,,imperial,,zinc,99.4333,borroni,BU TIR - 5/16  x 1 1/4  ZA
-TIR-00--1--516--134--RT--1--2,bulón,,5/16,,1 3/4,,imperial,,zinc,135.2981,borroni,BU TIR - 5/16  x 1 3/4  ZA
-TIR-00--1--516--200--RT--1--2,bulón,,5/16,,2,,imperial,,zinc,135.3257,borroni,BU TIR - 5/16  x 2  ZA
-TIR-00--1--516--212--RT--1--2,bulón,,5/16,,2 1/2,,imperial,,zinc,182.8678,borroni,BU TIR - 5/16  x 2 1/2 ZA
-TIR-00--1--516--214--RT--1--2,bulón,,5/16,,2 1/4,,imperial,,zinc,153.0005,borroni,BU TIR - 5/16  x 2 1/4 ZA
-TIR-00--1--516--234--RT--1--2,bulón,,5/16,,2 3/4,,imperial,,zinc,191.4438,borroni,BU TIR - 5/16  x 2 3/4 ZA
-TIR-00--1--516--300--RT--1--2,bulón,,5/16,,3,,imperial,,zinc,212.3321,borroni,BU TIR - 5/16  x 3 ZA
-TIR-00--1--516--312--RT--1--2,bulón,,5/16,,3 1/2,,imperial,,zinc,242.3909,borroni,BU TIR - 5/16  x 3 1/2  ZA
-TIR-00--1--516--318--RT--1--2,bulón,,5/16,,3 1/8,,imperial,,zinc,225.7232,borroni,BU TIR - 5/16  x 3 1/8 ZA
-TIR-00--1--516--400--RT--1--2,bulón,,5/16,,4,,imperial,,zinc,265.2554,borroni,BU TIR - 5/16  x 4  ZA
-TIR-00--1--516--500--RT--1--2,bulón,,5/16,,5,,imperial,,zinc,318.9905,borroni,BU TIR - 5/16  x 5  ZA
-TIR-38--1--316--112--RT--1--2,bulón,,3/16,,1 1/2,,imperial,,zinc,45.3602,borroni,BU TIR -3/16 X 1 1/2 (LLAVE3/8) ZA
-TIR-38--1--316--114--RT--1--2,bulón,,3/16,,1 1/4,,imperial,,zinc,38.0388,borroni,BU TIR -3/16 X 1 1/4  (LLAVE3/8) ZA
-TIR-38--1--316--134--RT--1--2,bulón,,3/16,,1 3/4,,imperial,,zinc,47.5555,borroni,BU TIR -3/16 X 1 3/4 (LLAVE3/8) ZA
-TIR-38--1--316--200--RT--1--2,bulón,,3/16,,2,,imperial,,zinc,51.9437,borroni,BU TIR-3/16 X 2  (LLAVE 3/8) ZA
-TIR-38--1--316--212--RT--1--2,bulón,,3/16,,2 1/2,,imperial,,zinc,58.5598,borroni,BU TIR-3/16 X 2 1/2 (LLAVE 3/8) ZA
-TIR-38--1--316--214--RT--1--2,bulón,,3/16,,2 1/4,,imperial,,zinc,54.1947,borroni,BU TIR-3/16 X 2 1/4 (LLAVE 3/8) ZA
-TIR-38--1--316--234--RT--1--2,bulón,,3/16,,2 3/4,,imperial,,zinc,74.5985,borroni,BU TIR-3/16 X 2 3/4 (LLAVE 3/8) ZA
-TIR-38--1--316--238--RT--1--2,bulón,,3/16,,2 3/8,,imperial,,zinc,59.2956,borroni,BU TIR-3/16 X 2 3/8 (LLAVE 3/8) ZA
-TIR-38--1--316--300--RT--1--2,bulón,,3/16,,3,,imperial,,zinc,80.2752,borroni,BU TIR-3/16 X 3 (LLAVE 3/8) ZA
+TIR-00--1--104--112--RT--1--2,tirafondo,,1/4,,1 1/2,,imperial,,zinc,74.6887,borroni,BU TIR - 1/4  x 1 1/2  ZA
+TIR-00--1--104--114--RT--1--2,tirafondo,,1/4,,1 1/4,,imperial,,zinc,66.9506,borroni,BU TIR - 1/4  x 1 1/4  ZA
+TIR-00--1--104--134--RT--1--2,tirafondo,,1/4,,1 3/4,,imperial,,zinc,78.8684,borroni,BU TIR - 1/4  x 1 3/4  ZA
+TIR-00--1--104--200--RT--1--2,tirafondo,,1/4,,2,,imperial,,zinc,87.8354,borroni,BU TIR - 1/4  x 2  ZA
+TIR-00--1--104--212--RT--1--2,tirafondo,,1/4,,2 1/2,,imperial,,zinc,116.6883,borroni,BU TIR - 1/4  x 2 1/2  ZA
+TIR-00--1--104--214--RT--1--2,tirafondo,,1/4,,2 1/4,,imperial,,zinc,92.6136,borroni,BU TIR - 1/4  x 2 1/4  ZA
+TIR-00--1--104--234--RT--1--2,tirafondo,,1/4,,2 3/4,,imperial,,zinc,124.3409,borroni,BU TIR - 1/4  x 2 3/4  ZA
+TIR-00--1--104--238--RT--1--2,tirafondo,,1/4,,2 3/8,,imperial,,zinc,114.7705,borroni,BU TIR - 1/4  x 2 3/8  ZA
+TIR-00--1--104--300--RT--1--2,tirafondo,,1/4,,3,,imperial,,zinc,131.4638,borroni,BU TIR - 1/4  x 3  ZA
+TIR-00--1--104--312--RT--1--2,tirafondo,,1/4,,3 1/2,,imperial,,zinc,156.8696,borroni,BU TIR - 1/4  x 3 1/2  ZA
+TIR-00--1--104--318--RT--1--2,tirafondo,,1/4,,3 1/8,,imperial,,zinc,147.9314,borroni,BU TIR - 1/4  x 3 1/8  ZA
+TIR-00--1--104--400--RT--1--2,tirafondo,,1/4,,4,,imperial,,zinc,175.3919,borroni,BU TIR - 1/4  x 4  ZA
+TIR-00--1--104--500--RT--1--2,tirafondo,,1/4,,5,,imperial,,zinc,212.6481,borroni,BU TIR - 1/4  x 5  ZA
+TIR-00--1--308--112--RT--1--2,tirafondo,,3/8,,1 1/2,,imperial,,zinc,182.7975,borroni,BU TIR - 3/8  x 1 1/2  ZA
+TIR-00--1--308--134--RT--1--2,tirafondo,,3/8,,1 3/4,,imperial,,zinc,208.4979,borroni,BU TIR - 3/8  x 1 3/4  ZA
+TIR-00--1--308--200--RT--1--2,tirafondo,,3/8,,2,,imperial,,zinc,203.1841,borroni,BU TIR - 3/8  x 2  ZA
+TIR-00--1--308--212--RT--1--2,tirafondo,,3/8,,2  1/2,,imperial,,zinc,261.8553,borroni,BU TIR - 3/8  x 2  1/2 ZA
+TIR-00--1--308--300--RT--1--2,tirafondo,,3/8,,3,,imperial,,zinc,285.3144,borroni,BU TIR - 3/8  x 3  ZA
+TIR-00--1--308--312--RT--1--2,tirafondo,,3/8,,3 1/2,,imperial,,zinc,350.6923,borroni,BU TIR - 3/8  x 3 1/2 ZA
+TIR-00--1--308--400--RT--1--2,tirafondo,,3/8,,4,,imperial,,zinc,390.8627,borroni,BU TIR - 3/8  x 4 ZA
+TIR-00--1--308--500--RT--1--2,tirafondo,,3/8,,5,,imperial,,zinc,453.9302,borroni,BU TIR - 3/8  x 5  ZA
+TIR-00--1--316--112--RT--1--2,tirafondo,,3/16,,1 1/2,,imperial,,zinc,45.3602,borroni,BU TIR - 3/16 x 1 1/2 ZA
+TIR-00--1--316--114--RT--1--2,tirafondo,,3/16,,1 1/4,,imperial,,zinc,38.0388,borroni,BU TIR - 3/16 x 1 1/4 ZA
+TIR-00--1--316--134--RT--1--2,tirafondo,,3/16,,1 3/4,,imperial,,zinc,47.5555,borroni,BU TIR - 3/16 x 1 3/4 ZA
+TIR-00--1--316--200--RT--1--2,tirafondo,,3/16,,2,,imperial,,zinc,51.9437,borroni,BU TIR - 3/16 x 2  ZA
+TIR-00--1--316--212--RT--1--2,tirafondo,,3/16,,2 1/2,,imperial,,zinc,58.5598,borroni,BU TIR - 3/16 x 2 1/2  ZA
+TIR-00--1--316--214--RT--1--2,tirafondo,,3/16,,2 1/4,,imperial,,zinc,54.1947,borroni,BU TIR - 3/16 x 2 1/4 ZA
+TIR-00--1--316--238--RT--1--2,tirafondo,,3/16,,2 3/8,,imperial,,zinc,59.2956,borroni,BU TIR - 3/16 x 2 3/8 ZA
+TIR-00--1--516--112--RT--1--2,tirafondo,,5/16,,1 1/2,,imperial,,zinc,121.2978,borroni,BU TIR - 5/16  x 1 1/2  ZA
+TIR-00--1--516--114--RT--1--2,tirafondo,,5/16,,1 1/4,,imperial,,zinc,99.4333,borroni,BU TIR - 5/16  x 1 1/4  ZA
+TIR-00--1--516--134--RT--1--2,tirafondo,,5/16,,1 3/4,,imperial,,zinc,135.2981,borroni,BU TIR - 5/16  x 1 3/4  ZA
+TIR-00--1--516--200--RT--1--2,tirafondo,,5/16,,2,,imperial,,zinc,135.3257,borroni,BU TIR - 5/16  x 2  ZA
+TIR-00--1--516--212--RT--1--2,tirafondo,,5/16,,2 1/2,,imperial,,zinc,182.8678,borroni,BU TIR - 5/16  x 2 1/2 ZA
+TIR-00--1--516--214--RT--1--2,tirafondo,,5/16,,2 1/4,,imperial,,zinc,153.0005,borroni,BU TIR - 5/16  x 2 1/4 ZA
+TIR-00--1--516--234--RT--1--2,tirafondo,,5/16,,2 3/4,,imperial,,zinc,191.4438,borroni,BU TIR - 5/16  x 2 3/4 ZA
+TIR-00--1--516--300--RT--1--2,tirafondo,,5/16,,3,,imperial,,zinc,212.3321,borroni,BU TIR - 5/16  x 3 ZA
+TIR-00--1--516--312--RT--1--2,tirafondo,,5/16,,3 1/2,,imperial,,zinc,242.3909,borroni,BU TIR - 5/16  x 3 1/2  ZA
+TIR-00--1--516--318--RT--1--2,tirafondo,,5/16,,3 1/8,,imperial,,zinc,225.7232,borroni,BU TIR - 5/16  x 3 1/8 ZA
+TIR-00--1--516--400--RT--1--2,tirafondo,,5/16,,4,,imperial,,zinc,265.2554,borroni,BU TIR - 5/16  x 4  ZA
+TIR-00--1--516--500--RT--1--2,tirafondo,,5/16,,5,,imperial,,zinc,318.9905,borroni,BU TIR - 5/16  x 5  ZA
+TIR-38--1--316--112--RT--1--2,tirafondo,,3/16,,1 1/2,,imperial,,zinc,45.3602,borroni,BU TIR -3/16 X 1 1/2 (LLAVE3/8) ZA
+TIR-38--1--316--114--RT--1--2,tirafondo,,3/16,,1 1/4,,imperial,,zinc,38.0388,borroni,BU TIR -3/16 X 1 1/4  (LLAVE3/8) ZA
+TIR-38--1--316--134--RT--1--2,tirafondo,,3/16,,1 3/4,,imperial,,zinc,47.5555,borroni,BU TIR -3/16 X 1 3/4 (LLAVE3/8) ZA
+TIR-38--1--316--200--RT--1--2,tirafondo,,3/16,,2,,imperial,,zinc,51.9437,borroni,BU TIR-3/16 X 2  (LLAVE 3/8) ZA
+TIR-38--1--316--212--RT--1--2,tirafondo,,3/16,,2 1/2,,imperial,,zinc,58.5598,borroni,BU TIR-3/16 X 2 1/2 (LLAVE 3/8) ZA
+TIR-38--1--316--214--RT--1--2,tirafondo,,3/16,,2 1/4,,imperial,,zinc,54.1947,borroni,BU TIR-3/16 X 2 1/4 (LLAVE 3/8) ZA
+TIR-38--1--316--234--RT--1--2,tirafondo,,3/16,,2 3/4,,imperial,,zinc,74.5985,borroni,BU TIR-3/16 X 2 3/4 (LLAVE 3/8) ZA
+TIR-38--1--316--238--RT--1--2,tirafondo,,3/16,,2 3/8,,imperial,,zinc,59.2956,borroni,BU TIR-3/16 X 2 3/8 (LLAVE 3/8) ZA
+TIR-38--1--316--300--RT--1--2,tirafondo,,3/16,,3,,imperial,,zinc,80.2752,borroni,BU TIR-3/16 X 3 (LLAVE 3/8) ZA
 FPM-39--111,otro,,7,,7/16,,imperial,,,22.8172,borroni,"PAN FRAMING PUNTA MECHA 7 X 7/16 (3,9 X 11,1)"
 HAM-48--190,cabezal,hexagonal,10,,3/4,4.8,imperial,,,52.4072,borroni,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 10 x 3/4 (4,8 x 19)"
 HAM-55--190,cabezal,hexagonal,12,,3/4,,imperial,,,68.2146,borroni,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 12 x 3/4 (5,5 x 19)"

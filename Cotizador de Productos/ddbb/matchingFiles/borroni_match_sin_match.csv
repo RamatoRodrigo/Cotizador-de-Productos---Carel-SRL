@@ -1,15 +1,12 @@
 id_proveedor,descripcion_proveedor,tipo_proveedor,score_final,proveedor
-TIR-00--1--104--214--RT--1--2,BU TIR - 1/4  x 2 1/4  ZA,bulón,67.26,Borroni
-TIR-00--1--104--318--RT--1--2,BU TIR - 1/4  x 3 1/8  ZA,bulón,68.69,Borroni
-TIR-00--1--316--114--RT--1--2,BU TIR - 3/16 x 1 1/4 ZA,bulón,69.94,Borroni
-TIR-00--1--516--114--RT--1--2,BU TIR - 5/16  x 1 1/4  ZA,bulón,69.94,Borroni
-TIR-00--1--516--214--RT--1--2,BU TIR - 5/16  x 2 1/4 ZA,bulón,69.94,Borroni
-TIR-00--1--516--318--RT--1--2,BU TIR - 5/16  x 3 1/8 ZA,bulón,69.69,Borroni
-TIR-38--1--316--112--RT--1--2,BU TIR -3/16 X 1 1/2 (LLAVE3/8) ZA,bulón,68.28,Borroni
-TIR-38--1--316--114--RT--1--2,BU TIR -3/16 X 1 1/4  (LLAVE3/8) ZA,bulón,67.15,Borroni
-TIR-38--1--316--134--RT--1--2,BU TIR -3/16 X 1 3/4 (LLAVE3/8) ZA,bulón,68.28,Borroni
-TIR-38--1--316--214--RT--1--2,BU TIR-3/16 X 2 1/4 (LLAVE 3/8) ZA,bulón,68.0,Borroni
-TIR-38--1--316--238--RT--1--2,BU TIR-3/16 X 2 3/8 (LLAVE 3/8) ZA,bulón,68.0,Borroni
+TIR-00--1--104--318--RT--1--2,BU TIR - 1/4  x 3 1/8  ZA,tirafondo,69.67,Borroni
+TIR-38--1--316--112--RT--1--2,BU TIR -3/16 X 1 1/2 (LLAVE3/8) ZA,tirafondo,68.92,Borroni
+TIR-38--1--316--114--RT--1--2,BU TIR -3/16 X 1 1/4  (LLAVE3/8) ZA,tirafondo,68.92,Borroni
+TIR-38--1--316--134--RT--1--2,BU TIR -3/16 X 1 3/4 (LLAVE3/8) ZA,tirafondo,68.92,Borroni
+TIR-38--1--316--212--RT--1--2,BU TIR-3/16 X 2 1/2 (LLAVE 3/8) ZA,tirafondo,68.61,Borroni
+TIR-38--1--316--214--RT--1--2,BU TIR-3/16 X 2 1/4 (LLAVE 3/8) ZA,tirafondo,68.61,Borroni
+TIR-38--1--316--234--RT--1--2,BU TIR-3/16 X 2 3/4 (LLAVE 3/8) ZA,tirafondo,68.61,Borroni
+TIR-38--1--316--238--RT--1--2,BU TIR-3/16 X 2 3/8 (LLAVE 3/8) ZA,tirafondo,68.61,Borroni
 FPM-39--111,"PAN FRAMING PUNTA MECHA 7 X 7/16 (3,9 X 11,1)",otro,40.67,Borroni
 HAM-48--190,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 10 x 3/4 (4,8 x 19)",cabezal,43.96,Borroni
 HAM-55--190,"CAB HEX ARA AC C/NEOPRENE VULC PUNTA MECHA 12 x 3/4 (5,5 x 19)",cabezal,43.96,Borroni

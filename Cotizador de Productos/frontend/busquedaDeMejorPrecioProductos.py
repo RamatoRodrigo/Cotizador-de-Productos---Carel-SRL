@@ -26,7 +26,7 @@ PROVEEDORES = {
     "Borroni": "borroni_match.csv",
 
     # FUTUROS
-    # "EFEPE": "efepe_match.csv",
+    "EFEPE": "efepe_match.csv",
     # "BM": "bm_match.csv",
     # "Fleb": "fleb_match.csv",
 }

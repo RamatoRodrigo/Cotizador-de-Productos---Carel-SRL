@@ -115,7 +115,7 @@ def calcular_score_final(score_atributos, score_desc, peso_atributos=0.6):
 # -------------------------
 
 def match_generico(master_path, proveedor_path, output_path, proveedor_nombre="proveedor", 
-                   umbral_minimo=70, peso_atributos=0.6, debug=False, max_candidatos=50):
+                   umbral_minimo=60, peso_atributos=0.6, debug=False, max_candidatos=50):
     """
     Matcher genérico para todos los proveedores (OPTIMIZADO)
     

@@ -50,6 +50,10 @@ def detectar_tipo(desc):
     ):
         return "cabezal"
 
+    #TIRAFONDOS
+    if "tir" in desc:
+        return "tirafondo"
+
     # BULONES
     if (
         "bulón" in desc or "bulon" in desc or

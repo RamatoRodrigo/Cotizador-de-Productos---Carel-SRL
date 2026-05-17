@@ -161,107 +161,59 @@ def obtenerMejorPrecio(resultadosPorProveedor):
 # GENERAR COTIZACION
 # ==========================================
 
-def generarCotizacion(
-    productosSeleccionados,
-    matchers
-):
+def generarCotizacion(productosSeleccionados, matchers):
 
     salida = []
 
     for producto in productosSeleccionados:
-
         codigo = producto["codigo"]
         descripcion = producto["descripcion"]
         cantidad = producto["cantidad"]
 
         resultadosPorProveedor = {}
-
-        # ==============================
-        # BUSCAR EN TODOS LOS MATCHERS
-        # ==============================
-
         for proveedor, dfMatcher in matchers.items():
+            resultados = buscarProductoMatcher(dfMatcher, codigo)
+            resultadosPorProveedor[proveedor] = resultados
 
-            resultados = buscarProductoMatcher(
-                dfMatcher,
-                codigo
-            )
-
-            resultadosPorProveedor[
-                proveedor
-            ] = resultados
-
-        # ==============================
-        # MEJOR PRECIO
-        # ==============================
-
-        mejorProveedor, mejorPrecio = (
-            obtenerMejorPrecio(
-                resultadosPorProveedor
-            )
-        )
-
-        # ==============================
-        # CALCULOS
-        # ==============================
+        mejorProveedor, mejorPrecio = obtenerMejorPrecio(resultadosPorProveedor)
 
         if mejorPrecio is None:
-
-            precio28 = None
-            precio36 = None
-            total28 = None
-            total36 = None
-
+            precio28 = precio36 = total28 = total36 = None
         else:
+            precio28 = round(mejorPrecio * (1 + MARGEN_1), 2)
+            precio36 = round(mejorPrecio * (1 + MARGEN_2), 2)
+            total28 = round(precio28 * cantidad, 2)
+            total36 = round(precio36 * cantidad, 2)
 
-            precio28 = round(
-                mejorPrecio * (1 + MARGEN_1),
-                2
-            )
+        # ==============================
+        # ARMAR FILA DE SALIDA
+        # ==============================
+        fila = {
+            "Descripcion pieza": descripcion,
+            "Cantidad": cantidad,
+        }
 
-            precio36 = round(
-                mejorPrecio * (1 + MARGEN_2),
-                2
-            )
+        # Insertar proveedores aquí
+        for proveedor, resultados in resultadosPorProveedor.items():
+            if resultados is None or resultados.empty:
+                fila[f"{proveedor} ($/unidad)"] = None
+            else:
+                fila[f"{proveedor} ($/unidad)"] = resultados.iloc[0]["precio_unitario"]
 
-            total28 = round(
-                precio28 * cantidad,
-                2
-            )
-
-            total36 = round(
-                precio36 * cantidad,
-                2
-            )
-
-        salida.append({
-
-            "Descripcion pieza":
-                descripcion,
-
-            "Cantidad":
-                cantidad,
-
-            "Proveedor sugerido":
-                mejorProveedor,
-
-            "Precio base":
-                mejorPrecio,
-
-            "Precio sugerido +28%":
-                precio28,
-
-            "Total +28%":
-                total28,
-
-            "Precio sugerido +36%":
-                precio36,
-
-            "Total +36%":
-                total36
+        # Luego las columnas de sugerido y cálculos
+        fila.update({
+            "Proveedor sugerido": mejorProveedor,
+            "Precio base": mejorPrecio,
+            "Precio sugerido +28%": precio28,
+            "Total +28%": total28,
+            "Precio sugerido +36%": precio36,
+            "Total +36%": total36
         })
 
+        salida.append(fila)
+
     return pd.DataFrame(salida)
+
 
 # ==========================================
 # MAIN

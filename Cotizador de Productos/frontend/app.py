@@ -7,7 +7,12 @@ from busquedaDeMejorPrecioProductos import (
     generarCotizacion
 )
 
-st.title("Cotizador de Productos")
+# Fila superior con logo + título
+col1, col2 = st.columns([1, 5])
+with col1:
+    st.image("logoCarel.png", width=100)   # Logo de la empresa
+with col2:
+    st.title("Cotizador de Productos")  # Título de la app
 
 dfMaster = cargarMasterCarel()
 matchers = cargarMatchers()
